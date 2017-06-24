@@ -9,6 +9,6 @@ Braxday --- we gotta make readme hype as shit and sound intricate as shit explai
 ### Frontend
 ### Backend
 * [Eve](http://python-eve.org/) for our Rest API
-* [MongoDB](https://www.mongodb.com/) for our Rest API
+* [MongoDB](https://www.mongodb.com/) for our Database
 
 ### Machine Learning
