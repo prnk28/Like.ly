@@ -1,8 +1,10 @@
-## Run.py
-## Pradyumn Nukala
-## June 23, 2017
-## Description: Main runner class to initialize eve instance onto server.
-##              This file is a copy of the file that exists on our linux vm.
+"""
+Run.py
+Pradyumn Nukala
+June 23, 2017
+Description: Main runner class to initialize eve instance onto server.
+              This file is a copy of the file that exists on our linux vm.
+"""
 
 from eve import Eve
 from eve.auth import BasicAuth
