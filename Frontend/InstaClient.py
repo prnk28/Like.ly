@@ -84,7 +84,7 @@ def on_recent():
             if(media.type == 'video'):
                 photos.append('<video controls width height="150"><source type="video/mp4" src="%s"/></video>' % (media.get_standard_resolution_url()))
             else:
-                photos.append('<img src="%s"/>' % (media.get_low_resolution_url()))
+                photos.append('<img src="%s"/>' % (media.get_standard_resolution_url()))
             photos.append("<br/> <a href='/media_like/%s'>Like</a>  <a href='/media_unlike/%s'>Un-Like</a>  LikesCount=%s</div>" % (media.id,media.id,media.like_count))
         content += ''.join(photos)
     except Exception as e:
