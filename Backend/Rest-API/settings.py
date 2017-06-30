@@ -10,8 +10,6 @@ from cerberus import Validator
 MONGO_HOST = '35.185.100.103'
 MONGO_PORT = 27017
 PAGINATION_DEFAULT = 1000
-MONGO_USERNAME = 'admin'
-MONGO_PASSWORD = 'braxday123'
 MONGO_DBNAME = 'admin'
 RESOURCE_METHODS = ['GET', 'POST', 'DELETE']
 ITEM_METHODS = ['GET', 'PATCH', 'PUT', 'DELETE']
@@ -24,8 +22,8 @@ previousPostSchema = {
         'required': True,
         'unique': False,
     },
-    'Links': {
-        'type': 'list',
+    'Link': {
+        'type': 'string',
         'minlength': 1,
         'maxlength': 40,
         'required': True,
@@ -67,7 +65,7 @@ newPostSchema = {
         'unique': False,
     },
     'Image': {
-        'type': '',
+        'type': 'string',
         'minlength': 1,
         'maxlength': 40,
         'required': True,
@@ -94,12 +92,6 @@ newPostSchema = {
     },
     'EstimatedTime': {
         'type': 'integer',
-        'maxlength': 45,
-        'required': True,
-        'unique': False,
-    },
-    'BestPicture': {
-        'type': 'string',
         'maxlength': 45,
         'required': True,
         'unique': False,

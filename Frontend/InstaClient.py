@@ -46,7 +46,6 @@ def get_nav():
                     "<li><a href='/user_media_feed'>User Media Feed</a> Calls user_media_feed - Get the currently authenticated user's media feed uses pagination</li>"
                     "<li><a href='/location_recent_media'>Location Recent Media</a> Calls location_recent_media - Get a list of recent media at a given location, in this case, the Instagram office</li>"
                     "<li><a href='/media_search'>Media Search</a> Calls media_search - Get a list of media close to a given latitude and longitude</li>"
-                    "<li><a href='/media_popular'>Popular Media</a> Calls media_popular - Get a list of the overall most popular media items</li>"
                     "<li><a href='/user_search'>User Search</a> Calls user_search - Search for users on instagram, by name or username</li>"
                     "<li><a href='/user_follows'>User Follows</a> Get the followers of @instagram uses pagination</li>"
                     "<li><a href='/location_search'>Location Search</a> Calls location_search - Search for a location by lat/lng</li>"
@@ -69,6 +68,7 @@ def on_callback():
         print(e)
     return get_nav()
 
+"""
 @route('/recent')
 def on_recent():
     content = "<h2>User Recent Media</h2>"
@@ -90,20 +90,7 @@ def on_recent():
     except Exception as e:
         print(e)
     return "%s %s <br/>Remaining API Calls = %s/%s" % (get_nav(),content,api.x_ratelimit_remaining,api.x_ratelimit)
-
-@route('/media_like/<id>')
-def media_like(id):
-    access_token = request.session['access_token']
-    api = client.InstagramAPI(access_token=access_token, client_secret=CONFIG['client_secret'])
-    api.like_media(media_id=id)
-    redirect("/recent")
-
-@route('/media_unlike/<id>')
-def media_unlike(id):
-    access_token = request.session['access_token']
-    api = client.InstagramAPI(access_token=access_token, client_secret=CONFIG['client_secret'])
-    api.unlike_media(media_id=id)
-    redirect("/recent")
+"""
 
 @route('/user_media_feed')
 def on_user_media_feed():
@@ -117,11 +104,13 @@ def on_user_media_feed():
         photos = []
         for media in media_feed:
             photos.append('<img src="%s"/>' % media.get_standard_resolution_url())
+            print (media.get_standard_resolution_url())
         counter = 1
         while next and counter < 3:
             media_feed, next = api.user_media_feed(with_next_url=next)
             for media in media_feed:
                 photos.append('<img src="%s"/>' % media.get_standard_resolution_url())
+                print (media.get_standard_resolution_url())
             counter += 1
         content += ''.join(photos)
     except Exception as e:
@@ -144,7 +133,7 @@ def location_recent_media():
     except Exception as e:
         print(e)
     return "%s %s <br/>Remaining API Calls = %s/%s" % (get_nav(),content,api.x_ratelimit_remaining,api.x_ratelimit)
-
+"""
 @route('/media_search')
 def media_search():
     access_token = request.session['access_token']
@@ -178,7 +167,7 @@ def media_popular():
     except Exception as e:
         print(e)
     return "%s %s <br/>Remaining API Calls = %s/%s" % (get_nav(),content,api.x_ratelimit_remaining,api.x_ratelimit)
-
+"""
 @route('/user_search')
 def user_search():
     access_token = request.session['access_token']
