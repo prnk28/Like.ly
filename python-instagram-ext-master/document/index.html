@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+
+        <title>python-instagram-ext</title>
+
+        <!--{* CSS *}-->
+        <!--{* Bootstrap *}-->
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.css"/>
+    </head>
+
+    <body>
+        <div id="wrapper" class="container">
+            <div id="header">
+            </div>
+
+            <div id="container">
+                <div id="content">
+                    <article class="markdown-body entry-content" itemprop="text"><hr>
+
+                        <p><strong><em>This project is personally forked and temporarily patched version of <a href="https://github.com/facebookarchive/python-instagram">python-instagram</a>. Proceed at your own risk!</em></strong></p>
+
+                        <hr>
+
+                        <p><a href="https://travis-ci.org/Instagram/python-instagram"><img src="https://camo.githubusercontent.com/c32f38ff68b980b6e5eca4103304184ed7d14994/68747470733a2f2f6170692e7472617669732d63692e6f72672f496e7374616772616d2f707974686f6e2d696e7374616772616d2e737667" alt="Build Status" data-canonical-src="https://api.travis-ci.org/Instagram/python-instagram.svg" style="max-width:100%;"></a></p>
+
+                        <h1><a id="user-content-python-instagram" class="anchor" href="#python-instagram" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1h-1c-1.5 0-3-1.69-3-3.5s1.55-3.5 3-3.5h4c1.45 0 3 1.69 3 3.5 0 1.41-0.91 2.72-2 3.25v-1.16c0.58-0.45 1-1.27 1-2.09 0-1.28-1.02-2.5-2-2.5H4c-0.98 0-2 1.22-2 2.5s1 2.5 2 2.5z m9-3h-1v1h1c1 0 2 1.22 2 2.5s-1.02 2.5-2 2.5H9c-0.98 0-2-1.22-2-2.5 0-0.83 0.42-1.64 1-2.09v-1.16c-1.09 0.53-2 1.84-2 3.25 0 1.81 1.55 3.5 3 3.5h4c1.45 0 3-1.69 3-3.5s-1.5-3.5-3-3.5z"></path></svg></a>python-instagram</h1>
+
+                        <p>A Python 2/3 client for the Instagram REST and Search APIs</p>
+
+                        <h2><a id="user-content-installation" class="anchor" href="#installation" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1h-1c-1.5 0-3-1.69-3-3.5s1.55-3.5 3-3.5h4c1.45 0 3 1.69 3 3.5 0 1.41-0.91 2.72-2 3.25v-1.16c0.58-0.45 1-1.27 1-2.09 0-1.28-1.02-2.5-2-2.5H4c-0.98 0-2 1.22-2 2.5s1 2.5 2 2.5z m9-3h-1v1h1c1 0 2 1.22 2 2.5s-1.02 2.5-2 2.5H9c-0.98 0-2-1.22-2-2.5 0-0.83 0.42-1.64 1-2.09v-1.16c-1.09 0.53-2 1.84-2 3.25 0 1.81 1.55 3.5 3 3.5h4c1.45 0 3-1.69 3-3.5s-1.5-3.5-3-3.5z"></path></svg></a>Installation</h2>
+
+                        <pre><code>pip install python-instagram
+                        </code></pre>
+
+                        <h2><a id="user-content-requires" class="anchor" href="#requires" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1h-1c-1.5 0-3-1.69-3-3.5s1.55-3.5 3-3.5h4c1.45 0 3 1.69 3 3.5 0 1.41-0.91 2.72-2 3.25v-1.16c0.58-0.45 1-1.27 1-2.09 0-1.28-1.02-2.5-2-2.5H4c-0.98 0-2 1.22-2 2.5s1 2.5 2 2.5z m9-3h-1v1h1c1 0 2 1.22 2 2.5s-1.02 2.5-2 2.5H9c-0.98 0-2-1.22-2-2.5 0-0.83 0.42-1.64 1-2.09v-1.16c-1.09 0.53-2 1.84-2 3.25 0 1.81 1.55 3.5 3 3.5h4c1.45 0 3-1.69 3-3.5s-1.5-3.5-3-3.5z"></path></svg></a>Requires</h2>
+
+                        <ul>
+                            <li>httplib2</li>
+                            <li>simplejson</li>
+                            <li>six</li>
+                        </ul>
+
+                        <h2><a id="user-content-instagram-rest-and-search-apis" class="anchor" href="#instagram-rest-and-search-apis" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1h-1c-1.5 0-3-1.69-3-3.5s1.55-3.5 3-3.5h4c1.45 0 3 1.69 3 3.5 0 1.41-0.91 2.72-2 3.25v-1.16c0.58-0.45 1-1.27 1-2.09 0-1.28-1.02-2.5-2-2.5H4c-0.98 0-2 1.22-2 2.5s1 2.5 2 2.5z m9-3h-1v1h1c1 0 2 1.22 2 2.5s-1.02 2.5-2 2.5H9c-0.98 0-2-1.22-2-2.5 0-0.83 0.42-1.64 1-2.09v-1.16c-1.09 0.53-2 1.84-2 3.25 0 1.81 1.55 3.5 3 3.5h4c1.45 0 3-1.69 3-3.5s-1.5-3.5-3-3.5z"></path></svg></a>Instagram REST and Search APIs</h2>
+
+                        <p>Our <a href="http://instagram.com/developer">developer site</a> documents all the Instagram REST and Search APIs.</p>
+
+                        <h2><a id="user-content-blog" class="anchor" href="#blog" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1h-1c-1.5 0-3-1.69-3-3.5s1.55-3.5 3-3.5h4c1.45 0 3 1.69 3 3.5 0 1.41-0.91 2.72-2 3.25v-1.16c0.58-0.45 1-1.27 1-2.09 0-1.28-1.02-2.5-2-2.5H4c-0.98 0-2 1.22-2 2.5s1 2.5 2 2.5z m9-3h-1v1h1c1 0 2 1.22 2 2.5s-1.02 2.5-2 2.5H9c-0.98 0-2-1.22-2-2.5 0-0.83 0.42-1.64 1-2.09v-1.16c-1.09 0.53-2 1.84-2 3.25 0 1.81 1.55 3.5 3 3.5h4c1.45 0 3-1.69 3-3.5s-1.5-3.5-3-3.5z"></path></svg></a>Blog</h2>
+
+                        <p>The [Developer Blog] features news and important announcements about the Instagram Platform. You will also find tutorials and best practices to help you build great platform integrations. Make sure to subscribe to the RSS feed not to miss out on new posts: <a href="http://developers.instagram.com">http://developers.instagram.com</a>.</p>
+
+                        <h2><a id="user-content-community" class="anchor" href="#community" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1h-1c-1.5 0-3-1.69-3-3.5s1.55-3.5 3-3.5h4c1.45 0 3 1.69 3 3.5 0 1.41-0.91 2.72-2 3.25v-1.16c0.58-0.45 1-1.27 1-2.09 0-1.28-1.02-2.5-2-2.5H4c-0.98 0-2 1.22-2 2.5s1 2.5 2 2.5z m9-3h-1v1h1c1 0 2 1.22 2 2.5s-1.02 2.5-2 2.5H9c-0.98 0-2-1.22-2-2.5 0-0.83 0.42-1.64 1-2.09v-1.16c-1.09 0.53-2 1.84-2 3.25 0 1.81 1.55 3.5 3 3.5h4c1.45 0 3-1.69 3-3.5s-1.5-3.5-3-3.5z"></path></svg></a>Community</h2>
+
+                        <p>The <a href="http://stackoverflow.com/questions/tagged/instagram/">Stack Overflow community</a> is a great place to ask API related questions or if you need help with your code. Make sure to tag your questions with the Instagram tag to get fast answers from other fellow developers and members of the Instagram team.</p>
+
+                        <h2><a id="user-content-authentication" class="anchor" href="#authentication" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1h-1c-1.5 0-3-1.69-3-3.5s1.55-3.5 3-3.5h4c1.45 0 3 1.69 3 3.5 0 1.41-0.91 2.72-2 3.25v-1.16c0.58-0.45 1-1.27 1-2.09 0-1.28-1.02-2.5-2-2.5H4c-0.98 0-2 1.22-2 2.5s1 2.5 2 2.5z m9-3h-1v1h1c1 0 2 1.22 2 2.5s-1.02 2.5-2 2.5H9c-0.98 0-2-1.22-2-2.5 0-0.83 0.42-1.64 1-2.09v-1.16c-1.09 0.53-2 1.84-2 3.25 0 1.81 1.55 3.5 3 3.5h4c1.45 0 3-1.69 3-3.5s-1.5-3.5-3-3.5z"></path></svg></a>Authentication</h2>
+
+                        <p>Instagram API uses the OAuth2 protocol for authentication, but not all functionality requires authentication.
+See the docs for more information: <a href="http://instagram.com/developer/authentication/">http://instagram.com/developer/authentication/</a></p>
+
+                        <h3><a id="user-content-obtaining-an-access-token" class="anchor" href="#obtaining-an-access-token" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1h-1c-1.5 0-3-1.69-3-3.5s1.55-3.5 3-3.5h4c1.45 0 3 1.69 3 3.5 0 1.41-0.91 2.72-2 3.25v-1.16c0.58-0.45 1-1.27 1-2.09 0-1.28-1.02-2.5-2-2.5H4c-0.98 0-2 1.22-2 2.5s1 2.5 2 2.5z m9-3h-1v1h1c1 0 2 1.22 2 2.5s-1.02 2.5-2 2.5H9c-0.98 0-2-1.22-2-2.5 0-0.83 0.42-1.64 1-2.09v-1.16c-1.09 0.53-2 1.84-2 3.25 0 1.81 1.55 3.5 3 3.5h4c1.45 0 3-1.69 3-3.5s-1.5-3.5-3-3.5z"></path></svg></a>Obtaining an access token</h3>
+
+                        <p>If you're using a method that requires authentication and need an access token, you can use the provided get_access_token.py script to obtain an access token for yourself.
+It will prompt you for your app's Client ID, Client Secret, and Redirect URI, and walk you through instructions for getting your own access token for your app.</p>
+
+                        <h3><a id="user-content-authenticating-a-user" class="anchor" href="#authenticating-a-user" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1h-1c-1.5 0-3-1.69-3-3.5s1.55-3.5 3-3.5h4c1.45 0 3 1.69 3 3.5 0 1.41-0.91 2.72-2 3.25v-1.16c0.58-0.45 1-1.27 1-2.09 0-1.28-1.02-2.5-2-2.5H4c-0.98 0-2 1.22-2 2.5s1 2.5 2 2.5z m9-3h-1v1h1c1 0 2 1.22 2 2.5s-1.02 2.5-2 2.5H9c-0.98 0-2-1.22-2-2.5 0-0.83 0.42-1.64 1-2.09v-1.16c-1.09 0.53-2 1.84-2 3.25 0 1.81 1.55 3.5 3 3.5h4c1.45 0 3-1.69 3-3.5s-1.5-3.5-3-3.5z"></path></svg></a>Authenticating a user</h3>
+
+                        <p>The provided sample app shows a simple OAuth flow for authenticating a user and getting an access token for them.</p>
+
+                        <h3><a id="user-content-using-an-access-token" class="anchor" href="#using-an-access-token" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1h-1c-1.5 0-3-1.69-3-3.5s1.55-3.5 3-3.5h4c1.45 0 3 1.69 3 3.5 0 1.41-0.91 2.72-2 3.25v-1.16c0.58-0.45 1-1.27 1-2.09 0-1.28-1.02-2.5-2-2.5H4c-0.98 0-2 1.22-2 2.5s1 2.5 2 2.5z m9-3h-1v1h1c1 0 2 1.22 2 2.5s-1.02 2.5-2 2.5H9c-0.98 0-2-1.22-2-2.5 0-0.83 0.42-1.64 1-2.09v-1.16c-1.09 0.53-2 1.84-2 3.25 0 1.81 1.55 3.5 3 3.5h4c1.45 0 3-1.69 3-3.5s-1.5-3.5-3-3.5z"></path></svg></a>Using an access token</h3>
+
+                        <p>Once you have an access token (whether via the script or from the user flow), you can  pass that token into the InstagramAPI constructor:</p>
+
+                        <div class="highlight highlight-source-python"><pre><span class="pl-k">from</span> instagram.client <span class="pl-k">import</span> InstagramAPI
+
+access_token <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>YOUR_ACCESS_TOKEN<span class="pl-pds">"</span></span>
+client_secret <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>YOUR_CLIENT_SECRET<span class="pl-pds">"</span></span>
+api <span class="pl-k">=</span> InstagramAPI(<span class="pl-v">access_token</span><span class="pl-k">=</span>access_token, <span class="pl-v">client_secret</span><span class="pl-k">=</span>client_secret)
+recent_media, next_ <span class="pl-k">=</span> api.user_recent_media(<span class="pl-v">user_id</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">"</span>userid<span class="pl-pds">"</span></span>, <span class="pl-v">count</span><span class="pl-k">=</span><span class="pl-c1">10</span>)
+                            <span class="pl-k">for</span> media <span class="pl-k">in</span> recent_media:
+                            <span class="pl-c1">print</span> media.caption.text</pre></div>
+
+                        <h3><a id="user-content-making-unauthenticated-requests" class="anchor" href="#making-unauthenticated-requests" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1h-1c-1.5 0-3-1.69-3-3.5s1.55-3.5 3-3.5h4c1.45 0 3 1.69 3 3.5 0 1.41-0.91 2.72-2 3.25v-1.16c0.58-0.45 1-1.27 1-2.09 0-1.28-1.02-2.5-2-2.5H4c-0.98 0-2 1.22-2 2.5s1 2.5 2 2.5z m9-3h-1v1h1c1 0 2 1.22 2 2.5s-1.02 2.5-2 2.5H9c-0.98 0-2-1.22-2-2.5 0-0.83 0.42-1.64 1-2.09v-1.16c-1.09 0.53-2 1.84-2 3.25 0 1.81 1.55 3.5 3 3.5h4c1.45 0 3-1.69 3-3.5s-1.5-3.5-3-3.5z"></path></svg></a>Making unauthenticated requests</h3>
+
+                        <p>For methods that don't require authentication, you can just pass your client ID and optionally client secret into the InstagramAPI 
+constructor:</p>
+
+                        <div class="highlight highlight-source-python"><pre>api <span class="pl-k">=</span> InstagramAPI(<span class="pl-v">client_id</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">'</span>YOUR_CLIENT_ID<span class="pl-pds">'</span></span>, <span class="pl-v">client_secret</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">'</span>YOUR_CLIENT_SECRET<span class="pl-pds">'</span></span>)
+popular_media <span class="pl-k">=</span> api.media_popular(<span class="pl-v">count</span><span class="pl-k">=</span><span class="pl-c1">20</span>)
+                            <span class="pl-k">for</span> media <span class="pl-k">in</span> popular_media:
+                            <span class="pl-c1">print</span> media.images[<span class="pl-s"><span class="pl-pds">'</span>standard_resolution<span class="pl-pds">'</span></span>].url</pre></div>
+
+                        <h2><a id="user-content-real-time-subscriptions" class="anchor" href="#real-time-subscriptions" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1h-1c-1.5 0-3-1.69-3-3.5s1.55-3.5 3-3.5h4c1.45 0 3 1.69 3 3.5 0 1.41-0.91 2.72-2 3.25v-1.16c0.58-0.45 1-1.27 1-2.09 0-1.28-1.02-2.5-2-2.5H4c-0.98 0-2 1.22-2 2.5s1 2.5 2 2.5z m9-3h-1v1h1c1 0 2 1.22 2 2.5s-1.02 2.5-2 2.5H9c-0.98 0-2-1.22-2-2.5 0-0.83 0.42-1.64 1-2.09v-1.16c-1.09 0.53-2 1.84-2 3.25 0 1.81 1.55 3.5 3 3.5h4c1.45 0 3-1.69 3-3.5s-1.5-3.5-3-3.5z"></path></svg></a>Real-time Subscriptions:</h2>
+
+                        <p>See the docs for more on real-time subscriptions: <a href="http://instagr.am/developer/realtime/">http://instagr.am/developer/realtime/</a></p>
+
+                        <p>You can use the API to subscribe to users, tags, locations, or geographies:</p>
+
+                        <div class="highlight highlight-source-python"><pre><span class="pl-c"># Subscribe to updates for all users authenticated to your app</span>
+api.create_subscription(<span class="pl-v">object</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">'</span>user<span class="pl-pds">'</span></span>, <span class="pl-v">aspect</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">'</span>media<span class="pl-pds">'</span></span>, <span class="pl-v">callback_url</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">'</span>http://mydomain.com/hook/instagram<span class="pl-pds">'</span></span>)
+
+                            <span class="pl-c"># Subscribe to all media tagged with 'fox'</span>
+api.create_subscription(<span class="pl-v">object</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">'</span>tag<span class="pl-pds">'</span></span>, <span class="pl-v">object_id</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">'</span>fox<span class="pl-pds">'</span></span>, <span class="pl-v">aspect</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">'</span>media<span class="pl-pds">'</span></span>, <span class="pl-v">callback_url</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">'</span>http://mydomain.com/hook/instagram<span class="pl-pds">'</span></span>)
+
+                            <span class="pl-c"># Subscribe to all media in a given location</span>
+api.create_subscription(<span class="pl-v">object</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">'</span>location<span class="pl-pds">'</span></span>, <span class="pl-v">object_id</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">'</span>1257285<span class="pl-pds">'</span></span>, <span class="pl-v">aspect</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">'</span>media<span class="pl-pds">'</span></span>, <span class="pl-v">callback_url</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">'</span>http://mydomain.com/hook/instagram<span class="pl-pds">'</span></span>)
+
+                            <span class="pl-c"># Subscribe to all media in a geographic area</span>
+api.create_subscription(<span class="pl-v">object</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">'</span>geography<span class="pl-pds">'</span></span>, <span class="pl-v">lat</span><span class="pl-k">=</span><span class="pl-c1">35.657872</span>, <span class="pl-v">lng</span><span class="pl-k">=</span><span class="pl-c1">139.70232</span>, <span class="pl-v">radius</span><span class="pl-k">=</span><span class="pl-c1">1000</span>, <span class="pl-v">aspect</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">'</span>media<span class="pl-pds">'</span></span>, <span class="pl-v">callback_url</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">'</span>http://mydomain.com/hook/instagram<span class="pl-pds">'</span></span>)</pre></div>
+
+                        <p>Along with that, you would typically register subscription "reactors" for processing the different subscription types:</p>
+
+                        <div class="highlight highlight-source-python"><pre><span class="pl-c"># React to user type updates</span>
+reactor <span class="pl-k">=</span> subscriptions.SubscriptionsReactor()
+reactor.register_callback(subscriptions.SubscriptionType.<span class="pl-c1">USER</span>, process_user_update)</pre></div>
+
+                        <p>See the provided sample app for an example of making a subscription, reacting to it, an processing the updates.</p>
+
+                        <p>You can also use the API to list and delete subscriptions:</p>
+
+                        <div class="highlight highlight-source-python"><pre>api.list_subscriptions()
+api.delete_subscriptions(<span class="pl-v">id</span><span class="pl-k">=</span><span class="pl-c1">342342</span>)</pre></div>
+
+                        <h2><a id="user-content-data-retrieval" class="anchor" href="#data-retrieval" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1h-1c-1.5 0-3-1.69-3-3.5s1.55-3.5 3-3.5h4c1.45 0 3 1.69 3 3.5 0 1.41-0.91 2.72-2 3.25v-1.16c0.58-0.45 1-1.27 1-2.09 0-1.28-1.02-2.5-2-2.5H4c-0.98 0-2 1.22-2 2.5s1 2.5 2 2.5z m9-3h-1v1h1c1 0 2 1.22 2 2.5s-1.02 2.5-2 2.5H9c-0.98 0-2-1.22-2-2.5 0-0.83 0.42-1.64 1-2.09v-1.16c-1.09 0.53-2 1.84-2 3.25 0 1.81 1.55 3.5 3 3.5h4c1.45 0 3-1.69 3-3.5s-1.5-3.5-3-3.5z"></path></svg></a>Data Retrieval:</h2>
+
+                        <p>See the endpoints docs for more on these methods: <a href="http://instagr.am/developer/endpoints/">http://instagr.am/developer/endpoints/</a></p>
+
+                        <p>The methods with a * return two values, where the second is a pagination parameter. Here's an example of retrieving recent media:</p>
+
+                        <div class="highlight highlight-source-python"><pre>recent_media, next_ <span class="pl-k">=</span> api.user_recent_media()
+photos <span class="pl-k">=</span> []
+                            <span class="pl-k">for</span> media <span class="pl-k">in</span> recent_media:
+    photos.append(<span class="pl-s"><span class="pl-pds">'</span>&lt;img src="<span class="pl-c1">%s</span>"/&gt;<span class="pl-pds">'</span></span> <span class="pl-k">%</span> media.images[<span class="pl-s"><span class="pl-pds">'</span>thumbnail<span class="pl-pds">'</span></span>].url)</pre></div>
+
+                        <p>And an example of exhaustively pursuing a paginated endpoint:</p>
+
+                        <div class="highlight highlight-source-python"><pre>follows, next_ <span class="pl-k">=</span> api.user_follows()
+                            <span class="pl-k">while</span> next_:
+    more_follows, next_ <span class="pl-k">=</span> api.user_follows(<span class="pl-v">with_next_url</span><span class="pl-k">=</span>next_)
+    follows.extend(more_follows)</pre></div>
+
+                        <p>Users: <a href="http://instagr.am/developer/endpoints/users/">http://instagr.am/developer/endpoints/users/</a></p>
+
+                        <div class="highlight highlight-source-python"><pre>api.user(user_id)
+api.user_media_feed()<span class="pl-k">*</span>
+api.user_liked_media()<span class="pl-k">*</span>
+api.user_recent_media(user_id, count, max_id)<span class="pl-k">*</span>
+api.user_search(q, count, lat, lng, min_timestamp, max_timestamp)</pre></div>
+
+                        <p>Relationships: <a href="http://instagr.am/developer/endpoints/relationships/">http://instagr.am/developer/endpoints/relationships/</a></p>
+
+                        <div class="highlight highlight-source-python"><pre>api.user_incoming_requests()
+api.user_follows(user_id)<span class="pl-k">*</span>
+api.user_followed_by(user_id)<span class="pl-k">*</span>
+api.follow_user(user_id)
+api.unfollow_user(user_id)
+api.block_user(user_id)
+api.unblock_user(user_id)
+api.approve_user_request(user_id)
+api.ignore_user_request(user_id)
+api.user_relationship(user_id)</pre></div>
+
+                        <p>Media: <a href="http://instagr.am/developer/endpoints/media/">http://instagr.am/developer/endpoints/media/</a></p>
+
+                        <div class="highlight highlight-source-python"><pre>api.media(media_id)
+api.media_popular(count, max_id)
+api.media_search(q, count, lat, lng, min_timestamp, max_timestamp)</pre></div>
+
+                        <p>Comments: <a href="http://instagr.am/developer/endpoints/comments/">http://instagr.am/developer/endpoints/comments/</a></p>
+
+                        <div class="highlight highlight-source-python"><pre>api.media_comments(media_id)
+api.create_media_comment(media_id, text)
+api.delete_comment(media_id, comment_id)</pre></div>
+
+                        <p>Likes: <a href="http://instagr.am/developer/endpoints/likes/">http://instagr.am/developer/endpoints/likes/</a></p>
+
+                        <div class="highlight highlight-source-python"><pre>api.media_likes(media_id)
+api.like_media(media_id)
+api.unlike_media(media_id)</pre></div>
+
+                        <p>Tags: <a href="http://instagr.am/developer/endpoints/tags/">http://instagr.am/developer/endpoints/tags/</a></p>
+
+                        <div class="highlight highlight-source-python"><pre>api.tag(tag_name) 
+api.tag_recent_media(count, max_tag_id, tag_name)<span class="pl-k">*</span>
+api.tag_search(q, count)<span class="pl-k">*</span></pre></div>
+
+                        <p>Locations: <a href="http://instagr.am/developer/endpoints/locations/">http://instagr.am/developer/endpoints/locations/</a></p>
+
+                        <div class="highlight highlight-source-python"><pre>api.location(location_id)
+api.location_recent_media(count, max_id, location_id)<span class="pl-k">*</span>
+api.location_search(q, count, lat, lng, foursquare_id, foursquare_v2_id)</pre></div>
+
+                        <p>Geographies: <a href="http://instagr.am/developer/endpoints/geographies/">http://instagr.am/developer/endpoints/geographies/</a></p>
+
+                        <div class="highlight highlight-source-python"><pre>api.geography_recent_media(count, max_id, geography_id)<span class="pl-k">*</span></pre></div>
+
+                        <h2><a id="user-content-error-handling" class="anchor" href="#error-handling" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1h-1c-1.5 0-3-1.69-3-3.5s1.55-3.5 3-3.5h4c1.45 0 3 1.69 3 3.5 0 1.41-0.91 2.72-2 3.25v-1.16c0.58-0.45 1-1.27 1-2.09 0-1.28-1.02-2.5-2-2.5H4c-0.98 0-2 1.22-2 2.5s1 2.5 2 2.5z m9-3h-1v1h1c1 0 2 1.22 2 2.5s-1.02 2.5-2 2.5H9c-0.98 0-2-1.22-2-2.5 0-0.83 0.42-1.64 1-2.09v-1.16c-1.09 0.53-2 1.84-2 3.25 0 1.81 1.55 3.5 3 3.5h4c1.45 0 3-1.69 3-3.5s-1.5-3.5-3-3.5z"></path></svg></a>Error handling</h2>
+
+                        <p>Importing the bind module allows handling of specific error status codes. An example is provided below:</p>
+
+                        <div class="highlight highlight-source-python"><pre><span class="pl-k">from</span> instagram.bind <span class="pl-k">import</span> InstagramAPIError
+
+                            <span class="pl-k">try</span>:
+                            <span class="pl-c"># your code goes here</span>
+                            <span class="pl-k">except</span> InstagramAPIError <span class="pl-k">as</span> e:
+                            <span class="pl-k">if</span> (e.status_code <span class="pl-k">==</span> <span class="pl-c1">400</span>):
+                            <span class="pl-c1">print</span> <span class="pl-s"><span class="pl-pds">"</span><span class="pl-cce">\n</span>User is set to private.<span class="pl-pds">"</span></span></pre></div>
+
+                        <h2><a id="user-content-trouble-shooting" class="anchor" href="#trouble-shooting" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1h-1c-1.5 0-3-1.69-3-3.5s1.55-3.5 3-3.5h4c1.45 0 3 1.69 3 3.5 0 1.41-0.91 2.72-2 3.25v-1.16c0.58-0.45 1-1.27 1-2.09 0-1.28-1.02-2.5-2-2.5H4c-0.98 0-2 1.22-2 2.5s1 2.5 2 2.5z m9-3h-1v1h1c1 0 2 1.22 2 2.5s-1.02 2.5-2 2.5H9c-0.98 0-2-1.22-2-2.5 0-0.83 0.42-1.64 1-2.09v-1.16c-1.09 0.53-2 1.84-2 3.25 0 1.81 1.55 3.5 3 3.5h4c1.45 0 3-1.69 3-3.5s-1.5-3.5-3-3.5z"></path></svg></a>Trouble Shooting</h2>
+
+                        <p>If you get an error of a module not being defined during the Instagram import call, this might update a necessary package.</p>
+
+                        <pre><code>sudo pip install --upgrade six
+                        </code></pre>
+
+                        <h2><a id="user-content-sample-app" class="anchor" href="#sample-app" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1h-1c-1.5 0-3-1.69-3-3.5s1.55-3.5 3-3.5h4c1.45 0 3 1.69 3 3.5 0 1.41-0.91 2.72-2 3.25v-1.16c0.58-0.45 1-1.27 1-2.09 0-1.28-1.02-2.5-2-2.5H4c-0.98 0-2 1.22-2 2.5s1 2.5 2 2.5z m9-3h-1v1h1c1 0 2 1.22 2 2.5s-1.02 2.5-2 2.5H9c-0.98 0-2-1.22-2-2.5 0-0.83 0.42-1.64 1-2.09v-1.16c-1.09 0.53-2 1.84-2 3.25 0 1.81 1.55 3.5 3 3.5h4c1.45 0 3-1.69 3-3.5s-1.5-3.5-3-3.5z"></path></svg></a>Sample app</h2>
+
+                        <p>This repository includes a one-file sample app that uses the bottle framework and demonstrates
+authentication, subscriptions, and update processing. To try it out:</p>
+
+                        <ul>
+                            <li>Download bottle if you don't already have it: pip install bottle</li>
+                            <li>Download bottle-session if you don't already have it: pip install bottle-session</li>
+                            <li>Download and run a redis instance on port 6379 if you don't already have it. Check <a href="http://redis.io">http://redis.io</a> for instructions.</li>
+                            <li>Set your redirect URI to 'http://localhost:8515/oauth_callback' in your dev profile</li>
+                            <li>Open up sample_app.py, update it with your client_id and secret, and set redirect URI to 'http://localhost:8515/oauth_callback'</li>
+                            <li>Run the file; it will host a local server on port 8515.</li>
+                            <li>Try visiting http://localhost:8515 in your browser</li>
+                        </ul>
+
+                        <h2><a id="user-content-contributing" class="anchor" href="#contributing" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1h-1c-1.5 0-3-1.69-3-3.5s1.55-3.5 3-3.5h4c1.45 0 3 1.69 3 3.5 0 1.41-0.91 2.72-2 3.25v-1.16c0.58-0.45 1-1.27 1-2.09 0-1.28-1.02-2.5-2-2.5H4c-0.98 0-2 1.22-2 2.5s1 2.5 2 2.5z m9-3h-1v1h1c1 0 2 1.22 2 2.5s-1.02 2.5-2 2.5H9c-0.98 0-2-1.22-2-2.5 0-0.83 0.42-1.64 1-2.09v-1.16c-1.09 0.53-2 1.84-2 3.25 0 1.81 1.55 3.5 3 3.5h4c1.45 0 3-1.69 3-3.5s-1.5-3.5-3-3.5z"></path></svg></a>Contributing</h2>
+
+                        <p>In the spirit of <a href="http://www.fsf.org/licensing/essays/free-sw.html">free software</a>, <strong>everyone</strong> is encouraged to help improve this project.</p>
+
+                        <p>Here are some ways <em>you</em> can contribute:</p>
+
+                        <ul>
+                            <li>by using alpha, beta, and prerelease versions</li>
+                            <li>by reporting bugs</li>
+                            <li>by suggesting new features</li>
+                            <li>by writing or editing documentation</li>
+                            <li>by writing specifications</li>
+                            <li>by writing code (<strong>no patch is too small</strong>: fix typos, add comments, clean up inconsistent whitespace)</li>
+                            <li>by refactoring code</li>
+                            <li>by closing <a href="http://github.com/Instagram/python-instagram/issues">issues</a></li>
+                            <li>by reviewing patches</li>
+                        </ul>
+
+                        <h2><a id="user-content-submitting-an-issue" class="anchor" href="#submitting-an-issue" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1h-1c-1.5 0-3-1.69-3-3.5s1.55-3.5 3-3.5h4c1.45 0 3 1.69 3 3.5 0 1.41-0.91 2.72-2 3.25v-1.16c0.58-0.45 1-1.27 1-2.09 0-1.28-1.02-2.5-2-2.5H4c-0.98 0-2 1.22-2 2.5s1 2.5 2 2.5z m9-3h-1v1h1c1 0 2 1.22 2 2.5s-1.02 2.5-2 2.5H9c-0.98 0-2-1.22-2-2.5 0-0.83 0.42-1.64 1-2.09v-1.16c-1.09 0.53-2 1.84-2 3.25 0 1.81 1.55 3.5 3 3.5h4c1.45 0 3-1.69 3-3.5s-1.5-3.5-3-3.5z"></path></svg></a>Submitting an Issue</h2>
+
+                        <p>We use the <a href="https://github.com/Instagram/python-instagram/issues">GitHub issue tracker</a> to track bugs and
+features. Before submitting a bug report or feature request, check to make sure it hasn't already
+been submitted. You can indicate support for an existing issue by voting it up. When submitting a
+bug report, please include a <a href="http://gist.github.com/">Gist</a> that includes a stack trace and any
+details that may be necessary to reproduce the bug, including your version number, and
+operating system. Ideally, a bug report should include a pull request with failing specs.</p>
+
+                        <p>Instagram has a <a href="https://www.facebook.com/whitehat/">bounty program</a> for the safe
+disclosure of security bugs. In those cases, please go through the process
+outlined on that page and do not file a public issue.</p>
+
+                        <h2><a id="user-content-submitting-a-pull-request" class="anchor" href="#submitting-a-pull-request" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1h-1c-1.5 0-3-1.69-3-3.5s1.55-3.5 3-3.5h4c1.45 0 3 1.69 3 3.5 0 1.41-0.91 2.72-2 3.25v-1.16c0.58-0.45 1-1.27 1-2.09 0-1.28-1.02-2.5-2-2.5H4c-0.98 0-2 1.22-2 2.5s1 2.5 2 2.5z m9-3h-1v1h1c1 0 2 1.22 2 2.5s-1.02 2.5-2 2.5H9c-0.98 0-2-1.22-2-2.5 0-0.83 0.42-1.64 1-2.09v-1.16c-1.09 0.53-2 1.84-2 3.25 0 1.81 1.55 3.5 3 3.5h4c1.45 0 3-1.69 3-3.5s-1.5-3.5-3-3.5z"></path></svg></a>Submitting a Pull Request</h2>
+
+                        <ol>
+                            <li>Fork the project.</li>
+                            <li>Create a topic branch.</li>
+                            <li>Implement your feature or bug fix.</li>
+                            <li>Run <tt>python tests.py </tt>.</li>
+                            <li>Add a test for your feature or bug fix.</li>
+                            <li>Run <tt>python tests.py </tt>. If your changes are not 100% covered, go back to step 5.</li>
+                            <li>Commit and push your changes.</li>
+                            <li>Submit a pull request.</li>
+                            <li>If you haven't already, complete the Contributor License Agreement ("CLA").</li>
+                        </ol>
+
+                        <p>Contributor License Agreement ("CLA")</p>
+
+                        <hr>
+
+                        <p>In order to accept your pull request, we need you to submit a CLA. You only need
+to do this once to work on any of Instagram's or Facebook's open source projects.</p>
+
+                        <p>Complete your CLA here: <a href="https://code.facebook.com/cla">https://code.facebook.com/cla</a></p>
+
+                        <h2><a id="user-content-copyright" class="anchor" href="#copyright" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1h-1c-1.5 0-3-1.69-3-3.5s1.55-3.5 3-3.5h4c1.45 0 3 1.69 3 3.5 0 1.41-0.91 2.72-2 3.25v-1.16c0.58-0.45 1-1.27 1-2.09 0-1.28-1.02-2.5-2-2.5H4c-0.98 0-2 1.22-2 2.5s1 2.5 2 2.5z m9-3h-1v1h1c1 0 2 1.22 2 2.5s-1.02 2.5-2 2.5H9c-0.98 0-2-1.22-2-2.5 0-0.83 0.42-1.64 1-2.09v-1.16c-1.09 0.53-2 1.84-2 3.25 0 1.81 1.55 3.5 3 3.5h4c1.45 0 3-1.69 3-3.5s-1.5-3.5-3-3.5z"></path></svg></a>Copyright</h2>
+
+                        <p>Copyright (c) 2014, Facebook, Inc. All rights reserved.
+By contributing to python-instagram, you agree that your contributions will be licensed under its BSD license.
+See <a href="https://github.com/Instagram/python-instagram/blob/master/LICENSE.md">LICENSE</a> for details.</p>
+                    </article>
+                </div>
+            </div>
+
+            <div id="footer">
+            </div>
+        </div>
+
+
+        <!--{* JavaScript *}-->
+        <!--{* jQuery *}-->
+        <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.js"></script>
+        <!--{* Bootstrap *}-->
+        <script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.js"></script>
+    </body>
+</html>

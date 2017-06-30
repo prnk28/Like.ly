@@ -24,7 +24,7 @@ class MockHttp(object):
 
     def request(self, url, method="GET", body=None, headers={}):
         fail_state = {
-            'status':'400'
+            'status': '400'
         }, "{}"
 
         parsed = urlparse(url)
@@ -37,9 +37,9 @@ class MockHttp(object):
                 'content-location':'http://example.com/redirect/login'
             }, None
 
-        if not 'access_token' in options and not 'client_id' in options:
+        if 'access_token' not in options and 'client_id' not in options:
             fn_name += '_unauthorized'
-        if 'self' in url and not 'access_token' in options:
+        if 'self' in url and 'access_token' not in options:
             fn_name += '_no_auth_user'
 
         fl = open('fixtures/%s.json' % fn_name)
@@ -83,7 +83,7 @@ class InstagramAuthTests(unittest.TestCase):
         username = raw_input("Enter username for XAuth (blank to skip): ").strip()
         if not username:
             return
-        password =  getpass.getpass("Enter password for XAuth (blank to skip): ").strip()
+        password = getpass.getpass("Enter password for XAuth (blank to skip): ").strip()
         access_token = self.unauthenticated_api.exchange_xauth_login_for_access_token(username, password)
         assert access_token
 
@@ -94,12 +94,9 @@ class InstagramAPITests(unittest.TestCase):
         self.client_only_api = TestInstagramAPI(client_id=client_id)
         self.api = TestInstagramAPI(access_token=access_token)
 
-    def test_media_popular(self):
-        self.api.media_popular(count=10)
-
     def test_media_search(self):
-        self.client_only_api.media_search(lat=37.7,lng=-122.22)
-        self.api.media_search(lat=37.7,lng=-122.22)
+        self.client_only_api.media_search(lat=37.7, lng=-122.22)
+        self.api.media_search(lat=37.7, lng=-122.22)
 
     def test_media_shortcode(self):
         self.client_only_api.media_shortcode('os1NQjxtvF')
@@ -144,7 +141,7 @@ class InstagramAPITests(unittest.TestCase):
     def test_user_recent_media(self):
         media, url = self.api.user_recent_media(count=10)
 
-        self.assertTrue( all( [hasattr(obj, 'type') for obj in media] ) )
+        self.assertTrue(all([hasattr(obj, 'type') for obj in media]))
 
         image = media[0]
         self.assertEqual(
@@ -177,10 +174,6 @@ class InstagramAPITests(unittest.TestCase):
         self.assertEqual(
                 video.get_thumbnail_url(),
                 "http://distilleryimage2.ak.instagram.com/11f75f1cd9cc11e2a0fd22000aa8039a_5.jpg")
-
-
-
-
 
     def test_user_search(self):
         self.api.user_search('mikeyk', 10)
@@ -243,8 +236,6 @@ class InstagramAPITests(unittest.TestCase):
         self.api.follow_user(user_id='10')
         self.api.unfollow_user(user_id='10')
 
-    def test_geography_recent_media(self):
-        self.api.geography_recent_media(geography_id=1)
 
 if __name__ == '__main__':
     if not TEST_AUTH:

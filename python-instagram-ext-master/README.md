@@ -1,10 +1,10 @@
 - - -
 
-**_This project is not actively maintained. Proceed at your own risk!_**
+**_This project is personally forked and temporarily patched version of [python-instagram](https://github.com/facebookarchive/python-instagram). Proceed at your own risk!_**
 
 - - - 
 
-[![Build Status](https://api.travis-ci.org/Instagram/python-instagram.svg)](https://travis-ci.org/Instagram/python-instagram)
+[![Build Status](https://travis-ci.org/Seraphicer/python-instagram.svg?branch=master)](https://travis-ci.org/Seraphicer/python-instagram)
 
 python-instagram
 ======
@@ -13,7 +13,7 @@ A Python 2/3 client for the Instagram REST and Search APIs
 Installation
 -----
 ```
-pip install python-instagram
+pip install python-instagram-ext
 ```
 Requires
 -----
