@@ -66,8 +66,8 @@ newPostSchema = {
         'required': True,
         'unique': False,
     },
-    'Links': {
-        'type': 'list',
+    'Image': {
+        'type': '',
         'minlength': 1,
         'maxlength': 40,
         'required': True,
