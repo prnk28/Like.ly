@@ -5,10 +5,13 @@ June 23, 2017
 Description: Settings class for all json schema and input output.This is
              where HTTP requests get handled.
 """
+
 from cerberus import Validator
 
-MONGO_HOST = '35.185.100.103'
+MONGO_HOST = '35.189.165.9'
 MONGO_PORT = 27017
+MONGO_USERNAME = 'root'
+MONGO_PASSWORD = 'hjPy796z'
 PAGINATION_DEFAULT = 1000
 MONGO_DBNAME = 'admin'
 RESOURCE_METHODS = ['GET', 'POST', 'DELETE']
