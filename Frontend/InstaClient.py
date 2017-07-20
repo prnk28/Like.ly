@@ -5,6 +5,38 @@ from instagram import client, subscriptions
 
 bottle.debug(True)
 
+class PreviousPost:
+    #A class that will be used to create previous post JSON objects to put in the database
+    def __init__(self, PostID, Link, UserID, RealLikes, Location, PostTime):
+        self.postID = postID
+        self.Link = Link
+        self.UserID = UserID
+        self.RealLikes = RealLikes
+        self.Location = Location
+        self.PostTime = PostTime
+
+class newPostSchema:
+#A class that will be used to create new post JSON objects to put in the database"
+    def __init__(self, PostID, Image, UserID, RealLikes, EstimatedLikes, EstimatedTime, Location, PostTime):
+        self.postID = postID
+        self.Image = Image
+        self.UserID = UserID
+        self.RealLikes = RealLikes
+        self.EstimatedLikes = EstimatedLikes
+        self.EstimatedTime = EstimatedTime
+        self.Location = Location
+        self.PostTime = PostTime
+
+class userSchema:
+# A class that will be used to create user JSON objects to put in the database
+    def __init__(self, UserID, Name, AverageLocation, Followers, LastPictureTime, TimeBetweenEachPicture):
+        self.UserID = UserID
+        self.Name = Name
+        self.AverageLocation = AverageLocation
+        self.Followers = Followers
+        self.LastPictureTime = LastPictureTime
+        self.TimeBetweenEachPicture = TimeBetweenEachPicture
+
 session_opts = {
     'session.type': 'file',
     'session.data_dir': './session/',
@@ -250,7 +282,7 @@ def on_realtime_callback():
     verify_token = request.GET.get("hub.verify_token")
     if challenge:
         return challenge
-    else: 
+    else:
         x_hub_signature = request.header.get('X-Hub-Signature')
         raw_response = request.body.read()
         try:
