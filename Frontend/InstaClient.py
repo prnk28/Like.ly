@@ -250,7 +250,7 @@ def on_realtime_callback():
     verify_token = request.GET.get("hub.verify_token")
     if challenge:
         return challenge
-    else:
+    else: 
         x_hub_signature = request.header.get('X-Hub-Signature')
         raw_response = request.body.read()
         try:
