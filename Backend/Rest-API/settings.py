@@ -52,7 +52,7 @@ previousPostSchema = {
         'unique': False,
     },
     'PostTime': {
-        'type': 'datetime',
+        'type': 'string',
         'maxlength': 45,
         'required': True,
         'unique': False,
@@ -106,7 +106,7 @@ newPostSchema = {
         'unique': False,
     },
     'PostTime': {
-        'type': 'datetime',
+        'type': 'string',
         'maxlength': 45,
         'required': True,
         'unique': False,
@@ -150,7 +150,7 @@ userSchema = {
         'unique': False,
     },
     'TimeBetweenEachPicture': {
-        'type': 'datetime',
+        'type': 'string',
         'minlength': 1,
         'maxlength': 60,
         'required': True,

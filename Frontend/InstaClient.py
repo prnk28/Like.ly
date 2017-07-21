@@ -1,6 +1,6 @@
 import bottle
 import beaker.middleware
-from bson import json_util
+#from bson import json_util
 from datetime import datetime
 from json import dumps
 from pprint import pprint
@@ -25,9 +25,6 @@ class PreviousPost:
     def toJSON(self):
         return json.dumps(self, default=lambda o: o.__dict__,
                 sort_keys=True, indent=4)
-
-
-
 
 class newPostSchema:
 #A class that will be used to create new post JSON objects to put in the database"
@@ -160,7 +157,16 @@ def on_user_media_feed():
             data = picture.toJSON()
             print(data)
 
-            photos.append('<img src="%s"/>' % media.get_standard_resolution_url())
+        url = "http://104.199.211.96:65/PreviousPost"
+        headers = {
+            'content-type': "application/json",
+            'authorization': "Basic YWRtaW46YnJheGRheTEyMw==",
+            'cache-control': "no-cache"
+        }
+        response = requests.request("POST", url, data=data, headers=headers)
+
+        print(response.text)
+        photos.append('<img src="%s"/>' % media.get_standard_resolution_url())
 
         counter = 1
         while next and counter < 3:
