@@ -1,5 +1,12 @@
 import bottle
 import beaker.middleware
+from bson import json_util
+from datetime import datetime
+from json import dumps
+from pprint import pprint
+
+import json
+import requests
 from bottle import route, redirect, post, run, request, hook
 from instagram import client, subscriptions
 
@@ -8,17 +15,24 @@ bottle.debug(True)
 class PreviousPost:
     #A class that will be used to create previous post JSON objects to put in the database
     def __init__(self, PostID, Link, UserID, RealLikes, Location, PostTime):
-        self.postID = postID
+        self.PostID = PostID
         self.Link = Link
         self.UserID = UserID
         self.RealLikes = RealLikes
         self.Location = Location
         self.PostTime = PostTime
 
+    def toJSON(self):
+        return json.dumps(self, default=lambda o: o.__dict__,
+                sort_keys=True, indent=4)
+
+
+
+
 class newPostSchema:
 #A class that will be used to create new post JSON objects to put in the database"
     def __init__(self, PostID, Image, UserID, RealLikes, EstimatedLikes, EstimatedTime, Location, PostTime):
-        self.postID = postID
+        self.PostID = PostID
         self.Image = Image
         self.UserID = UserID
         self.RealLikes = RealLikes
@@ -26,6 +40,9 @@ class newPostSchema:
         self.EstimatedTime = EstimatedTime
         self.Location = Location
         self.PostTime = PostTime
+
+    def toJSON(self):
+        return json.dumps(self, default=lambda o: o.__dict__)
 
 class userSchema:
 # A class that will be used to create user JSON objects to put in the database
@@ -36,6 +53,10 @@ class userSchema:
         self.Followers = Followers
         self.LastPictureTime = LastPictureTime
         self.TimeBetweenEachPicture = TimeBetweenEachPicture
+
+    def toJSON(self):
+        return json.dumps(self, default=lambda o: o.__dict__,
+            sort_keys=True, indent=4)
 
 session_opts = {
     'session.type': 'file',
@@ -135,14 +156,17 @@ def on_user_media_feed():
         media_feed, next = api.user_media_feed()
         photos = []
         for media in media_feed:
+            picture = PreviousPost(media.id, media.get_standard_resolution_url(), media.user.id, media.like_count, media.location, media.created_time)
+            data = picture.toJSON()
+            print(data)
+
             photos.append('<img src="%s"/>' % media.get_standard_resolution_url())
-            print (media.get_standard_resolution_url())
+
         counter = 1
         while next and counter < 3:
             media_feed, next = api.user_media_feed(with_next_url=next)
             for media in media_feed:
                 photos.append('<img src="%s"/>' % media.get_standard_resolution_url())
-                print (media.get_standard_resolution_url())
             counter += 1
         content += ''.join(photos)
     except Exception as e:

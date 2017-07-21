@@ -110,14 +110,17 @@ class Media(ApiModel):
                 new_media.users_in_photo.append(UserInPhoto.object_from_dictionary(user_in_photo))
 
         new_media.created_time = timestamp_to_datetime(entry['created_time'])
+        new_media.created_time = new_media.created_time.strftime('%m/%d/%Y')
 
         if entry['location'] and 'id' in entry:
             new_media.location = Location.object_from_dictionary(entry['location'])
+        else:
+            new_media.location = ""
 
         new_media.caption = None
         if entry['caption']:
             new_media.caption = Comment.object_from_dictionary(entry['caption'])
-        
+
         new_media.tags = []
         if entry['tags']:
             for tag in entry['tags']:
