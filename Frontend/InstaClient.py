@@ -4,7 +4,7 @@ import beaker.middleware
 from datetime import datetime
 from json import dumps
 from pprint import pprint
-
+import http
 import json
 import requests
 from bottle import route, redirect, post, run, request, hook
@@ -152,21 +152,22 @@ def on_user_media_feed():
         api = client.InstagramAPI(access_token=access_token, client_secret=CONFIG['client_secret'])
         media_feed, next = api.user_media_feed()
         photos = []
+        conn = http.client.HTTPConnection("104.199.211.96:65")
         for media in media_feed:
             picture = PreviousPost(media.id, media.get_standard_resolution_url(), media.user.id, media.like_count, media.location, media.created_time)
-            data = picture.toJSON()
+            payload = picture.toJSON()
+            print(payload)
             headers = {
-                    'authorization': "Basic YWRtaW46YnJheGRheTEyMw==",
-                    'content-type': "application/json",
-                    'cache-control': "no-cache",
-                    }
+                'authorization': "Basic YWRtaW46YnJheGRheTEyMw==",
+                'content-type': "application/json",
+                'cache-control': "no-cache",
+                }
 
-            url = 'http://104.199.211.96:65/' + 'PreviousPost'
-            response = requests.request(url, data=data, headers=headers)
+            # conn.request("POST", "http://104.199.211.96:65/PreviousPost", payload, headers)
 
-
-        print(response.text)
-        photos.append('<img src="%s"/>' % media.get_standard_resolution_url())
+            # res = conn.getresponse()
+            # data = res.read()
+            photos.append('<img src="%s"/>' % media.get_standard_resolution_url())
 
         counter = 1
         while next and counter < 3:
