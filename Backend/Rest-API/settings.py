@@ -8,7 +8,7 @@ Description: Settings class for all json schema and input output.This is
 
 from cerberus import Validator
 
-MONGO_HOST = '35.189.165.9'
+MONGO_HOST = '104.199.211.96'
 MONGO_PORT = 27017
 MONGO_USERNAME = 'root'
 MONGO_PASSWORD = 'hjPy796z'

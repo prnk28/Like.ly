@@ -158,7 +158,15 @@ def on_user_media_feed():
         for media in media_feed:
             picture = PreviousPost(media.id, media.get_standard_resolution_url(), media.user.id, media.like_count, media.location, media.created_time)
             data = picture.toJSON()
-            print(data)
+            headers = {
+                    'authorization': "Basic YWRtaW46YnJheGRheTEyMw==",
+                    'content-type': "application/json",
+                    'cache-control': "no-cache",
+                    }
+
+            url = 'http://104.199.211.96:65/' + 'PreviousPost'
+
+            response = requests.post(url, data=data, headers=headers)
 
             photos.append('<img src="%s"/>' % media.get_standard_resolution_url())
 
