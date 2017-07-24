@@ -162,16 +162,8 @@ def on_user_media_feed():
                     }
 
             url = 'http://104.199.211.96:65/' + 'PreviousPost'
+            response = requests.request(url, data=data, headers=headers)
 
-            response = requests.post(url, data=data, headers=headers)
-
-        url = "http://104.199.211.96:65/PreviousPost"
-        headers = {
-            'content-type': "application/json",
-            'authorization': "Basic YWRtaW46YnJheGRheTEyMw==",
-            'cache-control': "no-cache"
-        }
-        response = requests.request("POST", url, data=data, headers=headers)
 
         print(response.text)
         photos.append('<img src="%s"/>' % media.get_standard_resolution_url())
