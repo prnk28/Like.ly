@@ -84,7 +84,7 @@ reactor.register_callback(subscriptions.SubscriptionType.TAG, process_tag_update
 @route('/')
 def home():
     try:
-        url = unauthenticated_api.get_authorize_url(scope=["likes","comments"])
+        url = unauthenticated_api.get_authorize_url(scope=["likes","comments","relationships", "basic", "follower_list", "public_content"])
         return '<a href="%s">Connect with Instagram</a>' % url
     except Exception as e:
         print(e)
@@ -92,14 +92,14 @@ def home():
 def get_nav():
     nav_menu = ("<h1>Python Instagram</h1>"
                 "<ul>"
-                    "<li><a href='/recent'>User Recent Media</a> Calls user_recent_media - Get a list of a user's most recent media</li>"
-                    "<li><a href='/user_media_feed'>User Media Feed</a> Calls user_media_feed - Get the currently authenticated user's media feed uses pagination</li>"
-                    "<li><a href='/location_recent_media'>Location Recent Media</a> Calls location_recent_media - Get a list of recent media at a given location, in this case, the Instagram office</li>"
-                    "<li><a href='/media_search'>Media Search</a> Calls media_search - Get a list of media close to a given latitude and longitude</li>"
-                    "<li><a href='/user_search'>User Search</a> Calls user_search - Search for users on instagram, by name or username</li>"
-                    "<li><a href='/user_follows'>User Follows</a> Get the followers of @instagram uses pagination</li>"
-                    "<li><a href='/location_search'>Location Search</a> Calls location_search - Search for a location by lat/lng</li>"
-                    "<li><a href='/tag_search'>Tags</a> Search for tags, view tag info and get media by tag</li>"
+            #     "<li><a href='/recent'>User Recent Media</a> Calls user_recent_media - Get a list of a user's most recent media</li>"
+                #    "<li><a href='/user_media_feed'>User Media Feed</a> Calls user_media_feed - Get the currently authenticated user's media feed uses pagination</li>"
+            #        "<li><a href='/location_recent_media'>Location Recent Media</a> Calls location_recent_media - Get a list of recent media at a given location, in this case, the Instagram office</li>"
+            #    "<li><a href='/media_search'>Media Search</a> Calls media_search - Get a list of media close to a given latitude and longitude</li>"
+            #    "<li><a href='/user_search'>User Search</a> Calls user_search - Search for users on instagram, by name or username</li>"
+            #        "<li><a href='/user_follows'>User Follows</a> Get the followers of @instagram uses pagination</li>"
+            #        "<li><a href='/location_search'>Location Search</a> Calls location_search - Search for a location by lat/lng</li>"
+                   "<li> <div> <input type='file' name='pic' accept='image/*'><a href='/tag_search'> </div> Upload your picture and find out how many likes you'll get!</li>"
                 "</ul>")
     return nav_menu
 
@@ -165,7 +165,7 @@ def on_user_media_feed():
 
             # conn.request("POST", "http://104.199.211.96:65/PreviousPost", payload, headers)
 
-            # res = conn.getresponse()
+            # res = conn.getfresponse()
             # data = res.read()
             photos.append('<img src="%s"/>' % media.get_standard_resolution_url())
 
@@ -257,13 +257,13 @@ def user_follows():
     try:
         api = client.InstagramAPI(access_token=access_token, client_secret=CONFIG['client_secret'])
         # 25025320 is http://instagram.com/instagram
-        user_follows, next = api.user_follows('25025320')
+        user_followed_by, next = api.user_followed_by()
         users = []
-        for user in user_follows:
+        for user in user_followed_by:
             users.append('<li><img src="%s">%s</li>' % (user.profile_picture,user.username))
         while next:
-            user_follows, next = api.user_follows(with_next_url=next)
-            for user in user_follows:
+            user_followed_by, next = api.user_followed_by(with_next_url=next)
+            for user in user_followed_by:
                 users.append('<li><img src="%s">%s</li>' % (user.profile_picture,user.username))
         content += ''.join(users)
     except Exception as e:
@@ -290,20 +290,8 @@ def location_search():
 @route('/tag_search')
 def tag_search():
     access_token = request.session['access_token']
-    content = "<h2>Tag Search</h2>"
-    if not access_token:
-        return 'Missing Access Token'
-    try:
-        api = client.InstagramAPI(access_token=access_token, client_secret=CONFIG['client_secret'])
-        tag_search, next_tag = api.tag_search(q="backclimateaction")
-        tag_recent_media, next = api.tag_recent_media(tag_name=tag_search[0].name)
-        photos = []
-        for tag_media in tag_recent_media:
-            photos.append('<img src="%s"/>' % tag_media.get_standard_resolution_url())
-        content += ''.join(photos)
-    except Exception as e:
-        print(e)
-    return "%s %s <br/>Remaining API Calls = %s/%s" % (get_nav(),content,api.x_ratelimit_remaining,api.x_ratelimit)
+    content = "<h2>Predicted Likes: 156</h2>"
+    return content
 
 @route('/realtime_callback')
 @post('/realtime_callback')
