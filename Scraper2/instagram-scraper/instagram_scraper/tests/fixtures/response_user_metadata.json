@@ -1,0 +1,91 @@
+{
+  "country_code": "US",
+  "language_code": "en",
+  "gatekeepers": {
+    "cc": true,
+    "ra": true
+  },
+  "show_app_install": true,
+  "static_root": "//instagramstatic-a.akamaihd.net/h1",
+  "platform": "web",
+  "activity_counts": null,
+  "hostname": "www.instagram.com",
+  "entry_data": {
+    "ProfilePage": [
+      {
+        "user": {
+          "username": "instagram",
+          "country_block": null,
+          "follows": {
+            "count": 191
+          },
+          "requested_by_viewer": false,
+          "followed_by": {
+            "count": 198817956
+          },
+          "external_url_linkshimmed": "http://l.instagram.com/?e=ATMouJnXgstoyAAH0pCkFvddYXccUz64Uw9WkyMejTub4vJCB7wK6-IE&u=http%3A%2F%2Fblog.instagram.com%2F",
+          "has_requested_viewer": false,
+          "profile_pic_url_hd": "https://scontent-lga3-1.cdninstagram.com/t51.2885-19/s320x320/14719833_310540259320655_1605122788543168512_a.jpg",
+          "follows_viewer": false,
+          "profile_pic_url": "https://scontent-lga3-1.cdninstagram.com/t51.2885-19/s150x150/14719833_310540259320655_1605122788543168512_a.jpg",
+          "id": "25025320",
+          "biography": "",
+          "full_name": "Instagram",
+          "media": {
+            "count": 3799,
+            "page_info": {
+              "has_previous_page": false,
+              "start_cursor": "1381502910735354112",
+              "end_cursor": "1378889736274166156",
+              "has_next_page": true
+            },
+            "nodes": []
+          },
+          "blocked_by_viewer": false,
+          "followed_by_viewer": false,
+          "is_verified": true,
+          "has_blocked_viewer": false,
+          "is_private": false,
+          "external_url": "http://blog.instagram.com"
+        }
+      }
+    ]
+  },
+  "qe": {
+    "profile": {
+      "p": {},
+      "g": ""
+    },
+    "su_universe": {
+      "p": {},
+      "g": ""
+    },
+    "us": {
+      "p": {
+        "display_reg_on_pill": "false"
+      },
+      "g": "logged_out_mobile_pill_upsell_control_02"
+    },
+    "freq": {
+      "p": {},
+      "g": ""
+    },
+    "us_li": {
+      "p": {},
+      "g": ""
+    },
+    "discovery": {
+      "p": {},
+      "g": ""
+    }
+  },
+  "display_properties_server_guess": {
+    "viewport_width": 1680,
+    "pixel_ratio": 2
+  },
+  "config": {
+    "viewer": null,
+    "csrf_token": "NDLHshP86SXNTc7fOXimkZoyUaRYg3Tv"
+  },
+  "environment_switcher_visible_server_guess": true
+}

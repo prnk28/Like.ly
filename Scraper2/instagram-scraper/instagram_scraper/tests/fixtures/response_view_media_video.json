@@ -1,0 +1,73 @@
+{
+  "graphql": {
+    "shortcode_media": {
+      "__typename": "GraphVideo",
+      "id": "1",
+      "shortcode": "code4",
+      "dimensions": {
+        "height": 640,
+        "width": 640
+      },
+      "display_url": "https://fake-url.com/s640x640/photo.jpg",
+      "video_url": "https://fake-url.com/video.mp4",
+      "video_view_count": 0,
+      "is_video": true,
+      "edge_media_to_tagged_user": {
+        "edges": []
+      },
+      "edge_media_to_caption": {
+        "edges": [
+          {
+            "node": {
+              "text": "text"
+            }
+          }
+        ]
+      },
+      "caption_is_edited": false,
+      "edge_media_to_comment": {
+        "count": 0,
+        "page_info": {
+          "has_next_page": false,
+          "end_cursor": null
+        },
+        "edges": []
+      },
+      "comments_disabled": false,
+      "taken_at_timestamp": 1493949549,
+      "edge_media_preview_like": {
+        "count": 1,
+        "edges": [
+          {
+            "node": {
+              "id": "1",
+              "profile_pic_url": "https://fake-url.com/s640x640/photo.jpg",
+              "username": "username"
+            }
+          }
+        ]
+      },
+      "edge_media_to_sponsor_user": {
+        "edges": []
+      },
+      "location": null,
+      "viewer_has_liked": false,
+      "owner": {
+        "id": "1",
+        "profile_pic_url": "https://fake-url.com/s640x640/photo.jpg",
+        "username": "username",
+        "followed_by_viewer": false,
+        "full_name": "full_name",
+        "is_private": false,
+        "requested_by_viewer": false,
+        "is_unpublished": false,
+        "blocked_by_viewer": false,
+        "has_blocked_viewer": false
+      },
+      "is_ad": false,
+      "edge_web_media_to_related_media": {
+        "edges": []
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "status": "ok",
+  "items": [
+    {
+      "can_delete_comments": false,
+      "code": "BMCe5ncDwjx",
+      "location": null,
+      "images": {
+        "standard_resolution": {
+          "url": "https://fake-url.com/s640x640/photo3.jpg",
+          "width": 640,
+          "height": 640
+        }
+      },
+      "can_view_comments": true,
+      "comments": {
+        "count": 0,
+        "data": []
+      },
+      "alt_media_url": null,
+      "created_time": "1477512086",
+      "type": "image",
+      "id": "1369793132326237681_50955534"
+    }
+  ],
+  "more_available": false
+}
