@@ -37,7 +37,7 @@ class ImageObj:
         self.tags = tags
         self.likes = likes
         self.created_time = created_time
-        
+
         self.followed_by_count = followed_by_count
 
     def toJSON(self):
@@ -412,7 +412,7 @@ class InstagramScraper(object):
             #if self.comments:
             #    item['comments']['data'] = list(self.query_comments_gen(item['code']))
             if self.media_metadata or self.comments or self.include_location:
-                image_link = item['link']
+                image_link = item['images']['standard_resolution']
                 if(item['location'] != None):
                     location = item['location']['name']
                 else:
