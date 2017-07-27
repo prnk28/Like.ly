@@ -31,14 +31,16 @@ warnings.filterwarnings('ignore')
 
 class ImageObj:
     #A class that will be used to create previous post JSON objects to put in the database
-    def __init__(self, image_link, location, tags, likes, created_time, followed_by_count):
+    def __init__(self, image_link, location, tags, likes, created_time, postid, following_count, followed_by_count):
         self.image_link = image_link
         self.location = location
         self.tags = tags
         self.likes = likes
         self.created_time = created_time
+        self.postid = postid
 
         self.followed_by_count = followed_by_count
+        self.following_count = following_count
 
     def toJSON(self):
         return json.dumps(self, default=lambda o: o.__dict__,
@@ -421,10 +423,12 @@ class InstagramScraper(object):
                     tags = item['tags']
                 else:
                     tags = []
+
                 likes = item['likes']['count']
                 created_time = item['created_time']
+                postid = item['id']
 
-                x = ImageObj(image_link, location, tags, likes, created_time, user['followed_by']['count'])
+                x = ImageObj(image_link, location, tags, likes, created_time, postid, user['follows']['count'], user['followed_by']['count'])
                 payload = x.toJSON()
                 self.posts.append(payload)
 
