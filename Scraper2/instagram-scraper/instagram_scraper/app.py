@@ -29,23 +29,6 @@ except NameError:
 
 warnings.filterwarnings('ignore')
 
-class ImageObj:
-    #A class that will be used to create previous post JSON objects to put in the database
-    def __init__(self, image_link, location, tags, likes, created_time, postid, following_count, followed_by_count):
-        self.image_link = image_link
-        self.location = location
-        self.tags = tags
-        self.likes = likes
-        self.created_time = created_time
-        self.postid = postid
-
-        self.followed_by_count = followed_by_count
-        self.following_count = following_count
-
-    def toJSON(self):
-        return json.dumps(self, default=lambda o: o.__dict__,
-                sort_keys=True)
-
 class InstagramScraper(object):
     """InstagramScraper scrapes and downloads an instagram user's photos and videos"""
     def __init__(self, **kwargs):
@@ -240,6 +223,7 @@ class InstagramScraper(object):
     def query_location_gen(self, location):
         return self.__query_gen(QUERY_LOCATION, 'location', location)
 
+
     def __query_gen(self, url, entity_name, query, end_cursor=''):
         """Generator for hashtag and location."""
         nodes, end_cursor = self.__query(url, entity_name, query, end_cursor)
@@ -401,6 +385,8 @@ class InstagramScraper(object):
         if self.include_location:
             media_exec = concurrent.futures.ThreadPoolExecutor(max_workers=5)
 
+        meanLikes = self.getMeanLikes(username)
+
         iter = 0
         for item in tqdm.tqdm(self.media_gen(username), desc='Searching {0} for posts'.format(username),
                               unit=' media', disable=self.quiet):
@@ -414,7 +400,7 @@ class InstagramScraper(object):
             #if self.comments:
             #    item['comments']['data'] = list(self.query_comments_gen(item['code']))
             if self.media_metadata or self.comments or self.include_location:
-                image_link = item['images']['standard_resolution']
+                image_link = item['images']['standard_resolution']['url']
                 if(item['location'] != None):
                     location = item['location']['name']
                 else:
@@ -428,13 +414,22 @@ class InstagramScraper(object):
                 created_time = item['created_time']
                 postid = item['id']
 
-                x = ImageObj(image_link, location, tags, likes, created_time, postid, user['follows']['count'], user['followed_by']['count'])
-                payload = x.toJSON()
-                self.posts.append(payload)
+                self.posts.append({"postid" : postid, "image_link" : image_link, "likes" : likes, "meanLikes" : meanLikes,"follows" : user['follows']['count'], "followed_by" : user['followed_by']['count'],  "created_time" : created_time, "location" : location, "tags" : tags})
 
             iter = iter + 1
             if self.maximum != 0 and iter >= self.maximum:
                 break
+
+    def getMeanLikes(self, username):
+        count = 0
+        average = 0
+        for item in tqdm.tqdm(self.media_gen(username), desc='Searching {0} for posts'.format(username), unit=' media', disable=self.quiet):
+            if self.media_metadata or self.comments or self.include_location:
+                likes = item['likes']['count']
+                count = count + 1
+                average = likes + average
+
+        return (average/count)
 
     def fetch_user(self, username):
         """Fetches the user's metadata."""
