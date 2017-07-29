@@ -19,6 +19,7 @@ import httplib, urllib, base64, json
 ########### Python 2.7 #############
 import httplib, urllib, base64
 
+body = '{"url":"https://scontent-iad3-1.cdninstagram.com/t51.2885-15/e15/11101983_1599222583697758_153856469_n.jpg"}'
 headers = {
     # Request headers
     'Content-Type': 'application/json',
@@ -26,11 +27,14 @@ headers = {
 }
 
 params = urllib.urlencode({
+    # Request parameters
+    'visualFeatures': 'Categories, Tags, Description, Faces, ImageType, Color, Adult',
+    'language': 'en',
 })
 
 try:
     conn = httplib.HTTPSConnection('eastus2.api.cognitive.microsoft.com')
-    conn.request("POST", "/vision/v1.0/tag?%s" % params,  '{"url":"https://scontent-iad3-1.cdninstagram.com/t51.2885-15/e15/11101983_1599222583697758_153856469_n.jpg"}', headers)
+    conn.request("POST", "/vision/v1.0/analyze?%s" % params, '{"url":"https://scontent-iad3-1.cdninstagram.com/t51.2885-15/e15/11101983_1599222583697758_153856469_n.jpg"}', headers)
     response = conn.getresponse()
     data = response.read()
     print(data)
