@@ -30,6 +30,25 @@ except NameError:
 
 warnings.filterwarnings('ignore')
 
+class PreviousPost:
+    #A class that will be used to create previous post JSON objects to put in the database
+    def __init__(self, postid, image_link, likes, followed_by, follows, meanLikes, days_since_posting, location, created_time, tags):
+        self.postid = postid
+        self.image_link = image_link
+        self.likes = likes
+        self.followed_by = followed_by
+        self.follows = follows
+        self.meanLikes = meanLikes
+        self.days_since_posting = days_since_posting
+        self.location = location
+        self.created_time = created_time
+        self.tags = tags
+
+    def toJSON(self):
+        return json.dumps(self, default=lambda o: o.__dict__,
+                sort_keys=True, indent=4)
+
+
 class InstagramScraper(object):
     """InstagramScraper scrapes and downloads an instagram user's photos and videos"""
     def __init__(self, **kwargs):
@@ -377,7 +396,6 @@ class InstagramScraper(object):
 
 
 
-
     def get_media(self, dst, executor, future_to_item, username, user):
         """Scrapes the user's posts for media."""
         if self.media_types == ['story']:
@@ -419,7 +437,30 @@ class InstagramScraper(object):
                 timeDiff = (timeDiff.total_seconds())/(60*60*24)
                 timeDiff = float('%.3f' % (timeDiff))
 
-                self.posts.append({"postid" : postid, "image_link" : image_link, "likes" : likes, "meanLikes" : meanLikes,"follows" : user['follows']['count'], "followed_by" : user['followed_by']['count'],  "created_time" : created_time, "days_since_posting" : timeDiff, "location" : location, "tags" : tags})
+                url = "http://104.199.211.96:65/PreviousPost"
+                picture = PreviousPost(postid, image_link, likes, meanLikes, user['follows']['count'], user['followed_by']['count'],created_time,timeDiff,location,tags)
+                payload = picture.toJSON()
+                print(payload)
+                headers = {
+                    'content-type': "application/json",
+                    'authorization': "Basic YWRtaW46YnJheGRheTEyMw==",
+                    'cache-control': "no-cache",
+                    }
+
+                response = requests.request("POST", url, data=payload, headers=headers)
+
+'''
+                self.posts.append({"postid" : postid,
+                 "image_link" : image_link,
+                  "likes" : likes,
+                  "meanLikes" : meanLikes,
+                  "follows" : user['follows']['count'],
+                  "followed_by" : user['followed_by']['count'],
+                   "created_time" : created_time,
+                   "days_since_posting" : timeDiff,
+                    "location" : location,
+                     "tags" : tags})
+'''
 
             iter = iter + 1
             if self.maximum != 0 and iter >= self.maximum:
@@ -473,6 +514,7 @@ class InstagramScraper(object):
                 if media.get('more_available') and self.is_new_media(media['items'][-1]):
                     max_id = media['items'][-1]['id']
                     media = self.fetch_media_json(username, max_id)
+                    # Post here?
                 else:
                     return
         except ValueError:
