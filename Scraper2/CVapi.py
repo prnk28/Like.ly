@@ -6,15 +6,15 @@
 import json
 import httplib, urllib, base64, json
 
-with open('/media/akanumuru/Windows/Users/Arun/Google Drive/Project_Aditi/Project-Aditi/Scraper2/instagram-scraper/test/thisisprad/thisisprad.json') as json_data:
-    d = json.load(json_data)
+#with open('/media/akanumuru/Windows/Users/Arun/Google Drive/Project_Aditi/Project-Aditi/Scraper2/instagram-scraper/test/thisisprad/thisisprad.json') as json_data:
+    #d = json.load(json_data)
 
 # print len(d)
 # for i in range(0, len(d)):
 #     image_link = d[i]['image_link']
 #     # make microsoft CV call here
 #     print d[i]['image_link']
-image_link = d[0]['image_link']
+#image_link = d[0]['image_link']
 
 ########### Python 2.7 #############
 import httplib, urllib, base64
@@ -30,7 +30,7 @@ params = urllib.urlencode({
 
 try:
     conn = httplib.HTTPSConnection('eastus2.api.cognitive.microsoft.com')
-    conn.request("POST", "/vision/v1.0/tag?%s" % params, {"url" : "https://scontent-iad3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.134.1080.1080/19931591_913758048774760_8137673633788067840_n.jpg"}, headers)
+    conn.request("POST", "/vision/v1.0/tag?%s" % params,  '{"url":"https://scontent-iad3-1.cdninstagram.com/t51.2885-15/e15/11101983_1599222583697758_153856469_n.jpg"}', headers)
     response = conn.getresponse()
     data = response.read()
     print(data)
