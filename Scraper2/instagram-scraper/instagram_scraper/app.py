@@ -14,6 +14,7 @@ import sys
 import textwrap
 import time
 import warnings
+import datetime
 
 import concurrent.futures
 import requests
@@ -405,16 +406,20 @@ class InstagramScraper(object):
                     location = item['location']['name']
                 else:
                     location = ""
-                if(item['tags'] != None):
-                    tags = item['tags']
-                else:
-                    tags = []
+
+                tags = []
 
                 likes = item['likes']['count']
                 created_time = item['created_time']
                 postid = item['id']
 
-                self.posts.append({"postid" : postid, "image_link" : image_link, "likes" : likes, "meanLikes" : meanLikes,"follows" : user['follows']['count'], "followed_by" : user['followed_by']['count'],  "created_time" : created_time, "location" : location, "tags" : tags})
+                postTimeFinal=(datetime.datetime.fromtimestamp(int(created_time)))
+                current = datetime.datetime.now()
+                timeDiff = (current - postTimeFinal)
+                timeDiff = (timeDiff.total_seconds())/(60*60*24)
+                timeDiff = float('%.3f' % (timeDiff))
+
+                self.posts.append({"postid" : postid, "image_link" : image_link, "likes" : likes, "meanLikes" : meanLikes,"follows" : user['follows']['count'], "followed_by" : user['followed_by']['count'],  "created_time" : created_time, "days_since_posting" : timeDiff, "location" : location, "tags" : tags})
 
             iter = iter + 1
             if self.maximum != 0 and iter >= self.maximum:
