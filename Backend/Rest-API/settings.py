@@ -18,45 +18,63 @@ RESOURCE_METHODS = ['GET', 'POST', 'DELETE']
 ITEM_METHODS = ['GET', 'PATCH', 'PUT', 'DELETE']
 
 previousPostSchema = {
-    'PostID': {
+    'postid': {
         'type': 'string',
         'minlength': 1,
         'maxlength': 40,
         'required': True,
         'unique': False,
     },
-    'Link': {
+    'image_link': {
         'type': 'string',
-        'minlength': 1,
-        'maxlength': 40,
         'required': True,
         'unique': True,
     },
-    'UserID': {
-        'type': 'string',
-        'minlength': 1,
-        'maxlength': 40,
-        'required': True,
-        'unique': True,
-    },
-    'RealLikes': {
+    'likes': {
         'type': 'integer',
         'maxlength': 45,
         'required': True,
         'unique': False,
     },
-    'Location': {
-        'type': 'point',
+    'followed_by': {
+        'type': 'integer',
         'maxlength': 45,
         'required': True,
         'unique': False,
     },
-    'PostTime': {
+    'follows': {
+        'type': 'integer',
+        'maxlength': 45,
+        'required': True,
+        'unique': False,
+    },
+    'meanLikes': {
+        'type': 'float',
+        'required': True,
+        'unique': False,
+    },
+    'days_since_posting': {
+        'type': 'float',
+        'required': True,
+        'unique': False,
+    },
+    'location': {
         'type': 'string',
         'maxlength': 45,
         'required': True,
         'unique': False,
     },
+    'created_time': {
+        'type': 'string',
+        'maxlength': 45,
+        'required': True,
+        'unique': False,
+    },
+    'tags': {
+        'type': 'list',
+        'required': True,
+        'unique': False,
+    }
 }
 
 newPostSchema = {
