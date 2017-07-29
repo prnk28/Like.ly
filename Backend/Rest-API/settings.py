@@ -28,7 +28,7 @@ previousPostSchema = {
     'image_link': {
         'type': 'string',
         'required': True,
-        'unique': True,
+        'unique': False,
     },
     'likes': {
         'type': 'integer',
@@ -77,111 +77,112 @@ previousPostSchema = {
     }
 }
 
-newPostSchema = {
-    'PostID': {
-        'type': 'string',
-        'minlength': 1,
-        'maxlength': 40,
-        'required': True,
-        'unique': False,
-    },
-    'Image': {
-        'type': 'string',
-        'minlength': 1,
-        'maxlength': 40,
-        'required': True,
-        'unique': True,
-    },
-    'UserID': {
-        'type': 'string',
-        'minlength': 1,
-        'maxlength': 40,
-        'required': True,
-        'unique': True,
-    },
-    'RealLikes': {
-        'type': 'integer',
-        'maxlength': 45,
-        'required': True,
-        'unique': False,
-    },
-    'EstimatedLikes': {
-        'type': 'integer',
-        'maxlength': 45,
-        'required': True,
-        'unique': False,
-    },
-    'EstimatedTime': {
-        'type': 'integer',
-        'maxlength': 45,
-        'required': True,
-        'unique': False,
-    },
-    'Location': {
-        'type': 'point',
-        'maxlength': 45,
-        'required': True,
-        'unique': False,
-    },
-    'PostTime': {
-        'type': 'string',
-        'maxlength': 45,
-        'required': True,
-        'unique': False,
-    },
-}
+if False:
+    newPostSchema = {
+        'PostID': {
+            'type': 'string',
+            'minlength': 1,
+            'maxlength': 40,
+            'required': True,
+            'unique': False,
+        },
+        'Image': {
+            'type': 'string',
+            'minlength': 1,
+            'maxlength': 40,
+            'required': True,
+            'unique': True,
+        },
+        'UserID': {
+            'type': 'string',
+            'minlength': 1,
+            'maxlength': 40,
+            'required': True,
+            'unique': True,
+        },
+        'RealLikes': {
+            'type': 'integer',
+            'maxlength': 45,
+            'required': True,
+            'unique': False,
+        },
+        'EstimatedLikes': {
+            'type': 'integer',
+            'maxlength': 45,
+            'required': True,
+            'unique': False,
+        },
+        'EstimatedTime': {
+            'type': 'integer',
+            'maxlength': 45,
+            'required': True,
+            'unique': False,
+        },
+        'Location': {
+            'type': 'point',
+            'maxlength': 45,
+            'required': True,
+            'unique': False,
+        },
+        'PostTime': {
+            'type': 'string',
+            'maxlength': 45,
+            'required': True,
+            'unique': False,
+        },
+    }
 
-userSchema = {
-    'UserID': {
-        'type': 'string',
-        'minlength': 1,
-        'maxlength': 40,
-        'required': True,
-        'unique': False,
-    },
-    'Name': {
-        'type': 'string',
-        'minlength': 1,
-        'maxlength': 60,
-        'required': True,
-        'unique': False,
-    },
-    'AverageLocation': {
-        'type': 'point',
-        'minlength': 1,
-        'maxlength': 40,
-        'required': True,
-        'unique': False,
-    },
-    'Followers': {
-        'type': 'integer',
-        'minlength': 1,
-        'maxlength': 60,
-        'required': True,
-        'unique': False,
-    },
-    'LastPictureTime': {
-        'type': 'datetime',
-        'minlength': 1,
-        'maxlength': 40,
-        'required': True,
-        'unique': False,
-    },
-    'TimeBetweenEachPicture': {
-        'type': 'string',
-        'minlength': 1,
-        'maxlength': 60,
-        'required': True,
-        'unique': False,
-    },
-}
+    userSchema = {
+        'UserID': {
+            'type': 'string',
+            'minlength': 1,
+            'maxlength': 40,
+            'required': True,
+            'unique': False,
+        },
+        'Name': {
+            'type': 'string',
+            'minlength': 1,
+            'maxlength': 60,
+            'required': True,
+            'unique': False,
+        },
+        'AverageLocation': {
+            'type': 'point',
+            'minlength': 1,
+            'maxlength': 40,
+            'required': True,
+            'unique': False,
+        },
+        'Followers': {
+            'type': 'integer',
+            'minlength': 1,
+            'maxlength': 60,
+            'required': True,
+            'unique': False,
+        },
+        'LastPictureTime': {
+            'type': 'datetime',
+            'minlength': 1,
+            'maxlength': 40,
+            'required': True,
+            'unique': False,
+        },
+        'TimeBetweenEachPicture': {
+            'type': 'string',
+            'minlength': 1,
+            'maxlength': 60,
+            'required': True,
+            'unique': False,
+        },
+    }
 
 PreviousPost = {
     'item_title': 'PreviousPost',
     'allow_unknown': True,
     'additional_lookup': {
         'url': 'regex("[\w]+")',
-        'field': 'PostID'
+        'field': 'postid'
     },
 
     'cache_control': 'max-age=10,must-revalidate',
@@ -190,37 +191,37 @@ PreviousPost = {
     'item_methods': ['GET','PATCH', 'PUT'],
     'schema': previousPostSchema
 }
+if False:
+    NewPost = {
+        'item_title': 'NewPost',
+        'additional_lookup': {
+            'url': 'regex("[\w]+")',
+            'field': 'postid'
+        },
 
-NewPost = {
-    'item_title': 'NewPost',
-    'additional_lookup': {
-        'url': 'regex("[\w]+")',
-        'field': 'PostID'
-    },
+        'cache_control': 'max-age=10,must-revalidate',
+        'cache_expires': 10,
+        'resource_methods': ['GET', 'POST'],
+        'item_methods': ['GET','PATCH', 'PUT'],
+        'schema': newPostSchema
+    }
 
-    'cache_control': 'max-age=10,must-revalidate',
-    'cache_expires': 10,
-    'resource_methods': ['GET', 'POST'],
-    'item_methods': ['GET','PATCH', 'PUT'],
-    'schema': newPostSchema
-}
-
-User = {
-    'item_title': 'User',
-    'additional_lookup': {
+    User = {
+        'item_title': 'User',
+        'additional_lookup': {
         'url': 'regex("[\w]+")',
         'field': 'UserID'
-    },
+        },
 
-    'cache_control': 'max-age=10,must-revalidate',
-    'cache_expires': 10,
-    'resource_methods': ['GET'],
-    'item_methods': ['GET'],
-    'schema': userSchema
-}
+        'cache_control': 'max-age=10,must-revalidate',
+        'cache_expires': 10,
+        'resource_methods': ['GET'],
+        'item_methods': ['GET'],
+        'schema': userSchema
+        }
 
 DOMAIN = {
     'PreviousPost': PreviousPost,
-    'NewPost': NewPost,
-    'User': User
+    #'NewPost': NewPost,
+    #'User': User
 }
