@@ -438,7 +438,9 @@ class InstagramScraper(object):
                 timeDiff = float('%.3f' % (timeDiff))
 
                 url = "http://104.199.211.96:65/PreviousPost"
-                picture = PreviousPost(postid, image_link, likes, meanLikes, user['follows']['count'], user['followed_by']['count'],created_time,timeDiff,location,tags)
+
+                picture = PreviousPost(postid, image_link, likes, user['followed_by']['count'], user['follows']['count'], meanLikes, timeDiff, location, created_time,tags)
+
                 payload = picture.toJSON()
                 print(payload)
                 headers = {
@@ -449,22 +451,17 @@ class InstagramScraper(object):
 
                 response = requests.request("POST", url, data=payload, headers=headers)
 
-'''
-                self.posts.append({"postid" : postid,
-                 "image_link" : image_link,
-                  "likes" : likes,
-                  "meanLikes" : meanLikes,
-                  "follows" : user['follows']['count'],
-                  "followed_by" : user['followed_by']['count'],
-                   "created_time" : created_time,
-                   "days_since_posting" : timeDiff,
-                    "location" : location,
-                     "tags" : tags})
-'''
 
             iter = iter + 1
             if self.maximum != 0 and iter >= self.maximum:
                 break
+
+
+        #        self.posts.append({"postid" : postid, "image_link" : image_link,  "likes" : likes, "meanLikes" : meanLikes, "follows" : user['follows']['count'], "followed_by" : user['followed_by']['count'], "created_time" : created_time,
+        #           "days_since_posting" : timeDiff, "location" : location, "tags" : tags})
+
+
+
 
     def getMeanLikes(self, username):
         count = 0
