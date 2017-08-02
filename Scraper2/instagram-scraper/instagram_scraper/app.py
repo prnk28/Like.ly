@@ -38,15 +38,15 @@ class Payload(object):
 
 class PreviousPost:
     #A class that will be used to create previous post JSON objects to put in the database
-    def __init__(self, postid, image_link, likes, followed_by, follows, meanLikes, days_since_posting, location, created_time, tags):
+    def __init__(self, postid, likes, followed_by, follows, meanLikes, days_since_posting, created_time, tags):
         self.postid = postid
-        self.image_link = image_link
+        
         self.likes = likes
         self.followed_by = followed_by
         self.follows = follows
         self.meanLikes = meanLikes
         self.days_since_posting = days_since_posting
-        self.location = location
+
         self.created_time = created_time
         self.tags = tags
 
@@ -420,7 +420,8 @@ class InstagramScraper(object):
                 timeDiff = float('%.3f' % (timeDiff))
 
                 # Implement creating JSON with tags and faces from CVAPI
-                picture = PreviousPost(postid, image_link, likes, meanLikes, user['follows']['count'], user['followed_by']['count'],created_time,timeDiff,location,tags)
+
+                picture = PreviousPost(postid, likes, user['followed_by']['count'], user['follows']['count'], meanLikes, timeDiff, created_time, tags)
                 payload = picture.toJSON()
                 print(payload)
 
