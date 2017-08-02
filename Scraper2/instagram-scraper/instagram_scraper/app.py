@@ -430,6 +430,7 @@ class InstagramScraper(object):
                 created_time = item['created_time']
                 postid = item['id']
 
+                # This posts to computer vision api
                 headers = {
                     # Request headers
                     'Content-Type': 'application/json',
@@ -461,6 +462,9 @@ class InstagramScraper(object):
                 timeDiff = (timeDiff.total_seconds())/(60*60*24)
                 timeDiff = float('%.3f' % (timeDiff))
 
+                # Implement creating JSON with tags and faces from CVAPI
+
+                # This posts created JSON to our server
                 """url = "http://104.199.211.96:65/PreviousPost"
                 picture = PreviousPost(postid, image_link, likes, meanLikes, user['follows']['count'], user['followed_by']['count'],created_time,timeDiff,location,tags)
                 payload = picture.toJSON()
@@ -473,8 +477,8 @@ class InstagramScraper(object):
 
                 response = requests.request("POST", url, data=payload, headers=headers)
 
-
-                '''self.posts.append({"postid" : postid,
+                # This is what creates JSON
+                self.posts.append({"postid" : postid,
                 "image_link" : image_link,
                 "likes" : likes,
                 "meanLikes" : meanLikes,
@@ -483,11 +487,11 @@ class InstagramScraper(object):
                 "created_time" : created_time,
                 "days_since_posting" : timeDiff,
                 "location" : location,
-                "tags" : tags})'''
+                "tags" : tags})"""
 
             iter = iter + 1
             if self.maximum != 0 and iter >= self.maximum:
-                break"""
+                break
 
 
 
