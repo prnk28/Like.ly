@@ -18,7 +18,6 @@ import httplib, urllib, base64, json
 
 ########### Python 2.7 #############
 import httplib, urllib, base64
-
 body = '{"url":"https://scontent-iad3-1.cdninstagram.com/t51.2885-15/e15/11101983_1599222583697758_153856469_n.jpg"}'
 headers = {
     # Request headers

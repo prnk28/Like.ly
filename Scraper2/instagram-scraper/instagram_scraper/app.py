@@ -15,7 +15,8 @@ import textwrap
 import time
 import warnings
 import datetime
-
+import json
+import httplib, urllib, base64, json
 import concurrent.futures
 import requests
 import tqdm
@@ -438,6 +439,25 @@ class InstagramScraper(object):
                 timeDiff = float('%.3f' % (timeDiff))
 
                 url = "http://104.199.211.96:65/PreviousPost"
+
+                headers = {
+                    # Request headers
+                    'Content-Type': 'application/json',
+                    'Ocp-Apim-Subscription-Key': '7eb7e9da359d4d02b4ef770238913c0f',
+                }
+
+                params = urllib.urlencode({
+                    # Request parameters
+                    'visualFeatures': 'Categories, Tags, Description, Faces, ImageType, Color, Adult',
+                    'language': 'en',
+                })
+
+                conn = httplib.HTTPSConnection('eastus2.api.cognitive.microsoft.com')
+                conn.request("POST", "/vision/v1.0/analyze?%s" % params, '{"url":"https://scontent-iad3-1.cdninstagram.com/t51.2885-15/e15/11101983_1599222583697758_153856469_n.jpg"}', headers)
+                response = conn.getresponse()
+                data = response.read()
+                print(data)
+                conn.close()
 
                 picture = PreviousPost(postid, image_link, likes, user['followed_by']['count'], user['follows']['count'], meanLikes, timeDiff, location, created_time,tags)
 
