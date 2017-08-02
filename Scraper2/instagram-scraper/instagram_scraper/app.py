@@ -395,8 +395,6 @@ class InstagramScraper(object):
     #             if self.maximum != 0 and iter >= self.maximum:
     #                 break
 
-
-
     def get_media(self, dst, executor, future_to_item, username, user):
         """Scrapes the user's posts for media."""
         if self.media_types == ['story']:
@@ -432,14 +430,6 @@ class InstagramScraper(object):
                 created_time = item['created_time']
                 postid = item['id']
 
-                postTimeFinal=(datetime.datetime.fromtimestamp(int(created_time)))
-                current = datetime.datetime.now()
-                timeDiff = (current - postTimeFinal)
-                timeDiff = (timeDiff.total_seconds())/(60*60*24)
-                timeDiff = float('%.3f' % (timeDiff))
-
-                url = "http://104.199.211.96:65/PreviousPost"
-
                 headers = {
                     # Request headers
                     'Content-Type': 'application/json',
@@ -452,15 +442,27 @@ class InstagramScraper(object):
                     'language': 'en',
                 })
 
-                conn = httplib.HTTPSConnection('eastus2.api.cognitive.microsoft.com')
-                conn.request("POST", "/vision/v1.0/analyze?%s" % params, '{"url":"https://scontent-iad3-1.cdninstagram.com/t51.2885-15/e15/11101983_1599222583697758_153856469_n.jpg"}', headers)
-                response = conn.getresponse()
-                data = response.read()
-                print(data)
-                conn.close()
+                try:
+                    conn = httplib.HTTPSConnection('eastus2.api.cognitive.microsoft.com')
+                    conn.request("POST", "/vision/v1.0/analyze?%s" % params,
+                                 '{"url":"%s"}' % image_link,
+                                 headers)
+                    response = conn.getresponse()
+                    data = response.read()
+                    data[""]
+                    print(data)
+                    conn.close()
+                except Exception as e:
+                    print("[Errno {0}] {1}".format(e.errno, e.strerror))
 
-                picture = PreviousPost(postid, image_link, likes, user['followed_by']['count'], user['follows']['count'], meanLikes, timeDiff, location, created_time,tags)
+                postTimeFinal=(datetime.datetime.fromtimestamp(int(created_time)))
+                current = datetime.datetime.now()
+                timeDiff = (current - postTimeFinal)
+                timeDiff = (timeDiff.total_seconds())/(60*60*24)
+                timeDiff = float('%.3f' % (timeDiff))
 
+                """url = "http://104.199.211.96:65/PreviousPost"
+                picture = PreviousPost(postid, image_link, likes, meanLikes, user['follows']['count'], user['followed_by']['count'],created_time,timeDiff,location,tags)
                 payload = picture.toJSON()
                 print(payload)
                 headers = {
@@ -472,14 +474,20 @@ class InstagramScraper(object):
                 response = requests.request("POST", url, data=payload, headers=headers)
 
 
+                '''self.posts.append({"postid" : postid,
+                "image_link" : image_link,
+                "likes" : likes,
+                "meanLikes" : meanLikes,
+                "follows" : user['follows']['count'],
+                "followed_by" : user['followed_by']['count'],
+                "created_time" : created_time,
+                "days_since_posting" : timeDiff,
+                "location" : location,
+                "tags" : tags})'''
+
             iter = iter + 1
             if self.maximum != 0 and iter >= self.maximum:
-                break
-
-
-        #        self.posts.append({"postid" : postid, "image_link" : image_link,  "likes" : likes, "meanLikes" : meanLikes, "follows" : user['follows']['count'], "followed_by" : user['followed_by']['count'], "created_time" : created_time,
-        #           "days_since_posting" : timeDiff, "location" : location, "tags" : tags})
-
+                break"""
 
 
 
