@@ -1,0 +1,146 @@
+[
+    {
+        "created_time": "1501434879", 
+        "days_since_posting": 3.319, 
+        "follow_ratio": 0.4274004683840749, 
+        "follows": 730, 
+        "likes": 339, 
+        "meanLikes": 283.34177215189874, 
+        "tags": [
+            "tattoo", 
+            "abstract", 
+            "person", 
+            "indoor", 
+            "people_tattoo"
+        ]
+    }, 
+    {
+        "created_time": "1500662089", 
+        "days_since_posting": 12.263, 
+        "follow_ratio": 0.4274004683840749, 
+        "follows": 730, 
+        "likes": 412, 
+        "meanLikes": 283.34177215189874, 
+        "tags": [
+            "person", 
+            "posing", 
+            "people", 
+            "standing", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1495725755", 
+        "days_since_posting": 69.397, 
+        "follow_ratio": 0.4274004683840749, 
+        "follows": 730, 
+        "likes": 459, 
+        "meanLikes": 283.34177215189874, 
+        "tags": [
+            "person", 
+            "standing", 
+            "posing", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1495409817", 
+        "days_since_posting": 73.053, 
+        "follow_ratio": 0.4274004683840749, 
+        "follows": 730, 
+        "likes": 417, 
+        "meanLikes": 283.34177215189874, 
+        "tags": [
+            "person", 
+            "man", 
+            "posing", 
+            "standing", 
+            "indoor", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1494818668", 
+        "days_since_posting": 79.896, 
+        "follow_ratio": 0.4274004683840749, 
+        "follows": 730, 
+        "likes": 422, 
+        "meanLikes": 283.34177215189874, 
+        "tags": [
+            "person", 
+            "sky", 
+            "outdoor", 
+            "tree", 
+            "man", 
+            "standing", 
+            "people_group", 
+            "people_young"
+        ]
+    }, 
+    {
+        "created_time": "1494282990", 
+        "days_since_posting": 86.096, 
+        "follow_ratio": 0.4274004683840749, 
+        "follows": 730, 
+        "likes": 388, 
+        "meanLikes": 283.34177215189874, 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "group", 
+            "posing", 
+            "standing", 
+            "man", 
+            "people", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1491772854", 
+        "days_since_posting": 115.148, 
+        "follow_ratio": 0.4274004683840749, 
+        "follows": 730, 
+        "likes": 362, 
+        "meanLikes": 283.34177215189874, 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "ground", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1491177744", 
+        "days_since_posting": 122.036, 
+        "follow_ratio": 0.4274004683840749, 
+        "follows": 730, 
+        "likes": 369, 
+        "meanLikes": 283.34177215189874, 
+        "tags": [
+            "grass", 
+            "outdoor", 
+            "person", 
+            "sky", 
+            "standing", 
+            "suit", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1489783605", 
+        "days_since_posting": 138.172, 
+        "follow_ratio": 0.4274004683840749, 
+        "follows": 730, 
+        "likes": 315, 
+        "meanLikes": 283.34177215189874, 
+        "tags": [
+            "grass", 
+            "person", 
+            "soccer", 
+            "outdoor", 
+            "field", 
+            "player", 
+            "people_group"
+        ]
+    }
+]

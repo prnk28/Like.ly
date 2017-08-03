@@ -1,0 +1,89 @@
+[
+    {
+        "created_time": "1498872868", 
+        "days_since_posting": 32.98, 
+        "follow_ratio": 0.8710144927536232, 
+        "follows": 601, 
+        "likes": 220, 
+        "meanLikes": 163.0, 
+        "tags": [
+            "sky", 
+            "outdoor", 
+            "dark_", 
+            "outdoor_", 
+            "sky_cloud"
+        ]
+    }, 
+    {
+        "created_time": "1493522103", 
+        "days_since_posting": 94.911, 
+        "follow_ratio": 0.8710144927536232, 
+        "follows": 601, 
+        "likes": 191, 
+        "meanLikes": 163.0, 
+        "tags": [
+            "person", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1486783163", 
+        "days_since_posting": 172.949, 
+        "follow_ratio": 0.8710144927536232, 
+        "follows": 601, 
+        "likes": 172, 
+        "meanLikes": 163.0, 
+        "tags": [
+            "person", 
+            "standing", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1476841260", 
+        "days_since_posting": 287.976, 
+        "follow_ratio": 0.8710144927536232, 
+        "follows": 601, 
+        "likes": 122, 
+        "meanLikes": 163.0, 
+        "tags": [
+            "standing", 
+            "person", 
+            "outdoor", 
+            "ground", 
+            "posing", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1475963092", 
+        "days_since_posting": 298.14, 
+        "follow_ratio": 0.8710144927536232, 
+        "follows": 601, 
+        "likes": 142, 
+        "meanLikes": 163.0, 
+        "tags": [
+            "person", 
+            "outdoor_", 
+            "people_show"
+        ]
+    }, 
+    {
+        "created_time": "1472935225", 
+        "days_since_posting": 333.185, 
+        "follow_ratio": 0.8710144927536232, 
+        "follows": 601, 
+        "likes": 131, 
+        "meanLikes": 163.0, 
+        "tags": [
+            "outdoor", 
+            "sky", 
+            "surfing", 
+            "beach", 
+            "water", 
+            "standing", 
+            "others_", 
+            "outdoor_"
+        ]
+    }
+]

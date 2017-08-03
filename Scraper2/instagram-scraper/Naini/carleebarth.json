@@ -1,0 +1,41 @@
+[
+    {
+        "created_time": "1500815181", 
+        "days_since_posting": 10.491, 
+        "follow_ratio": 6.525, 
+        "follows": 783, 
+        "likes": 10, 
+        "meanLikes": 9.666666666666666, 
+        "tags": [
+            "book", 
+            "shelf", 
+            "indoor", 
+            "others_", 
+            "text_mag"
+        ]
+    }, 
+    {
+        "created_time": "1500815072", 
+        "days_since_posting": 10.492, 
+        "follow_ratio": 6.525, 
+        "follows": 783, 
+        "likes": 8, 
+        "meanLikes": 9.666666666666666, 
+        "tags": [
+            "woman", 
+            "text_mag"
+        ]
+    }, 
+    {
+        "created_time": "1500814857", 
+        "days_since_posting": 10.495, 
+        "follow_ratio": 6.525, 
+        "follows": 783, 
+        "likes": 11, 
+        "meanLikes": 9.666666666666666, 
+        "tags": [
+            "clothing", 
+            "text_mag"
+        ]
+    }
+]

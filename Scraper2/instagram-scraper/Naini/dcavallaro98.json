@@ -1,0 +1,133 @@
+[
+    {
+        "created_time": "1494105598", 
+        "days_since_posting": 88.159, 
+        "follow_ratio": 0.972, 
+        "follows": 486, 
+        "likes": 146, 
+        "meanLikes": 63.57142857142857, 
+        "tags": [
+            "grass", 
+            "outdoor", 
+            "person", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1492270842", 
+        "days_since_posting": 109.395, 
+        "follow_ratio": 0.972, 
+        "follows": 486, 
+        "likes": 151, 
+        "meanLikes": 63.57142857142857, 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "others_", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1478132140", 
+        "days_since_posting": 273.037, 
+        "follow_ratio": 0.972, 
+        "follows": 486, 
+        "likes": 117, 
+        "meanLikes": 63.57142857142857, 
+        "tags": [
+            "sky", 
+            "outdoor", 
+            "city", 
+            "building_", 
+            "outdoor_", 
+            "outdoor_city"
+        ]
+    }, 
+    {
+        "created_time": "1472076106", 
+        "days_since_posting": 343.13, 
+        "follow_ratio": 0.972, 
+        "follows": 486, 
+        "likes": 78, 
+        "meanLikes": 63.57142857142857, 
+        "tags": [
+            "abstract", 
+            "tattoo", 
+            "people_tattoo"
+        ]
+    }, 
+    {
+        "created_time": "1467520733", 
+        "days_since_posting": 395.855, 
+        "follow_ratio": 0.972, 
+        "follows": 486, 
+        "likes": 45, 
+        "meanLikes": 63.57142857142857, 
+        "tags": [
+            "outdoor", 
+            "sky", 
+            "nature", 
+            "canyon", 
+            "outdoor_", 
+            "outdoor_stonerock"
+        ]
+    }, 
+    {
+        "created_time": "1467337201", 
+        "days_since_posting": 397.979, 
+        "follow_ratio": 0.972, 
+        "follows": 486, 
+        "likes": 41, 
+        "meanLikes": 63.57142857142857, 
+        "tags": [
+            "tree", 
+            "water", 
+            "outdoor", 
+            "nature", 
+            "plant_", 
+            "plant_tree"
+        ]
+    }, 
+    {
+        "created_time": "1467079687", 
+        "days_since_posting": 400.959, 
+        "follow_ratio": 0.972, 
+        "follows": 486, 
+        "likes": 72, 
+        "meanLikes": 63.57142857142857, 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "military uniform", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1466941502", 
+        "days_since_posting": 402.559, 
+        "follow_ratio": 0.972, 
+        "follows": 486, 
+        "likes": 52, 
+        "meanLikes": 63.57142857142857, 
+        "tags": [
+            "food", 
+            "hot", 
+            "dog", 
+            "food_"
+        ]
+    }, 
+    {
+        "created_time": "1457450007", 
+        "days_since_posting": 512.456, 
+        "follow_ratio": 0.972, 
+        "follows": 486, 
+        "likes": 40, 
+        "meanLikes": 63.57142857142857, 
+        "tags": [
+            "person", 
+            "man", 
+            "people_group"
+        ]
+    }
+]

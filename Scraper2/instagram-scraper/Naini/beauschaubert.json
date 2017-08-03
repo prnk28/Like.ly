@@ -1,0 +1,111 @@
+[
+    {
+        "created_time": "1497813811", 
+        "days_since_posting": 45.245, 
+        "follow_ratio": 1.0829145728643217, 
+        "follows": 431, 
+        "likes": 41, 
+        "meanLikes": 77.28571428571429, 
+        "tags": [
+            "abstract_"
+        ]
+    }, 
+    {
+        "created_time": "1497314342", 
+        "days_since_posting": 51.025, 
+        "follow_ratio": 1.0829145728643217, 
+        "follows": 431, 
+        "likes": 85, 
+        "meanLikes": 77.28571428571429, 
+        "tags": [
+            "tree", 
+            "grass", 
+            "outdoor", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1493042774", 
+        "days_since_posting": 100.465, 
+        "follow_ratio": 1.0829145728643217, 
+        "follows": 431, 
+        "likes": 100, 
+        "meanLikes": 77.28571428571429, 
+        "tags": [
+            "person", 
+            "suit", 
+            "clothing", 
+            "standing", 
+            "outdoor", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1492967930", 
+        "days_since_posting": 101.331, 
+        "follow_ratio": 1.0829145728643217, 
+        "follows": 431, 
+        "likes": 77, 
+        "meanLikes": 77.28571428571429, 
+        "tags": [
+            "person", 
+            "building", 
+            "suit", 
+            "clothing", 
+            "outdoor", 
+            "business", 
+            "people", 
+            "group", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1469376963", 
+        "days_since_posting": 374.375, 
+        "follow_ratio": 1.0829145728643217, 
+        "follows": 431, 
+        "likes": 132, 
+        "meanLikes": 77.28571428571429, 
+        "tags": [
+            "person", 
+            "man", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1463619534", 
+        "days_since_posting": 441.012, 
+        "follow_ratio": 1.0829145728643217, 
+        "follows": 431, 
+        "likes": 47, 
+        "meanLikes": 77.28571428571429, 
+        "tags": [
+            "person", 
+            "wall", 
+            "man", 
+            "suit", 
+            "indoor", 
+            "standing", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1436723390", 
+        "days_since_posting": 752.31, 
+        "follow_ratio": 1.0829145728643217, 
+        "follows": 431, 
+        "likes": 59, 
+        "meanLikes": 77.28571428571429, 
+        "tags": [
+            "person", 
+            "standing", 
+            "floor", 
+            "man", 
+            "indoor", 
+            "posing", 
+            "people_group"
+        ]
+    }
+]

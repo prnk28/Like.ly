@@ -1,0 +1,156 @@
+[
+    {
+        "created_time": "1500082217", 
+        "days_since_posting": 18.985, 
+        "follow_ratio": 0.8620689655172413, 
+        "follows": 900, 
+        "likes": 258, 
+        "meanLikes": 91.71264367816092, 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "sky", 
+            "standing", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1497473196", 
+        "days_since_posting": 49.182, 
+        "follow_ratio": 0.8620689655172413, 
+        "follows": 900, 
+        "likes": 208, 
+        "meanLikes": 91.71264367816092, 
+        "tags": [
+            "outdoor", 
+            "snow", 
+            "sky", 
+            "skiing", 
+            "man", 
+            "water sport", 
+            "person", 
+            "sport", 
+            "hill", 
+            "surfing", 
+            "sky_cloud"
+        ]
+    }, 
+    {
+        "created_time": "1494118231", 
+        "days_since_posting": 88.013, 
+        "follow_ratio": 0.8620689655172413, 
+        "follows": 900, 
+        "likes": 249, 
+        "meanLikes": 91.71264367816092, 
+        "tags": [
+            "person", 
+            "indoor", 
+            "posing", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1483663465", 
+        "days_since_posting": 209.059, 
+        "follow_ratio": 0.8620689655172413, 
+        "follows": 900, 
+        "likes": 279, 
+        "meanLikes": 91.71264367816092, 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "woman", 
+            "people_young"
+        ]
+    }, 
+    {
+        "created_time": "1478567642", 
+        "days_since_posting": 268.038, 
+        "follow_ratio": 0.8620689655172413, 
+        "follows": 900, 
+        "likes": 259, 
+        "meanLikes": 91.71264367816092, 
+        "tags": [
+            "person", 
+            "woman", 
+            "clothing", 
+            "indoor", 
+            "necktie", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1472825450", 
+        "days_since_posting": 334.457, 
+        "follow_ratio": 0.8620689655172413, 
+        "follows": 900, 
+        "likes": 250, 
+        "meanLikes": 91.71264367816092, 
+        "tags": [
+            "person", 
+            "table", 
+            "indoor", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1472492948", 
+        "days_since_posting": 338.306, 
+        "follow_ratio": 0.8620689655172413, 
+        "follows": 900, 
+        "likes": 211, 
+        "meanLikes": 91.71264367816092, 
+        "tags": [
+            "floor", 
+            "indoor", 
+            "person", 
+            "ceiling", 
+            "posing", 
+            "people_many"
+        ]
+    }, 
+    {
+        "created_time": "1466266013", 
+        "days_since_posting": 410.377, 
+        "follow_ratio": 0.8620689655172413, 
+        "follows": 900, 
+        "likes": 137, 
+        "meanLikes": 91.71264367816092, 
+        "tags": [
+            "person", 
+            "sky", 
+            "outdoor", 
+            "grass", 
+            "standing", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1462755699", 
+        "days_since_posting": 451.005, 
+        "follow_ratio": 0.8620689655172413, 
+        "follows": 900, 
+        "likes": 147, 
+        "meanLikes": 91.71264367816092, 
+        "tags": [
+            "person", 
+            "people", 
+            "posing", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1458858101", 
+        "days_since_posting": 496.116, 
+        "follow_ratio": 0.8620689655172413, 
+        "follows": 900, 
+        "likes": 114, 
+        "meanLikes": 91.71264367816092, 
+        "tags": [
+            "person", 
+            "posing", 
+            "outdoor_", 
+            "people_group"
+        ]
+    }
+]
