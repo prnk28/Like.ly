@@ -126,10 +126,10 @@ class InstagramScraper(object):
     def make_dst_dir(self, username):
         """Creates the destination directory."""
         if self.destination == './':
-            dst = './' + username
+            dst = './'
         else:
             if self.retain_username:
-                dst = self.destination + '/' + username
+                dst = self.destination + '/'
             else:
                 dst = self.destination
 
@@ -404,7 +404,6 @@ class InstagramScraper(object):
                     tags = []
                     for t in p.tags:
                         if t["confidence"] > 0.8:
-                            print(t)
                             tags.append(t["name"])
                     for t in p.categories:
                             tags.append(t["name"])
@@ -462,6 +461,8 @@ class InstagramScraper(object):
                 likes = item['likes']['count']
                 count = count + 1
                 average = likes + average
+            if count == 0:
+                return 0
 
         return (average/count)
 
