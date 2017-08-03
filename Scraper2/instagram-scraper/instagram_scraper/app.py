@@ -1,5 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+from __future__ import division
 
 import argparse
 import codecs
@@ -31,17 +32,22 @@ except NameError:
 
 warnings.filterwarnings('ignore')
 
+class Payload(object):
+    def __init__(self, j):
+        self.__dict__ = json.loads(j)
+
+
 class PreviousPost:
     #A class that will be used to create previous post JSON objects to put in the database
-    def __init__(self, postid, image_link, likes, followed_by, follows, meanLikes, days_since_posting, location, created_time, tags):
+    def __init__(self, postid, likes, follow_ratio, follows, meanLikes, days_since_posting, created_time, tags):
         self.postid = postid
-        self.image_link = image_link
+
         self.likes = likes
-        self.followed_by = followed_by
+        self.follow_ratio = follow_ratio
         self.follows = follows
         self.meanLikes = meanLikes
         self.days_since_posting = days_since_posting
-        self.location = location
+
         self.created_time = created_time
         self.tags = tags
 
@@ -152,39 +158,7 @@ class InstagramScraper(object):
             latest_file = max(list_of_files, key=os.path.getmtime)
             self.last_scraped_filemtime = int(os.path.getmtime(latest_file))
 
-    # def query_comments_gen(self, shortcode, end_cursor=''):
-    #     """Generator for comments."""
-    #     comments, end_cursor = self.__query_comments(shortcode, end_cursor)
-    #
-    #     if comments:
-    #         try:
-    #             while True:
-    #                 for item in comments:
-    #                     yield item
-    #
-    #                 if end_cursor:
-    #                     comments, end_cursor = self.__query_comments(shortcode, end_cursor)
-    #                 else:
-    #                     return
-    #         except ValueError:
-    #             self.logger.exception('Failed to query comments for shortcode ' + shortcode)
-    #
-    # def __query_comments(self, shortcode, end_cursor=''):
-    #     resp = self.session.get(QUERY_COMMENTS.format(shortcode, end_cursor))
-    #
-    #     if resp.status_code == 200:
-    #         payload = json.loads(resp.text)['data']['shortcode_media']
-    #
-    #         if payload:
-    #             container = payload['edge_media_to_comment']
-    #             comments = [node['node'] for node in container['edges']]
-    #             end_cursor = container['page_info']['end_cursor']
-    #             return comments, end_cursor
-    #         else:
-    #             return iter([])
-    #     else:
-    #         time.sleep(6)
-    #         return self.__query_comments(shortcode, end_cursor)
+
 
     def scrape_hashtag(self):
         self.__scrape_query(self.query_hashtag_gen)
@@ -366,34 +340,7 @@ class InstagramScraper(object):
 
         self.logout()
 
-    # def get_profile_pic(self, dst, executor, future_to_item, user, username):
-    #     # Download the profile pic if not the default.
-    #     if 'image' in self.media_types and 'profile_pic_url_hd' in user \
-    #             and '11906329_960233084022564_1448528159' not in user['profile_pic_url_hd']:
-    #         item = {'urls': [re.sub(r'/s\d{3,}x\d{3,}/', '/', user['profile_pic_url_hd'])], 'created_time': 1286323200}
-    #
-    #         if self.latest is False or os.path.isfile(dst + '/' + item['urls'][0].split('/')[-1]) is False:
-    #             for item in tqdm.tqdm([item], desc='Searching {0} for profile pic'.format(username), unit=" images",
-    #                                   ncols=0, disable=self.quiet):
-    #                 future = executor.submit(self.download, item, dst)
-    #                 future_to_item[future] = item
-    #
-    # def get_stories(self, dst, executor, future_to_item, user, username):
-    #     """Scrapes the user's stories."""
-    #     if self.logged_in and 'story' in self.media_types:
-    #         # Get the user's stories.
-    #         stories = self.fetch_stories(user['id'])
-    #
-    #         # Downloads the user's stories and sends it to the executor.
-    #         iter = 0
-    #         for item in tqdm.tqdm(stories, desc='Searching {0} for stories'.format(username), unit=" media",
-    #                               disable=self.quiet):
-    #             future = executor.submit(self.download, item, dst)
-    #             future_to_item[future] = item
-    #
-    #             iter = iter + 1
-    #             if self.maximum != 0 and iter >= self.maximum:
-    #                 break
+
 
     def get_media(self, dst, executor, future_to_item, username, user):
         """Scrapes the user's posts for media."""
@@ -424,13 +371,12 @@ class InstagramScraper(object):
                 else:
                     location = ""
 
-                tags = []
 
                 likes = item['likes']['count']
                 created_time = item['created_time']
                 postid = item['id']
 
-                # This posts to computer vision api
+                # This posts to computer vision API
                 headers = {
                     # Request headers
                     'Content-Type': 'application/json',
@@ -443,6 +389,7 @@ class InstagramScraper(object):
                     'language': 'en',
                 })
 
+                # Try connection for CVAPI
                 try:
                     conn = httplib.HTTPSConnection('eastus2.api.cognitive.microsoft.com')
                     conn.request("POST", "/vision/v1.0/analyze?%s" % params,
@@ -450,8 +397,18 @@ class InstagramScraper(object):
                                  headers)
                     response = conn.getresponse()
                     data = response.read()
-                    data[""]
-                    print(data)
+
+                    # Utilizes JSON payload Class to Deserialize Json Object
+                    p = Payload(data)
+
+                    tags = []
+                    for t in p.tags:
+                        if t["confidence"] > 0.8:
+                            print(t)
+                            tags.append(t["name"])
+                    for t in p.categories:
+                            tags.append(t["name"])
+
                     conn.close()
                 except Exception as e:
                     print("[Errno {0}] {1}".format(e.errno, e.strerror))
@@ -463,6 +420,10 @@ class InstagramScraper(object):
                 timeDiff = float('%.3f' % (timeDiff))
 
                 # Implement creating JSON with tags and faces from CVAPI
+
+                picture = PreviousPost(postid, likes, user['follows']['count']/user['followed_by']['count'], user['follows']['count'], meanLikes, timeDiff, created_time, tags)
+                #payload = picture.toJSON()
+                #print(payload)
 
                 # This posts created JSON to our server
                 """url = "http://104.199.211.96:65/PreviousPost"
@@ -476,18 +437,16 @@ class InstagramScraper(object):
                     }
 
                 response = requests.request("POST", url, data=payload, headers=headers)
-
+                """
                 # This is what creates JSON
-                self.posts.append({"postid" : postid,
-                "image_link" : image_link,
+                self.posts.append({
+                "follow_ratio" : user['follows']['count']/user['followed_by']['count'],
                 "likes" : likes,
                 "meanLikes" : meanLikes,
                 "follows" : user['follows']['count'],
-                "followed_by" : user['followed_by']['count'],
                 "created_time" : created_time,
                 "days_since_posting" : timeDiff,
-                "location" : location,
-                "tags" : tags})"""
+                "tags" : tags})
 
             iter = iter + 1
             if self.maximum != 0 and iter >= self.maximum:
