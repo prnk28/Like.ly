@@ -1,0 +1,128 @@
+[
+    {
+        "created_time": "1497823271", 
+        "days_since_posting": 45.128, 
+        "follow_ratio": 0.6337772397094431, 
+        "follows": 2094, 
+        "likes": 376, 
+        "meanLikes": 331.4418604651163, 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "player", 
+            "grass", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1495334922", 
+        "days_since_posting": 73.929, 
+        "follow_ratio": 0.6337772397094431, 
+        "follows": 2094, 
+        "likes": 504, 
+        "meanLikes": 331.4418604651163, 
+        "tags": [
+            "wall", 
+            "person", 
+            "floor", 
+            "indoor", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1495306566", 
+        "days_since_posting": 74.257, 
+        "follow_ratio": 0.6337772397094431, 
+        "follows": 2094, 
+        "likes": 653, 
+        "meanLikes": 331.4418604651163, 
+        "tags": [
+            "person", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1491775221", 
+        "days_since_posting": 115.129, 
+        "follow_ratio": 0.6337772397094431, 
+        "follows": 2094, 
+        "likes": 447, 
+        "meanLikes": 331.4418604651163, 
+        "tags": [
+            "person", 
+            "people_show"
+        ]
+    }, 
+    {
+        "created_time": "1488244774", 
+        "days_since_posting": 156.032, 
+        "follow_ratio": 0.6337772397094431, 
+        "follows": 2094, 
+        "likes": 423, 
+        "meanLikes": 331.4418604651163, 
+        "tags": [
+            "person", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1486147418", 
+        "days_since_posting": 180.307, 
+        "follow_ratio": 0.6337772397094431, 
+        "follows": 2094, 
+        "likes": 637, 
+        "meanLikes": 331.4418604651163, 
+        "tags": [
+            "person", 
+            "others_", 
+            "object_sculpture"
+        ]
+    }, 
+    {
+        "created_time": "1485312398", 
+        "days_since_posting": 189.972, 
+        "follow_ratio": 0.6337772397094431, 
+        "follows": 2094, 
+        "likes": 259, 
+        "meanLikes": 331.4418604651163, 
+        "tags": [
+            "grass", 
+            "person", 
+            "player", 
+            "outdoor", 
+            "outdoor_", 
+            "people_many"
+        ]
+    }, 
+    {
+        "created_time": "1483313368", 
+        "days_since_posting": 213.109, 
+        "follow_ratio": 0.6337772397094431, 
+        "follows": 2094, 
+        "likes": 383, 
+        "meanLikes": 331.4418604651163, 
+        "tags": [
+            "person", 
+            "man", 
+            "standing", 
+            "indoor", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1480116349", 
+        "days_since_posting": 250.111, 
+        "follow_ratio": 0.6337772397094431, 
+        "follows": 2094, 
+        "likes": 432, 
+        "meanLikes": 331.4418604651163, 
+        "tags": [
+            "headdress", 
+            "helmet", 
+            "abstract_shape", 
+            "others_"
+        ]
+    }
+]

@@ -1,0 +1,148 @@
+[
+    {
+        "created_time": "1501688028", 
+        "days_since_posting": 0.404, 
+        "follow_ratio": 0.6509186351706037, 
+        "follows": 992, 
+        "likes": 29, 
+        "meanLikes": 65.59620596205961, 
+        "tags": [
+            "water", 
+            "sky", 
+            "outdoor", 
+            "ocean", 
+            "nature", 
+            "outdoor_", 
+            "outdoor_waterside"
+        ]
+    }, 
+    {
+        "created_time": "1501685969", 
+        "days_since_posting": 0.428, 
+        "follow_ratio": 0.6509186351706037, 
+        "follows": 992, 
+        "likes": 157, 
+        "meanLikes": 65.59620596205961, 
+        "tags": [
+            "person", 
+            "others_", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1501359796", 
+        "days_since_posting": 4.203, 
+        "follow_ratio": 0.6509186351706037, 
+        "follows": 992, 
+        "likes": 114, 
+        "meanLikes": 65.59620596205961, 
+        "tags": [
+            "person", 
+            "indoor", 
+            "people_young"
+        ]
+    }, 
+    {
+        "created_time": "1501339332", 
+        "days_since_posting": 4.44, 
+        "follow_ratio": 0.6509186351706037, 
+        "follows": 992, 
+        "likes": 17, 
+        "meanLikes": 65.59620596205961, 
+        "tags": [
+            "text_"
+        ]
+    }, 
+    {
+        "created_time": "1501233749", 
+        "days_since_posting": 5.662, 
+        "follow_ratio": 0.6509186351706037, 
+        "follows": 992, 
+        "likes": 57, 
+        "meanLikes": 65.59620596205961, 
+        "tags": [
+            "person", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1501106886", 
+        "days_since_posting": 7.131, 
+        "follow_ratio": 0.6509186351706037, 
+        "follows": 992, 
+        "likes": 111, 
+        "meanLikes": 65.59620596205961, 
+        "tags": [
+            "person", 
+            "indoor", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1501089280", 
+        "days_since_posting": 7.334, 
+        "follow_ratio": 0.6509186351706037, 
+        "follows": 992, 
+        "likes": 73, 
+        "meanLikes": 65.59620596205961, 
+        "tags": [
+            "person", 
+            "wall", 
+            "indoor", 
+            "boy", 
+            "child", 
+            "little", 
+            "people_baby", 
+            "people_young"
+        ]
+    }, 
+    {
+        "created_time": "1501080865", 
+        "days_since_posting": 7.432, 
+        "follow_ratio": 0.6509186351706037, 
+        "follows": 992, 
+        "likes": 115, 
+        "meanLikes": 65.59620596205961, 
+        "tags": [
+            "person", 
+            "ground", 
+            "outdoor", 
+            "boy", 
+            "young", 
+            "athletic game", 
+            "sport", 
+            "little", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1501053694", 
+        "days_since_posting": 7.746, 
+        "follow_ratio": 0.6509186351706037, 
+        "follows": 992, 
+        "likes": 75, 
+        "meanLikes": 65.59620596205961, 
+        "tags": [
+            "person", 
+            "ground", 
+            "boy", 
+            "young", 
+            "outdoor", 
+            "little", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1500985751", 
+        "days_since_posting": 8.533, 
+        "follow_ratio": 0.6509186351706037, 
+        "follows": 992, 
+        "likes": 61, 
+        "meanLikes": 65.59620596205961, 
+        "tags": [
+            "person", 
+            "people_", 
+            "people_show"
+        ]
+    }
+]

@@ -1,0 +1,147 @@
+[
+    {
+        "created_time": "1501372946", 
+        "days_since_posting": 4.049, 
+        "follow_ratio": 1.0073260073260073, 
+        "follows": 275, 
+        "likes": 21, 
+        "meanLikes": 10.121835443037975, 
+        "tags": [
+            "person", 
+            "posing", 
+            "outdoor", 
+            "smiling", 
+            "people", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1500524385", 
+        "days_since_posting": 13.87, 
+        "follow_ratio": 1.0073260073260073, 
+        "follows": 275, 
+        "likes": 42, 
+        "meanLikes": 10.121835443037975, 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "water", 
+            "people", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1500432016", 
+        "days_since_posting": 14.939, 
+        "follow_ratio": 1.0073260073260073, 
+        "follows": 275, 
+        "likes": 38, 
+        "meanLikes": 10.121835443037975, 
+        "tags": [
+            "person", 
+            "posing", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1500242449", 
+        "days_since_posting": 17.133, 
+        "follow_ratio": 1.0073260073260073, 
+        "follows": 275, 
+        "likes": 40, 
+        "meanLikes": 10.121835443037975, 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "people", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1498359158", 
+        "days_since_posting": 38.931, 
+        "follow_ratio": 1.0073260073260073, 
+        "follows": 275, 
+        "likes": 27, 
+        "meanLikes": 10.121835443037975, 
+        "tags": [
+            "person", 
+            "sky", 
+            "outdoor", 
+            "posing", 
+            "standing", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1497571541", 
+        "days_since_posting": 48.047, 
+        "follow_ratio": 1.0073260073260073, 
+        "follows": 275, 
+        "likes": 26, 
+        "meanLikes": 10.121835443037975, 
+        "tags": [
+            "person", 
+            "baby", 
+            "child", 
+            "indoor", 
+            "little", 
+            "people_young"
+        ]
+    }, 
+    {
+        "created_time": "1497214306", 
+        "days_since_posting": 52.181, 
+        "follow_ratio": 1.0073260073260073, 
+        "follows": 275, 
+        "likes": 13, 
+        "meanLikes": 10.121835443037975, 
+        "tags": [
+            "person", 
+            "others_", 
+            "people_", 
+            "people_portrait"
+        ]
+    }, 
+    {
+        "created_time": "1497142069", 
+        "days_since_posting": 53.017, 
+        "follow_ratio": 1.0073260073260073, 
+        "follows": 275, 
+        "likes": 17, 
+        "meanLikes": 10.121835443037975, 
+        "tags": [
+            "person", 
+            "indoor", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1496621734", 
+        "days_since_posting": 59.04, 
+        "follow_ratio": 1.0073260073260073, 
+        "follows": 275, 
+        "likes": 31, 
+        "meanLikes": 10.121835443037975, 
+        "tags": [
+            "person", 
+            "woman", 
+            "people_group", 
+            "people_young"
+        ]
+    }, 
+    {
+        "created_time": "1494287321", 
+        "days_since_posting": 86.058, 
+        "follow_ratio": 1.0073260073260073, 
+        "follows": 275, 
+        "likes": 31, 
+        "meanLikes": 10.121835443037975, 
+        "tags": [
+            "person", 
+            "text", 
+            "others_"
+        ]
+    }
+]

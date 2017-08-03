@@ -1,0 +1,152 @@
+[
+    {
+        "created_time": "1501477940", 
+        "days_since_posting": 2.822, 
+        "follow_ratio": 25.888235294117646, 
+        "follows": 4401, 
+        "likes": 24, 
+        "meanLikes": 14.375, 
+        "tags": [
+            "sky", 
+            "outdoor", 
+            "building_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1501384029", 
+        "days_since_posting": 3.909, 
+        "follow_ratio": 25.888235294117646, 
+        "follows": 4401, 
+        "likes": 14, 
+        "meanLikes": 14.375, 
+        "tags": [
+            "drink_", 
+            "dark_light"
+        ]
+    }, 
+    {
+        "created_time": "1501383704", 
+        "days_since_posting": 3.913, 
+        "follow_ratio": 25.888235294117646, 
+        "follows": 4401, 
+        "likes": 16, 
+        "meanLikes": 14.375, 
+        "tags": [
+            "wine", 
+            "table", 
+            "indoor", 
+            "glasses", 
+            "dark_light", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1499916956", 
+        "days_since_posting": 20.889, 
+        "follow_ratio": 25.888235294117646, 
+        "follows": 4401, 
+        "likes": 49, 
+        "meanLikes": 14.375, 
+        "tags": [
+            "abstract_", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1499231553", 
+        "days_since_posting": 28.822, 
+        "follow_ratio": 25.888235294117646, 
+        "follows": 4401, 
+        "likes": 22, 
+        "meanLikes": 14.375, 
+        "tags": [
+            "outdoor", 
+            "abstract_", 
+            "dark_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1499220150", 
+        "days_since_posting": 28.954, 
+        "follow_ratio": 25.888235294117646, 
+        "follows": 4401, 
+        "likes": 6, 
+        "meanLikes": 14.375, 
+        "tags": [
+            "smoke", 
+            "outdoor", 
+            "fire", 
+            "steam", 
+            "coming", 
+            "abstract_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1498877512", 
+        "days_since_posting": 32.92, 
+        "follow_ratio": 25.888235294117646, 
+        "follows": 4401, 
+        "likes": 31, 
+        "meanLikes": 14.375, 
+        "tags": [
+            "building", 
+            "outdoor", 
+            "night", 
+            "street", 
+            "city", 
+            "light", 
+            "building_street", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1498778275", 
+        "days_since_posting": 34.069, 
+        "follow_ratio": 25.888235294117646, 
+        "follows": 4401, 
+        "likes": 25, 
+        "meanLikes": 14.375, 
+        "tags": [
+            "table", 
+            "cup", 
+            "indoor", 
+            "food", 
+            "glass", 
+            "drink_"
+        ]
+    }, 
+    {
+        "created_time": "1498703062", 
+        "days_since_posting": 34.939, 
+        "follow_ratio": 25.888235294117646, 
+        "follows": 4401, 
+        "likes": 17, 
+        "meanLikes": 14.375, 
+        "tags": [
+            "indoor", 
+            "drink_", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1496438502", 
+        "days_since_posting": 61.149, 
+        "follow_ratio": 25.888235294117646, 
+        "follows": 4401, 
+        "likes": 113, 
+        "meanLikes": 14.375, 
+        "tags": [
+            "cup", 
+            "table", 
+            "food", 
+            "cream", 
+            "slice", 
+            "piece", 
+            "food_"
+        ]
+    }
+]

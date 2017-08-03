@@ -1,0 +1,145 @@
+[
+    {
+        "created_time": "1501367102", 
+        "days_since_posting": 4.106, 
+        "follow_ratio": 0.5783216783216784, 
+        "follows": 827, 
+        "likes": 141, 
+        "meanLikes": 94.26973684210526, 
+        "tags": [
+            "person", 
+            "others_", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1500839745", 
+        "days_since_posting": 10.209, 
+        "follow_ratio": 0.5783216783216784, 
+        "follows": 827, 
+        "likes": 186, 
+        "meanLikes": 94.26973684210526, 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1500569236", 
+        "days_since_posting": 13.34, 
+        "follow_ratio": 0.5783216783216784, 
+        "follows": 827, 
+        "likes": 123, 
+        "meanLikes": 94.26973684210526, 
+        "tags": [
+            "sky", 
+            "outdoor", 
+            "person", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1500412203", 
+        "days_since_posting": 15.158, 
+        "follow_ratio": 0.5783216783216784, 
+        "follows": 827, 
+        "likes": 149, 
+        "meanLikes": 94.26973684210526, 
+        "tags": [
+            "water", 
+            "tree", 
+            "outdoor", 
+            "riding", 
+            "outdoor_", 
+            "people_many"
+        ]
+    }, 
+    {
+        "created_time": "1500332357", 
+        "days_since_posting": 16.082, 
+        "follow_ratio": 0.5783216783216784, 
+        "follows": 827, 
+        "likes": 190, 
+        "meanLikes": 94.26973684210526, 
+        "tags": [
+            "tree", 
+            "outdoor", 
+            "woman", 
+            "ground", 
+            "person", 
+            "abstract_", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1499642681", 
+        "days_since_posting": 24.064, 
+        "follow_ratio": 0.5783216783216784, 
+        "follows": 827, 
+        "likes": 87, 
+        "meanLikes": 94.26973684210526, 
+        "tags": [
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1499223777", 
+        "days_since_posting": 28.913, 
+        "follow_ratio": 0.5783216783216784, 
+        "follows": 827, 
+        "likes": 180, 
+        "meanLikes": 94.26973684210526, 
+        "tags": [
+            "person", 
+            "woman", 
+            "outdoor", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1499223174", 
+        "days_since_posting": 28.92, 
+        "follow_ratio": 0.5783216783216784, 
+        "follows": 827, 
+        "likes": 130, 
+        "meanLikes": 94.26973684210526, 
+        "tags": [
+            "grass", 
+            "outdoor", 
+            "person", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1498957647", 
+        "days_since_posting": 31.993, 
+        "follow_ratio": 0.5783216783216784, 
+        "follows": 827, 
+        "likes": 53, 
+        "meanLikes": 94.26973684210526, 
+        "tags": [
+            "abstract_", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1498350103", 
+        "days_since_posting": 39.025, 
+        "follow_ratio": 0.5783216783216784, 
+        "follows": 827, 
+        "likes": 146, 
+        "meanLikes": 94.26973684210526, 
+        "tags": [
+            "person", 
+            "wall", 
+            "woman", 
+            "indoor", 
+            "people_"
+        ]
+    }
+]

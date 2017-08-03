@@ -1,0 +1,108 @@
+[
+    {
+        "created_time": "1498340217", 
+        "days_since_posting": 39.151, 
+        "follow_ratio": 0.9442307692307692, 
+        "follows": 491, 
+        "likes": 146, 
+        "meanLikes": 67.71428571428571, 
+        "tags": [
+            "person", 
+            "sitting", 
+            "people", 
+            "wall", 
+            "posing", 
+            "group", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1490576216", 
+        "days_since_posting": 129.012, 
+        "follow_ratio": 0.9442307692307692, 
+        "follows": 491, 
+        "likes": 173, 
+        "meanLikes": 67.71428571428571, 
+        "tags": [
+            "person", 
+            "wall", 
+            "indoor", 
+            "woman", 
+            "posing", 
+            "standing", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1409634434", 
+        "days_since_posting": 1065.838, 
+        "follow_ratio": 0.9442307692307692, 
+        "follows": 491, 
+        "likes": 54, 
+        "meanLikes": 67.71428571428571, 
+        "tags": [
+            "wall", 
+            "indoor", 
+            "living", 
+            "floor", 
+            "room", 
+            "television", 
+            "object_screen"
+        ]
+    }, 
+    {
+        "created_time": "1405427956", 
+        "days_since_posting": 1114.524, 
+        "follow_ratio": 0.9442307692307692, 
+        "follows": 491, 
+        "likes": 25, 
+        "meanLikes": 67.71428571428571, 
+        "tags": [
+            "person", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1404699677", 
+        "days_since_posting": 1122.953, 
+        "follow_ratio": 0.9442307692307692, 
+        "follows": 491, 
+        "likes": 40, 
+        "meanLikes": 67.71428571428571, 
+        "tags": [
+            "water", 
+            "sky", 
+            "person", 
+            "outdoor", 
+            "beach", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1403094473", 
+        "days_since_posting": 1141.532, 
+        "follow_ratio": 0.9442307692307692, 
+        "follows": 491, 
+        "likes": 18, 
+        "meanLikes": 67.71428571428571, 
+        "tags": [
+            "person", 
+            "man", 
+            "others_", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1401128398", 
+        "days_since_posting": 1164.288, 
+        "follow_ratio": 0.9442307692307692, 
+        "follows": 491, 
+        "likes": 18, 
+        "meanLikes": 67.71428571428571, 
+        "tags": [
+            "person", 
+            "man", 
+            "people_group"
+        ]
+    }
+]

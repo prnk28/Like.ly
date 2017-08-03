@@ -1,0 +1,120 @@
+[
+    {
+        "created_time": "1501544389", 
+        "days_since_posting": 2.055, 
+        "follow_ratio": 0.6944444444444444, 
+        "follows": 50, 
+        "likes": 12, 
+        "meanLikes": 9.434782608695652, 
+        "tags": [
+            "person", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1501016109", 
+        "days_since_posting": 8.17, 
+        "follow_ratio": 0.6944444444444444, 
+        "follows": 50, 
+        "likes": 16, 
+        "meanLikes": 9.434782608695652, 
+        "tags": [
+            "yellow", 
+            "person", 
+            "outdoor", 
+            "young", 
+            "little", 
+            "people_young"
+        ]
+    }, 
+    {
+        "created_time": "1500136750", 
+        "days_since_posting": 18.348, 
+        "follow_ratio": 0.6944444444444444, 
+        "follows": 50, 
+        "likes": 6, 
+        "meanLikes": 9.434782608695652, 
+        "tags": [
+            "person", 
+            "people_portrait"
+        ]
+    }, 
+    {
+        "created_time": "1499909067", 
+        "days_since_posting": 20.983, 
+        "follow_ratio": 0.6944444444444444, 
+        "follows": 50, 
+        "likes": 9, 
+        "meanLikes": 9.434782608695652, 
+        "tags": [
+            "person", 
+            "posing", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1498581626", 
+        "days_since_posting": 36.347, 
+        "follow_ratio": 0.6944444444444444, 
+        "follows": 50, 
+        "likes": 8, 
+        "meanLikes": 9.434782608695652, 
+        "tags": [
+            "cup", 
+            "indoor", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1497843113", 
+        "days_since_posting": 44.894, 
+        "follow_ratio": 0.6944444444444444, 
+        "follows": 50, 
+        "likes": 7, 
+        "meanLikes": 9.434782608695652, 
+        "tags": [
+            "animal", 
+            "abstract_net"
+        ]
+    }, 
+    {
+        "created_time": "1497070451", 
+        "days_since_posting": 53.837, 
+        "follow_ratio": 0.6944444444444444, 
+        "follows": 50, 
+        "likes": 14, 
+        "meanLikes": 9.434782608695652, 
+        "tags": [
+            "person", 
+            "tree", 
+            "outdoor", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1496447737", 
+        "days_since_posting": 61.045, 
+        "follow_ratio": 0.6944444444444444, 
+        "follows": 50, 
+        "likes": 8, 
+        "meanLikes": 9.434782608695652, 
+        "tags": [
+            "person", 
+            "indoor", 
+            "people_young"
+        ]
+    }, 
+    {
+        "created_time": "1496184681", 
+        "days_since_posting": 64.089, 
+        "follow_ratio": 0.6944444444444444, 
+        "follows": 50, 
+        "likes": 10, 
+        "meanLikes": 9.434782608695652, 
+        "tags": [
+            "others_", 
+            "outdoor_"
+        ]
+    }
+]

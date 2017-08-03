@@ -1,0 +1,146 @@
+[
+    {
+        "created_time": "1500774739", 
+        "days_since_posting": 10.974, 
+        "follow_ratio": 1.0457142857142858, 
+        "follows": 366, 
+        "likes": 104, 
+        "meanLikes": 55.12903225806452, 
+        "tags": [
+            "outdoor", 
+            "fence", 
+            "person", 
+            "animal", 
+            "grass", 
+            "mammal", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1499604921", 
+        "days_since_posting": 24.513, 
+        "follow_ratio": 1.0457142857142858, 
+        "follows": 366, 
+        "likes": 111, 
+        "meanLikes": 55.12903225806452, 
+        "tags": [
+            "person", 
+            "wall", 
+            "posing", 
+            "indoor", 
+            "standing", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1496429940", 
+        "days_since_posting": 61.261, 
+        "follow_ratio": 1.0457142857142858, 
+        "follows": 366, 
+        "likes": 102, 
+        "meanLikes": 55.12903225806452, 
+        "tags": [
+            "others_", 
+            "object_sculpture"
+        ]
+    }, 
+    {
+        "created_time": "1494019784", 
+        "days_since_posting": 89.156, 
+        "follow_ratio": 1.0457142857142858, 
+        "follows": 366, 
+        "likes": 124, 
+        "meanLikes": 55.12903225806452, 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "posing", 
+            "standing", 
+            "people", 
+            "group", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1493583939", 
+        "days_since_posting": 94.201, 
+        "follow_ratio": 1.0457142857142858, 
+        "follows": 366, 
+        "likes": 119, 
+        "meanLikes": 55.12903225806452, 
+        "tags": [
+            "mosquito net", 
+            "abstract_nonphoto", 
+            "plant_leaves"
+        ]
+    }, 
+    {
+        "created_time": "1489024968", 
+        "days_since_posting": 147.008, 
+        "follow_ratio": 1.0457142857142858, 
+        "follows": 366, 
+        "likes": 157, 
+        "meanLikes": 55.12903225806452, 
+        "tags": [
+            "person", 
+            "woman", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1487387114", 
+        "days_since_posting": 165.965, 
+        "follow_ratio": 1.0457142857142858, 
+        "follows": 366, 
+        "likes": 131, 
+        "meanLikes": 55.12903225806452, 
+        "tags": [
+            "floor", 
+            "person", 
+            "indoor", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1483207535", 
+        "days_since_posting": 214.34, 
+        "follow_ratio": 1.0457142857142858, 
+        "follows": 366, 
+        "likes": 148, 
+        "meanLikes": 55.12903225806452, 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "building_pillar", 
+            "outdoor_", 
+            "outdoor_street"
+        ]
+    }, 
+    {
+        "created_time": "1483062450", 
+        "days_since_posting": 216.019, 
+        "follow_ratio": 1.0457142857142858, 
+        "follows": 366, 
+        "likes": 130, 
+        "meanLikes": 55.12903225806452, 
+        "tags": [
+            "abstract_shape", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1482713277", 
+        "days_since_posting": 220.06, 
+        "follow_ratio": 1.0457142857142858, 
+        "follows": 366, 
+        "likes": 124, 
+        "meanLikes": 55.12903225806452, 
+        "tags": [
+            "person", 
+            "wall", 
+            "people_", 
+            "people_group"
+        ]
+    }
+]

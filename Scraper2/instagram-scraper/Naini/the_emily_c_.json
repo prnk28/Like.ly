@@ -1,0 +1,155 @@
+[
+    {
+        "created_time": "1500341861", 
+        "days_since_posting": 15.979, 
+        "follow_ratio": 1.0376470588235294, 
+        "follows": 441, 
+        "likes": 77, 
+        "meanLikes": 92.10526315789474, 
+        "tags": [
+            "text", 
+            "book", 
+            "others_", 
+            "text_"
+        ]
+    }, 
+    {
+        "created_time": "1500339828", 
+        "days_since_posting": 16.002, 
+        "follow_ratio": 1.0376470588235294, 
+        "follows": 441, 
+        "likes": 106, 
+        "meanLikes": 92.10526315789474, 
+        "tags": [
+            "person", 
+            "woman", 
+            "others_", 
+            "outdoor_", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1499301064", 
+        "days_since_posting": 28.025, 
+        "follow_ratio": 1.0376470588235294, 
+        "follows": 441, 
+        "likes": 114, 
+        "meanLikes": 92.10526315789474, 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "sunglasses", 
+            "sky", 
+            "woman", 
+            "wearing", 
+            "people_portrait"
+        ]
+    }, 
+    {
+        "created_time": "1497566954", 
+        "days_since_posting": 48.096, 
+        "follow_ratio": 1.0376470588235294, 
+        "follows": 441, 
+        "likes": 91, 
+        "meanLikes": 92.10526315789474, 
+        "tags": [
+            "person", 
+            "posing", 
+            "wall", 
+            "indoor", 
+            "group", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1496534539", 
+        "days_since_posting": 60.045, 
+        "follow_ratio": 1.0376470588235294, 
+        "follows": 441, 
+        "likes": 122, 
+        "meanLikes": 92.10526315789474, 
+        "tags": [
+            "person", 
+            "clothing", 
+            "abstract_nonphoto", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1494796149", 
+        "days_since_posting": 80.165, 
+        "follow_ratio": 1.0376470588235294, 
+        "follows": 441, 
+        "likes": 116, 
+        "meanLikes": 92.10526315789474, 
+        "tags": [
+            "grass", 
+            "outdoor", 
+            "person", 
+            "standing", 
+            "girl", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1492613984", 
+        "days_since_posting": 105.422, 
+        "follow_ratio": 1.0376470588235294, 
+        "follows": 441, 
+        "likes": 78, 
+        "meanLikes": 92.10526315789474, 
+        "tags": [
+            "sport", 
+            "abstract_", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1491878693", 
+        "days_since_posting": 113.932, 
+        "follow_ratio": 1.0376470588235294, 
+        "follows": 441, 
+        "likes": 122, 
+        "meanLikes": 92.10526315789474, 
+        "tags": [
+            "wall", 
+            "person", 
+            "indoor", 
+            "woman", 
+            "clothing", 
+            "standing", 
+            "posing", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1491273344", 
+        "days_since_posting": 120.939, 
+        "follow_ratio": 1.0376470588235294, 
+        "follows": 441, 
+        "likes": 81, 
+        "meanLikes": 92.10526315789474, 
+        "tags": [
+            "water", 
+            "outdoor", 
+            "ground", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1490493032", 
+        "days_since_posting": 129.97, 
+        "follow_ratio": 1.0376470588235294, 
+        "follows": 441, 
+        "likes": 73, 
+        "meanLikes": 92.10526315789474, 
+        "tags": [
+            "person", 
+            "indoor", 
+            "people_group", 
+            "people_many"
+        ]
+    }
+]

@@ -1,0 +1,140 @@
+[
+    {
+        "created_time": "1494891286", 
+        "days_since_posting": 79.064, 
+        "follow_ratio": 1.281767955801105, 
+        "follows": 464, 
+        "likes": 138, 
+        "meanLikes": 73.6140350877193, 
+        "tags": [
+            "outdoor", 
+            "person", 
+            "sky", 
+            "tree", 
+            "ground", 
+            "posing", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1489093996", 
+        "days_since_posting": 146.204, 
+        "follow_ratio": 1.281767955801105, 
+        "follows": 464, 
+        "likes": 157, 
+        "meanLikes": 73.6140350877193, 
+        "tags": [
+            "person", 
+            "people_crowd"
+        ]
+    }, 
+    {
+        "created_time": "1485621780", 
+        "days_since_posting": 186.392, 
+        "follow_ratio": 1.281767955801105, 
+        "follows": 464, 
+        "likes": 129, 
+        "meanLikes": 73.6140350877193, 
+        "tags": [
+            "water", 
+            "outdoor", 
+            "sky", 
+            "beach", 
+            "ground", 
+            "person", 
+            "standing", 
+            "outdoor_", 
+            "outdoor_oceanbeach", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1482678706", 
+        "days_since_posting": 220.455, 
+        "follow_ratio": 1.281767955801105, 
+        "follows": 464, 
+        "likes": 160, 
+        "meanLikes": 73.6140350877193, 
+        "tags": [
+            "dog", 
+            "indoor", 
+            "sitting", 
+            "person", 
+            "wall", 
+            "sofa", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1480015890", 
+        "days_since_posting": 251.275, 
+        "follow_ratio": 1.281767955801105, 
+        "follows": 464, 
+        "likes": 135, 
+        "meanLikes": 73.6140350877193, 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "posing", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1479924290", 
+        "days_since_posting": 252.335, 
+        "follow_ratio": 1.281767955801105, 
+        "follows": 464, 
+        "likes": 132, 
+        "meanLikes": 73.6140350877193, 
+        "tags": [
+            "person", 
+            "woman", 
+            "text_mag"
+        ]
+    }, 
+    {
+        "created_time": "1470522983", 
+        "days_since_posting": 361.105, 
+        "follow_ratio": 1.281767955801105, 
+        "follows": 464, 
+        "likes": 135, 
+        "meanLikes": 73.6140350877193, 
+        "tags": [
+            "person", 
+            "wall", 
+            "indoor", 
+            "posing", 
+            "people_group", 
+            "people_portrait"
+        ]
+    }, 
+    {
+        "created_time": "1465757288", 
+        "days_since_posting": 416.263, 
+        "follow_ratio": 1.281767955801105, 
+        "follows": 464, 
+        "likes": 111, 
+        "meanLikes": 73.6140350877193, 
+        "tags": [
+            "person", 
+            "people_young"
+        ]
+    }, 
+    {
+        "created_time": "1465690385", 
+        "days_since_posting": 417.038, 
+        "follow_ratio": 1.281767955801105, 
+        "follows": 464, 
+        "likes": 104, 
+        "meanLikes": 73.6140350877193, 
+        "tags": [
+            "person", 
+            "sitting", 
+            "indoor", 
+            "wall", 
+            "baby", 
+            "others_"
+        ]
+    }
+]

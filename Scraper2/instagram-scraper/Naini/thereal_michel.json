@@ -1,0 +1,130 @@
+[
+    {
+        "created_time": "1476031502", 
+        "days_since_posting": 297.343, 
+        "follow_ratio": 1.0729613733905579, 
+        "follows": 250, 
+        "likes": 78, 
+        "meanLikes": 39.75, 
+        "tags": [
+            "person", 
+            "posing", 
+            "standing", 
+            "group", 
+            "sky", 
+            "outdoor", 
+            "holding", 
+            "people", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1470833808", 
+        "days_since_posting": 357.501, 
+        "follow_ratio": 1.0729613733905579, 
+        "follows": 250, 
+        "likes": 54, 
+        "meanLikes": 39.75, 
+        "tags": [
+            "wall", 
+            "person", 
+            "indoor", 
+            "posing", 
+            "group", 
+            "outdoor_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1462448510", 
+        "days_since_posting": 454.553, 
+        "follow_ratio": 1.0729613733905579, 
+        "follows": 250, 
+        "likes": 37, 
+        "meanLikes": 39.75, 
+        "tags": [
+            "person", 
+            "standing", 
+            "wall", 
+            "man", 
+            "indoor", 
+            "posing", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1460168454", 
+        "days_since_posting": 480.943, 
+        "follow_ratio": 1.0729613733905579, 
+        "follows": 250, 
+        "likes": 25, 
+        "meanLikes": 39.75, 
+        "tags": [
+            "person", 
+            "man", 
+            "indoor", 
+            "people_young"
+        ]
+    }, 
+    {
+        "created_time": "1455461434", 
+        "days_since_posting": 535.464, 
+        "follow_ratio": 1.0729613733905579, 
+        "follows": 250, 
+        "likes": 29, 
+        "meanLikes": 39.75, 
+        "tags": [
+            "wall", 
+            "person", 
+            "indoor", 
+            "clothing", 
+            "standing", 
+            "posing", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1434476985", 
+        "days_since_posting": 778.298, 
+        "follow_ratio": 1.0729613733905579, 
+        "follows": 250, 
+        "likes": 50, 
+        "meanLikes": 39.75, 
+        "tags": [
+            "tree", 
+            "person", 
+            "outdoor", 
+            "grass", 
+            "man", 
+            "wearing", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1434470680", 
+        "days_since_posting": 778.371, 
+        "follow_ratio": 1.0729613733905579, 
+        "follows": 250, 
+        "likes": 23, 
+        "meanLikes": 39.75, 
+        "tags": [
+            "abstract_", 
+            "abstract_shape", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1434421714", 
+        "days_since_posting": 778.938, 
+        "follow_ratio": 1.0729613733905579, 
+        "follows": 250, 
+        "likes": 22, 
+        "meanLikes": 39.75, 
+        "tags": [
+            "person", 
+            "indoor", 
+            "people_young"
+        ]
+    }
+]
