@@ -154,7 +154,7 @@
             "people_group"
         ]
     }
-][
+,
     {
         "created_time": "1500925349",
         "days_since_posting": 9.222,
@@ -305,7 +305,7 @@
             "people_"
         ]
     }
-][
+,
     {
         "created_time": "1500739856",
         "days_since_posting": 11.364,
@@ -442,7 +442,7 @@
             "people_group"
         ]
     }
-][
+,
     {
         "created_time": "1501047795",
         "days_since_posting": 7.814,
@@ -571,7 +571,7 @@
             "people_"
         ]
     }
-][
+,
     {
         "created_time": "1501538518",
         "days_since_posting": 2.132,
@@ -721,7 +721,7 @@
             "outdoor_oceanbeach"
         ]
     }
-][
+,
     {
         "created_time": "1501699057",
         "days_since_posting": 0.268,
@@ -833,7 +833,7 @@
             "people_group"
         ]
     }
-][
+,
     {
         "created_time": "1500767425",
         "days_since_posting": 11.059,
@@ -970,7 +970,7 @@
             "outdoor_"
         ]
     }
-][
+,
     {
         "created_time": "1501086423",
         "days_since_posting": 7.36,
@@ -1110,7 +1110,7 @@
             "people_group"
         ]
     }
-][
+,
     {
         "created_time": "1501370592",
         "days_since_posting": 4.071,
@@ -1246,7 +1246,7 @@
             "people_"
         ]
     }
-][
+,
     {
         "created_time": "1501379276",
         "days_since_posting": 3.965,
@@ -1309,7 +1309,7 @@
         ]
     },
     {
-        "created_time": "1500943211", 
+        "created_time": "1500943211",
         "days_since_posting": 9.012,
         "follow_ratio": 1.0056053811659194,
         "follows": 897,
@@ -1401,7 +1401,7 @@
             "people_"
         ]
     }
-][
+,
     {
         "created_time": "1501254700",
         "days_since_posting": 5.416,
@@ -1544,7 +1544,7 @@
             "people_"
         ]
     }
-][
+,
     {
         "created_time": "1500083009",
         "days_since_posting": 18.967,
@@ -1690,7 +1690,7 @@
             "people_group"
         ]
     }
-][
+,
     {
         "created_time": "1500699440",
         "days_since_posting": 11.843,
@@ -1827,7 +1827,7 @@
             "people_group"
         ]
     }
-][
+,
     {
         "created_time": "1500826008",
         "days_since_posting": 10.382,
@@ -1976,7 +1976,7 @@
             "people_"
         ]
     }
-][
+,
     {
         "created_time": "1501477940",
         "days_since_posting": 2.822,
@@ -2127,7 +2127,7 @@
             "food_"
         ]
     }
-][
+,
     {
         "created_time": "1497813811",
         "days_since_posting": 45.245,
@@ -2237,7 +2237,7 @@
             "people_group"
         ]
     }
-][
+,
     {
         "created_time": "1498216420",
         "days_since_posting": 40.572,
@@ -2378,7 +2378,7 @@
             "outdoor_"
         ]
     }
-][
+,
     {
         "created_time": "1500832899",
         "days_since_posting": 10.295,
@@ -2544,7 +2544,7 @@
             "people_group"
         ]
     }
-][
+,
     {
         "created_time": "1500246319",
         "days_since_posting": 17.076,
@@ -2675,7 +2675,7 @@
             "outdoor_city"
         ]
     }
-][
+,
     {
         "created_time": "1494891286",
         "days_since_posting": 79.064,
@@ -2814,7 +2814,7 @@
             "others_"
         ]
     }
-][
+,
     {
         "created_time": "1487396371",
         "days_since_posting": 165.857,
@@ -2943,7 +2943,7 @@
             "outdoor_"
         ]
     }
-][
+,
     {
         "created_time": "1501127552",
         "days_since_posting": 6.876,
@@ -3087,7 +3087,7 @@
             "outdoor_"
         ]
     }
-][
+,
     {
         "created_time": "1492342006",
         "days_since_posting": 108.576,
@@ -3232,7 +3232,7 @@
             "text_sign"
         ]
     }
-][
+,
     {
         "created_time": "1499306017",
         "days_since_posting": 27.963,
@@ -3378,7 +3378,7 @@
             "people_group"
         ]
     }
-][
+,
     {
         "created_time": "1501381608",
         "days_since_posting": 3.945,
@@ -3518,7 +3518,7 @@
             "indoor_"
         ]
     }
-][
+,
     {
         "created_time": "1499198755",
         "days_since_posting": 29.203,
@@ -3660,7 +3660,7 @@
             "text_menu"
         ]
     }
-][
+,
     {
         "created_time": "1501601351",
         "days_since_posting": 1.407,
@@ -3806,7 +3806,7 @@
             "others_"
         ]
     }
-][
+,
     {
         "created_time": "1500000866",
         "days_since_posting": 19.931,
@@ -3960,7 +3960,7 @@
             "people_show"
         ]
     }
-][
+,
     {
         "created_time": "1501705263",
         "days_since_posting": 0.195,
@@ -4076,7 +4076,7 @@
             "others_"
         ]
     }
-][
+,
     {
         "created_time": "1501272090",
         "days_since_posting": 5.213,
@@ -4203,7 +4203,7 @@
             "others_"
         ]
     }
-][
+,
     {
         "created_time": "1490808382",
         "days_since_posting": 126.323,
@@ -4334,7 +4334,7 @@
             "text_mag"
         ]
     }
-][
+,
     {
         "created_time": "1501444381",
         "days_since_posting": 3.214,
@@ -4491,7 +4491,7 @@
             "people_"
         ]
     }
-][
+,
     {
         "created_time": "1497581066",
         "days_since_posting": 47.929,
@@ -4631,7 +4631,7 @@
             "people_show"
         ]
     }
-][
+,
     {
         "created_time": "1500815181",
         "days_since_posting": 10.491,
@@ -4671,7 +4671,7 @@
             "text_mag"
         ]
     }
-][
+,
     {
         "created_time": "1501448256",
         "days_since_posting": 3.174,
@@ -4833,7 +4833,7 @@
             "people_"
         ]
     }
-][
+,
     {
         "created_time": "1501456786",
         "days_since_posting": 3.079,
@@ -4994,7 +4994,7 @@
             "people_"
         ]
     }
-][
+,
     {
         "created_time": "1499785631",
         "days_since_posting": 22.413,
@@ -5142,7 +5142,7 @@
             "people_baby"
         ]
     }
-][
+,
     {
         "created_time": "1500998840",
         "days_since_posting": 8.371,
@@ -5291,7 +5291,7 @@
             "people_"
         ]
     }
-][
+,
     {
         "created_time": "1499454178",
         "days_since_posting": 26.253,
@@ -5422,7 +5422,7 @@
             "people_group"
         ]
     }
-][
+,
     {
         "created_time": "1501609645",
         "days_since_posting": 1.307,
@@ -5581,7 +5581,7 @@
             "people_group"
         ]
     }
-][
+,
     {
         "created_time": "1501719300",
         "days_since_posting": 0.042,
@@ -5742,7 +5742,7 @@
             "people_group"
         ]
     }
-][
+,
     {
         "created_time": "1499515891",
         "days_since_posting": 25.534,
@@ -5909,7 +5909,7 @@
             "people_group"
         ]
     }
-][
+,
     {
         "created_time": "1485236916",
         "days_since_posting": 190.851,
@@ -6042,7 +6042,7 @@
             "outdoor_grass"
         ]
     }
-][
+,
     {
         "created_time": "1497823271",
         "days_since_posting": 45.128,
@@ -6169,7 +6169,7 @@
             "others_"
         ]
     }
-][
+,
     {
         "created_time": "1486093975",
         "days_since_posting": 180.928,
@@ -6182,7 +6182,7 @@
             "building_brickwall"
         ]
     }
-][
+,
     {
         "created_time": "1501434879",
         "days_since_posting": 3.319,
@@ -6327,7 +6327,7 @@
             "people_group"
         ]
     }
-][
+,
     {
         "created_time": "1501709995",
         "days_since_posting": 0.137,
@@ -6488,7 +6488,7 @@
             "people_group"
         ]
     }
-][
+,
     {
         "created_time": "1494105598",
         "days_since_posting": 88.159,
@@ -6620,7 +6620,7 @@
             "people_group"
         ]
     }
-][
+,
     {
         "created_time": "1501550793",
         "days_since_posting": 1.989,
@@ -6730,7 +6730,7 @@
             "others_"
         ]
     }
-][
+,
     {
         "created_time": "1498703893",
         "days_since_posting": 34.932,
@@ -6848,7 +6848,7 @@
             "people_young"
         ]
     }
-][
+,
     {
         "created_time": "1499628120",
         "days_since_posting": 24.236,
@@ -6981,7 +6981,7 @@
             "others_"
         ]
     }
-][
+,
     {
         "created_time": "1486959273",
         "days_since_posting": 170.909,
@@ -7111,7 +7111,7 @@
             "people_group"
         ]
     }
-][
+,
     {
         "created_time": "1481183031",
         "days_since_posting": 237.76,
@@ -7261,7 +7261,7 @@
             "people_young"
         ]
     }
-][
+,
     {
         "created_time": "1489807875",
         "days_since_posting": 137.906,
@@ -7317,7 +7317,7 @@
             "outdoor_"
         ]
     }
-][
+,
     {
         "created_time": "1501632805",
         "days_since_posting": 1.041,
@@ -7457,7 +7457,7 @@
             "outdoor_"
         ]
     }
-][
+,
     {
         "created_time": "1501360201",
         "days_since_posting": 4.195,
@@ -7598,7 +7598,7 @@
             "people_many"
         ]
     }
-][
+,
     {
         "created_time": "1500744021",
         "days_since_posting": 11.316,
@@ -7727,7 +7727,7 @@
             "animal_dog"
         ]
     }
-][
+,
     {
         "created_time": "1500596061",
         "days_since_posting": 13.028,
@@ -7868,7 +7868,7 @@
             "outdoor_oceanbeach"
         ]
     }
-][
+,
     {
         "created_time": "1501621251",
         "days_since_posting": 1.164,
@@ -8014,7 +8014,7 @@
             "indoor_marketstore"
         ]
     }
-][
+,
     {
         "created_time": "1499047396",
         "days_since_posting": 30.959,
@@ -8171,7 +8171,7 @@
             "people_group"
         ]
     }
-][
+,
     {
         "created_time": "1499799842",
         "days_since_posting": 22.247,
@@ -8333,7 +8333,7 @@
             "outdoor_"
         ]
     }
-][
+,
     {
         "created_time": "1501536103",
         "days_since_posting": 2.157,
@@ -8472,7 +8472,7 @@
             "abstract_texture"
         ]
     }
-][
+,
     {
         "created_time": "1501156444",
         "days_since_posting": 6.546,
@@ -8611,7 +8611,7 @@
             "trans_car"
         ]
     }
-][
+,
     {
         "created_time": "1495806734",
         "days_since_posting": 68.459,
@@ -8757,7 +8757,7 @@
             "people_group"
         ]
     }
-][
+,
     {
         "created_time": "1501112665",
         "days_since_posting": 7.062,
@@ -8904,7 +8904,7 @@
             "outdoor_"
         ]
     }
-][
+,
     {
         "created_time": "1496065683",
         "days_since_posting": 65.472,
@@ -8956,7 +8956,7 @@
             "people_group"
         ]
     }
-][
+,
     {
         "created_time": "1497641711",
         "days_since_posting": 47.227,
@@ -9101,7 +9101,7 @@
             "people_group"
         ]
     }
-][
+,
     {
         "created_time": "1496964133",
         "days_since_posting": 55.075,
@@ -9212,7 +9212,7 @@
             "others_"
         ]
     }
-][
+,
     {
         "created_time": "1501639350",
         "days_since_posting": 0.963,
@@ -9361,7 +9361,7 @@
             "outdoor_"
         ]
     }
-][
+,
     {
         "created_time": "1500082217",
         "days_since_posting": 18.985,
@@ -9516,7 +9516,7 @@
             "people_group"
         ]
     }
-][
+,
     {
         "created_time": "1501544389",
         "days_since_posting": 2.055,
@@ -9635,7 +9635,7 @@
             "outdoor_"
         ]
     }
-][
+,
     {
         "created_time": "1496866554",
         "days_since_posting": 56.203,
@@ -9788,7 +9788,7 @@
             "people_group"
         ]
     }
-][
+,
     {
         "created_time": "1501718273",
         "days_since_posting": 0.054,
@@ -9959,7 +9959,7 @@
             "people_group"
         ]
     }
-][
+,
     {
         "created_time": "1495668767",
         "days_since_posting": 70.07,
@@ -10124,7 +10124,7 @@
             "outdoor_"
         ]
     }
-][
+,
     {
         "created_time": "1501714083",
         "days_since_posting": 0.1,
@@ -10291,7 +10291,7 @@
             "people_group"
         ]
     }
-][
+,
     {
         "created_time": "1493757712",
         "days_since_posting": 92.188,
@@ -10401,7 +10401,7 @@
             "people_group"
         ]
     }
-][
+,
     {
         "created_time": "1493598278",
         "days_since_posting": 94.025,
@@ -10569,7 +10569,7 @@
             "dark_fire"
         ]
     }
-][
+,
     {
         "created_time": "1501192501",
         "days_since_posting": 6.129,
@@ -10700,7 +10700,7 @@
             "people_"
         ]
     }
-][
+,
     {
         "created_time": "1501284553",
         "days_since_posting": 5.064,
@@ -10860,7 +10860,7 @@
             "people_"
         ]
     }
-][
+,
     {
         "created_time": "1494771312",
         "days_since_posting": 80.448,
@@ -11017,7 +11017,7 @@
             "people_group"
         ]
     }
-][
+,
     {
         "created_time": "1500479423",
         "days_since_posting": 14.392,
@@ -11171,7 +11171,7 @@
             "people_group"
         ]
     }
-][
+,
     {
         "created_time": "1501372946",
         "days_since_posting": 4.049,
@@ -11317,7 +11317,7 @@
             "others_"
         ]
     }
-][
+,
     {
         "created_time": "1495768480",
         "days_since_posting": 68.91,
@@ -11456,7 +11456,7 @@
             "people_"
         ]
     }
-][
+,
     {
         "created_time": "1501516213",
         "days_since_posting": 2.388,
@@ -11587,7 +11587,7 @@
             "people_"
         ]
     }
-][
+,
     {
         "created_time": "1499536095",
         "days_since_posting": 25.309,
@@ -11712,7 +11712,7 @@
             "people_"
         ]
     }
-][
+,
     {
         "created_time": "1404780770",
         "days_since_posting": 1122.002,
@@ -11739,7 +11739,7 @@
             "text_sign"
         ]
     }
-][
+,
     {
         "created_time": "1498947429",
         "days_since_posting": 32.123,
@@ -11881,7 +11881,7 @@
             "people_group"
         ]
     }
-][
+,
     {
         "created_time": "1501690328",
         "days_since_posting": 0.374,
@@ -12036,7 +12036,7 @@
             "people_group"
         ]
     }
-][
+,
     {
         "created_time": "1500948663",
         "days_since_posting": 8.959,
@@ -12176,7 +12176,7 @@
             "people_"
         ]
     }
-][
+,
     {
         "created_time": "1500576006",
         "days_since_posting": 13.268,
@@ -12325,7 +12325,7 @@
             "people_group"
         ]
     }
-][
+,
     {
         "created_time": "1501172894",
         "days_since_posting": 6.353,
@@ -12466,7 +12466,7 @@
             "people_portrait"
         ]
     }
-][
+,
     {
         "created_time": "1501279421",
         "days_since_posting": 5.129,
@@ -12610,7 +12610,7 @@
             "people_show"
         ]
     }
-][
+,
     {
         "created_time": "1496074709",
         "days_since_posting": 65.37,
@@ -12756,7 +12756,7 @@
             "outdoor_"
         ]
     }
-][
+,
     {
         "created_time": "1501598575",
         "days_since_posting": 1.428,
@@ -12914,7 +12914,7 @@
             "outdoor_"
         ]
     }
-][
+,
     {
         "created_time": "1501650958",
         "days_since_posting": 0.824,
@@ -13059,7 +13059,7 @@
             "people_"
         ]
     }
-][
+,
     {
         "created_time": "1500780998",
         "days_since_posting": 10.891,
@@ -13196,7 +13196,7 @@
             "people_young"
         ]
     }
-][
+,
     {
         "created_time": "1501680545",
         "days_since_posting": 0.487,
@@ -13346,7 +13346,7 @@
             "outdoor_playground"
         ]
     }
-][
+,
     {
         "created_time": "1496074553",
         "days_since_posting": 65.367,
@@ -13468,7 +13468,7 @@
             "people_group"
         ]
     }
-][
+,
     {
         "created_time": "1501428048",
         "days_since_posting": 3.398,
@@ -13561,7 +13561,7 @@
             "outdoor_"
         ]
     }
-][
+,
     {
         "created_time": "1501103602",
         "days_since_posting": 7.157,
@@ -13671,7 +13671,7 @@
             "animal_dog"
         ]
     }
-][
+,
     {
         "created_time": "1501158005",
         "days_since_posting": 6.531,
@@ -13834,7 +13834,7 @@
             "outdoor_"
         ]
     }
-][
+,
     {
         "created_time": "1501079043",
         "days_since_posting": 7.445,
@@ -13963,7 +13963,7 @@
             "people_baby"
         ]
     }
-][
+,
     {
         "created_time": "1500786652",
         "days_since_posting": 10.829,
@@ -14105,7 +14105,7 @@
             "people_group"
         ]
     }
-][
+,
     {
         "created_time": "1501458958",
         "days_since_posting": 3.042,
@@ -14264,7 +14264,7 @@
             "outdoor_"
         ]
     }
-][
+,
     {
         "created_time": "1498872868",
         "days_since_posting": 32.98,
@@ -14352,7 +14352,7 @@
             "outdoor_"
         ]
     }
-][
+,
     {
         "created_time": "1501688028",
         "days_since_posting": 0.404,
@@ -14499,7 +14499,7 @@
             "people_show"
         ]
     }
-][
+,
     {
         "created_time": "1501689658",
         "days_since_posting": 0.386,
@@ -14653,7 +14653,7 @@
             "people_"
         ]
     }
-][
+,
     {
         "created_time": "1499979416",
         "days_since_posting": 20.169,
@@ -14734,7 +14734,7 @@
             "outdoor_"
         ]
     }
-][
+,
     {
         "created_time": "1491944098",
         "days_since_posting": 113.174,
@@ -14853,7 +14853,7 @@
             "people_swimming"
         ]
     }
-][
+,
     {
         "created_time": "1501105761",
         "days_since_posting": 7.138,
@@ -14988,7 +14988,7 @@
             "people_"
         ]
     }
-][
+,
     {
         "created_time": "1501468661",
         "days_since_posting": 2.934,
@@ -15142,7 +15142,7 @@
             "people_"
         ]
     }
-][
+,
     {
         "created_time": "1501142993",
         "days_since_posting": 6.706,
@@ -15286,7 +15286,7 @@
             "people_group"
         ]
     }
-][
+,
     {
         "created_time": "1500767638",
         "days_since_posting": 11.041,
@@ -15448,7 +15448,7 @@
             "people_group"
         ]
     }
-][
+,
     {
         "created_time": "1501267194",
         "days_since_posting": 5.266,
@@ -15581,7 +15581,7 @@
             "people_portrait"
         ]
     }
-][
+,
     {
         "created_time": "1501636794",
         "days_since_posting": 0.983,
@@ -15712,7 +15712,7 @@
             "others_"
         ]
     }
-][
+,
     {
         "created_time": "1498321874",
         "days_since_posting": 39.36,
@@ -15821,7 +15821,7 @@
             "people_group"
         ]
     }
-][
+,
     {
         "created_time": "1499790496",
         "days_since_posting": 22.353,
@@ -15961,7 +15961,7 @@
             "people_"
         ]
     }
-][
+,
     {
         "created_time": "1499312557",
         "days_since_posting": 27.892,
@@ -16114,7 +16114,7 @@
             "people_group"
         ]
     }
-][
+,
     {
         "created_time": "1492183457",
         "days_since_posting": 110.4,
@@ -16244,7 +16244,7 @@
             "others_"
         ]
     }
-][
+,
     {
         "created_time": "1491871267",
         "days_since_posting": 114.017,
@@ -16292,7 +16292,7 @@
             "people_group"
         ]
     }
-][
+,
     {
         "created_time": "1501523346",
         "days_since_posting": 2.298,
@@ -16432,7 +16432,7 @@
             "others_"
         ]
     }
-][
+,
     {
         "created_time": "1501697268",
         "days_since_posting": 0.289,
@@ -16561,7 +16561,7 @@
             "text_mag"
         ]
     }
-][
+,
     {
         "created_time": "1496503858",
         "days_since_posting": 60.4,
@@ -16717,7 +16717,7 @@
             "abstract_texture"
         ]
     }
-][
+,
     {
         "created_time": "1500420968",
         "days_since_posting": 15.061,
@@ -16859,7 +16859,7 @@
             "text_sign"
         ]
     }
-][
+,
     {
         "created_time": "1499980499",
         "days_since_posting": 20.163,
@@ -16989,7 +16989,7 @@
             "people_show"
         ]
     }
-][
+,
     {
         "created_time": "1501214080",
         "days_since_posting": 5.876,
@@ -17071,7 +17071,7 @@
             "people_young"
         ]
     }
-][
+,
     {
         "created_time": "1488488968",
         "days_since_posting": 153.201,
@@ -17229,7 +17229,7 @@
             "people_group"
         ]
     }
-][
+,
     {
         "created_time": "1491422142",
         "days_since_posting": 119.21,
@@ -17273,7 +17273,7 @@
             "food_"
         ]
     }
-][
+,
     {
         "created_time": "1498340217",
         "days_since_posting": 39.151,
@@ -17380,7 +17380,7 @@
             "people_group"
         ]
     }
-][
+,
     {
         "created_time": "1501434448",
         "days_since_posting": 3.328,
@@ -17543,7 +17543,7 @@
             "people_"
         ]
     }
-][
+,
     {
         "created_time": "1499029554",
         "days_since_posting": 31.167,
@@ -17615,7 +17615,7 @@
             "people_young"
         ]
     }
-][
+,
     {
         "created_time": "1494274121",
         "days_since_posting": 86.202,
@@ -17776,7 +17776,7 @@
             "people_group"
         ]
     }
-][
+,
     {
         "created_time": "1498524151",
         "days_since_posting": 37.022,
@@ -17906,7 +17906,7 @@
             "food_"
         ]
     }
-][
+,
     {
         "created_time": "1501523737",
         "days_since_posting": 2.297,
@@ -18036,7 +18036,7 @@
             "text_"
         ]
     }
-][
+,
     {
         "created_time": "1500766312",
         "days_since_posting": 11.07,
@@ -18181,7 +18181,7 @@
             "people_show"
         ]
     }
-][
+,
     {
         "created_time": "1501463988",
         "days_since_posting": 2.996,
@@ -18333,7 +18333,7 @@
             "people_group"
         ]
     }
-][
+,
     {
         "created_time": "1498850622",
         "days_since_posting": 33.235,
@@ -18471,7 +18471,7 @@
             "people_"
         ]
     }
-][
+,
     {
         "created_time": "1494114343",
         "days_since_posting": 88.057,
@@ -18617,7 +18617,7 @@
             "outdoor_"
         ]
     }
-][
+,
     {
         "created_time": "1501710221",
         "days_since_posting": 0.134,
@@ -18757,7 +18757,7 @@
             "indoor_marketstore"
         ]
     }
-][
+,
     {
         "created_time": "1501703919",
         "days_since_posting": 0.212,
@@ -18899,7 +18899,7 @@
             "indoor_room"
         ]
     }
-][
+,
     {
         "created_time": "1501081248",
         "days_since_posting": 7.415,
@@ -19052,7 +19052,7 @@
             "people_"
         ]
     }
-][
+,
     {
         "created_time": "1501367102",
         "days_since_posting": 4.106,
@@ -19196,7 +19196,7 @@
             "people_"
         ]
     }
-][
+,
     {
         "created_time": "1501494239",
         "days_since_posting": 2.643,
@@ -19310,7 +19310,7 @@
             "others_"
         ]
     }
-][
+,
     {
         "created_time": "1499632617",
         "days_since_posting": 24.179,
@@ -19461,7 +19461,7 @@
             "text_sign"
         ]
     }
-][
+,
     {
         "created_time": "1501341210",
         "days_since_posting": 4.406,
@@ -19622,7 +19622,7 @@
             "outdoor_mountain"
         ]
     }
-][
+,
     {
         "created_time": "1501690471",
         "days_since_posting": 0.373,
@@ -19755,7 +19755,7 @@
             "outdoor_street"
         ]
     }
-][
+,
     {
         "created_time": "1501287588",
         "days_since_posting": 5.028,
@@ -19896,7 +19896,7 @@
             "text_sign"
         ]
     }
-][
+,
     {
         "created_time": "1499514846",
         "days_since_posting": 25.553,
@@ -20049,7 +20049,7 @@
             "people_"
         ]
     }
-][
+,
     {
         "created_time": "1493931943",
         "days_since_posting": 90.17,
@@ -20180,7 +20180,7 @@
             "text_mag"
         ]
     }
-][
+,
     {
         "created_time": "1501027590",
         "days_since_posting": 8.036,
@@ -20320,7 +20320,7 @@
             "people_group"
         ]
     }
-][
+,
     {
         "created_time": "1501151723",
         "days_since_posting": 6.608,
@@ -20473,7 +20473,7 @@
             "people_"
         ]
     }
-][
+,
     {
         "created_time": "1501289622",
         "days_since_posting": 5.01,
@@ -20614,7 +20614,7 @@
             "outdoor_mountain"
         ]
     }
-][
+,
     {
         "created_time": "1501688594",
         "days_since_posting": 0.39,
@@ -20766,7 +20766,7 @@
             "people_group"
         ]
     }
-][
+,
     {
         "created_time": "1501284559",
         "days_since_posting": 5.065,
@@ -20884,7 +20884,7 @@
             "others_"
         ]
     }
-][
+,
     {
         "created_time": "1501715718",
         "days_since_posting": 0.069,
@@ -21010,7 +21010,7 @@
             "people_group"
         ]
     }
-][
+,
     {
         "created_time": "1500341861",
         "days_since_posting": 15.979,
@@ -21164,7 +21164,7 @@
             "people_many"
         ]
     }
-][
+,
     {
         "created_time": "1498969625",
         "days_since_posting": 31.858,
@@ -21325,7 +21325,7 @@
             "people_show"
         ]
     }
-][
+,
     {
         "created_time": "1501164493",
         "days_since_posting": 6.45,
@@ -21470,7 +21470,7 @@
             "people_"
         ]
     }
-][
+,
     {
         "created_time": "1501589324",
         "days_since_posting": 1.547,
@@ -21601,7 +21601,7 @@
             "outdoor_road"
         ]
     }
-][
+,
     {
         "created_time": "1476031502",
         "days_since_posting": 297.343,
@@ -21730,7 +21730,7 @@
             "people_young"
         ]
     }
-][
+,
     {
         "created_time": "1492395463",
         "days_since_posting": 107.942,
@@ -21878,7 +21878,7 @@
             "trans_car"
         ]
     }
-][
+,
     {
         "created_time": "1501451935",
         "days_since_posting": 3.122,
@@ -22024,7 +22024,7 @@
             "people_group"
         ]
     }
-][
+,
     {
         "created_time": "1501681811",
         "days_since_posting": 0.474,
@@ -22139,7 +22139,7 @@
             "outdoor_"
         ]
     }
-][
+,
     {
         "created_time": "1383876878",
         "days_since_posting": 1363.995,
@@ -22155,7 +22155,7 @@
             "others_"
         ]
     }
-][
+,
     {
         "created_time": "1501292898",
         "days_since_posting": 4.964,
@@ -22203,7 +22203,7 @@
             "people_many"
         ]
     }
-][
+,
     {
         "created_time": "1492048323",
         "days_since_posting": 111.967,
@@ -22284,7 +22284,7 @@
             "people_group"
         ]
     }
-][
+,
     {
         "created_time": "1500774739",
         "days_since_posting": 10.974,
@@ -22429,7 +22429,7 @@
             "people_group"
         ]
     }
-][
+,
     {
         "created_time": "1468683757",
         "days_since_posting": 382.383,
@@ -22595,7 +22595,7 @@
             "people_group"
         ]
     }
-][
+,
     {
         "created_time": "1501173385",
         "days_since_posting": 6.355,
@@ -22721,7 +22721,7 @@
             "text_menu"
         ]
     }
-][
+,
     {
         "created_time": "1501718282",
         "days_since_posting": 0.054,
@@ -22859,7 +22859,7 @@
             "others_"
         ]
     }
-][
+,
     {
         "created_time": "1499469498",
         "days_since_posting": 26.082,
@@ -23020,7 +23020,7 @@
             "people_"
         ]
     }
-][
+,
     {
         "created_time": "1497225608",
         "days_since_posting": 52.046,
@@ -23118,7 +23118,7 @@
             "outdoor_"
         ]
     }
-][
+,
     {
         "created_time": "1501432201",
         "days_since_posting": 3.35,
@@ -23283,7 +23283,7 @@
             "people_"
         ]
     }
-][
+,
     {
         "created_time": "1491102488",
         "days_since_posting": 122.921,
@@ -23422,7 +23422,7 @@
             "people_group"
         ]
     }
-][
+,
     {
         "created_time": "1500574961",
         "days_since_posting": 13.285,
