@@ -1,5 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+from __future__ import division
 
 import argparse
 import codecs
@@ -38,11 +39,11 @@ class Payload(object):
 
 class PreviousPost:
     #A class that will be used to create previous post JSON objects to put in the database
-    def __init__(self, postid, likes, followed_by, follows, meanLikes, days_since_posting, created_time, tags):
+    def __init__(self, postid, likes, follow_ratio, follows, meanLikes, days_since_posting, created_time, tags):
         self.postid = postid
-        
+
         self.likes = likes
-        self.followed_by = followed_by
+        self.follow_ratio = follow_ratio
         self.follows = follows
         self.meanLikes = meanLikes
         self.days_since_posting = days_since_posting
@@ -399,8 +400,7 @@ class InstagramScraper(object):
 
                     # Utilizes JSON payload Class to Deserialize Json Object
                     p = Payload(data)
-                    print(p.tags)
-                    print(p.categories)
+
                     tags = []
                     for t in p.tags:
                         if t["confidence"] > 0.8:
@@ -408,7 +408,7 @@ class InstagramScraper(object):
                             tags.append(t["name"])
                     for t in p.categories:
                             tags.append(t["name"])
-                    print(tags)
+
                     conn.close()
                 except Exception as e:
                     print("[Errno {0}] {1}".format(e.errno, e.strerror))
@@ -421,7 +421,7 @@ class InstagramScraper(object):
 
                 # Implement creating JSON with tags and faces from CVAPI
 
-                picture = PreviousPost(postid, likes, user['followed_by']['count'], user['follows']['count'], meanLikes, timeDiff, created_time, tags)
+                picture = PreviousPost(postid, likes, user['follows']['count']/user['followed_by']['count'], user['follows']['count'], meanLikes, timeDiff, created_time, tags)
                 payload = picture.toJSON()
                 print(payload)
 
