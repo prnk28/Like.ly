@@ -411,43 +411,44 @@ class InstagramScraper(object):
                             tags.append(t["name"])
 
                     conn.close()
-                except Exception as e:
-                    print("[Errno {0}] {1}".format(e.errno, e.strerror))
 
-                postTimeFinal=(datetime.datetime.fromtimestamp(int(created_time)))
-                current = datetime.datetime.now()
-                timeDiff = (current - postTimeFinal)
-                timeDiff = (timeDiff.total_seconds())/(60*60*24)
-                timeDiff = float('%.3f' % (timeDiff))
 
-                # Implement creating JSON with tags and faces from CVAPI
+                    postTimeFinal=(datetime.datetime.fromtimestamp(int(created_time)))
+                    current = datetime.datetime.now()
+                    timeDiff = (current - postTimeFinal)
+                    timeDiff = (timeDiff.total_seconds())/(60*60*24)
+                    timeDiff = float('%.3f' % (timeDiff))
 
-                picture = PreviousPost(postid, likes, user['follows']['count']/user['followed_by']['count'], user['follows']['count'], meanLikes, timeDiff, created_time, tags)
-                #payload = picture.toJSON()
-                #print(payload)
+                    # Implement creating JSON with tags and faces from CVAPI
 
-                # This posts created JSON to our server
-                """url = "http://104.199.211.96:65/PreviousPost"
-                picture = PreviousPost(postid, image_link, likes, meanLikes, user['follows']['count'], user['followed_by']['count'],created_time,timeDiff,location,tags)
-                payload = picture.toJSON()
-                print(payload)
-                headers = {
-                    'content-type': "application/json",
-                    'authorization': "Basic YWRtaW46YnJheGRheTEyMw==",
-                    'cache-control': "no-cache",
-                    }
+                    picture = PreviousPost(postid, likes, user['follows']['count']/user['followed_by']['count'], user['follows']['count'], meanLikes, timeDiff, created_time, tags)
+                    #payload = picture.toJSON()
+                    #print(payload)
 
-                response = requests.request("POST", url, data=payload, headers=headers)
-                """
-                # This is what creates JSON
-                self.posts.append({
-                "follow_ratio" : user['follows']['count']/user['followed_by']['count'],
-                "likes" : likes,
-                "meanLikes" : meanLikes,
-                "follows" : user['follows']['count'],
-                "created_time" : created_time,
-                "days_since_posting" : timeDiff,
-                "tags" : tags})
+                    # This posts created JSON to our server
+                    """url = "http://104.199.211.96:65/PreviousPost"
+                    picture = PreviousPost(postid, image_link, likes, meanLikes, user['follows']['count'], user['followed_by']['count'],created_time,timeDiff,location,tags)
+                    payload = picture.toJSON()
+                    print(payload)
+                    headers = {
+                        'content-type': "application/json",
+                        'authorization': "Basic YWRtaW46YnJheGRheTEyMw==",
+                        'cache-control': "no-cache",
+                        }
+
+                    response = requests.request("POST", url, data=payload, headers=headers)
+                    """
+                    # This is what creates JSON
+                    self.posts.append({
+                    "follow_ratio" : user['follows']['count']/user['followed_by']['count'],
+                    "likes" : likes,
+                    "meanLikes" : meanLikes,
+                    "follows" : user['follows']['count'],
+                    "created_time" : created_time,
+                    "days_since_posting" : timeDiff,
+                    "tags" : tags})
+                except Exception:
+                    print("failed here")
 
             iter = iter + 1
             if self.maximum != 0 and iter >= self.maximum:
@@ -463,10 +464,12 @@ class InstagramScraper(object):
                 likes = item['likes']['count']
                 count = count + 1
                 average = likes + average
-            if count == 0:
-                return 0
 
-        return (average/count)
+
+        if count == 0:
+            return 0
+        else:
+            return (average/count)
 
     def fetch_user(self, username):
         """Fetches the user's metadata."""
