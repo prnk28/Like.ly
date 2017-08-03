@@ -20,8 +20,6 @@ ITEM_METHODS = ['GET', 'PATCH', 'PUT', 'DELETE']
 previousPostSchema = {
     'postid': {
         'type': 'string',
-        'minlength': 1,
-        'maxlength': 40,
         'required': True,
         'unique': False,
     },
@@ -32,19 +30,16 @@ previousPostSchema = {
     },
     'likes': {
         'type': 'integer',
-        'maxlength': 45,
         'required': True,
         'unique': False,
     },
-    'followed_by': {
-        'type': 'integer',
-        'maxlength': 45,
+    'follow_ratio': {
+        'type': 'float',
         'required': True,
         'unique': False,
     },
     'follows': {
         'type': 'integer',
-        'maxlength': 45,
         'required': True,
         'unique': False,
     },
@@ -58,15 +53,8 @@ previousPostSchema = {
         'required': True,
         'unique': False,
     },
-    'location': {
-        'type': 'string',
-        'maxlength': 45,
-        'required': True,
-        'unique': False,
-    },
     'created_time': {
         'type': 'string',
-        'maxlength': 45,
         'required': True,
         'unique': False,
     },

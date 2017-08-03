@@ -422,8 +422,8 @@ class InstagramScraper(object):
                 # Implement creating JSON with tags and faces from CVAPI
 
                 picture = PreviousPost(postid, likes, user['follows']['count']/user['followed_by']['count'], user['follows']['count'], meanLikes, timeDiff, created_time, tags)
-                payload = picture.toJSON()
-                print(payload)
+                #payload = picture.toJSON()
+                #print(payload)
 
                 # This posts created JSON to our server
                 """url = "http://104.199.211.96:65/PreviousPost"
@@ -437,18 +437,16 @@ class InstagramScraper(object):
                     }
 
                 response = requests.request("POST", url, data=payload, headers=headers)
-
+                """
                 # This is what creates JSON
-                self.posts.append({"postid" : postid,
-                "image_link" : image_link,
+                self.posts.append({
+                "follow_ratio" : user['follows']['count']/user['followed_by']['count'],
                 "likes" : likes,
                 "meanLikes" : meanLikes,
                 "follows" : user['follows']['count'],
-                "followed_by" : user['followed_by']['count'],
                 "created_time" : created_time,
                 "days_since_posting" : timeDiff,
-                "location" : location,
-                "tags" : tags})"""
+                "tags" : tags})
 
             iter = iter + 1
             if self.maximum != 0 and iter >= self.maximum:
