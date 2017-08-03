@@ -1,0 +1,131 @@
+[
+    {
+        "created_time": "1492183457", 
+        "days_since_posting": 110.4, 
+        "follow_ratio": 1.2112676056338028, 
+        "follows": 602, 
+        "likes": 104, 
+        "meanLikes": 33.79, 
+        "tags": [
+            "person", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1475981958", 
+        "days_since_posting": 297.917, 
+        "follow_ratio": 1.2112676056338028, 
+        "follows": 602, 
+        "likes": 81, 
+        "meanLikes": 33.79, 
+        "tags": [
+            "person", 
+            "indoor", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1467766831", 
+        "days_since_posting": 393.0, 
+        "follow_ratio": 1.2112676056338028, 
+        "follows": 602, 
+        "likes": 81, 
+        "meanLikes": 33.79, 
+        "tags": [
+            "outdoor", 
+            "person", 
+            "sky", 
+            "tree", 
+            "man", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1460681113", 
+        "days_since_posting": 475.011, 
+        "follow_ratio": 1.2112676056338028, 
+        "follows": 602, 
+        "likes": 28, 
+        "meanLikes": 33.79, 
+        "tags": [
+            "sky", 
+            "outdoor", 
+            "water", 
+            "beach", 
+            "outdoor_", 
+            "sky_cloud"
+        ]
+    }, 
+    {
+        "created_time": "1459388116", 
+        "days_since_posting": 489.976, 
+        "follow_ratio": 1.2112676056338028, 
+        "follows": 602, 
+        "likes": 39, 
+        "meanLikes": 33.79, 
+        "tags": [
+            "people_portrait"
+        ]
+    }, 
+    {
+        "created_time": "1455505742", 
+        "days_since_posting": 534.952, 
+        "follow_ratio": 1.2112676056338028, 
+        "follows": 602, 
+        "likes": 57, 
+        "meanLikes": 33.79, 
+        "tags": [
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1453775992", 
+        "days_since_posting": 554.973, 
+        "follow_ratio": 1.2112676056338028, 
+        "follows": 602, 
+        "likes": 67, 
+        "meanLikes": 33.79, 
+        "tags": [
+            "person", 
+            "people_group", 
+            "people_many"
+        ]
+    }, 
+    {
+        "created_time": "1453172083", 
+        "days_since_posting": 561.962, 
+        "follow_ratio": 1.2112676056338028, 
+        "follows": 602, 
+        "likes": 25, 
+        "meanLikes": 33.79, 
+        "tags": [
+            "abstract_", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1452475853", 
+        "days_since_posting": 570.021, 
+        "follow_ratio": 1.2112676056338028, 
+        "follows": 602, 
+        "likes": 46, 
+        "meanLikes": 33.79, 
+        "tags": [
+            "person", 
+            "man", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1451443445", 
+        "days_since_posting": 581.97, 
+        "follow_ratio": 1.2112676056338028, 
+        "follows": 602, 
+        "likes": 29, 
+        "meanLikes": 33.79, 
+        "tags": [
+            "others_"
+        ]
+    }
+]

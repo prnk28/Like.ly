@@ -1,0 +1,131 @@
+[
+    {
+        "created_time": "1486959273", 
+        "days_since_posting": 170.909, 
+        "follow_ratio": 0.98989898989899, 
+        "follows": 490, 
+        "likes": 83, 
+        "meanLikes": 33.27536231884058, 
+        "tags": [
+            "fence", 
+            "abstract_", 
+            "others_", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1483314724", 
+        "days_since_posting": 213.092, 
+        "follow_ratio": 0.98989898989899, 
+        "follows": 490, 
+        "likes": 171, 
+        "meanLikes": 33.27536231884058, 
+        "tags": [
+            "person", 
+            "abstract_", 
+            "outdoor_", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1475017039", 
+        "days_since_posting": 309.088, 
+        "follow_ratio": 0.98989898989899, 
+        "follows": 490, 
+        "likes": 139, 
+        "meanLikes": 33.27536231884058, 
+        "tags": [
+            "person", 
+            "posing", 
+            "outdoor", 
+            "standing", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1472576616", 
+        "days_since_posting": 337.334, 
+        "follow_ratio": 0.98989898989899, 
+        "follows": 490, 
+        "likes": 66, 
+        "meanLikes": 33.27536231884058, 
+        "tags": [
+            "text", 
+            "text_", 
+            "text_menu"
+        ]
+    }, 
+    {
+        "created_time": "1467138912", 
+        "days_since_posting": 400.27, 
+        "follow_ratio": 0.98989898989899, 
+        "follows": 490, 
+        "likes": 86, 
+        "meanLikes": 33.27536231884058, 
+        "tags": [
+            "abstract_", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1465328443", 
+        "days_since_posting": 421.225, 
+        "follow_ratio": 0.98989898989899, 
+        "follows": 490, 
+        "likes": 70, 
+        "meanLikes": 33.27536231884058, 
+        "tags": [
+            "building", 
+            "outdoor", 
+            "building_", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1460425781", 
+        "days_since_posting": 477.969, 
+        "follow_ratio": 0.98989898989899, 
+        "follows": 490, 
+        "likes": 110, 
+        "meanLikes": 33.27536231884058, 
+        "tags": [
+            "person", 
+            "woman", 
+            "outdoor", 
+            "standing", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1454960814", 
+        "days_since_posting": 541.262, 
+        "follow_ratio": 0.98989898989899, 
+        "follows": 490, 
+        "likes": 75, 
+        "meanLikes": 33.27536231884058, 
+        "tags": [
+            "person", 
+            "standing", 
+            "posing", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1419227489", 
+        "days_since_posting": 954.842, 
+        "follow_ratio": 0.98989898989899, 
+        "follows": 490, 
+        "likes": 61, 
+        "meanLikes": 33.27536231884058, 
+        "tags": [
+            "person", 
+            "wall", 
+            "floor", 
+            "indoor", 
+            "standing", 
+            "people_", 
+            "people_group"
+        ]
+    }
+]

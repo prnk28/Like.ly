@@ -1,0 +1,140 @@
+[
+    {
+        "created_time": "1495768480", 
+        "days_since_posting": 68.91, 
+        "follow_ratio": 1.337796086508754, 
+        "follows": 1299, 
+        "likes": 18, 
+        "meanLikes": 31.76, 
+        "tags": [
+            "abstract_shape", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1490548065", 
+        "days_since_posting": 129.332, 
+        "follow_ratio": 1.337796086508754, 
+        "follows": 1299, 
+        "likes": 32, 
+        "meanLikes": 31.76, 
+        "tags": [
+            "person", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1485884229", 
+        "days_since_posting": 183.353, 
+        "follow_ratio": 1.337796086508754, 
+        "follows": 1299, 
+        "likes": 38, 
+        "meanLikes": 31.76, 
+        "tags": [
+            "mammal", 
+            "animal", 
+            "looking", 
+            "dark_"
+        ]
+    }, 
+    {
+        "created_time": "1485120187", 
+        "days_since_posting": 192.196, 
+        "follow_ratio": 1.337796086508754, 
+        "follows": 1299, 
+        "likes": 64, 
+        "meanLikes": 31.76, 
+        "tags": [
+            "person", 
+            "others_", 
+            "outdoor_", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1484697912", 
+        "days_since_posting": 197.083, 
+        "follow_ratio": 1.337796086508754, 
+        "follows": 1299, 
+        "likes": 35, 
+        "meanLikes": 31.76, 
+        "tags": [
+            "person", 
+            "posing", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1483405655", 
+        "days_since_posting": 212.04, 
+        "follow_ratio": 1.337796086508754, 
+        "follows": 1299, 
+        "likes": 80, 
+        "meanLikes": 31.76, 
+        "tags": [
+            "person", 
+            "military uniform", 
+            "wall", 
+            "man", 
+            "others_", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1479167893", 
+        "days_since_posting": 261.088, 
+        "follow_ratio": 1.337796086508754, 
+        "follows": 1299, 
+        "likes": 64, 
+        "meanLikes": 31.76, 
+        "tags": [
+            "abstract_", 
+            "others_", 
+            "outdoor_", 
+            "text_"
+        ]
+    }, 
+    {
+        "created_time": "1475200734", 
+        "days_since_posting": 306.963, 
+        "follow_ratio": 1.337796086508754, 
+        "follows": 1299, 
+        "likes": 67, 
+        "meanLikes": 31.76, 
+        "tags": [
+            "person", 
+            "wall", 
+            "man", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1468194132", 
+        "days_since_posting": 388.058, 
+        "follow_ratio": 1.337796086508754, 
+        "follows": 1299, 
+        "likes": 19, 
+        "meanLikes": 31.76, 
+        "tags": [
+            "person", 
+            "others_", 
+            "people_show"
+        ]
+    }, 
+    {
+        "created_time": "1465966247", 
+        "days_since_posting": 413.844, 
+        "follow_ratio": 1.337796086508754, 
+        "follows": 1299, 
+        "likes": 34, 
+        "meanLikes": 31.76, 
+        "tags": [
+            "person", 
+            "wall", 
+            "indoor", 
+            "others_", 
+            "people_"
+        ]
+    }
+]

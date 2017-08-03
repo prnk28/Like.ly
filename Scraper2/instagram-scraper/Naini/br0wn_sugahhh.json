@@ -1,0 +1,146 @@
+[
+    {
+        "created_time": "1492342006", 
+        "days_since_posting": 108.576, 
+        "follow_ratio": 1.2513368983957218, 
+        "follows": 234, 
+        "likes": 43, 
+        "meanLikes": 22.17763157894737, 
+        "tags": [
+            "sky", 
+            "outdoor", 
+            "sky_cloud"
+        ]
+    }, 
+    {
+        "created_time": "1491877601", 
+        "days_since_posting": 113.951, 
+        "follow_ratio": 1.2513368983957218, 
+        "follows": 234, 
+        "likes": 39, 
+        "meanLikes": 22.17763157894737, 
+        "tags": [
+            "person", 
+            "boy", 
+            "young", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1486920430", 
+        "days_since_posting": 171.368, 
+        "follow_ratio": 1.2513368983957218, 
+        "follows": 234, 
+        "likes": 50, 
+        "meanLikes": 22.17763157894737, 
+        "tags": [
+            "person", 
+            "wall", 
+            "indoor", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1483896464", 
+        "days_since_posting": 206.367, 
+        "follow_ratio": 1.2513368983957218, 
+        "follows": 234, 
+        "likes": 58, 
+        "meanLikes": 22.17763157894737, 
+        "tags": [
+            "person", 
+            "posing", 
+            "outdoor", 
+            "group", 
+            "people", 
+            "people_crowd", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1483841504", 
+        "days_since_posting": 207.003, 
+        "follow_ratio": 1.2513368983957218, 
+        "follows": 234, 
+        "likes": 51, 
+        "meanLikes": 22.17763157894737, 
+        "tags": [
+            "sky", 
+            "outdoor", 
+            "outdoor_sportsfield"
+        ]
+    }, 
+    {
+        "created_time": "1483307901", 
+        "days_since_posting": 213.179, 
+        "follow_ratio": 1.2513368983957218, 
+        "follows": 234, 
+        "likes": 49, 
+        "meanLikes": 22.17763157894737, 
+        "tags": [
+            "person", 
+            "others_", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1482940450", 
+        "days_since_posting": 217.432, 
+        "follow_ratio": 1.2513368983957218, 
+        "follows": 234, 
+        "likes": 21, 
+        "meanLikes": 22.17763157894737, 
+        "tags": [
+            "person", 
+            "people_show"
+        ]
+    }, 
+    {
+        "created_time": "1482362034", 
+        "days_since_posting": 224.127, 
+        "follow_ratio": 1.2513368983957218, 
+        "follows": 234, 
+        "likes": 64, 
+        "meanLikes": 22.17763157894737, 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "clothing", 
+            "woman", 
+            "standing", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1481809423", 
+        "days_since_posting": 230.523, 
+        "follow_ratio": 1.2513368983957218, 
+        "follows": 234, 
+        "likes": 55, 
+        "meanLikes": 22.17763157894737, 
+        "tags": [
+            "sky", 
+            "outdoor", 
+            "sunset", 
+            "abstract_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1481229725", 
+        "days_since_posting": 237.232, 
+        "follow_ratio": 1.2513368983957218, 
+        "follows": 234, 
+        "likes": 57, 
+        "meanLikes": 22.17763157894737, 
+        "tags": [
+            "queen", 
+            "text", 
+            "others_", 
+            "outdoor_", 
+            "text_sign"
+        ]
+    }
+]

@@ -1,0 +1,138 @@
+[
+    {
+        "created_time": "1500780998", 
+        "days_since_posting": 10.891, 
+        "follow_ratio": 0.8733401430030644, 
+        "follows": 855, 
+        "likes": 197, 
+        "meanLikes": 127.35690235690235, 
+        "tags": [
+            "wall", 
+            "person", 
+            "bathroom", 
+            "indoor", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1498219432", 
+        "days_since_posting": 40.538, 
+        "follow_ratio": 0.8733401430030644, 
+        "follows": 855, 
+        "likes": 214, 
+        "meanLikes": 127.35690235690235, 
+        "tags": [
+            "person", 
+            "posing", 
+            "people", 
+            "outdoor", 
+            "standing", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1494081152", 
+        "days_since_posting": 88.435, 
+        "follow_ratio": 0.8733401430030644, 
+        "follows": 855, 
+        "likes": 218, 
+        "meanLikes": 127.35690235690235, 
+        "tags": [
+            "person", 
+            "posing", 
+            "indoor", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1493574390", 
+        "days_since_posting": 94.301, 
+        "follow_ratio": 0.8733401430030644, 
+        "follows": 855, 
+        "likes": 282, 
+        "meanLikes": 127.35690235690235, 
+        "tags": [
+            "wall", 
+            "person", 
+            "posing", 
+            "woman", 
+            "clothing", 
+            "indoor", 
+            "standing", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1493239312", 
+        "days_since_posting": 98.179, 
+        "follow_ratio": 0.8733401430030644, 
+        "follows": 855, 
+        "likes": 260, 
+        "meanLikes": 127.35690235690235, 
+        "tags": [
+            "outdoor", 
+            "person", 
+            "woman", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1493048502", 
+        "days_since_posting": 100.387, 
+        "follow_ratio": 0.8733401430030644, 
+        "follows": 855, 
+        "likes": 189, 
+        "meanLikes": 127.35690235690235, 
+        "tags": [
+            "person", 
+            "posing", 
+            "group", 
+            "standing", 
+            "people", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1492109538", 
+        "days_since_posting": 111.255, 
+        "follow_ratio": 0.8733401430030644, 
+        "follows": 855, 
+        "likes": 263, 
+        "meanLikes": 127.35690235690235, 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1491750446", 
+        "days_since_posting": 115.411, 
+        "follow_ratio": 0.8733401430030644, 
+        "follows": 855, 
+        "likes": 177, 
+        "meanLikes": 127.35690235690235, 
+        "tags": [
+            "wall", 
+            "indoor", 
+            "person", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1491673619", 
+        "days_since_posting": 116.3, 
+        "follow_ratio": 0.8733401430030644, 
+        "follows": 855, 
+        "likes": 159, 
+        "meanLikes": 127.35690235690235, 
+        "tags": [
+            "indoor", 
+            "mammal", 
+            "dog", 
+            "people_young"
+        ]
+    }
+]

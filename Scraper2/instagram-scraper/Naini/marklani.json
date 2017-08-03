@@ -1,0 +1,110 @@
+[
+    {
+        "created_time": "1498321874", 
+        "days_since_posting": 39.36, 
+        "follow_ratio": 1.014957264957265, 
+        "follows": 475, 
+        "likes": 174, 
+        "meanLikes": 148.14285714285714, 
+        "tags": [
+            "person", 
+            "grass", 
+            "outdoor", 
+            "athletic game", 
+            "standing", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1482513583", 
+        "days_since_posting": 222.368, 
+        "follow_ratio": 1.014957264957265, 
+        "follows": 475, 
+        "likes": 212, 
+        "meanLikes": 148.14285714285714, 
+        "tags": [
+            "person", 
+            "indoor", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1474821178", 
+        "days_since_posting": 311.359, 
+        "follow_ratio": 1.014957264957265, 
+        "follows": 475, 
+        "likes": 164, 
+        "meanLikes": 148.14285714285714, 
+        "tags": [
+            "person", 
+            "man", 
+            "standing", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1469724212", 
+        "days_since_posting": 370.352, 
+        "follow_ratio": 1.014957264957265, 
+        "follows": 475, 
+        "likes": 154, 
+        "meanLikes": 148.14285714285714, 
+        "tags": [
+            "person", 
+            "standing", 
+            "posing", 
+            "indoor", 
+            "man", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1467308764", 
+        "days_since_posting": 398.308, 
+        "follow_ratio": 1.014957264957265, 
+        "follows": 475, 
+        "likes": 116, 
+        "meanLikes": 148.14285714285714, 
+        "tags": [
+            "person", 
+            "indoor", 
+            "boy", 
+            "people_young"
+        ]
+    }, 
+    {
+        "created_time": "1464291348", 
+        "days_since_posting": 433.232, 
+        "follow_ratio": 1.014957264957265, 
+        "follows": 475, 
+        "likes": 113, 
+        "meanLikes": 148.14285714285714, 
+        "tags": [
+            "person", 
+            "suit", 
+            "clothing", 
+            "outdoor", 
+            "necktie", 
+            "man", 
+            "standing", 
+            "posing", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1464038363", 
+        "days_since_posting": 436.16, 
+        "follow_ratio": 1.014957264957265, 
+        "follows": 475, 
+        "likes": 104, 
+        "meanLikes": 148.14285714285714, 
+        "tags": [
+            "sky", 
+            "outdoor", 
+            "person", 
+            "people_group"
+        ]
+    }
+]
