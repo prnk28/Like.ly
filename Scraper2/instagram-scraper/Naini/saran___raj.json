@@ -1,0 +1,154 @@
+[
+    {
+        "created_time": "1501151723", 
+        "days_since_posting": 6.608, 
+        "follow_ratio": 2.0476190476190474, 
+        "follows": 473, 
+        "likes": 81, 
+        "meanLikes": 51.7, 
+        "tags": [
+            "person", 
+            "tree", 
+            "outdoor", 
+            "man", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1494935045", 
+        "days_since_posting": 78.56, 
+        "follow_ratio": 2.0476190476190474, 
+        "follows": 473, 
+        "likes": 101, 
+        "meanLikes": 51.7, 
+        "tags": [
+            "person", 
+            "man", 
+            "clothing", 
+            "suit", 
+            "standing", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1493306973", 
+        "days_since_posting": 97.403, 
+        "follow_ratio": 2.0476190476190474, 
+        "follows": 473, 
+        "likes": 69, 
+        "meanLikes": 51.7, 
+        "tags": [
+            "person", 
+            "posing", 
+            "standing", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1483956370", 
+        "days_since_posting": 205.67, 
+        "follow_ratio": 2.0476190476190474, 
+        "follows": 473, 
+        "likes": 57, 
+        "meanLikes": 51.7, 
+        "tags": [
+            "person", 
+            "posing", 
+            "people", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1482563675", 
+        "days_since_posting": 221.789, 
+        "follow_ratio": 2.0476190476190474, 
+        "follows": 473, 
+        "likes": 52, 
+        "meanLikes": 51.7, 
+        "tags": [
+            "person", 
+            "ground", 
+            "wall", 
+            "man", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1469337753", 
+        "days_since_posting": 374.825, 
+        "follow_ratio": 2.0476190476190474, 
+        "follows": 473, 
+        "likes": 46, 
+        "meanLikes": 51.7, 
+        "tags": [
+            "outdoor", 
+            "person", 
+            "sitting", 
+            "others_", 
+            "outdoor_", 
+            "people_show"
+        ]
+    }, 
+    {
+        "created_time": "1468344768", 
+        "days_since_posting": 386.318, 
+        "follow_ratio": 2.0476190476190474, 
+        "follows": 473, 
+        "likes": 35, 
+        "meanLikes": 51.7, 
+        "tags": [
+            "person", 
+            "group", 
+            "posing", 
+            "people_crowd", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1467864753", 
+        "days_since_posting": 391.874, 
+        "follow_ratio": 2.0476190476190474, 
+        "follows": 473, 
+        "likes": 31, 
+        "meanLikes": 51.7, 
+        "tags": [
+            "outdoor", 
+            "person", 
+            "man", 
+            "mountain", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1466933609", 
+        "days_since_posting": 402.651, 
+        "follow_ratio": 2.0476190476190474, 
+        "follows": 473, 
+        "likes": 27, 
+        "meanLikes": 51.7, 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "water", 
+            "posing", 
+            "group", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1466391109", 
+        "days_since_posting": 408.93, 
+        "follow_ratio": 2.0476190476190474, 
+        "follows": 473, 
+        "likes": 18, 
+        "meanLikes": 51.7, 
+        "tags": [
+            "person", 
+            "man", 
+            "indoor", 
+            "wall", 
+            "people_"
+        ]
+    }
+]

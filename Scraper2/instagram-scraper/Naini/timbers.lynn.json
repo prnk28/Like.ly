@@ -1,0 +1,116 @@
+[
+    {
+        "created_time": "1501681811", 
+        "days_since_posting": 0.474, 
+        "follow_ratio": 2.6551724137931036, 
+        "follows": 77, 
+        "likes": 0, 
+        "meanLikes": 0.5125, 
+        "tags": [
+            "monitor", 
+            "television", 
+            "screen", 
+            "others_", 
+            "text_sign"
+        ]
+    }, 
+    {
+        "created_time": "1501681714", 
+        "days_since_posting": 0.475, 
+        "follow_ratio": 2.6551724137931036, 
+        "follows": 77, 
+        "likes": 0, 
+        "meanLikes": 0.5125, 
+        "tags": [
+            "monitor", 
+            "text_sign"
+        ]
+    }, 
+    {
+        "created_time": "1501670636", 
+        "days_since_posting": 0.603, 
+        "follow_ratio": 2.6551724137931036, 
+        "follows": 77, 
+        "likes": 1, 
+        "meanLikes": 0.5125, 
+        "tags": [
+            "monitor", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1501665072", 
+        "days_since_posting": 0.668, 
+        "follow_ratio": 2.6551724137931036, 
+        "follows": 77, 
+        "likes": 2, 
+        "meanLikes": 0.5125, 
+        "tags": [
+            "building_street", 
+            "others_", 
+            "outdoor_", 
+            "text_sign"
+        ]
+    }, 
+    {
+        "created_time": "1501631151", 
+        "days_since_posting": 1.06, 
+        "follow_ratio": 2.6551724137931036, 
+        "follows": 77, 
+        "likes": 2, 
+        "meanLikes": 0.5125, 
+        "tags": [
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1501631136", 
+        "days_since_posting": 1.061, 
+        "follow_ratio": 2.6551724137931036, 
+        "follows": 77, 
+        "likes": 1, 
+        "meanLikes": 0.5125, 
+        "tags": [
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1501631122", 
+        "days_since_posting": 1.061, 
+        "follow_ratio": 2.6551724137931036, 
+        "follows": 77, 
+        "likes": 1, 
+        "meanLikes": 0.5125, 
+        "tags": [
+            "wall", 
+            "indoor", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1501631109", 
+        "days_since_posting": 1.061, 
+        "follow_ratio": 2.6551724137931036, 
+        "follows": 77, 
+        "likes": 0, 
+        "meanLikes": 0.5125, 
+        "tags": [
+            "abstract_", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1501631085", 
+        "days_since_posting": 1.061, 
+        "follow_ratio": 2.6551724137931036, 
+        "follows": 77, 
+        "likes": 0, 
+        "meanLikes": 0.5125, 
+        "tags": [
+            "others_", 
+            "outdoor_"
+        ]
+    }
+]

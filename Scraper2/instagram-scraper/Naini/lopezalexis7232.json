@@ -1,0 +1,82 @@
+[
+    {
+        "created_time": "1499979416", 
+        "days_since_posting": 20.169, 
+        "follow_ratio": 11.448087431693988, 
+        "follows": 2095, 
+        "likes": 52, 
+        "meanLikes": 25.666666666666668, 
+        "tags": [
+            "person", 
+            "wall", 
+            "mirror", 
+            "indoor", 
+            "cellphone", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1499979153", 
+        "days_since_posting": 20.172, 
+        "follow_ratio": 11.448087431693988, 
+        "follows": 2095, 
+        "likes": 20, 
+        "meanLikes": 25.666666666666668, 
+        "tags": [
+            "person", 
+            "wall", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1499979112", 
+        "days_since_posting": 20.172, 
+        "follow_ratio": 11.448087431693988, 
+        "follows": 2095, 
+        "likes": 11, 
+        "meanLikes": 25.666666666666668, 
+        "tags": [
+            "person", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1499105932", 
+        "days_since_posting": 30.279, 
+        "follow_ratio": 11.448087431693988, 
+        "follows": 2095, 
+        "likes": 30, 
+        "meanLikes": 25.666666666666668, 
+        "tags": [
+            "person", 
+            "indoor", 
+            "people_show"
+        ]
+    }, 
+    {
+        "created_time": "1495707760", 
+        "days_since_posting": 69.609, 
+        "follow_ratio": 11.448087431693988, 
+        "follows": 2095, 
+        "likes": 35, 
+        "meanLikes": 25.666666666666668, 
+        "tags": [
+            "person", 
+            "wall", 
+            "indoor", 
+            "people_baby"
+        ]
+    }, 
+    {
+        "created_time": "1486754210", 
+        "days_since_posting": 173.28, 
+        "follow_ratio": 11.448087431693988, 
+        "follows": 2095, 
+        "likes": 6, 
+        "meanLikes": 25.666666666666668, 
+        "tags": [
+            "others_", 
+            "outdoor_"
+        ]
+    }
+]

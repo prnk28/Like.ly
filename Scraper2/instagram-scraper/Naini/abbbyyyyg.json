@@ -1,0 +1,152 @@
+[
+    {
+        "created_time": "1500925349", 
+        "days_since_posting": 9.222, 
+        "follow_ratio": 1.166023166023166, 
+        "follows": 1510, 
+        "likes": 33, 
+        "meanLikes": 144.0, 
+        "tags": [
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1499365779", 
+        "days_since_posting": 27.272, 
+        "follow_ratio": 1.166023166023166, 
+        "follows": 1510, 
+        "likes": 175, 
+        "meanLikes": 144.0, 
+        "tags": [
+            "wall", 
+            "person", 
+            "indoor", 
+            "others_", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1499049915", 
+        "days_since_posting": 30.928, 
+        "follow_ratio": 1.166023166023166, 
+        "follows": 1510, 
+        "likes": 149, 
+        "meanLikes": 144.0, 
+        "tags": [
+            "grass", 
+            "outdoor", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1498865378", 
+        "days_since_posting": 33.064, 
+        "follow_ratio": 1.166023166023166, 
+        "follows": 1510, 
+        "likes": 173, 
+        "meanLikes": 144.0, 
+        "tags": [
+            "water", 
+            "outdoor", 
+            "sky", 
+            "person", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1497551454", 
+        "days_since_posting": 48.272, 
+        "follow_ratio": 1.166023166023166, 
+        "follows": 1510, 
+        "likes": 178, 
+        "meanLikes": 144.0, 
+        "tags": [
+            "water", 
+            "sky", 
+            "outdoor", 
+            "outdoor_", 
+            "people_swimming"
+        ]
+    }, 
+    {
+        "created_time": "1495741958", 
+        "days_since_posting": 69.215, 
+        "follow_ratio": 1.166023166023166, 
+        "follows": 1510, 
+        "likes": 116, 
+        "meanLikes": 144.0, 
+        "tags": [
+            "outdoor", 
+            "sky", 
+            "ground", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1493769560", 
+        "days_since_posting": 92.044, 
+        "follow_ratio": 1.166023166023166, 
+        "follows": 1510, 
+        "likes": 255, 
+        "meanLikes": 144.0, 
+        "tags": [
+            "building", 
+            "outdoor", 
+            "person", 
+            "phone", 
+            "cellphone", 
+            "talking", 
+            "clothing", 
+            "woman", 
+            "step", 
+            "red", 
+            "stair", 
+            "dress", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1493670042", 
+        "days_since_posting": 93.195, 
+        "follow_ratio": 1.166023166023166, 
+        "follows": 1510, 
+        "likes": 152, 
+        "meanLikes": 144.0, 
+        "tags": [
+            "person", 
+            "indoor", 
+            "others_", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1490891966", 
+        "days_since_posting": 125.349, 
+        "follow_ratio": 1.166023166023166, 
+        "follows": 1510, 
+        "likes": 165, 
+        "meanLikes": 144.0, 
+        "tags": [
+            "person", 
+            "woman", 
+            "car", 
+            "glasses", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1489262189", 
+        "days_since_posting": 144.254, 
+        "follow_ratio": 1.166023166023166, 
+        "follows": 1510, 
+        "likes": 175, 
+        "meanLikes": 144.0, 
+        "tags": [
+            "person", 
+            "window", 
+            "indoor", 
+            "people_"
+        ]
+    }
+]

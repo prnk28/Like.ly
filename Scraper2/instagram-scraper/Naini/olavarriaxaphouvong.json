@@ -1,0 +1,131 @@
+[
+    {
+        "created_time": "1498524151", 
+        "days_since_posting": 37.022, 
+        "follow_ratio": 7.429447852760736, 
+        "follows": 1211, 
+        "likes": 19, 
+        "meanLikes": 25.833333333333332, 
+        "tags": [
+            "dog", 
+            "indoor", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1496872486", 
+        "days_since_posting": 56.138, 
+        "follow_ratio": 7.429447852760736, 
+        "follows": 1211, 
+        "likes": 18, 
+        "meanLikes": 25.833333333333332, 
+        "tags": [
+            "others_", 
+            "outdoor_", 
+            "text_sign"
+        ]
+    }, 
+    {
+        "created_time": "1493156856", 
+        "days_since_posting": 99.143, 
+        "follow_ratio": 7.429447852760736, 
+        "follows": 1211, 
+        "likes": 18, 
+        "meanLikes": 25.833333333333332, 
+        "tags": [
+            "others_", 
+            "text_", 
+            "text_menu", 
+            "text_sign"
+        ]
+    }, 
+    {
+        "created_time": "1492732121", 
+        "days_since_posting": 104.059, 
+        "follow_ratio": 7.429447852760736, 
+        "follows": 1211, 
+        "likes": 22, 
+        "meanLikes": 25.833333333333332, 
+        "tags": [
+            "dog", 
+            "brown", 
+            "sitting", 
+            "indoor", 
+            "animal_dog"
+        ]
+    }, 
+    {
+        "created_time": "1483811564", 
+        "days_since_posting": 207.348, 
+        "follow_ratio": 7.429447852760736, 
+        "follows": 1211, 
+        "likes": 30, 
+        "meanLikes": 25.833333333333332, 
+        "tags": [
+            "water", 
+            "outdoor", 
+            "sky", 
+            "lake", 
+            "outdoor_", 
+            "outdoor_oceanbeach"
+        ]
+    }, 
+    {
+        "created_time": "1483811500", 
+        "days_since_posting": 207.349, 
+        "follow_ratio": 7.429447852760736, 
+        "follows": 1211, 
+        "likes": 16, 
+        "meanLikes": 25.833333333333332, 
+        "tags": [
+            "sky", 
+            "outdoor", 
+            "sky_cloud"
+        ]
+    }, 
+    {
+        "created_time": "1483811442", 
+        "days_since_posting": 207.35, 
+        "follow_ratio": 7.429447852760736, 
+        "follows": 1211, 
+        "likes": 12, 
+        "meanLikes": 25.833333333333332, 
+        "tags": [
+            "sky", 
+            "grass", 
+            "outdoor", 
+            "road", 
+            "outdoor_road"
+        ]
+    }, 
+    {
+        "created_time": "1483532880", 
+        "days_since_posting": 210.574, 
+        "follow_ratio": 7.429447852760736, 
+        "follows": 1211, 
+        "likes": 16, 
+        "meanLikes": 25.833333333333332, 
+        "tags": [
+            "food", 
+            "plate", 
+            "indoor", 
+            "food_"
+        ]
+    }, 
+    {
+        "created_time": "1482357241", 
+        "days_since_posting": 224.181, 
+        "follow_ratio": 7.429447852760736, 
+        "follows": 1211, 
+        "likes": 69, 
+        "meanLikes": 25.833333333333332, 
+        "tags": [
+            "plate", 
+            "food", 
+            "table", 
+            "rice", 
+            "white", 
+            "food_"
+        ]
+    }
+]

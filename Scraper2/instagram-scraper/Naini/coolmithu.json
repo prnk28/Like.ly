@@ -1,0 +1,134 @@
+[
+    {
+        "created_time": "1485236916", 
+        "days_since_posting": 190.851, 
+        "follow_ratio": 0.38578680203045684, 
+        "follows": 228, 
+        "likes": 68, 
+        "meanLikes": 64.11111111111111, 
+        "tags": [
+            "grass", 
+            "person", 
+            "outdoor", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1485235598", 
+        "days_since_posting": 190.866, 
+        "follow_ratio": 0.38578680203045684, 
+        "follows": 228, 
+        "likes": 66, 
+        "meanLikes": 64.11111111111111, 
+        "tags": [
+            "text", 
+            "book", 
+            "plant_leaves"
+        ]
+    }, 
+    {
+        "created_time": "1485197695", 
+        "days_since_posting": 191.305, 
+        "follow_ratio": 0.38578680203045684, 
+        "follows": 228, 
+        "likes": 56, 
+        "meanLikes": 64.11111111111111, 
+        "tags": [
+            "person", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1485064160", 
+        "days_since_posting": 192.85, 
+        "follow_ratio": 0.38578680203045684, 
+        "follows": 228, 
+        "likes": 115, 
+        "meanLikes": 64.11111111111111, 
+        "tags": [
+            "person", 
+            "people_young"
+        ]
+    }, 
+    {
+        "created_time": "1485064114", 
+        "days_since_posting": 192.851, 
+        "follow_ratio": 0.38578680203045684, 
+        "follows": 228, 
+        "likes": 112, 
+        "meanLikes": 64.11111111111111, 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "people_young"
+        ]
+    }, 
+    {
+        "created_time": "1484995576", 
+        "days_since_posting": 193.644, 
+        "follow_ratio": 0.38578680203045684, 
+        "follows": 228, 
+        "likes": 97, 
+        "meanLikes": 64.11111111111111, 
+        "tags": [
+            "woman", 
+            "person", 
+            "posing", 
+            "hair", 
+            "black", 
+            "people_portrait"
+        ]
+    }, 
+    {
+        "created_time": "1484905132", 
+        "days_since_posting": 194.691, 
+        "follow_ratio": 0.38578680203045684, 
+        "follows": 228, 
+        "likes": 56, 
+        "meanLikes": 64.11111111111111, 
+        "tags": [
+            "text", 
+            "book", 
+            "others_", 
+            "text_mag"
+        ]
+    }, 
+    {
+        "created_time": "1484883149", 
+        "days_since_posting": 194.945, 
+        "follow_ratio": 0.38578680203045684, 
+        "follows": 228, 
+        "likes": 72, 
+        "meanLikes": 64.11111111111111, 
+        "tags": [
+            "text_mag"
+        ]
+    }, 
+    {
+        "created_time": "1484796426", 
+        "days_since_posting": 195.949, 
+        "follow_ratio": 0.38578680203045684, 
+        "follows": 228, 
+        "likes": 58, 
+        "meanLikes": 64.11111111111111, 
+        "tags": [
+            "text", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1484724414", 
+        "days_since_posting": 196.783, 
+        "follow_ratio": 0.38578680203045684, 
+        "follows": 228, 
+        "likes": 56, 
+        "meanLikes": 64.11111111111111, 
+        "tags": [
+            "grass", 
+            "outdoor", 
+            "outdoor_", 
+            "outdoor_grass"
+        ]
+    }
+]

@@ -1,0 +1,119 @@
+[
+    {
+        "created_time": "1501284559", 
+        "days_since_posting": 5.065, 
+        "follow_ratio": 2.895348837209302, 
+        "follows": 498, 
+        "likes": 19, 
+        "meanLikes": 10.75, 
+        "tags": [
+            "cake", 
+            "wall", 
+            "indoor", 
+            "birthday", 
+            "decorated", 
+            "abstract_nonphoto"
+        ]
+    }, 
+    {
+        "created_time": "1501270803", 
+        "days_since_posting": 5.224, 
+        "follow_ratio": 2.895348837209302, 
+        "follows": 498, 
+        "likes": 16, 
+        "meanLikes": 10.75, 
+        "tags": [
+            "birthday", 
+            "indoor", 
+            "colorful", 
+            "abstract_nonphoto", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1500526490", 
+        "days_since_posting": 13.839, 
+        "follow_ratio": 2.895348837209302, 
+        "follows": 498, 
+        "likes": 8, 
+        "meanLikes": 10.75, 
+        "tags": [
+            "indoor", 
+            "food_"
+        ]
+    }, 
+    {
+        "created_time": "1499309948", 
+        "days_since_posting": 27.919, 
+        "follow_ratio": 2.895348837209302, 
+        "follows": 498, 
+        "likes": 18, 
+        "meanLikes": 10.75, 
+        "tags": [
+            "people_swimming"
+        ]
+    }, 
+    {
+        "created_time": "1498775020", 
+        "days_since_posting": 34.111, 
+        "follow_ratio": 2.895348837209302, 
+        "follows": 498, 
+        "likes": 15, 
+        "meanLikes": 10.75, 
+        "tags": [
+            "food", 
+            "food_"
+        ]
+    }, 
+    {
+        "created_time": "1493647958", 
+        "days_since_posting": 93.452, 
+        "follow_ratio": 2.895348837209302, 
+        "follows": 498, 
+        "likes": 19, 
+        "meanLikes": 10.75, 
+        "tags": [
+            "indoor", 
+            "birthday", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1493647440", 
+        "days_since_posting": 93.458, 
+        "follow_ratio": 2.895348837209302, 
+        "follows": 498, 
+        "likes": 11, 
+        "meanLikes": 10.75, 
+        "tags": [
+            "cake", 
+            "food", 
+            "plate", 
+            "food_"
+        ]
+    }, 
+    {
+        "created_time": "1493644740", 
+        "days_since_posting": 93.489, 
+        "follow_ratio": 2.895348837209302, 
+        "follows": 498, 
+        "likes": 12, 
+        "meanLikes": 10.75, 
+        "tags": [
+            "abstract_nonphoto"
+        ]
+    }, 
+    {
+        "created_time": "1491577407", 
+        "days_since_posting": 117.417, 
+        "follow_ratio": 2.895348837209302, 
+        "follows": 498, 
+        "likes": 21, 
+        "meanLikes": 10.75, 
+        "tags": [
+            "indoor", 
+            "others_"
+        ]
+    }
+]

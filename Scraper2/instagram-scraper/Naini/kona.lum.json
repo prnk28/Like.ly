@@ -1,0 +1,111 @@
+[
+    {
+        "created_time": "1501103602", 
+        "days_since_posting": 7.157, 
+        "follow_ratio": 0.7794117647058824, 
+        "follows": 53, 
+        "likes": 25, 
+        "meanLikes": 23.46153846153846, 
+        "tags": [
+            "dog", 
+            "indoor", 
+            "laying", 
+            "mammal", 
+            "animal", 
+            "animal_dog"
+        ]
+    }, 
+    {
+        "created_time": "1500606319", 
+        "days_since_posting": 12.912, 
+        "follow_ratio": 0.7794117647058824, 
+        "follows": 53, 
+        "likes": 20, 
+        "meanLikes": 23.46153846153846, 
+        "tags": [
+            "dog", 
+            "indoor", 
+            "white", 
+            "animal_dog"
+        ]
+    }, 
+    {
+        "created_time": "1500406438", 
+        "days_since_posting": 15.226, 
+        "follow_ratio": 0.7794117647058824, 
+        "follows": 53, 
+        "likes": 22, 
+        "meanLikes": 23.46153846153846, 
+        "tags": [
+            "dog", 
+            "indoor", 
+            "wall", 
+            "white", 
+            "mammal", 
+            "animal", 
+            "animal_dog"
+        ]
+    }, 
+    {
+        "created_time": "1499875844", 
+        "days_since_posting": 21.367, 
+        "follow_ratio": 0.7794117647058824, 
+        "follows": 53, 
+        "likes": 26, 
+        "meanLikes": 23.46153846153846, 
+        "tags": [
+            "dog", 
+            "person", 
+            "indoor", 
+            "white", 
+            "animal", 
+            "animal_dog"
+        ]
+    }, 
+    {
+        "created_time": "1499743435", 
+        "days_since_posting": 22.899, 
+        "follow_ratio": 0.7794117647058824, 
+        "follows": 53, 
+        "likes": 17, 
+        "meanLikes": 23.46153846153846, 
+        "tags": [
+            "grass", 
+            "outdoor", 
+            "dog", 
+            "outdoor_grass"
+        ]
+    }, 
+    {
+        "created_time": "1499313866", 
+        "days_since_posting": 27.871, 
+        "follow_ratio": 0.7794117647058824, 
+        "follows": 53, 
+        "likes": 31, 
+        "meanLikes": 23.46153846153846, 
+        "tags": [
+            "dog", 
+            "indoor", 
+            "white", 
+            "mammal", 
+            "animal", 
+            "laying", 
+            "animal_dog"
+        ]
+    }, 
+    {
+        "created_time": "1499126519", 
+        "days_since_posting": 30.04, 
+        "follow_ratio": 0.7794117647058824, 
+        "follows": 53, 
+        "likes": 24, 
+        "meanLikes": 23.46153846153846, 
+        "tags": [
+            "dog", 
+            "person", 
+            "indoor", 
+            "wearing", 
+            "animal_dog"
+        ]
+    }
+]

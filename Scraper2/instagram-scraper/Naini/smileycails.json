@@ -1,0 +1,153 @@
+[
+    {
+        "created_time": "1501688594", 
+        "days_since_posting": 0.39, 
+        "follow_ratio": 0.8959510357815442, 
+        "follows": 1903, 
+        "likes": 211, 
+        "meanLikes": 226.38888888888889, 
+        "tags": [
+            "person", 
+            "indoor", 
+            "standing", 
+            "man", 
+            "floor", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1499775011", 
+        "days_since_posting": 22.538, 
+        "follow_ratio": 0.8959510357815442, 
+        "follows": 1903, 
+        "likes": 670, 
+        "meanLikes": 226.38888888888889, 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "posing", 
+            "girl", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1499430652", 
+        "days_since_posting": 26.524, 
+        "follow_ratio": 0.8959510357815442, 
+        "follows": 1903, 
+        "likes": 651, 
+        "meanLikes": 226.38888888888889, 
+        "tags": [
+            "woman", 
+            "text", 
+            "person", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1498872931", 
+        "days_since_posting": 32.979, 
+        "follow_ratio": 0.8959510357815442, 
+        "follows": 1903, 
+        "likes": 744, 
+        "meanLikes": 226.38888888888889, 
+        "tags": [
+            "tree", 
+            "person", 
+            "sky", 
+            "outdoor", 
+            "woman", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1497784140", 
+        "days_since_posting": 45.581, 
+        "follow_ratio": 0.8959510357815442, 
+        "follows": 1903, 
+        "likes": 253, 
+        "meanLikes": 226.38888888888889, 
+        "tags": [
+            "person", 
+            "indoor", 
+            "others_", 
+            "people_baby"
+        ]
+    }, 
+    {
+        "created_time": "1497707377", 
+        "days_since_posting": 46.469, 
+        "follow_ratio": 0.8959510357815442, 
+        "follows": 1903, 
+        "likes": 206, 
+        "meanLikes": 226.38888888888889, 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "posing", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1494163252", 
+        "days_since_posting": 87.489, 
+        "follow_ratio": 0.8959510357815442, 
+        "follows": 1903, 
+        "likes": 288, 
+        "meanLikes": 226.38888888888889, 
+        "tags": [
+            "building", 
+            "outdoor", 
+            "person", 
+            "standing", 
+            "posing", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1491846826", 
+        "days_since_posting": 114.3, 
+        "follow_ratio": 0.8959510357815442, 
+        "follows": 1903, 
+        "likes": 285, 
+        "meanLikes": 226.38888888888889, 
+        "tags": [
+            "outdoor", 
+            "tree", 
+            "person", 
+            "girl", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1491016001", 
+        "days_since_posting": 123.916, 
+        "follow_ratio": 0.8959510357815442, 
+        "follows": 1903, 
+        "likes": 236, 
+        "meanLikes": 226.38888888888889, 
+        "tags": [
+            "person", 
+            "posing", 
+            "standing", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1490230086", 
+        "days_since_posting": 133.012, 
+        "follow_ratio": 0.8959510357815442, 
+        "follows": 1903, 
+        "likes": 210, 
+        "meanLikes": 226.38888888888889, 
+        "tags": [
+            "person", 
+            "clothing", 
+            "posing", 
+            "necktie", 
+            "people_group"
+        ]
+    }
+]

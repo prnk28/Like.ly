@@ -1,0 +1,147 @@
+[
+    {
+        "created_time": "1496074709", 
+        "days_since_posting": 65.37, 
+        "follow_ratio": 2.1290684624017957, 
+        "follows": 1897, 
+        "likes": 59, 
+        "meanLikes": 43.51020408163265, 
+        "tags": [
+            "person", 
+            "people_", 
+            "people_show"
+        ]
+    }, 
+    {
+        "created_time": "1495610870", 
+        "days_since_posting": 70.739, 
+        "follow_ratio": 2.1290684624017957, 
+        "follows": 1897, 
+        "likes": 85, 
+        "meanLikes": 43.51020408163265, 
+        "tags": [
+            "tree", 
+            "outdoor", 
+            "building", 
+            "building_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1495127277", 
+        "days_since_posting": 76.336, 
+        "follow_ratio": 2.1290684624017957, 
+        "follows": 1897, 
+        "likes": 149, 
+        "meanLikes": 43.51020408163265, 
+        "tags": [
+            "sky", 
+            "person", 
+            "water", 
+            "outdoor", 
+            "man", 
+            "abstract_", 
+            "others_", 
+            "outdoor_", 
+            "sky_cloud"
+        ]
+    }, 
+    {
+        "created_time": "1494952125", 
+        "days_since_posting": 78.363, 
+        "follow_ratio": 2.1290684624017957, 
+        "follows": 1897, 
+        "likes": 93, 
+        "meanLikes": 43.51020408163265, 
+        "tags": [
+            "outdoor", 
+            "building", 
+            "building_pillar"
+        ]
+    }, 
+    {
+        "created_time": "1491413751", 
+        "days_since_posting": 119.317, 
+        "follow_ratio": 2.1290684624017957, 
+        "follows": 1897, 
+        "likes": 104, 
+        "meanLikes": 43.51020408163265, 
+        "tags": [
+            "outdoor", 
+            "mountain", 
+            "person", 
+            "rock", 
+            "nature", 
+            "outdoor_mountain"
+        ]
+    }, 
+    {
+        "created_time": "1486571084", 
+        "days_since_posting": 175.408, 
+        "follow_ratio": 2.1290684624017957, 
+        "follows": 1897, 
+        "likes": 50, 
+        "meanLikes": 43.51020408163265, 
+        "tags": [
+            "abstract_", 
+            "others_", 
+            "outdoor_", 
+            "outdoor_road"
+        ]
+    }, 
+    {
+        "created_time": "1479404032", 
+        "days_since_posting": 258.36, 
+        "follow_ratio": 2.1290684624017957, 
+        "follows": 1897, 
+        "likes": 69, 
+        "meanLikes": 43.51020408163265, 
+        "tags": [
+            "person", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1478379443", 
+        "days_since_posting": 270.177, 
+        "follow_ratio": 2.1290684624017957, 
+        "follows": 1897, 
+        "likes": 63, 
+        "meanLikes": 43.51020408163265, 
+        "tags": [
+            "sky", 
+            "water", 
+            "outdoor", 
+            "outdoor_", 
+            "outdoor_city"
+        ]
+    }, 
+    {
+        "created_time": "1473016637", 
+        "days_since_posting": 332.246, 
+        "follow_ratio": 2.1290684624017957, 
+        "follows": 1897, 
+        "likes": 56, 
+        "meanLikes": 43.51020408163265, 
+        "tags": [
+            "outdoor", 
+            "person", 
+            "others_", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1470504695", 
+        "days_since_posting": 361.32, 
+        "follow_ratio": 2.1290684624017957, 
+        "follows": 1897, 
+        "likes": 41, 
+        "meanLikes": 43.51020408163265, 
+        "tags": [
+            "outdoor", 
+            "others_", 
+            "outdoor_"
+        ]
+    }
+]

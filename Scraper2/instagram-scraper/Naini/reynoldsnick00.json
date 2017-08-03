@@ -1,0 +1,142 @@
+[
+    {
+        "created_time": "1501287588", 
+        "days_since_posting": 5.028, 
+        "follow_ratio": 2.6588235294117646, 
+        "follows": 1808, 
+        "likes": 2, 
+        "meanLikes": 30.55, 
+        "tags": [
+            "abstract", 
+            "screenshot", 
+            "others_", 
+            "text_menu"
+        ]
+    }, 
+    {
+        "created_time": "1501284402", 
+        "days_since_posting": 5.065, 
+        "follow_ratio": 2.6588235294117646, 
+        "follows": 1808, 
+        "likes": 3, 
+        "meanLikes": 30.55, 
+        "tags": [
+            "red", 
+            "others_", 
+            "outdoor_", 
+            "text_"
+        ]
+    }, 
+    {
+        "created_time": "1501260569", 
+        "days_since_posting": 5.341, 
+        "follow_ratio": 2.6588235294117646, 
+        "follows": 1808, 
+        "likes": 4, 
+        "meanLikes": 30.55, 
+        "tags": [
+            "abstract", 
+            "screenshot", 
+            "others_", 
+            "text_", 
+            "text_menu"
+        ]
+    }, 
+    {
+        "created_time": "1501260551", 
+        "days_since_posting": 5.341, 
+        "follow_ratio": 2.6588235294117646, 
+        "follows": 1808, 
+        "likes": 4, 
+        "meanLikes": 30.55, 
+        "tags": [
+            "screenshot", 
+            "abstract", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1501215571", 
+        "days_since_posting": 5.862, 
+        "follow_ratio": 2.6588235294117646, 
+        "follows": 1808, 
+        "likes": 5, 
+        "meanLikes": 30.55, 
+        "tags": [
+            "text", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1501187719", 
+        "days_since_posting": 6.184, 
+        "follow_ratio": 2.6588235294117646, 
+        "follows": 1808, 
+        "likes": 4, 
+        "meanLikes": 30.55, 
+        "tags": [
+            "abstract", 
+            "others_", 
+            "text_menu"
+        ]
+    }, 
+    {
+        "created_time": "1501186296", 
+        "days_since_posting": 6.201, 
+        "follow_ratio": 2.6588235294117646, 
+        "follows": 1808, 
+        "likes": 6, 
+        "meanLikes": 30.55, 
+        "tags": [
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1501185274", 
+        "days_since_posting": 6.213, 
+        "follow_ratio": 2.6588235294117646, 
+        "follows": 1808, 
+        "likes": 12, 
+        "meanLikes": 30.55, 
+        "tags": [
+            "abstract", 
+            "others_", 
+            "outdoor_", 
+            "text_sign"
+        ]
+    }, 
+    {
+        "created_time": "1501124231", 
+        "days_since_posting": 6.919, 
+        "follow_ratio": 2.6588235294117646, 
+        "follows": 1808, 
+        "likes": 9, 
+        "meanLikes": 30.55, 
+        "tags": [
+            "screenshot", 
+            "abstract", 
+            "others_", 
+            "text_", 
+            "text_menu"
+        ]
+    }, 
+    {
+        "created_time": "1501120215", 
+        "days_since_posting": 6.966, 
+        "follow_ratio": 2.6588235294117646, 
+        "follows": 1808, 
+        "likes": 6, 
+        "meanLikes": 30.55, 
+        "tags": [
+            "screenshot", 
+            "abstract", 
+            "others_", 
+            "outdoor_", 
+            "text_", 
+            "text_sign"
+        ]
+    }
+]

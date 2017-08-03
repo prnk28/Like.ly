@@ -1,0 +1,132 @@
+[
+    {
+        "created_time": "1501589324", 
+        "days_since_posting": 1.547, 
+        "follow_ratio": 0.07573393009628691, 
+        "follows": 2572, 
+        "likes": 4291, 
+        "meanLikes": 1809.1458333333333, 
+        "tags": [
+            "person", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1501090324", 
+        "days_since_posting": 7.323, 
+        "follow_ratio": 0.07573393009628691, 
+        "follows": 2572, 
+        "likes": 4128, 
+        "meanLikes": 1809.1458333333333, 
+        "tags": [
+            "person", 
+            "sky", 
+            "outdoor", 
+            "people", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1501017134", 
+        "days_since_posting": 8.17, 
+        "follow_ratio": 0.07573393009628691, 
+        "follows": 2572, 
+        "likes": 4065, 
+        "meanLikes": 1809.1458333333333, 
+        "tags": [
+            "outdoor", 
+            "road", 
+            "person", 
+            "car", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1500913191", 
+        "days_since_posting": 9.373, 
+        "follow_ratio": 0.07573393009628691, 
+        "follows": 2572, 
+        "likes": 4200, 
+        "meanLikes": 1809.1458333333333, 
+        "tags": [
+            "person", 
+            "clothing", 
+            "others_", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1500479447", 
+        "days_since_posting": 14.393, 
+        "follow_ratio": 0.07573393009628691, 
+        "follows": 2572, 
+        "likes": 3406, 
+        "meanLikes": 1809.1458333333333, 
+        "tags": [
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1500384022", 
+        "days_since_posting": 15.498, 
+        "follow_ratio": 0.07573393009628691, 
+        "follows": 2572, 
+        "likes": 4279, 
+        "meanLikes": 1809.1458333333333, 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "standing", 
+            "posing", 
+            "group", 
+            "snow", 
+            "people", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1499379095", 
+        "days_since_posting": 27.129, 
+        "follow_ratio": 0.07573393009628691, 
+        "follows": 2572, 
+        "likes": 4341, 
+        "meanLikes": 1809.1458333333333, 
+        "tags": [
+            "person", 
+            "man", 
+            "cellphone", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1499263734", 
+        "days_since_posting": 28.464, 
+        "follow_ratio": 0.07573393009628691, 
+        "follows": 2572, 
+        "likes": 2626, 
+        "meanLikes": 1809.1458333333333, 
+        "tags": [
+            "person", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1499174875", 
+        "days_since_posting": 29.493, 
+        "follow_ratio": 0.07573393009628691, 
+        "follows": 2572, 
+        "likes": 1193, 
+        "meanLikes": 1809.1458333333333, 
+        "tags": [
+            "way", 
+            "road", 
+            "scene", 
+            "outdoor", 
+            "outdoor_", 
+            "outdoor_road"
+        ]
+    }
+]

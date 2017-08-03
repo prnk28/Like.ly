@@ -1,0 +1,142 @@
+[
+    {
+        "created_time": "1501172894", 
+        "days_since_posting": 6.353, 
+        "follow_ratio": 0.7447204968944099, 
+        "follows": 1199, 
+        "likes": 388, 
+        "meanLikes": 229.47619047619048, 
+        "tags": [
+            "person", 
+            "woman", 
+            "outdoor", 
+            "others_", 
+            "people_portrait"
+        ]
+    }, 
+    {
+        "created_time": "1498160116", 
+        "days_since_posting": 41.223, 
+        "follow_ratio": 0.7447204968944099, 
+        "follows": 1199, 
+        "likes": 333, 
+        "meanLikes": 229.47619047619048, 
+        "tags": [
+            "person", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1495497112", 
+        "days_since_posting": 72.045, 
+        "follow_ratio": 0.7447204968944099, 
+        "follows": 1199, 
+        "likes": 137, 
+        "meanLikes": 229.47619047619048, 
+        "tags": [
+            "others_", 
+            "text_sign"
+        ]
+    }, 
+    {
+        "created_time": "1495485450", 
+        "days_since_posting": 72.18, 
+        "follow_ratio": 0.7447204968944099, 
+        "follows": 1199, 
+        "likes": 401, 
+        "meanLikes": 229.47619047619048, 
+        "tags": [
+            "person", 
+            "woman", 
+            "girl", 
+            "posing", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1493645223", 
+        "days_since_posting": 93.479, 
+        "follow_ratio": 0.7447204968944099, 
+        "follows": 1199, 
+        "likes": 318, 
+        "meanLikes": 229.47619047619048, 
+        "tags": [
+            "posing", 
+            "outdoor_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1492514002", 
+        "days_since_posting": 106.572, 
+        "follow_ratio": 0.7447204968944099, 
+        "follows": 1199, 
+        "likes": 230, 
+        "meanLikes": 229.47619047619048, 
+        "tags": [
+            "indoor", 
+            "person", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1491019818", 
+        "days_since_posting": 123.866, 
+        "follow_ratio": 0.7447204968944099, 
+        "follows": 1199, 
+        "likes": 406, 
+        "meanLikes": 229.47619047619048, 
+        "tags": [
+            "person", 
+            "standing", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1490391927", 
+        "days_since_posting": 131.133, 
+        "follow_ratio": 0.7447204968944099, 
+        "follows": 1199, 
+        "likes": 396, 
+        "meanLikes": 229.47619047619048, 
+        "tags": [
+            "person", 
+            "people_baby"
+        ]
+    }, 
+    {
+        "created_time": "1489967290", 
+        "days_since_posting": 136.048, 
+        "follow_ratio": 0.7447204968944099, 
+        "follows": 1199, 
+        "likes": 419, 
+        "meanLikes": 229.47619047619048, 
+        "tags": [
+            "person", 
+            "woman", 
+            "posing", 
+            "standing", 
+            "indoor", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1487119326", 
+        "days_since_posting": 169.052, 
+        "follow_ratio": 0.7447204968944099, 
+        "follows": 1199, 
+        "likes": 415, 
+        "meanLikes": 229.47619047619048, 
+        "tags": [
+            "person", 
+            "wall", 
+            "woman", 
+            "indoor", 
+            "clothing", 
+            "people_", 
+            "people_portrait"
+        ]
+    }
+]

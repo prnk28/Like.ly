@@ -1,0 +1,147 @@
+[
+    {
+        "created_time": "1494114343", 
+        "days_since_posting": 88.057, 
+        "follow_ratio": 9.612903225806452, 
+        "follows": 1192, 
+        "likes": 50, 
+        "meanLikes": 16.68421052631579, 
+        "tags": [
+            "building", 
+            "street", 
+            "outdoor", 
+            "outdoor_street", 
+            "people_crowd"
+        ]
+    }, 
+    {
+        "created_time": "1494114151", 
+        "days_since_posting": 88.059, 
+        "follow_ratio": 9.612903225806452, 
+        "follows": 1192, 
+        "likes": 27, 
+        "meanLikes": 16.68421052631579, 
+        "tags": [
+            "building", 
+            "outdoor", 
+            "street", 
+            "city", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1494113880", 
+        "days_since_posting": 88.062, 
+        "follow_ratio": 9.612903225806452, 
+        "follows": 1192, 
+        "likes": 20, 
+        "meanLikes": 16.68421052631579, 
+        "tags": [
+            "fence", 
+            "outdoor_", 
+            "text_sign"
+        ]
+    }, 
+    {
+        "created_time": "1494111229", 
+        "days_since_posting": 88.093, 
+        "follow_ratio": 9.612903225806452, 
+        "follows": 1192, 
+        "likes": 14, 
+        "meanLikes": 16.68421052631579, 
+        "tags": [
+            "person", 
+            "people_portrait"
+        ]
+    }, 
+    {
+        "created_time": "1494110921", 
+        "days_since_posting": 88.096, 
+        "follow_ratio": 9.612903225806452, 
+        "follows": 1192, 
+        "likes": 8, 
+        "meanLikes": 16.68421052631579, 
+        "tags": [
+            "clothing", 
+            "posing", 
+            "people_portrait"
+        ]
+    }, 
+    {
+        "created_time": "1493593817", 
+        "days_since_posting": 94.081, 
+        "follow_ratio": 9.612903225806452, 
+        "follows": 1192, 
+        "likes": 15, 
+        "meanLikes": 16.68421052631579, 
+        "tags": [
+            "building", 
+            "person", 
+            "outdoor", 
+            "group", 
+            "people", 
+            "people_crowd", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1493593777", 
+        "days_since_posting": 94.082, 
+        "follow_ratio": 9.612903225806452, 
+        "follows": 1192, 
+        "likes": 12, 
+        "meanLikes": 16.68421052631579, 
+        "tags": [
+            "person", 
+            "group", 
+            "outdoor", 
+            "posing", 
+            "people", 
+            "people_crowd", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1493593722", 
+        "days_since_posting": 94.083, 
+        "follow_ratio": 9.612903225806452, 
+        "follows": 1192, 
+        "likes": 5, 
+        "meanLikes": 16.68421052631579, 
+        "tags": [
+            "leaf", 
+            "fern", 
+            "plant_leaves"
+        ]
+    }, 
+    {
+        "created_time": "1493591901", 
+        "days_since_posting": 94.104, 
+        "follow_ratio": 9.612903225806452, 
+        "follows": 1192, 
+        "likes": 9, 
+        "meanLikes": 16.68421052631579, 
+        "tags": [
+            "tree", 
+            "outdoor", 
+            "ground", 
+            "people", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1493591786", 
+        "days_since_posting": 94.105, 
+        "follow_ratio": 9.612903225806452, 
+        "follows": 1192, 
+        "likes": 9, 
+        "meanLikes": 16.68421052631579, 
+        "tags": [
+            "outdoor", 
+            "sky", 
+            "others_", 
+            "outdoor_"
+        ]
+    }
+]

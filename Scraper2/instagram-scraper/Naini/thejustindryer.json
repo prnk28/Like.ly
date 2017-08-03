@@ -1,0 +1,146 @@
+[
+    {
+        "created_time": "1501164493", 
+        "days_since_posting": 6.45, 
+        "follow_ratio": 0.23761130468447542, 
+        "follows": 2455, 
+        "likes": 222, 
+        "meanLikes": 413.69473684210527, 
+        "tags": [
+            "person", 
+            "wall", 
+            "standing", 
+            "indoor", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1500740881", 
+        "days_since_posting": 11.353, 
+        "follow_ratio": 0.23761130468447542, 
+        "follows": 2455, 
+        "likes": 176, 
+        "meanLikes": 413.69473684210527, 
+        "tags": [
+            "person", 
+            "posing", 
+            "standing", 
+            "group", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1500512936", 
+        "days_since_posting": 13.991, 
+        "follow_ratio": 0.23761130468447542, 
+        "follows": 2455, 
+        "likes": 194, 
+        "meanLikes": 413.69473684210527, 
+        "tags": [
+            "person", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1500293875", 
+        "days_since_posting": 16.527, 
+        "follow_ratio": 0.23761130468447542, 
+        "follows": 2455, 
+        "likes": 195, 
+        "meanLikes": 413.69473684210527, 
+        "tags": [
+            "person", 
+            "posing", 
+            "people", 
+            "group", 
+            "standing", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1499118077", 
+        "days_since_posting": 30.135, 
+        "follow_ratio": 0.23761130468447542, 
+        "follows": 2455, 
+        "likes": 199, 
+        "meanLikes": 413.69473684210527, 
+        "tags": [
+            "person", 
+            "indoor", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1498938777", 
+        "days_since_posting": 32.211, 
+        "follow_ratio": 0.23761130468447542, 
+        "follows": 2455, 
+        "likes": 179, 
+        "meanLikes": 413.69473684210527, 
+        "tags": [
+            "beach", 
+            "water", 
+            "outdoor", 
+            "sky", 
+            "shore", 
+            "nature", 
+            "outdoor_oceanbeach"
+        ]
+    }, 
+    {
+        "created_time": "1498882207", 
+        "days_since_posting": 32.865, 
+        "follow_ratio": 0.23761130468447542, 
+        "follows": 2455, 
+        "likes": 158, 
+        "meanLikes": 413.69473684210527, 
+        "tags": [
+            "person", 
+            "others_", 
+            "people_show"
+        ]
+    }, 
+    {
+        "created_time": "1498676754", 
+        "days_since_posting": 35.243, 
+        "follow_ratio": 0.23761130468447542, 
+        "follows": 2455, 
+        "likes": 184, 
+        "meanLikes": 413.69473684210527, 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "man", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1498178190", 
+        "days_since_posting": 41.014, 
+        "follow_ratio": 0.23761130468447542, 
+        "follows": 2455, 
+        "likes": 134, 
+        "meanLikes": 413.69473684210527, 
+        "tags": [
+            "person", 
+            "posing", 
+            "wall", 
+            "group", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1498124362", 
+        "days_since_posting": 41.637, 
+        "follow_ratio": 0.23761130468447542, 
+        "follows": 2455, 
+        "likes": 120, 
+        "meanLikes": 413.69473684210527, 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "people_"
+        ]
+    }
+]

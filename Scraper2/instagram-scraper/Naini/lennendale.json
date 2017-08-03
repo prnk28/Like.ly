@@ -1,0 +1,143 @@
+[
+    {
+        "created_time": "1500786652", 
+        "days_since_posting": 10.829, 
+        "follow_ratio": 7.105263157894737, 
+        "follows": 405, 
+        "likes": 4, 
+        "meanLikes": 7.714285714285714, 
+        "tags": [
+            "sky", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1500782816", 
+        "days_since_posting": 10.873, 
+        "follow_ratio": 7.105263157894737, 
+        "follows": 405, 
+        "likes": 1, 
+        "meanLikes": 7.714285714285714, 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1500782792", 
+        "days_since_posting": 10.873, 
+        "follow_ratio": 7.105263157894737, 
+        "follows": 405, 
+        "likes": 2, 
+        "meanLikes": 7.714285714285714, 
+        "tags": [
+            "indoor", 
+            "outdoor_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1500782746", 
+        "days_since_posting": 10.874, 
+        "follow_ratio": 7.105263157894737, 
+        "follows": 405, 
+        "likes": 1, 
+        "meanLikes": 7.714285714285714, 
+        "tags": [
+            "sky", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1500782595", 
+        "days_since_posting": 10.876, 
+        "follow_ratio": 7.105263157894737, 
+        "follows": 405, 
+        "likes": 1, 
+        "meanLikes": 7.714285714285714, 
+        "tags": [
+            "sky", 
+            "tree", 
+            "outdoor", 
+            "person", 
+            "road", 
+            "people", 
+            "outdoor_street", 
+            "people_many"
+        ]
+    }, 
+    {
+        "created_time": "1500782564", 
+        "days_since_posting": 10.876, 
+        "follow_ratio": 7.105263157894737, 
+        "follows": 405, 
+        "likes": 1, 
+        "meanLikes": 7.714285714285714, 
+        "tags": [
+            "person", 
+            "sky", 
+            "outdoor", 
+            "people", 
+            "people_crowd", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1500782189", 
+        "days_since_posting": 10.881, 
+        "follow_ratio": 7.105263157894737, 
+        "follows": 405, 
+        "likes": 0, 
+        "meanLikes": 7.714285714285714, 
+        "tags": [
+            "sky", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1500758957", 
+        "days_since_posting": 11.149, 
+        "follow_ratio": 7.105263157894737, 
+        "follows": 405, 
+        "likes": 4, 
+        "meanLikes": 7.714285714285714, 
+        "tags": [
+            "grass", 
+            "outdoor", 
+            "person", 
+            "others_", 
+            "outdoor_", 
+            "text_sign"
+        ]
+    }, 
+    {
+        "created_time": "1500758927", 
+        "days_since_posting": 11.15, 
+        "follow_ratio": 7.105263157894737, 
+        "follows": 405, 
+        "likes": 1, 
+        "meanLikes": 7.714285714285714, 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1500758895", 
+        "days_since_posting": 11.15, 
+        "follow_ratio": 7.105263157894737, 
+        "follows": 405, 
+        "likes": 0, 
+        "meanLikes": 7.714285714285714, 
+        "tags": [
+            "indoor", 
+            "outdoor_", 
+            "people_group"
+        ]
+    }
+]

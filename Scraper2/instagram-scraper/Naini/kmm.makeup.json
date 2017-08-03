@@ -1,0 +1,94 @@
+[
+    {
+        "created_time": "1501428048", 
+        "days_since_posting": 3.398, 
+        "follow_ratio": 0.6739130434782609, 
+        "follows": 31, 
+        "likes": 6, 
+        "meanLikes": 7.333333333333333, 
+        "tags": [
+            "person", 
+            "wall", 
+            "woman", 
+            "indoor", 
+            "standing", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1501272826", 
+        "days_since_posting": 5.195, 
+        "follow_ratio": 0.6739130434782609, 
+        "follows": 31, 
+        "likes": 9, 
+        "meanLikes": 7.333333333333333, 
+        "tags": [
+            "woman", 
+            "person", 
+            "indoor", 
+            "lady", 
+            "people_", 
+            "people_portrait"
+        ]
+    }, 
+    {
+        "created_time": "1501220386", 
+        "days_since_posting": 5.802, 
+        "follow_ratio": 0.6739130434782609, 
+        "follows": 31, 
+        "likes": 3, 
+        "meanLikes": 7.333333333333333, 
+        "tags": [
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1501220065", 
+        "days_since_posting": 5.805, 
+        "follow_ratio": 0.6739130434782609, 
+        "follows": 31, 
+        "likes": 6, 
+        "meanLikes": 7.333333333333333, 
+        "tags": [
+            "person", 
+            "floor", 
+            "wall", 
+            "indoor", 
+            "woman", 
+            "standing", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1501039687", 
+        "days_since_posting": 7.893, 
+        "follow_ratio": 0.6739130434782609, 
+        "follows": 31, 
+        "likes": 10, 
+        "meanLikes": 7.333333333333333, 
+        "tags": [
+            "person", 
+            "indoor", 
+            "woman", 
+            "people_", 
+            "people_portrait"
+        ]
+    }, 
+    {
+        "created_time": "1501038785", 
+        "days_since_posting": 7.904, 
+        "follow_ratio": 0.6739130434782609, 
+        "follows": 31, 
+        "likes": 10, 
+        "meanLikes": 7.333333333333333, 
+        "tags": [
+            "outdoor", 
+            "person", 
+            "building", 
+            "abstract_", 
+            "others_", 
+            "outdoor_"
+        ]
+    }
+]

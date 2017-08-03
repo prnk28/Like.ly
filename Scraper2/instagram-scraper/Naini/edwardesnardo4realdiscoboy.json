@@ -1,0 +1,141 @@
+[
+    {
+        "created_time": "1501632805", 
+        "days_since_posting": 1.041, 
+        "follow_ratio": 6.382978723404255, 
+        "follows": 900, 
+        "likes": 3, 
+        "meanLikes": 1.5855161787365177, 
+        "tags": [
+            "bedclothes", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1501630562", 
+        "days_since_posting": 1.067, 
+        "follow_ratio": 6.382978723404255, 
+        "follows": 900, 
+        "likes": 1, 
+        "meanLikes": 1.5855161787365177, 
+        "tags": [
+            "abstract_rect", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1501624087", 
+        "days_since_posting": 1.142, 
+        "follow_ratio": 6.382978723404255, 
+        "follows": 900, 
+        "likes": 3, 
+        "meanLikes": 1.5855161787365177, 
+        "tags": [
+            "person", 
+            "man", 
+            "people_young"
+        ]
+    }, 
+    {
+        "created_time": "1501623919", 
+        "days_since_posting": 1.144, 
+        "follow_ratio": 6.382978723404255, 
+        "follows": 900, 
+        "likes": 2, 
+        "meanLikes": 1.5855161787365177, 
+        "tags": [
+            "person", 
+            "wall", 
+            "indoor", 
+            "man", 
+            "people_", 
+            "people_portrait"
+        ]
+    }, 
+    {
+        "created_time": "1501605618", 
+        "days_since_posting": 1.356, 
+        "follow_ratio": 6.382978723404255, 
+        "follows": 900, 
+        "likes": 3, 
+        "meanLikes": 1.5855161787365177, 
+        "tags": [
+            "person", 
+            "man", 
+            "looking", 
+            "people_baby", 
+            "people_young"
+        ]
+    }, 
+    {
+        "created_time": "1501529764", 
+        "days_since_posting": 2.234, 
+        "follow_ratio": 6.382978723404255, 
+        "follows": 900, 
+        "likes": 1, 
+        "meanLikes": 1.5855161787365177, 
+        "tags": [
+            "clothing", 
+            "person", 
+            "outdoor_stonerock"
+        ]
+    }, 
+    {
+        "created_time": "1501529530", 
+        "days_since_posting": 2.236, 
+        "follow_ratio": 6.382978723404255, 
+        "follows": 900, 
+        "likes": 1, 
+        "meanLikes": 1.5855161787365177, 
+        "tags": [
+            "ground", 
+            "outdoor", 
+            "abstract_shape", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1501528061", 
+        "days_since_posting": 2.253, 
+        "follow_ratio": 6.382978723404255, 
+        "follows": 900, 
+        "likes": 2, 
+        "meanLikes": 1.5855161787365177, 
+        "tags": [
+            "person", 
+            "wall", 
+            "man", 
+            "indoor", 
+            "people_portrait", 
+            "people_young"
+        ]
+    }, 
+    {
+        "created_time": "1501527953", 
+        "days_since_posting": 2.255, 
+        "follow_ratio": 6.382978723404255, 
+        "follows": 900, 
+        "likes": 2, 
+        "meanLikes": 1.5855161787365177, 
+        "tags": [
+            "person", 
+            "wall", 
+            "indoor", 
+            "man", 
+            "people_baby"
+        ]
+    }, 
+    {
+        "created_time": "1501527176", 
+        "days_since_posting": 2.264, 
+        "follow_ratio": 6.382978723404255, 
+        "follows": 900, 
+        "likes": 3, 
+        "meanLikes": 1.5855161787365177, 
+        "tags": [
+            "floor", 
+            "others_", 
+            "outdoor_"
+        ]
+    }
+]

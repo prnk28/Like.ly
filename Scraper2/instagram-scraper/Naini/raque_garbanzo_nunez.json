@@ -1,0 +1,162 @@
+[
+    {
+        "created_time": "1501341210", 
+        "days_since_posting": 4.406, 
+        "follow_ratio": 0.48702101359703337, 
+        "follows": 394, 
+        "likes": 100, 
+        "meanLikes": 52.51724137931034, 
+        "tags": [
+            "outdoor", 
+            "grass", 
+            "tree", 
+            "person", 
+            "skating", 
+            "road", 
+            "ground", 
+            "girl", 
+            "young", 
+            "little", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1501068281", 
+        "days_since_posting": 7.564, 
+        "follow_ratio": 0.48702101359703337, 
+        "follows": 394, 
+        "likes": 60, 
+        "meanLikes": 52.51724137931034, 
+        "tags": [
+            "person", 
+            "girl", 
+            "posing", 
+            "smiling", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1500993537", 
+        "days_since_posting": 8.43, 
+        "follow_ratio": 0.48702101359703337, 
+        "follows": 394, 
+        "likes": 90, 
+        "meanLikes": 52.51724137931034, 
+        "tags": [
+            "person", 
+            "posing", 
+            "outdoor", 
+            "smiling", 
+            "standing", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1500660210", 
+        "days_since_posting": 12.288, 
+        "follow_ratio": 0.48702101359703337, 
+        "follows": 394, 
+        "likes": 98, 
+        "meanLikes": 52.51724137931034, 
+        "tags": [
+            "person", 
+            "indoor", 
+            "people_many"
+        ]
+    }, 
+    {
+        "created_time": "1499609275", 
+        "days_since_posting": 24.451, 
+        "follow_ratio": 0.48702101359703337, 
+        "follows": 394, 
+        "likes": 66, 
+        "meanLikes": 52.51724137931034, 
+        "tags": [
+            "tree", 
+            "outdoor", 
+            "sky", 
+            "sign", 
+            "outdoor_mountain"
+        ]
+    }, 
+    {
+        "created_time": "1499218250", 
+        "days_since_posting": 28.977, 
+        "follow_ratio": 0.48702101359703337, 
+        "follows": 394, 
+        "likes": 95, 
+        "meanLikes": 52.51724137931034, 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "abstract_", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1499133249", 
+        "days_since_posting": 29.961, 
+        "follow_ratio": 0.48702101359703337, 
+        "follows": 394, 
+        "likes": 79, 
+        "meanLikes": 52.51724137931034, 
+        "tags": [
+            "person", 
+            "wall", 
+            "woman", 
+            "indoor", 
+            "posing", 
+            "people", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1499090457", 
+        "days_since_posting": 30.456, 
+        "follow_ratio": 0.48702101359703337, 
+        "follows": 394, 
+        "likes": 68, 
+        "meanLikes": 52.51724137931034, 
+        "tags": [
+            "person", 
+            "table", 
+            "food", 
+            "indoor", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1499090200", 
+        "days_since_posting": 30.459, 
+        "follow_ratio": 0.48702101359703337, 
+        "follows": 394, 
+        "likes": 61, 
+        "meanLikes": 52.51724137931034, 
+        "tags": [
+            "grass", 
+            "sky", 
+            "mountain", 
+            "outdoor", 
+            "field", 
+            "outdoor_", 
+            "outdoor_grass"
+        ]
+    }, 
+    {
+        "created_time": "1498927068", 
+        "days_since_posting": 32.347, 
+        "follow_ratio": 0.48702101359703337, 
+        "follows": 394, 
+        "likes": 91, 
+        "meanLikes": 52.51724137931034, 
+        "tags": [
+            "mountain", 
+            "outdoor", 
+            "nature", 
+            "sky", 
+            "background", 
+            "outdoor_mountain"
+        ]
+    }
+]

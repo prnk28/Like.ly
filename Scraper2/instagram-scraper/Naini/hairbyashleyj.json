@@ -1,0 +1,112 @@
+[
+    {
+        "created_time": "1496964133", 
+        "days_since_posting": 55.075, 
+        "follow_ratio": 4.833333333333333, 
+        "follows": 2204, 
+        "likes": 69, 
+        "meanLikes": 60.90909090909091, 
+        "tags": [
+            "indoor", 
+            "abstract_", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1494176693", 
+        "days_since_posting": 87.337, 
+        "follow_ratio": 4.833333333333333, 
+        "follows": 2204, 
+        "likes": 61, 
+        "meanLikes": 60.90909090909091, 
+        "tags": [
+            "person", 
+            "indoor", 
+            "little", 
+            "young", 
+            "people_young"
+        ]
+    }, 
+    {
+        "created_time": "1490575172", 
+        "days_since_posting": 129.022, 
+        "follow_ratio": 4.833333333333333, 
+        "follows": 2204, 
+        "likes": 93, 
+        "meanLikes": 60.90909090909091, 
+        "tags": [
+            "person", 
+            "woman", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1490322188", 
+        "days_since_posting": 131.95, 
+        "follow_ratio": 4.833333333333333, 
+        "follows": 2204, 
+        "likes": 75, 
+        "meanLikes": 60.90909090909091, 
+        "tags": [
+            "wall", 
+            "person", 
+            "indoor", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1489462769", 
+        "days_since_posting": 141.897, 
+        "follow_ratio": 4.833333333333333, 
+        "follows": 2204, 
+        "likes": 75, 
+        "meanLikes": 60.90909090909091, 
+        "tags": [
+            "indoor", 
+            "person", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1488513889", 
+        "days_since_posting": 152.921, 
+        "follow_ratio": 4.833333333333333, 
+        "follows": 2204, 
+        "likes": 92, 
+        "meanLikes": 60.90909090909091, 
+        "tags": [
+            "indoor", 
+            "table", 
+            "desk", 
+            "computer", 
+            "person", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1486940502", 
+        "days_since_posting": 171.131, 
+        "follow_ratio": 4.833333333333333, 
+        "follows": 2204, 
+        "likes": 93, 
+        "meanLikes": 60.90909090909091, 
+        "tags": [
+            "person", 
+            "indoor", 
+            "people_portrait"
+        ]
+    }, 
+    {
+        "created_time": "1485953429", 
+        "days_since_posting": 182.556, 
+        "follow_ratio": 4.833333333333333, 
+        "follows": 2204, 
+        "likes": 96, 
+        "meanLikes": 60.90909090909091, 
+        "tags": [
+            "person", 
+            "indoor", 
+            "others_"
+        ]
+    }
+]

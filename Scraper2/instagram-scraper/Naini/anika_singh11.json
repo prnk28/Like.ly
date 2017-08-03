@@ -1,0 +1,141 @@
+[
+    {
+        "created_time": "1501086423", 
+        "days_since_posting": 7.36, 
+        "follow_ratio": 1.0048076923076923, 
+        "follows": 418, 
+        "likes": 155, 
+        "meanLikes": 106.57692307692308, 
+        "tags": [
+            "outdoor", 
+            "sky", 
+            "ground", 
+            "building_", 
+            "outdoor_", 
+            "outdoor_city"
+        ]
+    }, 
+    {
+        "created_time": "1499902156", 
+        "days_since_posting": 21.067, 
+        "follow_ratio": 1.0048076923076923, 
+        "follows": 418, 
+        "likes": 165, 
+        "meanLikes": 106.57692307692308, 
+        "tags": [
+            "outdoor", 
+            "tree", 
+            "person", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1498776220", 
+        "days_since_posting": 34.099, 
+        "follow_ratio": 1.0048076923076923, 
+        "follows": 418, 
+        "likes": 174, 
+        "meanLikes": 106.57692307692308, 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "woman", 
+            "smiling", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1497622862", 
+        "days_since_posting": 47.448, 
+        "follow_ratio": 1.0048076923076923, 
+        "follows": 418, 
+        "likes": 208, 
+        "meanLikes": 106.57692307692308, 
+        "tags": [
+            "outdoor", 
+            "tree", 
+            "person", 
+            "woman", 
+            "ground", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1495890765", 
+        "days_since_posting": 67.495, 
+        "follow_ratio": 1.0048076923076923, 
+        "follows": 418, 
+        "likes": 142, 
+        "meanLikes": 106.57692307692308, 
+        "tags": [
+            "person", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1495227506", 
+        "days_since_posting": 75.172, 
+        "follow_ratio": 1.0048076923076923, 
+        "follows": 418, 
+        "likes": 163, 
+        "meanLikes": 106.57692307692308, 
+        "tags": [
+            "person", 
+            "ground", 
+            "outdoor", 
+            "posing", 
+            "woman", 
+            "standing", 
+            "sign", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1494801234", 
+        "days_since_posting": 80.106, 
+        "follow_ratio": 1.0048076923076923, 
+        "follows": 418, 
+        "likes": 117, 
+        "meanLikes": 106.57692307692308, 
+        "tags": [
+            "tree", 
+            "outdoor", 
+            "person", 
+            "grass", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1494511822", 
+        "days_since_posting": 83.456, 
+        "follow_ratio": 1.0048076923076923, 
+        "follows": 418, 
+        "likes": 121, 
+        "meanLikes": 106.57692307692308, 
+        "tags": [
+            "person", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1492193101", 
+        "days_since_posting": 110.293, 
+        "follow_ratio": 1.0048076923076923, 
+        "follows": 418, 
+        "likes": 116, 
+        "meanLikes": 106.57692307692308, 
+        "tags": [
+            "outdoor", 
+            "person", 
+            "group", 
+            "ground", 
+            "people", 
+            "building", 
+            "outdoor_", 
+            "people_group"
+        ]
+    }
+]

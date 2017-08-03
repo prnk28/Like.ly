@@ -1,0 +1,143 @@
+[
+    {
+        "created_time": "1499198755", 
+        "days_since_posting": 29.203, 
+        "follow_ratio": 1.2547770700636942, 
+        "follows": 197, 
+        "likes": 37, 
+        "meanLikes": 18.3, 
+        "tags": [
+            "sky", 
+            "outdoor", 
+            "person", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1498840588", 
+        "days_since_posting": 33.348, 
+        "follow_ratio": 1.2547770700636942, 
+        "follows": 197, 
+        "likes": 45, 
+        "meanLikes": 18.3, 
+        "tags": [
+            "outdoor", 
+            "sky", 
+            "ground", 
+            "person", 
+            "standing", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1497392617", 
+        "days_since_posting": 50.107, 
+        "follow_ratio": 1.2547770700636942, 
+        "follows": 197, 
+        "likes": 42, 
+        "meanLikes": 18.3, 
+        "tags": [
+            "table", 
+            "person", 
+            "indoor", 
+            "sitting", 
+            "computer", 
+            "laptop", 
+            "group", 
+            "people", 
+            "desk", 
+            "people_many"
+        ]
+    }, 
+    {
+        "created_time": "1492518584", 
+        "days_since_posting": 106.52, 
+        "follow_ratio": 1.2547770700636942, 
+        "follows": 197, 
+        "likes": 11, 
+        "meanLikes": 18.3, 
+        "tags": [
+            "text_menu"
+        ]
+    }, 
+    {
+        "created_time": "1491057058", 
+        "days_since_posting": 123.436, 
+        "follow_ratio": 1.2547770700636942, 
+        "follows": 197, 
+        "likes": 13, 
+        "meanLikes": 18.3, 
+        "tags": [
+            "text", 
+            "others_", 
+            "text_", 
+            "text_sign"
+        ]
+    }, 
+    {
+        "created_time": "1487181716", 
+        "days_since_posting": 168.331, 
+        "follow_ratio": 1.2547770700636942, 
+        "follows": 197, 
+        "likes": 22, 
+        "meanLikes": 18.3, 
+        "tags": [
+            "text_", 
+            "text_sign"
+        ]
+    }, 
+    {
+        "created_time": "1486646617", 
+        "days_since_posting": 174.524, 
+        "follow_ratio": 1.2547770700636942, 
+        "follows": 197, 
+        "likes": 9, 
+        "meanLikes": 18.3, 
+        "tags": [
+            "sign", 
+            "text_sign"
+        ]
+    }, 
+    {
+        "created_time": "1483710352", 
+        "days_since_posting": 208.509, 
+        "follow_ratio": 1.2547770700636942, 
+        "follows": 197, 
+        "likes": 25, 
+        "meanLikes": 18.3, 
+        "tags": [
+            "text", 
+            "others_", 
+            "text_"
+        ]
+    }, 
+    {
+        "created_time": "1481921365", 
+        "days_since_posting": 229.214, 
+        "follow_ratio": 1.2547770700636942, 
+        "follows": 197, 
+        "likes": 10, 
+        "meanLikes": 18.3, 
+        "tags": [
+            "monitor", 
+            "indoor", 
+            "abstract_rect", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1481553630", 
+        "days_since_posting": 233.471, 
+        "follow_ratio": 1.2547770700636942, 
+        "follows": 197, 
+        "likes": 9, 
+        "meanLikes": 18.3, 
+        "tags": [
+            "text", 
+            "others_", 
+            "text_", 
+            "text_menu"
+        ]
+    }
+]

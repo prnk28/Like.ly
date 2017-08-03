@@ -1,0 +1,132 @@
+[
+    {
+        "created_time": "1499454178", 
+        "days_since_posting": 26.253, 
+        "follow_ratio": 3.5286624203821657, 
+        "follows": 1108, 
+        "likes": 62, 
+        "meanLikes": 33.266666666666666, 
+        "tags": [
+            "tree", 
+            "outdoor", 
+            "person", 
+            "standing", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1497286311", 
+        "days_since_posting": 51.345, 
+        "follow_ratio": 3.5286624203821657, 
+        "follows": 1108, 
+        "likes": 47, 
+        "meanLikes": 33.266666666666666, 
+        "tags": [
+            "ground", 
+            "outdoor", 
+            "motorcycle", 
+            "road", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1491906162", 
+        "days_since_posting": 113.615, 
+        "follow_ratio": 3.5286624203821657, 
+        "follows": 1108, 
+        "likes": 47, 
+        "meanLikes": 33.266666666666666, 
+        "tags": [
+            "road", 
+            "tree", 
+            "outdoor", 
+            "riding", 
+            "others_", 
+            "outdoor_", 
+            "text_sign"
+        ]
+    }, 
+    {
+        "created_time": "1487691927", 
+        "days_since_posting": 162.432, 
+        "follow_ratio": 3.5286624203821657, 
+        "follows": 1108, 
+        "likes": 23, 
+        "meanLikes": 33.266666666666666, 
+        "tags": [
+            "others_", 
+            "outdoor_", 
+            "text_sign"
+        ]
+    }, 
+    {
+        "created_time": "1487691850", 
+        "days_since_posting": 162.433, 
+        "follow_ratio": 3.5286624203821657, 
+        "follows": 1108, 
+        "likes": 43, 
+        "meanLikes": 33.266666666666666, 
+        "tags": [
+            "person", 
+            "indoor", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1487690357", 
+        "days_since_posting": 162.451, 
+        "follow_ratio": 3.5286624203821657, 
+        "follows": 1108, 
+        "likes": 47, 
+        "meanLikes": 33.266666666666666, 
+        "tags": [
+            "person", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1487690211", 
+        "days_since_posting": 162.452, 
+        "follow_ratio": 3.5286624203821657, 
+        "follows": 1108, 
+        "likes": 30, 
+        "meanLikes": 33.266666666666666, 
+        "tags": [
+            "person", 
+            "wall", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1487690119", 
+        "days_since_posting": 162.453, 
+        "follow_ratio": 3.5286624203821657, 
+        "follows": 1108, 
+        "likes": 30, 
+        "meanLikes": 33.266666666666666, 
+        "tags": [
+            "grass", 
+            "outdoor", 
+            "person", 
+            "man", 
+            "people_young"
+        ]
+    }, 
+    {
+        "created_time": "1487689951", 
+        "days_since_posting": 162.455, 
+        "follow_ratio": 3.5286624203821657, 
+        "follows": 1108, 
+        "likes": 25, 
+        "meanLikes": 33.266666666666666, 
+        "tags": [
+            "person", 
+            "standing", 
+            "posing", 
+            "group", 
+            "outdoor", 
+            "people_group"
+        ]
+    }
+]
