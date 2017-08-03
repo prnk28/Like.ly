@@ -380,7 +380,9 @@ class InstagramScraper(object):
                 headers = {
                     # Request headers
                     'Content-Type': 'application/json',
-                    'Ocp-Apim-Subscription-Key': '7eb7e9da359d4d02b4ef770238913c0f',
+                    'Ocp-Apim-Subscription-Key': '9211b9316d28484ea94f3df456e452d4',
+                    # New sub key: 9211b9316d28484ea94f3df456e452d4
+                    # Old Sub key: 7eb7e9da359d4d02b4ef770238913c0f
                 }
 
                 params = urllib.urlencode({
