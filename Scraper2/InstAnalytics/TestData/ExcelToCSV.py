@@ -7,6 +7,8 @@ def open_file(path):
     Open and read an Excel file
     """
     book = xlrd.open_workbook(path)
+    path = path[:-5]
+    f = open(path +'.csv','w')
 
     first_sheet = book.sheet_by_index(0)
     numRows = first_sheet.nrows
@@ -19,14 +21,11 @@ def open_file(path):
         username = username[26:]
         f.write( username + '\n') #Give your csv text here.
 
+    f.close()
 
 
 
-
-f = open('userNames.csv','w')
 
 open_file("grace_ferrara.xlsx")
 open_file("kylie_sullivann.xlsx")
 open_file("austinCambas.xlsx")
-
-f.close()
