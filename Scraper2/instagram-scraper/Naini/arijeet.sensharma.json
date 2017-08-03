@@ -1,0 +1,147 @@
+[
+    {
+        "created_time": "1500083009", 
+        "days_since_posting": 18.967, 
+        "follow_ratio": 0.9527272727272728, 
+        "follows": 524, 
+        "likes": 144, 
+        "meanLikes": 128.96, 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1499739707", 
+        "days_since_posting": 22.94, 
+        "follow_ratio": 0.9527272727272728, 
+        "follows": 524, 
+        "likes": 153, 
+        "meanLikes": 128.96, 
+        "tags": [
+            "floor", 
+            "cabinet", 
+            "indoor", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1496279072", 
+        "days_since_posting": 62.994, 
+        "follow_ratio": 0.9527272727272728, 
+        "follows": 524, 
+        "likes": 165, 
+        "meanLikes": 128.96, 
+        "tags": [
+            "wall", 
+            "indoor", 
+            "person", 
+            "music", 
+            "outdoor_", 
+            "people_many"
+        ]
+    }, 
+    {
+        "created_time": "1495244442", 
+        "days_since_posting": 74.969, 
+        "follow_ratio": 0.9527272727272728, 
+        "follows": 524, 
+        "likes": 134, 
+        "meanLikes": 128.96, 
+        "tags": [
+            "outdoor", 
+            "tree", 
+            "person", 
+            "outdoor_", 
+            "plant_"
+        ]
+    }, 
+    {
+        "created_time": "1494874774", 
+        "days_since_posting": 79.247, 
+        "follow_ratio": 0.9527272727272728, 
+        "follows": 524, 
+        "likes": 182, 
+        "meanLikes": 128.96, 
+        "tags": [
+            "person", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1494609698", 
+        "days_since_posting": 82.315, 
+        "follow_ratio": 0.9527272727272728, 
+        "follows": 524, 
+        "likes": 127, 
+        "meanLikes": 128.96, 
+        "tags": [
+            "table", 
+            "indoor", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1494306948", 
+        "days_since_posting": 85.819, 
+        "follow_ratio": 0.9527272727272728, 
+        "follows": 524, 
+        "likes": 203, 
+        "meanLikes": 128.96, 
+        "tags": [
+            "grass", 
+            "building", 
+            "outdoor", 
+            "sky", 
+            "building_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1493503723", 
+        "days_since_posting": 95.116, 
+        "follow_ratio": 0.9527272727272728, 
+        "follows": 524, 
+        "likes": 180, 
+        "meanLikes": 128.96, 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "sky", 
+            "group", 
+            "posing", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1493002221", 
+        "days_since_posting": 100.92, 
+        "follow_ratio": 0.9527272727272728, 
+        "follows": 524, 
+        "likes": 183, 
+        "meanLikes": 128.96, 
+        "tags": [
+            "person", 
+            "posing", 
+            "group", 
+            "outdoor", 
+            "people", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1492395841", 
+        "days_since_posting": 107.939, 
+        "follow_ratio": 0.9527272727272728, 
+        "follows": 524, 
+        "likes": 185, 
+        "meanLikes": 128.96, 
+        "tags": [
+            "person", 
+            "indoor", 
+            "people", 
+            "people_group"
+        ]
+    }
+]

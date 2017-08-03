@@ -1,0 +1,139 @@
+[
+    {
+        "created_time": "1498850622", 
+        "days_since_posting": 33.235, 
+        "follow_ratio": 0.6990801576872536, 
+        "follows": 1064, 
+        "likes": 182, 
+        "meanLikes": 154.46031746031747, 
+        "tags": [
+            "tree", 
+            "person", 
+            "grass", 
+            "outdoor", 
+            "sky", 
+            "posing", 
+            "group", 
+            "standing", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1497997331", 
+        "days_since_posting": 43.111, 
+        "follow_ratio": 0.6990801576872536, 
+        "follows": 1064, 
+        "likes": 178, 
+        "meanLikes": 154.46031746031747, 
+        "tags": [
+            "outdoor", 
+            "sky", 
+            "person", 
+            "ground", 
+            "sitting", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1497810943", 
+        "days_since_posting": 45.269, 
+        "follow_ratio": 0.6990801576872536, 
+        "follows": 1064, 
+        "likes": 182, 
+        "meanLikes": 154.46031746031747, 
+        "tags": [
+            "sky", 
+            "outdoor", 
+            "person", 
+            "man", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1497455551", 
+        "days_since_posting": 49.382, 
+        "follow_ratio": 0.6990801576872536, 
+        "follows": 1064, 
+        "likes": 155, 
+        "meanLikes": 154.46031746031747, 
+        "tags": [
+            "tree", 
+            "outdoor", 
+            "sign", 
+            "text_sign"
+        ]
+    }, 
+    {
+        "created_time": "1497051191", 
+        "days_since_posting": 54.062, 
+        "follow_ratio": 0.6990801576872536, 
+        "follows": 1064, 
+        "likes": 135, 
+        "meanLikes": 154.46031746031747, 
+        "tags": [
+            "sky", 
+            "outdoor", 
+            "ground", 
+            "outdoor_", 
+            "outdoor_street"
+        ]
+    }, 
+    {
+        "created_time": "1496547796", 
+        "days_since_posting": 59.888, 
+        "follow_ratio": 0.6990801576872536, 
+        "follows": 1064, 
+        "likes": 180, 
+        "meanLikes": 154.46031746031747, 
+        "tags": [
+            "person", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1495822931", 
+        "days_since_posting": 68.278, 
+        "follow_ratio": 0.6990801576872536, 
+        "follows": 1064, 
+        "likes": 252, 
+        "meanLikes": 154.46031746031747, 
+        "tags": [
+            "outdoor", 
+            "grass", 
+            "tree", 
+            "person", 
+            "ground", 
+            "man", 
+            "standing", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1495222714", 
+        "days_since_posting": 75.225, 
+        "follow_ratio": 0.6990801576872536, 
+        "follows": 1064, 
+        "likes": 213, 
+        "meanLikes": 154.46031746031747, 
+        "tags": [
+            "outdoor", 
+            "tree", 
+            "text_mag"
+        ]
+    }, 
+    {
+        "created_time": "1494015847", 
+        "days_since_posting": 89.194, 
+        "follow_ratio": 0.6990801576872536, 
+        "follows": 1064, 
+        "likes": 426, 
+        "meanLikes": 154.46031746031747, 
+        "tags": [
+            "person", 
+            "ground", 
+            "people_"
+        ]
+    }
+]

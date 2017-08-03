@@ -1,0 +1,111 @@
+[
+    {
+        "created_time": "1501550793", 
+        "days_since_posting": 1.989, 
+        "follow_ratio": 0.33608815426997246, 
+        "follows": 488, 
+        "likes": 235, 
+        "meanLikes": 221.0909090909091, 
+        "tags": [
+            "outdoor", 
+            "sky", 
+            "person", 
+            "outdoor_", 
+            "outdoor_waterside"
+        ]
+    }, 
+    {
+        "created_time": "1499356623", 
+        "days_since_posting": 27.384, 
+        "follow_ratio": 0.33608815426997246, 
+        "follows": 488, 
+        "likes": 323, 
+        "meanLikes": 221.0909090909091, 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "woman", 
+            "tree", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1498427016", 
+        "days_since_posting": 38.144, 
+        "follow_ratio": 0.33608815426997246, 
+        "follows": 488, 
+        "likes": 282, 
+        "meanLikes": 221.0909090909091, 
+        "tags": [
+            "outdoor", 
+            "tree", 
+            "person", 
+            "ground", 
+            "grass", 
+            "woman", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1497215408", 
+        "days_since_posting": 52.167, 
+        "follow_ratio": 0.33608815426997246, 
+        "follows": 488, 
+        "likes": 333, 
+        "meanLikes": 221.0909090909091, 
+        "tags": [
+            "outdoor", 
+            "grass", 
+            "sky", 
+            "tree", 
+            "person", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1495936626", 
+        "days_since_posting": 66.968, 
+        "follow_ratio": 0.33608815426997246, 
+        "follows": 488, 
+        "likes": 354, 
+        "meanLikes": 221.0909090909091, 
+        "tags": [
+            "person", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1495765633", 
+        "days_since_posting": 68.947, 
+        "follow_ratio": 0.33608815426997246, 
+        "follows": 488, 
+        "likes": 208, 
+        "meanLikes": 221.0909090909091, 
+        "tags": [
+            "orange", 
+            "person", 
+            "wall", 
+            "outdoor", 
+            "standing", 
+            "others_", 
+            "outdoor_", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1494884074", 
+        "days_since_posting": 79.15, 
+        "follow_ratio": 0.33608815426997246, 
+        "follows": 488, 
+        "likes": 250, 
+        "meanLikes": 221.0909090909091, 
+        "tags": [
+            "grass", 
+            "outdoor", 
+            "sky", 
+            "person", 
+            "others_"
+        ]
+    }
+]

@@ -1,0 +1,168 @@
+[
+    {
+        "created_time": "1499515891", 
+        "days_since_posting": 25.534, 
+        "follow_ratio": 2.397923875432526, 
+        "follows": 693, 
+        "likes": 73, 
+        "meanLikes": 73.05882352941177, 
+        "tags": [
+            "mountain", 
+            "outdoor", 
+            "water", 
+            "sky", 
+            "nature", 
+            "rock", 
+            "outdoor_", 
+            "outdoor_oceanbeach"
+        ]
+    }, 
+    {
+        "created_time": "1499383612", 
+        "days_since_posting": 27.065, 
+        "follow_ratio": 2.397923875432526, 
+        "follows": 693, 
+        "likes": 66, 
+        "meanLikes": 73.05882352941177, 
+        "tags": [
+            "sky", 
+            "outdoor", 
+            "water", 
+            "person", 
+            "nature", 
+            "beach", 
+            "mountain", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1497801031", 
+        "days_since_posting": 45.382, 
+        "follow_ratio": 2.397923875432526, 
+        "follows": 693, 
+        "likes": 67, 
+        "meanLikes": 73.05882352941177, 
+        "tags": [
+            "outdoor", 
+            "tree", 
+            "person", 
+            "sky", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1496535260", 
+        "days_since_posting": 60.032, 
+        "follow_ratio": 2.397923875432526, 
+        "follows": 693, 
+        "likes": 83, 
+        "meanLikes": 73.05882352941177, 
+        "tags": [
+            "person", 
+            "ground", 
+            "outdoor_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1495237407", 
+        "days_since_posting": 75.054, 
+        "follow_ratio": 2.397923875432526, 
+        "follows": 693, 
+        "likes": 97, 
+        "meanLikes": 73.05882352941177, 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "woman", 
+            "others_", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1494784290", 
+        "days_since_posting": 80.298, 
+        "follow_ratio": 2.397923875432526, 
+        "follows": 693, 
+        "likes": 70, 
+        "meanLikes": 73.05882352941177, 
+        "tags": [
+            "person", 
+            "tree", 
+            "outdoor", 
+            "posing", 
+            "standing", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1494590619", 
+        "days_since_posting": 82.54, 
+        "follow_ratio": 2.397923875432526, 
+        "follows": 693, 
+        "likes": 63, 
+        "meanLikes": 73.05882352941177, 
+        "tags": [
+            "red", 
+            "outdoor", 
+            "others_", 
+            "outdoor_", 
+            "trans_car"
+        ]
+    }, 
+    {
+        "created_time": "1492387012", 
+        "days_since_posting": 108.044, 
+        "follow_ratio": 2.397923875432526, 
+        "follows": 693, 
+        "likes": 76, 
+        "meanLikes": 73.05882352941177, 
+        "tags": [
+            "tree", 
+            "person", 
+            "outdoor", 
+            "sky", 
+            "standing", 
+            "posing", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1487615615", 
+        "days_since_posting": 163.311, 
+        "follow_ratio": 2.397923875432526, 
+        "follows": 693, 
+        "likes": 89, 
+        "meanLikes": 73.05882352941177, 
+        "tags": [
+            "car", 
+            "sky", 
+            "outdoor", 
+            "truck", 
+            "transport", 
+            "others_", 
+            "outdoor_", 
+            "trans_car"
+        ]
+    }, 
+    {
+        "created_time": "1482676911", 
+        "days_since_posting": 220.471, 
+        "follow_ratio": 2.397923875432526, 
+        "follows": 693, 
+        "likes": 98, 
+        "meanLikes": 73.05882352941177, 
+        "tags": [
+            "person", 
+            "standing", 
+            "wall", 
+            "indoor", 
+            "posing", 
+            "man", 
+            "ceiling", 
+            "people_group"
+        ]
+    }
+]

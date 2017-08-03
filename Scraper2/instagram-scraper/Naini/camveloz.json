@@ -1,0 +1,141 @@
+[
+    {
+        "created_time": "1497581066", 
+        "days_since_posting": 47.929, 
+        "follow_ratio": 0.8452722063037249, 
+        "follows": 295, 
+        "likes": 76, 
+        "meanLikes": 57.36363636363637, 
+        "tags": [
+            "grass", 
+            "tree", 
+            "sky", 
+            "outdoor", 
+            "outdoor_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1491319321", 
+        "days_since_posting": 120.403, 
+        "follow_ratio": 0.8452722063037249, 
+        "follows": 295, 
+        "likes": 90, 
+        "meanLikes": 57.36363636363637, 
+        "tags": [
+            "tree", 
+            "outdoor", 
+            "grass", 
+            "athletic game", 
+            "field", 
+            "sport", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1491182425", 
+        "days_since_posting": 121.988, 
+        "follow_ratio": 0.8452722063037249, 
+        "follows": 295, 
+        "likes": 93, 
+        "meanLikes": 57.36363636363637, 
+        "tags": [
+            "outdoor", 
+            "tree", 
+            "ground", 
+            "car", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1489266447", 
+        "days_since_posting": 144.205, 
+        "follow_ratio": 0.8452722063037249, 
+        "follows": 295, 
+        "likes": 87, 
+        "meanLikes": 57.36363636363637, 
+        "tags": [
+            "sky", 
+            "outdoor", 
+            "person", 
+            "holding", 
+            "outdoor_", 
+            "people_group", 
+            "people_many"
+        ]
+    }, 
+    {
+        "created_time": "1483040493", 
+        "days_since_posting": 216.265, 
+        "follow_ratio": 0.8452722063037249, 
+        "follows": 295, 
+        "likes": 92, 
+        "meanLikes": 57.36363636363637, 
+        "tags": [
+            "tree", 
+            "outdoor", 
+            "person", 
+            "grass", 
+            "fish", 
+            "animal", 
+            "people_many"
+        ]
+    }, 
+    {
+        "created_time": "1480650289", 
+        "days_since_posting": 243.929, 
+        "follow_ratio": 0.8452722063037249, 
+        "follows": 295, 
+        "likes": 82, 
+        "meanLikes": 57.36363636363637, 
+        "tags": [
+            "person", 
+            "ground", 
+            "outdoor", 
+            "sidewalk", 
+            "standing", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1478813343", 
+        "days_since_posting": 265.19, 
+        "follow_ratio": 0.8452722063037249, 
+        "follows": 295, 
+        "likes": 82, 
+        "meanLikes": 57.36363636363637, 
+        "tags": [
+            "tree", 
+            "outdoor", 
+            "person", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1478639907", 
+        "days_since_posting": 267.198, 
+        "follow_ratio": 0.8452722063037249, 
+        "follows": 295, 
+        "likes": 86, 
+        "meanLikes": 57.36363636363637, 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "outdoor_street"
+        ]
+    }, 
+    {
+        "created_time": "1474759821", 
+        "days_since_posting": 312.064, 
+        "follow_ratio": 0.8452722063037249, 
+        "follows": 295, 
+        "likes": 65, 
+        "meanLikes": 57.36363636363637, 
+        "tags": [
+            "others_", 
+            "people_show"
+        ]
+    }
+]

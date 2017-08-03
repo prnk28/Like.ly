@@ -1,0 +1,132 @@
+[
+    {
+        "created_time": "1501192501", 
+        "days_since_posting": 6.129, 
+        "follow_ratio": 0.6514830508474576, 
+        "follows": 615, 
+        "likes": 171, 
+        "meanLikes": 86.689111747851, 
+        "tags": [
+            "person", 
+            "woman", 
+            "posing", 
+            "smiling", 
+            "outdoor", 
+            "beautiful", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1501010870", 
+        "days_since_posting": 8.232, 
+        "follow_ratio": 0.6514830508474576, 
+        "follows": 615, 
+        "likes": 252, 
+        "meanLikes": 86.689111747851, 
+        "tags": [
+            "woman", 
+            "clothing", 
+            "person", 
+            "outdoor", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1499724879", 
+        "days_since_posting": 23.116, 
+        "follow_ratio": 0.6514830508474576, 
+        "follows": 615, 
+        "likes": 194, 
+        "meanLikes": 86.689111747851, 
+        "tags": [
+            "water", 
+            "sky", 
+            "outdoor", 
+            "person", 
+            "boat", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1499275087", 
+        "days_since_posting": 28.322, 
+        "follow_ratio": 0.6514830508474576, 
+        "follows": 615, 
+        "likes": 231, 
+        "meanLikes": 86.689111747851, 
+        "tags": [
+            "water", 
+            "person", 
+            "outdoor", 
+            "boat", 
+            "sky", 
+            "woman", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1498777626", 
+        "days_since_posting": 34.079, 
+        "follow_ratio": 0.6514830508474576, 
+        "follows": 615, 
+        "likes": 134, 
+        "meanLikes": 86.689111747851, 
+        "tags": [
+            "person", 
+            "woman", 
+            "headdress", 
+            "posing", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1498515917", 
+        "days_since_posting": 37.108, 
+        "follow_ratio": 0.6514830508474576, 
+        "follows": 615, 
+        "likes": 169, 
+        "meanLikes": 86.689111747851, 
+        "tags": [
+            "tree", 
+            "fence", 
+            "outdoor", 
+            "person", 
+            "woman", 
+            "girl", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1496871459", 
+        "days_since_posting": 56.142, 
+        "follow_ratio": 0.6514830508474576, 
+        "follows": 615, 
+        "likes": 190, 
+        "meanLikes": 86.689111747851, 
+        "tags": [
+            "person", 
+            "others_", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1496353658", 
+        "days_since_posting": 62.135, 
+        "follow_ratio": 0.6514830508474576, 
+        "follows": 615, 
+        "likes": 184, 
+        "meanLikes": 86.689111747851, 
+        "tags": [
+            "outdoor", 
+            "person", 
+            "sitting", 
+            "bench", 
+            "woman", 
+            "tree", 
+            "ground", 
+            "park", 
+            "people_"
+        ]
+    }
+]

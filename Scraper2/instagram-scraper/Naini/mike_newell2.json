@@ -1,0 +1,143 @@
+[
+    {
+        "created_time": "1500420968", 
+        "days_since_posting": 15.061, 
+        "follow_ratio": 1.1484098939929328, 
+        "follows": 325, 
+        "likes": 82, 
+        "meanLikes": 27.787037037037038, 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "standing", 
+            "posing", 
+            "people", 
+            "group", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1500254766", 
+        "days_since_posting": 16.985, 
+        "follow_ratio": 1.1484098939929328, 
+        "follows": 325, 
+        "likes": 86, 
+        "meanLikes": 27.787037037037038, 
+        "tags": [
+            "tree", 
+            "outdoor", 
+            "sky", 
+            "grass", 
+            "mountain", 
+            "nature", 
+            "outdoor_mountain"
+        ]
+    }, 
+    {
+        "created_time": "1499054021", 
+        "days_since_posting": 30.882, 
+        "follow_ratio": 1.1484098939929328, 
+        "follows": 325, 
+        "likes": 112, 
+        "meanLikes": 27.787037037037038, 
+        "tags": [
+            "sky", 
+            "ground", 
+            "outdoor", 
+            "others_", 
+            "outdoor_", 
+            "text_sign"
+        ]
+    }, 
+    {
+        "created_time": "1496534437", 
+        "days_since_posting": 60.044, 
+        "follow_ratio": 1.1484098939929328, 
+        "follows": 325, 
+        "likes": 77, 
+        "meanLikes": 27.787037037037038, 
+        "tags": [
+            "text", 
+            "book", 
+            "person", 
+            "text_mag"
+        ]
+    }, 
+    {
+        "created_time": "1496371595", 
+        "days_since_posting": 61.929, 
+        "follow_ratio": 1.1484098939929328, 
+        "follows": 325, 
+        "likes": 94, 
+        "meanLikes": 27.787037037037038, 
+        "tags": [
+            "beach", 
+            "outdoor", 
+            "water", 
+            "sky", 
+            "ground", 
+            "person", 
+            "nature", 
+            "shore", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1496286522", 
+        "days_since_posting": 62.913, 
+        "follow_ratio": 1.1484098939929328, 
+        "follows": 325, 
+        "likes": 133, 
+        "meanLikes": 27.787037037037038, 
+        "tags": [
+            "person", 
+            "man", 
+            "indoor", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1493603033", 
+        "days_since_posting": 93.972, 
+        "follow_ratio": 1.1484098939929328, 
+        "follows": 325, 
+        "likes": 105, 
+        "meanLikes": 27.787037037037038, 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "grass", 
+            "people", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1489965910", 
+        "days_since_posting": 136.069, 
+        "follow_ratio": 1.1484098939929328, 
+        "follows": 325, 
+        "likes": 122, 
+        "meanLikes": 27.787037037037038, 
+        "tags": [
+            "person", 
+            "wall", 
+            "indoor", 
+            "man", 
+            "standing", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1488477513", 
+        "days_since_posting": 153.337, 
+        "follow_ratio": 1.1484098939929328, 
+        "follows": 325, 
+        "likes": 48, 
+        "meanLikes": 27.787037037037038, 
+        "tags": [
+            "others_", 
+            "outdoor_", 
+            "text_sign"
+        ]
+    }
+]

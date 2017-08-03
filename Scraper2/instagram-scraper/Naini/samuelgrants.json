@@ -1,0 +1,141 @@
+[
+    {
+        "created_time": "1501027590", 
+        "days_since_posting": 8.036, 
+        "follow_ratio": 0.6365118174409128, 
+        "follows": 781, 
+        "likes": 300, 
+        "meanLikes": 130.90862944162436, 
+        "tags": [
+            "person", 
+            "man", 
+            "posing", 
+            "suit", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1499301776", 
+        "days_since_posting": 28.01, 
+        "follow_ratio": 0.6365118174409128, 
+        "follows": 781, 
+        "likes": 240, 
+        "meanLikes": 130.90862944162436, 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "sky", 
+            "ground", 
+            "standing", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1499190622", 
+        "days_since_posting": 29.297, 
+        "follow_ratio": 0.6365118174409128, 
+        "follows": 781, 
+        "likes": 306, 
+        "meanLikes": 130.90862944162436, 
+        "tags": [
+            "person", 
+            "sky", 
+            "water", 
+            "man", 
+            "outdoor", 
+            "outdoor_", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1499132314", 
+        "days_since_posting": 29.972, 
+        "follow_ratio": 0.6365118174409128, 
+        "follows": 781, 
+        "likes": 264, 
+        "meanLikes": 130.90862944162436, 
+        "tags": [
+            "person", 
+            "man", 
+            "sky", 
+            "outdoor", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1497395614", 
+        "days_since_posting": 50.072, 
+        "follow_ratio": 0.6365118174409128, 
+        "follows": 781, 
+        "likes": 261, 
+        "meanLikes": 130.90862944162436, 
+        "tags": [
+            "person", 
+            "man", 
+            "standing", 
+            "outdoor", 
+            "shirt", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1496612835", 
+        "days_since_posting": 59.132, 
+        "follow_ratio": 0.6365118174409128, 
+        "follows": 781, 
+        "likes": 270, 
+        "meanLikes": 130.90862944162436, 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "man", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1495833962", 
+        "days_since_posting": 68.147, 
+        "follow_ratio": 0.6365118174409128, 
+        "follows": 781, 
+        "likes": 312, 
+        "meanLikes": 130.90862944162436, 
+        "tags": [
+            "person", 
+            "ground", 
+            "tree", 
+            "outdoor", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1495566262", 
+        "days_since_posting": 71.246, 
+        "follow_ratio": 0.6365118174409128, 
+        "follows": 781, 
+        "likes": 278, 
+        "meanLikes": 130.90862944162436, 
+        "tags": [
+            "grass", 
+            "person", 
+            "outdoor", 
+            "man", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1495232784", 
+        "days_since_posting": 75.105, 
+        "follow_ratio": 0.6365118174409128, 
+        "follows": 781, 
+        "likes": 223, 
+        "meanLikes": 130.90862944162436, 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "people_", 
+            "people_group"
+        ]
+    }
+]

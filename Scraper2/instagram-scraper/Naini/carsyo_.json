@@ -1,0 +1,162 @@
+[
+    {
+        "created_time": "1501456786", 
+        "days_since_posting": 3.079, 
+        "follow_ratio": 0.7955082742316785, 
+        "follows": 673, 
+        "likes": 189, 
+        "meanLikes": 164.9878787878788, 
+        "tags": [
+            "outdoor", 
+            "sky", 
+            "building", 
+            "tree", 
+            "building_", 
+            "building_church", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1500748428", 
+        "days_since_posting": 11.278, 
+        "follow_ratio": 0.7955082742316785, 
+        "follows": 673, 
+        "likes": 203, 
+        "meanLikes": 164.9878787878788, 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "sky", 
+            "water", 
+            "woman", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1500398710", 
+        "days_since_posting": 15.326, 
+        "follow_ratio": 0.7955082742316785, 
+        "follows": 673, 
+        "likes": 188, 
+        "meanLikes": 164.9878787878788, 
+        "tags": [
+            "food", 
+            "plate", 
+            "outdoor", 
+            "food_"
+        ]
+    }, 
+    {
+        "created_time": "1500324392", 
+        "days_since_posting": 16.186, 
+        "follow_ratio": 0.7955082742316785, 
+        "follows": 673, 
+        "likes": 231, 
+        "meanLikes": 164.9878787878788, 
+        "tags": [
+            "sky", 
+            "water", 
+            "outdoor", 
+            "person", 
+            "woman", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1500231560", 
+        "days_since_posting": 17.26, 
+        "follow_ratio": 0.7955082742316785, 
+        "follows": 673, 
+        "likes": 219, 
+        "meanLikes": 164.9878787878788, 
+        "tags": [
+            "mountain", 
+            "person", 
+            "outdoor", 
+            "ground", 
+            "rock", 
+            "nature", 
+            "laying", 
+            "outdoor_stonerock"
+        ]
+    }, 
+    {
+        "created_time": "1500133588", 
+        "days_since_posting": 18.394, 
+        "follow_ratio": 0.7955082742316785, 
+        "follows": 673, 
+        "likes": 200, 
+        "meanLikes": 164.9878787878788, 
+        "tags": [
+            "water", 
+            "outdoor", 
+            "building", 
+            "bridge", 
+            "arch", 
+            "outdoor_", 
+            "people_swimming"
+        ]
+    }, 
+    {
+        "created_time": "1499884882", 
+        "days_since_posting": 21.273, 
+        "follow_ratio": 0.7955082742316785, 
+        "follows": 673, 
+        "likes": 190, 
+        "meanLikes": 164.9878787878788, 
+        "tags": [
+            "outdoor", 
+            "sky", 
+            "rock", 
+            "outdoor_", 
+            "outdoor_street"
+        ]
+    }, 
+    {
+        "created_time": "1499808441", 
+        "days_since_posting": 22.157, 
+        "follow_ratio": 0.7955082742316785, 
+        "follows": 673, 
+        "likes": 210, 
+        "meanLikes": 164.9878787878788, 
+        "tags": [
+            "person", 
+            "text", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1499633983", 
+        "days_since_posting": 24.177, 
+        "follow_ratio": 0.7955082742316785, 
+        "follows": 673, 
+        "likes": 166, 
+        "meanLikes": 164.9878787878788, 
+        "tags": [
+            "tree", 
+            "outdoor", 
+            "building_church", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1499548145", 
+        "days_since_posting": 25.17, 
+        "follow_ratio": 0.7955082742316785, 
+        "follows": 673, 
+        "likes": 211, 
+        "meanLikes": 164.9878787878788, 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "sky", 
+            "ground", 
+            "water", 
+            "beach", 
+            "woman", 
+            "people_"
+        ]
+    }
+]

@@ -1,0 +1,147 @@
+[
+    {
+        "created_time": "1501621251", 
+        "days_since_posting": 1.164, 
+        "follow_ratio": 1.1566265060240963, 
+        "follows": 96, 
+        "likes": 19, 
+        "meanLikes": 26.065868263473053, 
+        "tags": [
+            "person", 
+            "standing", 
+            "posing", 
+            "indoor", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1501621220", 
+        "days_since_posting": 1.165, 
+        "follow_ratio": 1.1566265060240963, 
+        "follows": 96, 
+        "likes": 16, 
+        "meanLikes": 26.065868263473053, 
+        "tags": [
+            "person", 
+            "dark_light", 
+            "outdoor_", 
+            "people_show"
+        ]
+    }, 
+    {
+        "created_time": "1501391814", 
+        "days_since_posting": 3.82, 
+        "follow_ratio": 1.1566265060240963, 
+        "follows": 96, 
+        "likes": 18, 
+        "meanLikes": 26.065868263473053, 
+        "tags": [
+            "person", 
+            "woman", 
+            "people_", 
+            "people_show"
+        ]
+    }, 
+    {
+        "created_time": "1501391796", 
+        "days_since_posting": 3.82, 
+        "follow_ratio": 1.1566265060240963, 
+        "follows": 96, 
+        "likes": 19, 
+        "meanLikes": 26.065868263473053, 
+        "tags": [
+            "person", 
+            "posing", 
+            "outdoor", 
+            "ground", 
+            "group", 
+            "standing", 
+            "people", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1501205157", 
+        "days_since_posting": 5.98, 
+        "follow_ratio": 1.1566265060240963, 
+        "follows": 96, 
+        "likes": 14, 
+        "meanLikes": 26.065868263473053, 
+        "tags": [
+            "person", 
+            "people_young"
+        ]
+    }, 
+    {
+        "created_time": "1501116241", 
+        "days_since_posting": 7.009, 
+        "follow_ratio": 1.1566265060240963, 
+        "follows": 96, 
+        "likes": 23, 
+        "meanLikes": 26.065868263473053, 
+        "tags": [
+            "grass", 
+            "outdoor", 
+            "person", 
+            "field", 
+            "mountain", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1501037718", 
+        "days_since_posting": 7.918, 
+        "follow_ratio": 1.1566265060240963, 
+        "follows": 96, 
+        "likes": 13, 
+        "meanLikes": 26.065868263473053, 
+        "tags": [
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1500936265", 
+        "days_since_posting": 9.093, 
+        "follow_ratio": 1.1566265060240963, 
+        "follows": 96, 
+        "likes": 15, 
+        "meanLikes": 26.065868263473053, 
+        "tags": [
+            "person", 
+            "abstract_", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1500936213", 
+        "days_since_posting": 9.093, 
+        "follow_ratio": 1.1566265060240963, 
+        "follows": 96, 
+        "likes": 24, 
+        "meanLikes": 26.065868263473053, 
+        "tags": [
+            "ground", 
+            "others_", 
+            "outdoor_", 
+            "text_", 
+            "text_sign"
+        ]
+    }, 
+    {
+        "created_time": "1500777407", 
+        "days_since_posting": 10.931, 
+        "follow_ratio": 1.1566265060240963, 
+        "follows": 96, 
+        "likes": 22, 
+        "meanLikes": 26.065868263473053, 
+        "tags": [
+            "food", 
+            "wall", 
+            "person", 
+            "indoor", 
+            "plate", 
+            "indoor_marketstore"
+        ]
+    }
+]

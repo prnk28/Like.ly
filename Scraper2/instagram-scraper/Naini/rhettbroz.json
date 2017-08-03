@@ -1,0 +1,154 @@
+[
+    {
+        "created_time": "1499514846", 
+        "days_since_posting": 25.553, 
+        "follow_ratio": 0.8606741573033708, 
+        "follows": 766, 
+        "likes": 308, 
+        "meanLikes": 206.9090909090909, 
+        "tags": [
+            "tree", 
+            "outdoor", 
+            "person", 
+            "water", 
+            "outdoor_", 
+            "people_many"
+        ]
+    }, 
+    {
+        "created_time": "1498934040", 
+        "days_since_posting": 32.275, 
+        "follow_ratio": 0.8606741573033708, 
+        "follows": 766, 
+        "likes": 299, 
+        "meanLikes": 206.9090909090909, 
+        "tags": [
+            "tree", 
+            "outdoor", 
+            "ground", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1495162225", 
+        "days_since_posting": 75.93, 
+        "follow_ratio": 0.8606741573033708, 
+        "follows": 766, 
+        "likes": 260, 
+        "meanLikes": 206.9090909090909, 
+        "tags": [
+            "person", 
+            "posing", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1482726712", 
+        "days_since_posting": 219.901, 
+        "follow_ratio": 0.8606741573033708, 
+        "follows": 766, 
+        "likes": 192, 
+        "meanLikes": 206.9090909090909, 
+        "tags": [
+            "tree", 
+            "red", 
+            "outdoor", 
+            "abstract_nonphoto", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1482003215", 
+        "days_since_posting": 228.275, 
+        "follow_ratio": 0.8606741573033708, 
+        "follows": 766, 
+        "likes": 202, 
+        "meanLikes": 206.9090909090909, 
+        "tags": [
+            "person", 
+            "man", 
+            "clothing", 
+            "posing", 
+            "necktie", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1478924155", 
+        "days_since_posting": 263.913, 
+        "follow_ratio": 0.8606741573033708, 
+        "follows": 766, 
+        "likes": 181, 
+        "meanLikes": 206.9090909090909, 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "clothing", 
+            "posing", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1469452739", 
+        "days_since_posting": 373.494, 
+        "follow_ratio": 0.8606741573033708, 
+        "follows": 766, 
+        "likes": 179, 
+        "meanLikes": 206.9090909090909, 
+        "tags": [
+            "floor", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1464738473", 
+        "days_since_posting": 428.057, 
+        "follow_ratio": 0.8606741573033708, 
+        "follows": 766, 
+        "likes": 163, 
+        "meanLikes": 206.9090909090909, 
+        "tags": [
+            "tree", 
+            "outdoor", 
+            "person", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1460594788", 
+        "days_since_posting": 476.016, 
+        "follow_ratio": 0.8606741573033708, 
+        "follows": 766, 
+        "likes": 194, 
+        "meanLikes": 206.9090909090909, 
+        "tags": [
+            "woman", 
+            "outdoor", 
+            "person", 
+            "ground", 
+            "outdoor_", 
+            "people_", 
+            "people_group", 
+            "text_sign"
+        ]
+    }, 
+    {
+        "created_time": "1460308299", 
+        "days_since_posting": 479.332, 
+        "follow_ratio": 0.8606741573033708, 
+        "follows": 766, 
+        "likes": 196, 
+        "meanLikes": 206.9090909090909, 
+        "tags": [
+            "outdoor", 
+            "water", 
+            "person", 
+            "clothing", 
+            "standing", 
+            "people_"
+        ]
+    }
+]

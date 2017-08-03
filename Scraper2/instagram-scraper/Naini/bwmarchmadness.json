@@ -1,0 +1,132 @@
+[
+    {
+        "created_time": "1490808382", 
+        "days_since_posting": 126.323, 
+        "follow_ratio": 1.3846153846153846, 
+        "follows": 18, 
+        "likes": 17, 
+        "meanLikes": 5.925925925925926, 
+        "tags": [
+            "others_", 
+            "text_sign"
+        ]
+    }, 
+    {
+        "created_time": "1490320597", 
+        "days_since_posting": 131.968, 
+        "follow_ratio": 1.3846153846153846, 
+        "follows": 18, 
+        "likes": 5, 
+        "meanLikes": 5.925925925925926, 
+        "tags": [
+            "abstract_", 
+            "others_", 
+            "outdoor_", 
+            "text_sign"
+        ]
+    }, 
+    {
+        "created_time": "1490189668", 
+        "days_since_posting": 133.484, 
+        "follow_ratio": 1.3846153846153846, 
+        "follows": 18, 
+        "likes": 7, 
+        "meanLikes": 5.925925925925926, 
+        "tags": [
+            "screenshot", 
+            "text", 
+            "others_", 
+            "text_menu", 
+            "text_sign"
+        ]
+    }, 
+    {
+        "created_time": "1490095343", 
+        "days_since_posting": 134.575, 
+        "follow_ratio": 1.3846153846153846, 
+        "follows": 18, 
+        "likes": 7, 
+        "meanLikes": 5.925925925925926, 
+        "tags": [
+            "abstract", 
+            "screenshot", 
+            "text_menu"
+        ]
+    }, 
+    {
+        "created_time": "1490034290", 
+        "days_since_posting": 135.282, 
+        "follow_ratio": 1.3846153846153846, 
+        "follows": 18, 
+        "likes": 9, 
+        "meanLikes": 5.925925925925926, 
+        "tags": [
+            "abstract_nonphoto", 
+            "others_", 
+            "outdoor_", 
+            "text_sign"
+        ]
+    }, 
+    {
+        "created_time": "1490020028", 
+        "days_since_posting": 135.447, 
+        "follow_ratio": 1.3846153846153846, 
+        "follows": 18, 
+        "likes": 10, 
+        "meanLikes": 5.925925925925926, 
+        "tags": [
+            "red", 
+            "abstract_", 
+            "indoor_room", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1489980902", 
+        "days_since_posting": 135.9, 
+        "follow_ratio": 1.3846153846153846, 
+        "follows": 18, 
+        "likes": 8, 
+        "meanLikes": 5.925925925925926, 
+        "tags": [
+            "abstract", 
+            "screenshot", 
+            "text_menu"
+        ]
+    }, 
+    {
+        "created_time": "1489926920", 
+        "days_since_posting": 136.525, 
+        "follow_ratio": 1.3846153846153846, 
+        "follows": 18, 
+        "likes": 7, 
+        "meanLikes": 5.925925925925926, 
+        "tags": [
+            "others_", 
+            "text_sign"
+        ]
+    }, 
+    {
+        "created_time": "1489872243", 
+        "days_since_posting": 137.158, 
+        "follow_ratio": 1.3846153846153846, 
+        "follows": 18, 
+        "likes": 12, 
+        "meanLikes": 5.925925925925926, 
+        "tags": [
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1489686584", 
+        "days_since_posting": 139.307, 
+        "follow_ratio": 1.3846153846153846, 
+        "follows": 18, 
+        "likes": 8, 
+        "meanLikes": 5.925925925925926, 
+        "tags": [
+            "text_mag"
+        ]
+    }
+]

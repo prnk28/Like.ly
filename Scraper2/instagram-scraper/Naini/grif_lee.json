@@ -1,0 +1,53 @@
+[
+    {
+        "created_time": "1496065683", 
+        "days_since_posting": 65.472, 
+        "follow_ratio": 0.6212303980699638, 
+        "follows": 515, 
+        "likes": 343, 
+        "meanLikes": 303.3333333333333, 
+        "tags": [
+            "person", 
+            "people_crowd", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1495596702", 
+        "days_since_posting": 70.9, 
+        "follow_ratio": 0.6212303980699638, 
+        "follows": 515, 
+        "likes": 300, 
+        "meanLikes": 303.3333333333333, 
+        "tags": [
+            "person", 
+            "ceiling", 
+            "standing", 
+            "indoor", 
+            "clothing", 
+            "man", 
+            "posing", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1494700944", 
+        "days_since_posting": 81.267, 
+        "follow_ratio": 0.6212303980699638, 
+        "follows": 515, 
+        "likes": 267, 
+        "meanLikes": 303.3333333333333, 
+        "tags": [
+            "umbrella", 
+            "person", 
+            "outdoor", 
+            "standing", 
+            "plant", 
+            "accessory", 
+            "red", 
+            "flower", 
+            "people_", 
+            "people_group"
+        ]
+    }
+]

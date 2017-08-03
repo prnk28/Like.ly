@@ -1,0 +1,145 @@
+[
+    {
+        "created_time": "1501127552", 
+        "days_since_posting": 6.876, 
+        "follow_ratio": 6.918819188191882, 
+        "follows": 7500, 
+        "likes": 146, 
+        "meanLikes": 75.33333333333333, 
+        "tags": [
+            "outdoor", 
+            "ground", 
+            "person", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1499262636", 
+        "days_since_posting": 28.46, 
+        "follow_ratio": 6.918819188191882, 
+        "follows": 7500, 
+        "likes": 289, 
+        "meanLikes": 75.33333333333333, 
+        "tags": [
+            "dark_"
+        ]
+    }, 
+    {
+        "created_time": "1499008774", 
+        "days_since_posting": 31.398, 
+        "follow_ratio": 6.918819188191882, 
+        "follows": 7500, 
+        "likes": 220, 
+        "meanLikes": 75.33333333333333, 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "nature", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1498827739", 
+        "days_since_posting": 33.494, 
+        "follow_ratio": 6.918819188191882, 
+        "follows": 7500, 
+        "likes": 143, 
+        "meanLikes": 75.33333333333333, 
+        "tags": [
+            "water", 
+            "sky", 
+            "outdoor", 
+            "beach", 
+            "sunset", 
+            "person", 
+            "sun", 
+            "outdoor_oceanbeach", 
+            "outdoor_stonerock"
+        ]
+    }, 
+    {
+        "created_time": "1498826115", 
+        "days_since_posting": 33.513, 
+        "follow_ratio": 6.918819188191882, 
+        "follows": 7500, 
+        "likes": 130, 
+        "meanLikes": 75.33333333333333, 
+        "tags": [
+            "water", 
+            "outdoor", 
+            "surfing", 
+            "sport", 
+            "water sport", 
+            "outdoor_", 
+            "people_swimming"
+        ]
+    }, 
+    {
+        "created_time": "1498744754", 
+        "days_since_posting": 34.454, 
+        "follow_ratio": 6.918819188191882, 
+        "follows": 7500, 
+        "likes": 188, 
+        "meanLikes": 75.33333333333333, 
+        "tags": [
+            "man", 
+            "person", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1498703629", 
+        "days_since_posting": 34.93, 
+        "follow_ratio": 6.918819188191882, 
+        "follows": 7500, 
+        "likes": 160, 
+        "meanLikes": 75.33333333333333, 
+        "tags": [
+            "person", 
+            "indoor", 
+            "others_", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1498589751", 
+        "days_since_posting": 36.248, 
+        "follow_ratio": 6.918819188191882, 
+        "follows": 7500, 
+        "likes": 168, 
+        "meanLikes": 75.33333333333333, 
+        "tags": [
+            "water", 
+            "sky", 
+            "outdoor", 
+            "person", 
+            "man", 
+            "beach", 
+            "standing", 
+            "ocean", 
+            "looking", 
+            "abstract_", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1498161919", 
+        "days_since_posting": 41.2, 
+        "follow_ratio": 6.918819188191882, 
+        "follows": 7500, 
+        "likes": 293, 
+        "meanLikes": 75.33333333333333, 
+        "tags": [
+            "outdoor", 
+            "person", 
+            "sitting", 
+            "man", 
+            "others_", 
+            "outdoor_"
+        ]
+    }
+]

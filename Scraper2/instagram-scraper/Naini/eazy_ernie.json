@@ -1,0 +1,57 @@
+[
+    {
+        "created_time": "1489807875", 
+        "days_since_posting": 137.906, 
+        "follow_ratio": 0.991715976331361, 
+        "follows": 838, 
+        "likes": 206, 
+        "meanLikes": 174.5, 
+        "tags": [
+            "outdoor", 
+            "sky", 
+            "water", 
+            "outdoor_", 
+            "outdoor_oceanbeach"
+        ]
+    }, 
+    {
+        "created_time": "1488603884", 
+        "days_since_posting": 151.883, 
+        "follow_ratio": 0.991715976331361, 
+        "follows": 838, 
+        "likes": 184, 
+        "meanLikes": 174.5, 
+        "tags": [
+            "person", 
+            "object_sculpture"
+        ]
+    }, 
+    {
+        "created_time": "1482151695", 
+        "days_since_posting": 226.561, 
+        "follow_ratio": 0.991715976331361, 
+        "follows": 838, 
+        "likes": 154, 
+        "meanLikes": 174.5, 
+        "tags": [
+            "person", 
+            "posing", 
+            "standing", 
+            "people", 
+            "group", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1477355117", 
+        "days_since_posting": 282.036, 
+        "follow_ratio": 0.991715976331361, 
+        "follows": 838, 
+        "likes": 154, 
+        "meanLikes": 174.5, 
+        "tags": [
+            "others_", 
+            "outdoor_"
+        ]
+    }
+]

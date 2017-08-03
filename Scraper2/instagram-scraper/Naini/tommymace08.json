@@ -1,0 +1,49 @@
+[
+    {
+        "created_time": "1501292898", 
+        "days_since_posting": 4.964, 
+        "follow_ratio": 0.9166666666666666, 
+        "follows": 517, 
+        "likes": 110, 
+        "meanLikes": 107.33333333333333, 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1487433886", 
+        "days_since_posting": 165.411, 
+        "follow_ratio": 0.9166666666666666, 
+        "follows": 517, 
+        "likes": 124, 
+        "meanLikes": 107.33333333333333, 
+        "tags": [
+            "grass", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1444008003", 
+        "days_since_posting": 667.984, 
+        "follow_ratio": 0.9166666666666666, 
+        "follows": 517, 
+        "likes": 88, 
+        "meanLikes": 107.33333333333333, 
+        "tags": [
+            "tree", 
+            "outdoor", 
+            "grass", 
+            "sky", 
+            "athletic game", 
+            "sport", 
+            "player", 
+            "baseball", 
+            "outdoor_", 
+            "people_many"
+        ]
+    }
+]

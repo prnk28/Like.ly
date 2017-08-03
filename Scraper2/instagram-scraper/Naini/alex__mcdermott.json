@@ -1,0 +1,130 @@
+[
+    {
+        "created_time": "1501047795", 
+        "days_since_posting": 7.814, 
+        "follow_ratio": 0.7193362193362194, 
+        "follows": 997, 
+        "likes": 259, 
+        "meanLikes": 238.4696132596685, 
+        "tags": [
+            "outdoor", 
+            "plant", 
+            "abstract_shape", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1500905636", 
+        "days_since_posting": 9.459, 
+        "follow_ratio": 0.7193362193362194, 
+        "follows": 997, 
+        "likes": 386, 
+        "meanLikes": 238.4696132596685, 
+        "tags": [
+            "person", 
+            "tree", 
+            "elephant", 
+            "outdoor", 
+            "animal", 
+            "standing", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1500820736", 
+        "days_since_posting": 10.442, 
+        "follow_ratio": 0.7193362193362194, 
+        "follows": 997, 
+        "likes": 359, 
+        "meanLikes": 238.4696132596685, 
+        "tags": [
+            "person", 
+            "others_", 
+            "text_mag"
+        ]
+    }, 
+    {
+        "created_time": "1500682584", 
+        "days_since_posting": 12.041, 
+        "follow_ratio": 0.7193362193362194, 
+        "follows": 997, 
+        "likes": 308, 
+        "meanLikes": 238.4696132596685, 
+        "tags": [
+            "outdoor", 
+            "abstract_", 
+            "abstract_net", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1500552979", 
+        "days_since_posting": 13.541, 
+        "follow_ratio": 0.7193362193362194, 
+        "follows": 997, 
+        "likes": 441, 
+        "meanLikes": 238.4696132596685, 
+        "tags": [
+            "outdoor", 
+            "person", 
+            "elephant", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1500296517", 
+        "days_since_posting": 16.509, 
+        "follow_ratio": 0.7193362193362194, 
+        "follows": 997, 
+        "likes": 350, 
+        "meanLikes": 238.4696132596685, 
+        "tags": [
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1499301736", 
+        "days_since_posting": 28.023, 
+        "follow_ratio": 0.7193362193362194, 
+        "follows": 997, 
+        "likes": 413, 
+        "meanLikes": 238.4696132596685, 
+        "tags": [
+            "sky", 
+            "outdoor", 
+            "person", 
+            "woman", 
+            "beach", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1499203429", 
+        "days_since_posting": 29.161, 
+        "follow_ratio": 0.7193362193362194, 
+        "follows": 997, 
+        "likes": 325, 
+        "meanLikes": 238.4696132596685, 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "people_young"
+        ]
+    }, 
+    {
+        "created_time": "1498602900", 
+        "days_since_posting": 36.111, 
+        "follow_ratio": 0.7193362193362194, 
+        "follows": 997, 
+        "likes": 381, 
+        "meanLikes": 238.4696132596685, 
+        "tags": [
+            "person", 
+            "colorful", 
+            "abstract_nonphoto", 
+            "people_"
+        ]
+    }
+]

@@ -1,0 +1,162 @@
+[
+    {
+        "created_time": "1494274121", 
+        "days_since_posting": 86.202, 
+        "follow_ratio": 0.9521604938271605, 
+        "follows": 617, 
+        "likes": 256, 
+        "meanLikes": 152.61111111111111, 
+        "tags": [
+            "sky", 
+            "outdoor", 
+            "water", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1490611094", 
+        "days_since_posting": 128.598, 
+        "follow_ratio": 0.9521604938271605, 
+        "follows": 617, 
+        "likes": 268, 
+        "meanLikes": 152.61111111111111, 
+        "tags": [
+            "person", 
+            "wall", 
+            "posing", 
+            "indoor", 
+            "standing", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1481931130", 
+        "days_since_posting": 229.103, 
+        "follow_ratio": 0.9521604938271605, 
+        "follows": 617, 
+        "likes": 262, 
+        "meanLikes": 152.61111111111111, 
+        "tags": [
+            "person", 
+            "sky", 
+            "water", 
+            "outdoor", 
+            "posing", 
+            "woman", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1480867290", 
+        "days_since_posting": 241.415, 
+        "follow_ratio": 0.9521604938271605, 
+        "follows": 617, 
+        "likes": 208, 
+        "meanLikes": 152.61111111111111, 
+        "tags": [
+            "outdoor", 
+            "water", 
+            "bench", 
+            "tree", 
+            "sky", 
+            "sitting", 
+            "outdoor_", 
+            "outdoor_waterside"
+        ]
+    }, 
+    {
+        "created_time": "1478885999", 
+        "days_since_posting": 264.347, 
+        "follow_ratio": 0.9521604938271605, 
+        "follows": 617, 
+        "likes": 215, 
+        "meanLikes": 152.61111111111111, 
+        "tags": [
+            "outdoor", 
+            "ground", 
+            "building_", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1474063592", 
+        "days_since_posting": 320.12, 
+        "follow_ratio": 0.9521604938271605, 
+        "follows": 617, 
+        "likes": 209, 
+        "meanLikes": 152.61111111111111, 
+        "tags": [
+            "grass", 
+            "person", 
+            "outdoor", 
+            "outdoor_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1459043677", 
+        "days_since_posting": 493.962, 
+        "follow_ratio": 0.9521604938271605, 
+        "follows": 617, 
+        "likes": 139, 
+        "meanLikes": 152.61111111111111, 
+        "tags": [
+            "person", 
+            "indoor", 
+            "posing", 
+            "wall", 
+            "man", 
+            "standing", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1451494555", 
+        "days_since_posting": 581.378, 
+        "follow_ratio": 0.9521604938271605, 
+        "follows": 617, 
+        "likes": 115, 
+        "meanLikes": 152.61111111111111, 
+        "tags": [
+            "person", 
+            "ceiling", 
+            "indoor", 
+            "standing", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1448591293", 
+        "days_since_posting": 614.98, 
+        "follow_ratio": 0.9521604938271605, 
+        "follows": 617, 
+        "likes": 142, 
+        "meanLikes": 152.61111111111111, 
+        "tags": [
+            "outdoor", 
+            "person", 
+            "bed", 
+            "tree", 
+            "furniture", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1441758398", 
+        "days_since_posting": 694.023, 
+        "follow_ratio": 0.9521604938271605, 
+        "follows": 617, 
+        "likes": 103, 
+        "meanLikes": 152.61111111111111, 
+        "tags": [
+            "person", 
+            "group", 
+            "wall", 
+            "people", 
+            "posing", 
+            "people_group"
+        ]
+    }
+]

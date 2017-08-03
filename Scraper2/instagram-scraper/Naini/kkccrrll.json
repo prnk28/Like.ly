@@ -1,0 +1,123 @@
+[
+    {
+        "created_time": "1496074553", 
+        "days_since_posting": 65.367, 
+        "follow_ratio": 0.5712927756653993, 
+        "follows": 601, 
+        "likes": 51, 
+        "meanLikes": 120.7, 
+        "tags": [
+            "light", 
+            "dark_light"
+        ]
+    }, 
+    {
+        "created_time": "1477927484", 
+        "days_since_posting": 275.403, 
+        "follow_ratio": 0.5712927756653993, 
+        "follows": 601, 
+        "likes": 41, 
+        "meanLikes": 120.7, 
+        "tags": [
+            "abstract_", 
+            "others_", 
+            "people_show"
+        ]
+    }, 
+    {
+        "created_time": "1477753945", 
+        "days_since_posting": 277.411, 
+        "follow_ratio": 0.5712927756653993, 
+        "follows": 601, 
+        "likes": 187, 
+        "meanLikes": 120.7, 
+        "tags": [
+            "person", 
+            "woman", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1477749850", 
+        "days_since_posting": 277.459, 
+        "follow_ratio": 0.5712927756653993, 
+        "follows": 601, 
+        "likes": 42, 
+        "meanLikes": 120.7, 
+        "tags": [
+            "scene", 
+            "stage", 
+            "indoor", 
+            "people_show"
+        ]
+    }, 
+    {
+        "created_time": "1466976505", 
+        "days_since_posting": 402.15, 
+        "follow_ratio": 0.5712927756653993, 
+        "follows": 601, 
+        "likes": 116, 
+        "meanLikes": 120.7, 
+        "tags": [
+            "person", 
+            "people_young"
+        ]
+    }, 
+    {
+        "created_time": "1466611353", 
+        "days_since_posting": 406.377, 
+        "follow_ratio": 0.5712927756653993, 
+        "follows": 601, 
+        "likes": 124, 
+        "meanLikes": 120.7, 
+        "tags": [
+            "person", 
+            "woman", 
+            "outdoor", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1452108987", 
+        "days_since_posting": 574.27, 
+        "follow_ratio": 0.5712927756653993, 
+        "follows": 601, 
+        "likes": 95, 
+        "meanLikes": 120.7, 
+        "tags": [
+            "person", 
+            "text", 
+            "standing", 
+            "others_", 
+            "text_mag"
+        ]
+    }, 
+    {
+        "created_time": "1447187613", 
+        "days_since_posting": 631.23, 
+        "follow_ratio": 0.5712927756653993, 
+        "follows": 601, 
+        "likes": 85, 
+        "meanLikes": 120.7, 
+        "tags": [
+            "person", 
+            "people", 
+            "indoor", 
+            "posing", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1441569878", 
+        "days_since_posting": 696.209, 
+        "follow_ratio": 0.5712927756653993, 
+        "follows": 601, 
+        "likes": 131, 
+        "meanLikes": 120.7, 
+        "tags": [
+            "person", 
+            "posing", 
+            "people_group"
+        ]
+    }
+]

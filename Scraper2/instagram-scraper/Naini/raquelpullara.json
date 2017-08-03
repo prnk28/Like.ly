@@ -1,0 +1,134 @@
+[
+    {
+        "created_time": "1501690471", 
+        "days_since_posting": 0.373, 
+        "follow_ratio": 1.0158102766798418, 
+        "follows": 514, 
+        "likes": 103, 
+        "meanLikes": 115.75, 
+        "tags": [
+            "outdoor", 
+            "sky", 
+            "water", 
+            "outdoor_", 
+            "sky_cloud"
+        ]
+    }, 
+    {
+        "created_time": "1501435810", 
+        "days_since_posting": 3.32, 
+        "follow_ratio": 1.0158102766798418, 
+        "follows": 514, 
+        "likes": 224, 
+        "meanLikes": 115.75, 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1501291284", 
+        "days_since_posting": 4.993, 
+        "follow_ratio": 1.0158102766798418, 
+        "follows": 514, 
+        "likes": 140, 
+        "meanLikes": 115.75, 
+        "tags": [
+            "person", 
+            "woman", 
+            "wearing", 
+            "people_young"
+        ]
+    }, 
+    {
+        "created_time": "1501211027", 
+        "days_since_posting": 5.922, 
+        "follow_ratio": 1.0158102766798418, 
+        "follows": 514, 
+        "likes": 131, 
+        "meanLikes": 115.75, 
+        "tags": [
+            "sky", 
+            "outdoor", 
+            "grass", 
+            "water", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1501120392", 
+        "days_since_posting": 6.971, 
+        "follow_ratio": 1.0158102766798418, 
+        "follows": 514, 
+        "likes": 133, 
+        "meanLikes": 115.75, 
+        "tags": [
+            "grass", 
+            "sky", 
+            "outdoor", 
+            "building", 
+            "tower", 
+            "building_"
+        ]
+    }, 
+    {
+        "created_time": "1500999461", 
+        "days_since_posting": 8.371, 
+        "follow_ratio": 1.0158102766798418, 
+        "follows": 514, 
+        "likes": 130, 
+        "meanLikes": 115.75, 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "abstract_", 
+            "indoor_room", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1500917775", 
+        "days_since_posting": 9.316, 
+        "follow_ratio": 1.0158102766798418, 
+        "follows": 514, 
+        "likes": 112, 
+        "meanLikes": 115.75, 
+        "tags": [
+            "indoor", 
+            "white", 
+            "abstract_", 
+            "abstract_shape"
+        ]
+    }, 
+    {
+        "created_time": "1500838480", 
+        "days_since_posting": 10.234, 
+        "follow_ratio": 1.0158102766798418, 
+        "follows": 514, 
+        "likes": 205, 
+        "meanLikes": 115.75, 
+        "tags": [
+            "outdoor", 
+            "person", 
+            "outdoor_street"
+        ]
+    }, 
+    {
+        "created_time": "1500822160", 
+        "days_since_posting": 10.423, 
+        "follow_ratio": 1.0158102766798418, 
+        "follows": 514, 
+        "likes": 128, 
+        "meanLikes": 115.75, 
+        "tags": [
+            "building", 
+            "ground", 
+            "outdoor", 
+            "building_", 
+            "building_street", 
+            "outdoor_", 
+            "outdoor_street"
+        ]
+    }
+]

@@ -1,0 +1,144 @@
+[
+    {
+        "created_time": "1501254700", 
+        "days_since_posting": 5.416, 
+        "follow_ratio": 1.0641247833622183, 
+        "follows": 614, 
+        "likes": 190, 
+        "meanLikes": 58.059701492537314, 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1499776675", 
+        "days_since_posting": 22.523, 
+        "follow_ratio": 1.0641247833622183, 
+        "follows": 614, 
+        "likes": 145, 
+        "meanLikes": 58.059701492537314, 
+        "tags": [
+            "person", 
+            "floor", 
+            "indoor", 
+            "posing", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1498932544", 
+        "days_since_posting": 32.293, 
+        "follow_ratio": 1.0641247833622183, 
+        "follows": 614, 
+        "likes": 145, 
+        "meanLikes": 58.059701492537314, 
+        "tags": [
+            "outdoor", 
+            "sky", 
+            "person", 
+            "water", 
+            "boat", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1498441392", 
+        "days_since_posting": 37.978, 
+        "follow_ratio": 1.0641247833622183, 
+        "follows": 614, 
+        "likes": 149, 
+        "meanLikes": 58.059701492537314, 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "people", 
+            "group", 
+            "standing", 
+            "posing", 
+            "outdoor_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1498328538", 
+        "days_since_posting": 39.284, 
+        "follow_ratio": 1.0641247833622183, 
+        "follows": 614, 
+        "likes": 154, 
+        "meanLikes": 58.059701492537314, 
+        "tags": [
+            "grass", 
+            "outdoor", 
+            "others_", 
+            "outdoor_", 
+            "outdoor_road", 
+            "text_sign"
+        ]
+    }, 
+    {
+        "created_time": "1496971222", 
+        "days_since_posting": 54.994, 
+        "follow_ratio": 1.0641247833622183, 
+        "follows": 614, 
+        "likes": 167, 
+        "meanLikes": 58.059701492537314, 
+        "tags": [
+            "grass", 
+            "outdoor", 
+            "person", 
+            "sky", 
+            "woman", 
+            "outdoor_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1496021854", 
+        "days_since_posting": 65.982, 
+        "follow_ratio": 1.0641247833622183, 
+        "follows": 614, 
+        "likes": 205, 
+        "meanLikes": 58.059701492537314, 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1495063747", 
+        "days_since_posting": 77.071, 
+        "follow_ratio": 1.0641247833622183, 
+        "follows": 614, 
+        "likes": 146, 
+        "meanLikes": 58.059701492537314, 
+        "tags": [
+            "person", 
+            "sky", 
+            "outdoor", 
+            "grass", 
+            "woman", 
+            "posing", 
+            "people", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1494779369", 
+        "days_since_posting": 80.362, 
+        "follow_ratio": 1.0641247833622183, 
+        "follows": 614, 
+        "likes": 188, 
+        "meanLikes": 58.059701492537314, 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "standing", 
+            "posing", 
+            "people_"
+        ]
+    }
+]
