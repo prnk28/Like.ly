@@ -14,6 +14,8 @@ import matplotlib.pyplot as plt
 from sklearn.cross_validation import train_test_split
 from sklearn.linear_model import LinearRegression
 from sklearn.preprocessing import PolynomialFeatures
+from sklearn.preprocessing import StandardScaler
+from sklearn.svm import SVR
 
 
 np.set_printoptions(suppress=True)
@@ -77,7 +79,6 @@ data = np.transpose((np.array(data)))
 data = np.concatenate((train_data_features, data), axis=1)
 # Now we have a vector of features
 
-
 X = data[:, :-1]
 y = data[:, words + 4]
 
@@ -88,6 +89,11 @@ X_poly = X_train
 y_poly = y_train
 X_test_poly = X_test
 y_test_poly = y_test
+
+X_svr = X_train
+y_svr = y_train
+X_test_svr = X_test
+y_test_svr = y_test
 
 # Linear Regression
 regressor = LinearRegression()
@@ -107,6 +113,24 @@ regressor_poly.fit(X_poly, y_poly)
 
 y_pred_poly = regressor_poly.predict(X_test_poly)
 
+# Standard Vector Regression
+
+# First we must do feature scaling, bc the sklearn library does not do it for us
+sc_X = StandardScaler()
+X_svr = sc_X.fit_transform(X_svr)
+X_test_svr = sc_X.transform(X_test_svr)
+sc_y = StandardScaler()
+y_svr = sc_y.fit_transform(y_svr)
+
+regressor = SVR(kernel = 'rbf')
+regressor.fit(X_svr, y_svr)
+
+y_pred_svr = regressor.predict(X_test_svr)
+
+y_pred_svr = sc_y.inverse_transform(y_pred_svr)
+X_test_svr = sc_X.inverse_transform(X_test_svr)
+
+
 # Analyzing the results of our algorithms, there's probably some way to do this in sklearn
 
 pctError = []
@@ -115,20 +139,29 @@ diff = []
 pctError_poly = []
 diff_poly = []
 
+pctError_svr = []
+diff_svr = []
+
 zerocount = 0
 
 for i in range (0, len(y_pred)):
     temp_diff = float(abs(int(y_pred[i] - y_test[i])))
     temp_diff_poly = float(abs(int(y_pred_poly[i] - y_test[i])))
+    temp_diff_svr = float(abs(int(y_pred_svr[i] - y_test[i])))
+    print (y_test[i], '--->', int(y_pred_poly[i]))
     if (y_test[i] != 0):
         temp_pct = (float(temp_diff) / float(y_test[i])) * 100
         pctError.append(temp_pct)
 
         temp_pct_poly = (float(temp_diff_poly) / float(y_test[i])) * 100
         pctError_poly.append(temp_pct_poly)
+
+        temp_pct_svr = (float(temp_diff_svr)/ float(y_test[i])) * 100
+        pctError_svr.append(temp_pct_svr)
         #print temp_pct
     diff.append(temp_diff)
     diff_poly.append(temp_diff_poly)
+    diff_svr.append(temp_diff_svr)
 
 print ("Linear Regression: ")
 print ("Difference: ", sum(diff)/float(len(diff)))
@@ -139,5 +172,11 @@ print (" ")
 print ("Polynomial Regression: ")
 print ("Difference: ", sum(diff_poly)/float(len(diff_poly)))
 print ("Pct Error: ", sum(pctError_poly)/float(len(pctError_poly)))
+
+print (" ")
+
+print ("SVR: ")
+print ("Difference: ", sum(diff_svr)/float(len(diff_svr)))
+print ("Pct Error: ", sum(pctError_svr)/float(len(pctError_svr)))
 #
 # print zerocount
