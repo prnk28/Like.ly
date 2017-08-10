@@ -1,0 +1,143 @@
+
+# coding: utf-8
+
+# the following cell imports the json with all of our data, and counts the occurences of the tags obtained from the Microsoft Computer Vision API.
+
+# In[19]:
+import numpy as np
+from collections import Counter
+import json
+from pprint import pprint
+from sklearn.feature_extraction.text import CountVectorizer
+import pandas as pd
+import matplotlib.pyplot as plt
+from sklearn.cross_validation import train_test_split
+from sklearn.linear_model import LinearRegression
+from sklearn.preprocessing import PolynomialFeatures
+
+
+np.set_printoptions(suppress=True)
+np.set_printoptions(precision=3)
+
+with open('newData.json') as json_data:
+    d = json.load(json_data)
+
+json_size = len(d)
+
+
+import datetime
+
+# Turning the json data into a usable numpy array
+
+data = []
+
+follow_ratios = []
+followers = []
+days_since_posting = []
+meanLikes = []
+likes = []
+created_time = []
+tags = []
+
+for i in range(0, len(d)):
+    follow_ratios.append(d[i]['follow_ratio'])
+    temp_followers = int(d[i]['follows']/d[i]['follow_ratio'])
+    # followers = following / follow_ratio
+    followers.append(temp_followers)
+    days_since_posting.append('days_since_posting')
+    meanLikes.append(d[i]['meanLikes'])
+    likes.append(d[i]['likes'])
+    temp_time = d[i]['created_time']
+    postTimeFinal=(datetime.datetime.fromtimestamp(int(temp_time)))
+    h = postTimeFinal.hour + postTimeFinal.minute / 60. + postTimeFinal.second / 3600.
+    created_time.append(h)
+    temp_string = ""
+    for j in range(0, len(d[i]['tags'])):
+        temp_string += d[i]['tags'][j] + " "
+    tags.append(temp_string)
+
+data.append(follow_ratios)
+data.append(followers)
+data.append(meanLikes)
+data.append(created_time)
+data.append(likes)
+
+words = 1
+vectorizer = CountVectorizer(analyzer = "word",   \
+                             tokenizer = None,    \
+                             preprocessor = None, \
+                             stop_words = None,   \
+                             max_features = words)
+
+train_data_features = vectorizer.fit_transform(tags)
+train_data_features = train_data_features.toarray()
+data = np.transpose((np.array(data)))
+
+
+data = np.concatenate((train_data_features, data), axis=1)
+# Now we have a vector of features
+
+
+X = data[:, :-1]
+y = data[:, words + 4]
+
+
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.2, random_state = 0)
+
+X_poly = X_train
+y_poly = y_train
+X_test_poly = X_test
+y_test_poly = y_test
+
+# Linear Regression
+regressor = LinearRegression()
+regressor.fit(X_train, y_train)
+
+y_pred = regressor.predict(X_test)
+
+
+# Polynomial Regression
+
+poly = PolynomialFeatures(degree=3)
+X_poly = poly.fit_transform(X_poly)
+X_test_poly = poly.fit_transform(X_test_poly)
+
+regressor_poly = LinearRegression()
+regressor_poly.fit(X_poly, y_poly)
+
+y_pred_poly = regressor_poly.predict(X_test_poly)
+
+# Analyzing the results of our algorithms, there's probably some way to do this in sklearn
+
+pctError = []
+diff = []
+
+pctError_poly = []
+diff_poly = []
+
+zerocount = 0
+
+for i in range (0, len(y_pred)):
+    temp_diff = float(abs(int(y_pred[i] - y_test[i])))
+    temp_diff_poly = float(abs(int(y_pred_poly[i] - y_test[i])))
+    if (y_test[i] != 0):
+        temp_pct = (float(temp_diff) / float(y_test[i])) * 100
+        pctError.append(temp_pct)
+
+        temp_pct_poly = (float(temp_diff_poly) / float(y_test[i])) * 100
+        pctError_poly.append(temp_pct_poly)
+        #print temp_pct
+    diff.append(temp_diff)
+    diff_poly.append(temp_diff_poly)
+
+print ("Linear Regression: ")
+print ("Difference: ", sum(diff)/float(len(diff)))
+print ("Pct Error: ", sum(pctError)/float(len(pctError)))
+
+print (" ")
+
+print ("Polynomial Regression: ")
+print ("Difference: ", sum(diff_poly)/float(len(diff_poly)))
+print ("Pct Error: ", sum(pctError_poly)/float(len(pctError_poly)))
+#
+# print zerocount
