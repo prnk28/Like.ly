@@ -490,7 +490,10 @@ class InstagramScraper(object):
 
                     bound = bound + 1
 
-            return (average/(filtered))
+            if(filtered > 0):
+                return (average/(filtered))
+            else
+                return 0
 
     def fetch_user(self, username):
         """Fetches the user's metadata."""
