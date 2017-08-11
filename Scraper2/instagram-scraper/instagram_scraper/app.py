@@ -21,7 +21,7 @@ import httplib, urllib, base64, json
 import concurrent.futures
 import requests
 import tqdm
-
+import math
 from instagram_scraper.constants import *
 
 try:
@@ -351,108 +351,119 @@ class InstagramScraper(object):
             media_exec = concurrent.futures.ThreadPoolExecutor(max_workers=5)
 
         meanLikes = self.getMeanLikes(username)
+        filtered = True
 
-        iter = 0
-        for item in tqdm.tqdm(self.media_gen(username), desc='Searching {0} for posts'.format(username),
-                              unit=' media', disable=self.quiet):
-            #if self.in_media_types(item) and self.is_new_media(item):
-            #    future = executor.submit(self.download, item, dst)
-            #    future_to_item[future] = item
+        if(user['followed_by']['count']/user['follows']['count'] > .2 and user['followed_by']['count']/user['follows']['count'] < 3.5):
+            filtered = True
+        else:
+            filtered = False
 
-            if self.include_location:
-                media_exec.submit(self.__get_location, item)
+        if(meanLikes < 25):
+            filtered = False
 
-            #if self.comments:
-            #    item['comments']['data'] = list(self.query_comments_gen(item['code']))
-            if self.media_metadata or self.comments or self.include_location:
-                image_link = item['images']['standard_resolution']['url']
-                if(item['location'] != None):
-                    location = item['location']['name']
-                else:
-                    location = ""
+        if(filtered):
+            iter = 0
+            for item in tqdm.tqdm(self.media_gen(username), desc='Searching {0} for posts'.format(username),
+                                  unit=' media', disable=self.quiet):
+                #if self.in_media_types(item) and self.is_new_media(item):
+                #    future = executor.submit(self.download, item, dst)
+                #    future_to_item[future] = item
 
-
-                likes = item['likes']['count']
-                created_time = item['created_time']
-                postid = item['id']
-
-                # This posts to computer vision API
-                headers = {
-                    # Request headers
-                    'Content-Type': 'application/json',
-                    'Ocp-Apim-Subscription-Key': '9211b9316d28484ea94f3df456e452d4',
-                    # New sub key: 9211b9316d28484ea94f3df456e452d4
-                    # Old Sub key: 7eb7e9da359d4d02b4ef770238913c0f
-                }
-
-                params = urllib.urlencode({
-                    # Request parameters
-                    'visualFeatures': 'Categories, Tags, Description, Faces, ImageType, Color, Adult',
-                    'language': 'en',
-                })
-
-                # Try connection for CVAPI
-                try:
-                    conn = httplib.HTTPSConnection('eastus2.api.cognitive.microsoft.com')
-                    conn.request("POST", "/vision/v1.0/analyze?%s" % params,
-                                 '{"url":"%s"}' % image_link,
-                                 headers)
-                    response = conn.getresponse()
-                    data = response.read()
-
-                    # Utilizes JSON payload Class to Deserialize Json Object
-                    p = Payload(data)
-
-                    tags = []
-                    for t in p.tags:
-                        if t["confidence"] > 0.8:
-                            tags.append(t["name"])
-                    for t in p.categories:
-                            tags.append(t["name"])
-
-                    conn.close()
+                if self.include_location:
+                    media_exec.submit(self.__get_location, item)
 
 
-                    postTimeFinal=(datetime.datetime.fromtimestamp(int(created_time)))
-                    current = datetime.datetime.now()
-                    timeDiff = (current - postTimeFinal)
-                    timeDiff = (timeDiff.total_seconds())/(60*60*24)
-                    timeDiff = float('%.3f' % (timeDiff))
+                if self.media_metadata or self.comments or self.include_location:
+                    image_link = item['images']['standard_resolution']['url']
+                    if(item['location'] != None):
+                        location = item['location']['name']
+                    else:
+                        location = ""
 
-                    # Implement creating JSON with tags and faces from CVAPI
 
-                    picture = PreviousPost(postid, likes, user['follows']['count']/user['followed_by']['count'], user['follows']['count'], meanLikes, timeDiff, created_time, tags)
-                    #payload = picture.toJSON()
-                    #print(payload)
+                    likes = item['likes']['count']
+                    created_time = item['created_time']
+                    postid = item['id']
 
-                    # This posts created JSON to our server
-                    """url = "http://104.199.211.96:65/PreviousPost"
-                    picture = PreviousPost(postid, image_link, likes, meanLikes, user['follows']['count'], user['followed_by']['count'],created_time,timeDiff,location,tags)
-                    payload = picture.toJSON()
-                    print(payload)
+                    # This posts to computer vision API
                     headers = {
-                        'content-type': "application/json",
-                        'authorization': "Basic YWRtaW46YnJheGRheTEyMw==",
-                        'cache-control': "no-cache",
-                        }
+                        # Request headers
+                        'Content-Type': 'application/json',
+                        'Ocp-Apim-Subscription-Key': '9211b9316d28484ea94f3df456e452d4',
+                        # New sub key: 9211b9316d28484ea94f3df456e452d4
+                        # Old Sub key: 7eb7e9da359d4d02b4ef770238913c0f
+                    }
 
-                    response = requests.request("POST", url, data=payload, headers=headers)
-                    """
-                    # This is what creates JSON
-                    self.posts.append({
-                    "follow_ratio" : user['follows']['count']/user['followed_by']['count'],
-                    "likes" : likes,
-                    "meanLikes" : meanLikes,
-                    "follows" : user['follows']['count'],
-                    "created_time" : created_time,
-                    "days_since_posting" : timeDiff,
-                    "tags" : tags})
-                except Exception:
-                    print("failed here")
+                    params = urllib.urlencode({
+                        # Request parameters
+                        'visualFeatures': 'Categories, Tags, Description, Faces, ImageType, Color, Adult',
+                        'language': 'en',
+                    })
 
-            iter = iter + 1
-            if self.maximum != 0 and iter >= self.maximum:
-                break
+                    # Try connection for CVAPI
+                    try:
+                        conn = httplib.HTTPSConnection('eastus2.api.cognitive.microsoft.com')
+                        conn.request("POST", "/vision/v1.0/analyze?%s" % params,
+                                     '{"url":"%s"}' % image_link,
+                                     headers)
+                        response = conn.getresponse()
+                        data = response.read()
+
+                        # Utilizes JSON payload Class to Deserialize Json Object
+                        p = Payload(data)
+
+                        tags = []
+                        for t in p.tags:
+                            if t["confidence"] > 0.8:
+                                tags.append(t["name"])
+                        for t in p.categories:
+                                tags.append(t["name"])
+
+                        conn.close()
+
+
+                        postTimeFinal=(datetime.datetime.fromtimestamp(int(created_time)))
+                        current = datetime.datetime.now()
+                        timeDiff = (current - postTimeFinal)
+                        timeDiff = (timeDiff.total_seconds())/(60*60*24)
+                        timeDiff = float('%.3f' % (timeDiff))
+
+                        # Implement creating JSON with tags and faces from CVAPI
+
+                        picture = PreviousPost(postid, likes, user['follows']['count']/user['followed_by']['count'], user['follows']['count'], meanLikes, timeDiff, created_time, tags)
+                        #payload = picture.toJSON()
+                        #print(payload)
+
+                        # This posts created JSON to our server
+                        """url = "http://104.199.211.96:65/PreviousPost"
+                        picture = PreviousPost(postid, image_link, likes, meanLikes, user['follows']['count'], user['followed_by']['count'],created_time,timeDiff,location,tags)
+                        payload = picture.toJSON()
+                        print(payload)
+                        headers = {
+                            'content-type': "application/json",
+                            'authorization': "Basic YWRtaW46YnJheGRheTEyMw==",
+                            'cache-control': "no-cache",
+                            }
+
+                        response = requests.request("POST", url, data=payload, headers=headers)
+                        """
+                        # This is what creates JSON
+                        self.posts.append({
+                        "postID" : postid,
+                        "follow_ratio" : user['followed_by']['count']/user['follows']['count'],
+                        "likes" : likes,
+                        "meanLikes" : meanLikes,
+                        "follows" : user['follows']['count'],
+                        "followed_by" : user['followed_by']['count'],
+                        "created_time" : created_time,
+                        "days_since_posting" : timeDiff,
+                        "tags" : tags})
+                    except Exception:
+                        print("failed here")
+
+                iter = iter + 1
+                if self.maximum != 0 and iter >= self.maximum:
+                    break
 
 
 
@@ -463,13 +474,23 @@ class InstagramScraper(object):
             if self.media_metadata or self.comments or self.include_location:
                 likes = item['likes']['count']
                 count = count + 1
-                average = likes + average
-
 
         if count == 0:
             return 0
         else:
-            return (average/count)
+            filtered = math.floor(count*.20)
+            print("filtered: ")
+            print(filtered)
+            bound = 0
+            for item in tqdm.tqdm(self.media_gen(username), desc='Searching {0} for posts'.format(username), unit=' media', disable=self.quiet):
+                if self.media_metadata or self.comments or self.include_location:
+                    if(bound < filtered):
+                        likes = item['likes']['count']
+                        average = likes + average
+
+                    bound = bound + 1
+
+            return (average/(filtered))
 
     def fetch_user(self, username):
         """Fetches the user's metadata."""
