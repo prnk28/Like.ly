@@ -16,6 +16,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn.preprocessing import PolynomialFeatures
 from sklearn.preprocessing import StandardScaler
 from sklearn.svm import SVR
+from sklearn.metrics import mean_squared_error
 
 
 np.set_printoptions(suppress=True)
@@ -58,29 +59,29 @@ for i in range(0, len(d)):
         temp_string += d[i]['tags'][j] + " "
     tags.append(temp_string)
 
-data.append(follow_ratios)
-data.append(followers)
+# data.append(follow_ratios)
+# data.append(followers)
 data.append(meanLikes)
-data.append(created_time)
+# data.append(created_time)
 data.append(likes)
 
-words = 1
-vectorizer = CountVectorizer(analyzer = "word",   \
-                             tokenizer = None,    \
-                             preprocessor = None, \
-                             stop_words = None,   \
-                             max_features = words)
+words = 0
+# vectorizer = CountVectorizer(analyzer = "word",   \
+#                              tokenizer = None,    \
+#                              preprocessor = None, \
+#                              stop_words = None,   \
+#                              max_features = words)
 
-train_data_features = vectorizer.fit_transform(tags)
-train_data_features = train_data_features.toarray()
+# train_data_features = vectorizer.fit_transform(tags)
+# train_data_features = train_data_features.toarray()
 data = np.transpose((np.array(data)))
 
 
-data = np.concatenate((train_data_features, data), axis=1)
+# data = np.concatenate((train_data_features, data), axis=1)
 # Now we have a vector of features
 
 X = data[:, :-1]
-y = data[:, words + 4]
+y = data[:, words + 1]
 
 
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.2, random_state = 0)
@@ -163,19 +164,26 @@ for i in range (0, len(y_pred)):
     diff_poly.append(temp_diff_poly)
     diff_svr.append(temp_diff_svr)
 
+errorLinear = mean_squared_error(y_true=y_test, y_pred=y_pred, multioutput='uniform_average')
+errorPoly = mean_squared_error(y_test, y_pred_poly)
+errorSVR = mean_squared_error(y_test, y_pred_svr)
+
 print ("Linear Regression: ")
+print ("Error: ", errorLinear)
 print ("Difference: ", sum(diff)/float(len(diff)))
 print ("Pct Error: ", sum(pctError)/float(len(pctError)))
 
 print (" ")
 
 print ("Polynomial Regression: ")
+print ("Error: ", errorPoly)
 print ("Difference: ", sum(diff_poly)/float(len(diff_poly)))
 print ("Pct Error: ", sum(pctError_poly)/float(len(pctError_poly)))
 
 print (" ")
 
 print ("SVR: ")
+print ("Error: ", errorSVR)
 print ("Difference: ", sum(diff_svr)/float(len(diff_svr)))
 print ("Pct Error: ", sum(pctError_svr)/float(len(pctError_svr)))
 #
