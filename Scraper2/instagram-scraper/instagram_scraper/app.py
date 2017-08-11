@@ -492,7 +492,7 @@ class InstagramScraper(object):
 
             if(filtered > 0):
                 return (average/(filtered))
-            else
+            else:
                 return 0
 
     def fetch_user(self, username):
