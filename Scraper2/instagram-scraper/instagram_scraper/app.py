@@ -363,7 +363,7 @@ class InstagramScraper(object):
         if(meanLikes < 25):
             filtered = False
 
-        if(!filtered):
+        if(filtered == False):
             print("--------------------------- FILTERED OUT ---------------------------")
 
         if(filtered):
