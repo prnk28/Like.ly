@@ -355,16 +355,18 @@ class InstagramScraper(object):
 
 
         ratio = user['followed_by']['count']/user['follows']['count']
-        if(ratio > .2 or ratio < 3.5):
+        if(ratio > .2 and ratio < 3.5):
             filtered = True
+            print("--------------------------- FILTERED IN ------------------------- Ratio = ", ratio)
         else:
             filtered = False
+            print("--------------------------- FILTERED OUT ------------------------- Ratio = ", ratio)
+
 
         if(meanLikes < 25):
             filtered = False
+            print("--------------------------- FILTERED OUT ------------------------- MeanLikes = ", meanLikes)
 
-        if(filtered == False):
-            print("--------------------------- FILTERED OUT ---------------------------")
 
         if(filtered):
             iter = 0
