@@ -353,13 +353,18 @@ class InstagramScraper(object):
         meanLikes = self.getMeanLikes(username)
         filtered = True
 
-        if(user['followed_by']['count']/user['follows']['count'] > .2 and user['followed_by']['count']/user['follows']['count'] < 3.5):
+
+        ratio = user['followed_by']['count']/user['follows']['count']
+        if(ratio > .2 or ratio < 3.5):
             filtered = True
         else:
             filtered = False
 
         if(meanLikes < 25):
             filtered = False
+
+        if(!filtered):
+            print("--------------------------- FILTERED OUT ---------------------------")
 
         if(filtered):
             iter = 0
