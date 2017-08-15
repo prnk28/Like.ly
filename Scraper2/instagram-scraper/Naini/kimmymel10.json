@@ -1,0 +1,142 @@
+[
+    {
+        "created_time": "1501381703", 
+        "days_since_posting": 13.044, 
+        "follow_ratio": 0.9835234474017744, 
+        "followed_by": 776, 
+        "follows": 789, 
+        "likes": 61, 
+        "meanLikes": 102.39285714285714, 
+        "postID": "1570025977232635556_296010103", 
+        "tags": [
+            "night", 
+            "dark", 
+            "abstract_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1498868006", 
+        "days_since_posting": 42.138, 
+        "follow_ratio": 0.9835234474017744, 
+        "followed_by": 776, 
+        "follows": 789, 
+        "likes": 153, 
+        "meanLikes": 102.39285714285714, 
+        "postID": "1548939561715317909_296010103", 
+        "tags": [
+            "person", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1498696431", 
+        "days_since_posting": 44.124, 
+        "follow_ratio": 0.9835234474017744, 
+        "followed_by": 776, 
+        "follows": 789, 
+        "likes": 152, 
+        "meanLikes": 102.39285714285714, 
+        "postID": "1547500286968612858_296010103", 
+        "tags": [
+            "sitting", 
+            "dog", 
+            "animal", 
+            "indoor", 
+            "animal_dog"
+        ]
+    }, 
+    {
+        "created_time": "1495325101", 
+        "days_since_posting": 83.144, 
+        "follow_ratio": 0.9835234474017744, 
+        "followed_by": 776, 
+        "follows": 789, 
+        "likes": 229, 
+        "meanLikes": 102.39285714285714, 
+        "postID": "1519219522342996925_296010103", 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "man", 
+            "standing", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1493165925", 
+        "days_since_posting": 108.134, 
+        "follow_ratio": 0.9835234474017744, 
+        "followed_by": 776, 
+        "follows": 789, 
+        "likes": 79, 
+        "meanLikes": 102.39285714285714, 
+        "postID": "1501107037534432850_296010103", 
+        "tags": [
+            "indoor", 
+            "others_", 
+            "people_baby"
+        ]
+    }, 
+    {
+        "created_time": "1491161415", 
+        "days_since_posting": 131.334, 
+        "follow_ratio": 0.9835234474017744, 
+        "followed_by": 776, 
+        "follows": 789, 
+        "likes": 152, 
+        "meanLikes": 102.39285714285714, 
+        "postID": "1484291992292952333_296010103", 
+        "tags": [
+            "person", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1490744153", 
+        "days_since_posting": 136.164, 
+        "follow_ratio": 0.9835234474017744, 
+        "followed_by": 776, 
+        "follows": 789, 
+        "likes": 218, 
+        "meanLikes": 102.39285714285714, 
+        "postID": "1480791739849813367_296010103", 
+        "tags": [
+            "dog", 
+            "person", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1490376885", 
+        "days_since_posting": 140.415, 
+        "follow_ratio": 0.9835234474017744, 
+        "followed_by": 776, 
+        "follows": 789, 
+        "likes": 79, 
+        "meanLikes": 102.39285714285714, 
+        "postID": "1477710876912244089_296010103", 
+        "tags": [
+            "person", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1490239744", 
+        "days_since_posting": 142.002, 
+        "follow_ratio": 0.9835234474017744, 
+        "followed_by": 776, 
+        "follows": 789, 
+        "likes": 136, 
+        "meanLikes": 102.39285714285714, 
+        "postID": "1476560457087357229_296010103", 
+        "tags": [
+            "person", 
+            "woman", 
+            "posing", 
+            "people_group"
+        ]
+    }
+]

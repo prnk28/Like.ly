@@ -1,0 +1,158 @@
+[
+    {
+        "created_time": "1502048097", 
+        "days_since_posting": 5.333, 
+        "follow_ratio": 1.2202283849918434, 
+        "followed_by": 748, 
+        "follows": 613, 
+        "likes": 114, 
+        "meanLikes": 82.27272727272727, 
+        "postID": "1575616099792628254_374218743", 
+        "tags": [
+            "wall", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1501790974", 
+        "days_since_posting": 8.309, 
+        "follow_ratio": 1.2202283849918434, 
+        "followed_by": 748, 
+        "follows": 613, 
+        "likes": 69, 
+        "meanLikes": 82.27272727272727, 
+        "postID": "1573459195385573105_374218743", 
+        "tags": [
+            "ground", 
+            "sky", 
+            "outdoor", 
+            "person", 
+            "outdoor_", 
+            "people_group", 
+            "people_many"
+        ]
+    }, 
+    {
+        "created_time": "1501097955", 
+        "days_since_posting": 16.33, 
+        "follow_ratio": 1.2202283849918434, 
+        "followed_by": 748, 
+        "follows": 613, 
+        "likes": 82, 
+        "meanLikes": 82.27272727272727, 
+        "postID": "1567645732847319913_374218743", 
+        "tags": [
+            "tree", 
+            "outdoor", 
+            "others_", 
+            "outdoor_", 
+            "outdoor_road"
+        ]
+    }, 
+    {
+        "created_time": "1500927228", 
+        "days_since_posting": 18.306, 
+        "follow_ratio": 1.2202283849918434, 
+        "followed_by": 748, 
+        "follows": 613, 
+        "likes": 101, 
+        "meanLikes": 82.27272727272727, 
+        "postID": "1566213572521220455_374218743", 
+        "tags": [
+            "outdoor", 
+            "tree", 
+            "ground", 
+            "person", 
+            "man", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1499794062", 
+        "days_since_posting": 31.421, 
+        "follow_ratio": 1.2202283849918434, 
+        "followed_by": 748, 
+        "follows": 613, 
+        "likes": 66, 
+        "meanLikes": 82.27272727272727, 
+        "postID": "1556707879766443523_374218743", 
+        "tags": [
+            "text", 
+            "book", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1499012616", 
+        "days_since_posting": 40.466, 
+        "follow_ratio": 1.2202283849918434, 
+        "followed_by": 748, 
+        "follows": 613, 
+        "likes": 91, 
+        "meanLikes": 82.27272727272727, 
+        "postID": "1550152641085341275_374218743", 
+        "tags": [
+            "sky", 
+            "tree", 
+            "person", 
+            "outdoor", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1498262850", 
+        "days_since_posting": 49.144, 
+        "follow_ratio": 1.2202283849918434, 
+        "followed_by": 748, 
+        "follows": 613, 
+        "likes": 84, 
+        "meanLikes": 82.27272727272727, 
+        "postID": "1543863144337024912_374218743", 
+        "tags": [
+            "music", 
+            "piano", 
+            "yellow", 
+            "bus", 
+            "person", 
+            "abstract_", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1497991005", 
+        "days_since_posting": 52.29, 
+        "follow_ratio": 1.2202283849918434, 
+        "followed_by": 748, 
+        "follows": 613, 
+        "likes": 44, 
+        "meanLikes": 82.27272727272727, 
+        "postID": "1541582746248728010_374218743", 
+        "tags": [
+            "person", 
+            "child", 
+            "boy", 
+            "indoor", 
+            "abstract_", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1495226635", 
+        "days_since_posting": 84.285, 
+        "follow_ratio": 1.2202283849918434, 
+        "followed_by": 748, 
+        "follows": 613, 
+        "likes": 59, 
+        "meanLikes": 82.27272727272727, 
+        "postID": "1518393530145712786_374218743", 
+        "tags": [
+            "abstract_", 
+            "dark_", 
+            "others_"
+        ]
+    }
+]

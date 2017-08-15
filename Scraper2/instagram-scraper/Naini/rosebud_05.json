@@ -1,0 +1,91 @@
+[
+    {
+        "created_time": "1499207323", 
+        "days_since_posting": 38.192, 
+        "follow_ratio": 1.0012515644555695, 
+        "followed_by": 800, 
+        "follows": 799, 
+        "likes": 156, 
+        "meanLikes": 138.3272727272727, 
+        "postID": "1551785963494558910_175090348", 
+        "tags": [
+            "person", 
+            "indoor", 
+            "man", 
+            "people_portrait", 
+            "people_young"
+        ]
+    }, 
+    {
+        "created_time": "1497889450", 
+        "days_since_posting": 53.446, 
+        "follow_ratio": 1.0012515644555695, 
+        "followed_by": 800, 
+        "follows": 799, 
+        "likes": 143, 
+        "meanLikes": 138.3272727272727, 
+        "postID": "1540730843486870707_175090348", 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "smiling", 
+            "people_group", 
+            "people_young"
+        ]
+    }, 
+    {
+        "created_time": "1497398890", 
+        "days_since_posting": 59.123, 
+        "follow_ratio": 1.0012515644555695, 
+        "followed_by": 800, 
+        "follows": 799, 
+        "likes": 164, 
+        "meanLikes": 138.3272727272727, 
+        "postID": "1536615726889487663_175090348", 
+        "tags": [
+            "athletic game", 
+            "baseball", 
+            "person", 
+            "ground", 
+            "sport", 
+            "outdoor", 
+            "player", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1492819472", 
+        "days_since_posting": 112.126, 
+        "follow_ratio": 1.0012515644555695, 
+        "followed_by": 800, 
+        "follows": 799, 
+        "likes": 225, 
+        "meanLikes": 138.3272727272727, 
+        "postID": "1498200780896019644_175090348", 
+        "tags": [
+            "outdoor", 
+            "tree", 
+            "ground", 
+            "person", 
+            "woman", 
+            "standing", 
+            "rock", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1492125120", 
+        "days_since_posting": 120.162, 
+        "follow_ratio": 1.0012515644555695, 
+        "followed_by": 800, 
+        "follows": 799, 
+        "likes": 223, 
+        "meanLikes": 138.3272727272727, 
+        "postID": "1492376134799939091_175090348", 
+        "tags": [
+            "dog", 
+            "person", 
+            "people_young"
+        ]
+    }
+]

@@ -1,0 +1,161 @@
+[
+    {
+        "created_time": "1357248811", 
+        "days_since_posting": 1681.356, 
+        "follow_ratio": 0.2410154021677125, 
+        "followed_by": 845, 
+        "follows": 3506, 
+        "likes": 133, 
+        "meanLikes": 65.71, 
+        "postID": "360951647823490409_17726818", 
+        "tags": [
+            "person", 
+            "posing", 
+            "group", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1357248716", 
+        "days_since_posting": 1681.357, 
+        "follow_ratio": 0.2410154021677125, 
+        "followed_by": 845, 
+        "follows": 3506, 
+        "likes": 58, 
+        "meanLikes": 65.71, 
+        "postID": "360950852155632975_17726818", 
+        "tags": [
+            "sky", 
+            "outdoor", 
+            "mountain", 
+            "nature", 
+            "window", 
+            "airplane", 
+            "sky_cloud"
+        ]
+    }, 
+    {
+        "created_time": "1357248581", 
+        "days_since_posting": 1681.358, 
+        "follow_ratio": 0.2410154021677125, 
+        "followed_by": 845, 
+        "follows": 3506, 
+        "likes": 46, 
+        "meanLikes": 65.71, 
+        "postID": "360949719802604858_17726818", 
+        "tags": [
+            "text", 
+            "person", 
+            "newspaper", 
+            "posing", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1356582606", 
+        "days_since_posting": 1689.066, 
+        "follow_ratio": 0.2410154021677125, 
+        "followed_by": 845, 
+        "follows": 3506, 
+        "likes": 57, 
+        "meanLikes": 65.71, 
+        "postID": "355363120331123790_17726818", 
+        "tags": [
+            "abstract_rect", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1355856238", 
+        "days_since_posting": 1697.473, 
+        "follow_ratio": 0.2410154021677125, 
+        "followed_by": 845, 
+        "follows": 3506, 
+        "likes": 50, 
+        "meanLikes": 65.71, 
+        "postID": "349269903705665389_17726818", 
+        "tags": [
+            "water", 
+            "sunset", 
+            "outdoor", 
+            "nature", 
+            "sky_cloud"
+        ]
+    }, 
+    {
+        "created_time": "1355856043", 
+        "days_since_posting": 1697.476, 
+        "follow_ratio": 0.2410154021677125, 
+        "followed_by": 845, 
+        "follows": 3506, 
+        "likes": 50, 
+        "meanLikes": 65.71, 
+        "postID": "349268266048057182_17726818", 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1355455043", 
+        "days_since_posting": 1702.117, 
+        "follow_ratio": 0.2410154021677125, 
+        "followed_by": 845, 
+        "follows": 3506, 
+        "likes": 73, 
+        "meanLikes": 65.71, 
+        "postID": "345904432671387401_17726818", 
+        "tags": [
+            "text", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1355143738", 
+        "days_since_posting": 1705.72, 
+        "follow_ratio": 0.2410154021677125, 
+        "followed_by": 845, 
+        "follows": 3506, 
+        "likes": 55, 
+        "meanLikes": 65.71, 
+        "postID": "343293015824821293_17726818", 
+        "tags": [
+            "sky", 
+            "sunset", 
+            "sun", 
+            "sky_sun"
+        ]
+    }, 
+    {
+        "created_time": "1355143545", 
+        "days_since_posting": 1705.722, 
+        "follow_ratio": 0.2410154021677125, 
+        "followed_by": 845, 
+        "follows": 3506, 
+        "likes": 68, 
+        "meanLikes": 65.71, 
+        "postID": "343291395380636702_17726818", 
+        "tags": [
+            "text", 
+            "text_mag"
+        ]
+    }, 
+    {
+        "created_time": "1352178323", 
+        "days_since_posting": 1740.042, 
+        "follow_ratio": 0.2410154021677125, 
+        "followed_by": 845, 
+        "follows": 3506, 
+        "likes": 69, 
+        "meanLikes": 65.71, 
+        "postID": "318417312419704686_17726818", 
+        "tags": [
+            "text", 
+            "sign", 
+            "abstract_nonphoto"
+        ]
+    }
+]

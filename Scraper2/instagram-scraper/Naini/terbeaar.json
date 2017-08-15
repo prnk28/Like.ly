@@ -1,0 +1,161 @@
+[
+    {
+        "created_time": "1500685780", 
+        "days_since_posting": 21.081, 
+        "follow_ratio": 1.3578680203045685, 
+        "followed_by": 535, 
+        "follows": 394, 
+        "likes": 121, 
+        "meanLikes": 120.85, 
+        "postID": "1564188159529375880_49337927", 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1496365432", 
+        "days_since_posting": 71.085, 
+        "follow_ratio": 1.3578680203045685, 
+        "followed_by": 535, 
+        "follows": 394, 
+        "likes": 87, 
+        "meanLikes": 120.85, 
+        "postID": "1527946452449870667_49337927", 
+        "tags": [
+            "outdoor", 
+            "sky", 
+            "water", 
+            "nature", 
+            "grass", 
+            "beach", 
+            "outdoor_mountain"
+        ]
+    }, 
+    {
+        "created_time": "1496003945", 
+        "days_since_posting": 75.269, 
+        "follow_ratio": 1.3578680203045685, 
+        "followed_by": 535, 
+        "follows": 394, 
+        "likes": 106, 
+        "meanLikes": 120.85, 
+        "postID": "1524914073804202969_49337927", 
+        "tags": [
+            "sky", 
+            "outdoor", 
+            "girl", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1491269731", 
+        "days_since_posting": 130.063, 
+        "follow_ratio": 1.3578680203045685, 
+        "followed_by": 535, 
+        "follows": 394, 
+        "likes": 105, 
+        "meanLikes": 120.85, 
+        "postID": "1485200609401828826_49337927", 
+        "tags": [
+            "sky", 
+            "outdoor", 
+            "mountain", 
+            "nature", 
+            "outdoor_mountain"
+        ]
+    }, 
+    {
+        "created_time": "1490311952", 
+        "days_since_posting": 141.148, 
+        "follow_ratio": 1.3578680203045685, 
+        "followed_by": 535, 
+        "follows": 394, 
+        "likes": 105, 
+        "meanLikes": 120.85, 
+        "postID": "1477166177021460705_49337927", 
+        "tags": [
+            "dog", 
+            "car", 
+            "person", 
+            "seat", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1489973014", 
+        "days_since_posting": 145.071, 
+        "follow_ratio": 1.3578680203045685, 
+        "followed_by": 535, 
+        "follows": 394, 
+        "likes": 117, 
+        "meanLikes": 120.85, 
+        "postID": "1474322960789875121_49337927", 
+        "tags": [
+            "snow", 
+            "outdoor", 
+            "sky", 
+            "person", 
+            "standing", 
+            "mountain", 
+            "nature", 
+            "covered", 
+            "outdoor_mountain", 
+            "outdoor_waterside"
+        ]
+    }, 
+    {
+        "created_time": "1489712337", 
+        "days_since_posting": 148.088, 
+        "follow_ratio": 1.3578680203045685, 
+        "followed_by": 535, 
+        "follows": 394, 
+        "likes": 124, 
+        "meanLikes": 120.85, 
+        "postID": "1472136244075410155_49337927", 
+        "tags": [
+            "person", 
+            "indoor", 
+            "others_", 
+            "outdoor_", 
+            "people_show"
+        ]
+    }, 
+    {
+        "created_time": "1489623014", 
+        "days_since_posting": 149.122, 
+        "follow_ratio": 1.3578680203045685, 
+        "followed_by": 535, 
+        "follows": 394, 
+        "likes": 106, 
+        "meanLikes": 120.85, 
+        "postID": "1471386947226631940_49337927", 
+        "tags": [
+            "sky", 
+            "outdoor", 
+            "person", 
+            "water", 
+            "woman", 
+            "beach", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1489282272", 
+        "days_since_posting": 153.108, 
+        "follow_ratio": 1.3578680203045685, 
+        "followed_by": 535, 
+        "follows": 394, 
+        "likes": 114, 
+        "meanLikes": 120.85, 
+        "postID": "1468528597166115348_49337927", 
+        "tags": [
+            "outdoor", 
+            "ground", 
+            "person", 
+            "nature", 
+            "outdoor_"
+        ]
+    }
+]

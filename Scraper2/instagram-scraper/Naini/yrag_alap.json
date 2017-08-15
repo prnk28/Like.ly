@@ -1,0 +1,105 @@
+[
+    {
+        "created_time": "1487801788", 
+        "days_since_posting": 170.262, 
+        "follow_ratio": 0.9184210526315789, 
+        "followed_by": 349, 
+        "follows": 380, 
+        "likes": 103, 
+        "meanLikes": 103.0, 
+        "postID": "1456109399738189576_199488151", 
+        "tags": [
+            "person", 
+            "posing", 
+            "outdoor", 
+            "people", 
+            "water", 
+            "group", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1476369252", 
+        "days_since_posting": 302.541, 
+        "follow_ratio": 0.9184210526315789, 
+        "followed_by": 349, 
+        "follows": 380, 
+        "likes": 76, 
+        "meanLikes": 103.0, 
+        "postID": "1360206332544433961_199488151", 
+        "tags": [
+            "person", 
+            "car", 
+            "man", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1469368401", 
+        "days_since_posting": 383.569, 
+        "follow_ratio": 0.9184210526315789, 
+        "followed_by": 349, 
+        "follows": 380, 
+        "likes": 75, 
+        "meanLikes": 103.0, 
+        "postID": "1301478940078985564_199488151", 
+        "tags": [
+            "person", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1383221551", 
+        "days_since_posting": 1380.639, 
+        "follow_ratio": 0.9184210526315789, 
+        "followed_by": 349, 
+        "follows": 380, 
+        "likes": 33, 
+        "meanLikes": 103.0, 
+        "postID": "578826787689153377_199488151", 
+        "tags": [
+            "indoor", 
+            "wall", 
+            "person", 
+            "abstract_", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1363836896", 
+        "days_since_posting": 1604.999, 
+        "follow_ratio": 0.9184210526315789, 
+        "followed_by": 349, 
+        "follows": 380, 
+        "likes": 15, 
+        "meanLikes": 103.0, 
+        "postID": "416216515955737553_199488151", 
+        "tags": [
+            "abstract_", 
+            "others_", 
+            "outdoor_", 
+            "text_sign"
+        ]
+    }, 
+    {
+        "created_time": "1360971170", 
+        "days_since_posting": 1638.209, 
+        "follow_ratio": 0.9184210526315789, 
+        "followed_by": 349, 
+        "follows": 380, 
+        "likes": 14, 
+        "meanLikes": 103.0, 
+        "postID": "392177059225485574_199488151", 
+        "tags": [
+            "indoor", 
+            "person", 
+            "wall", 
+            "sofa", 
+            "sitting", 
+            "boy", 
+            "young", 
+            "others_"
+        ]
+    }
+]

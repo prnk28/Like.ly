@@ -1,0 +1,157 @@
+[
+    {
+        "created_time": "1502408719", 
+        "days_since_posting": 1.112, 
+        "follow_ratio": 0.8630490956072352, 
+        "followed_by": 668, 
+        "follows": 774, 
+        "likes": 240, 
+        "meanLikes": 104.7, 
+        "postID": "1578641218794132583_257254369", 
+        "tags": [
+            "grass", 
+            "outdoor", 
+            "person", 
+            "woman", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1502350031", 
+        "days_since_posting": 1.792, 
+        "follow_ratio": 0.8630490956072352, 
+        "followed_by": 668, 
+        "follows": 774, 
+        "likes": 199, 
+        "meanLikes": 104.7, 
+        "postID": "1578148902496929118_257254369", 
+        "tags": [
+            "water", 
+            "outdoor", 
+            "mountain", 
+            "boat", 
+            "scene", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1502319740", 
+        "days_since_posting": 2.142, 
+        "follow_ratio": 0.8630490956072352, 
+        "followed_by": 668, 
+        "follows": 774, 
+        "likes": 196, 
+        "meanLikes": 104.7, 
+        "postID": "1577894809404865785_257254369", 
+        "tags": [
+            "water", 
+            "outdoor", 
+            "scene", 
+            "harbor", 
+            "mountain", 
+            "outdoor_", 
+            "outdoor_oceanbeach"
+        ]
+    }, 
+    {
+        "created_time": "1502064069", 
+        "days_since_posting": 5.101, 
+        "follow_ratio": 0.8630490956072352, 
+        "followed_by": 668, 
+        "follows": 774, 
+        "likes": 216, 
+        "meanLikes": 104.7, 
+        "postID": "1575750082890847215_257254369", 
+        "tags": [
+            "sky", 
+            "outdoor", 
+            "water", 
+            "person", 
+            "outdoor_", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1502017868", 
+        "days_since_posting": 5.636, 
+        "follow_ratio": 0.8630490956072352, 
+        "followed_by": 668, 
+        "follows": 774, 
+        "likes": 135, 
+        "meanLikes": 104.7, 
+        "postID": "1575362516425513514_257254369", 
+        "tags": [
+            "outdoor", 
+            "rose", 
+            "flower", 
+            "plant_flower"
+        ]
+    }, 
+    {
+        "created_time": "1501950004", 
+        "days_since_posting": 6.422, 
+        "follow_ratio": 0.8630490956072352, 
+        "followed_by": 668, 
+        "follows": 774, 
+        "likes": 167, 
+        "meanLikes": 104.7, 
+        "postID": "1574793232259316073_257254369", 
+        "tags": [
+            "water", 
+            "outdoor", 
+            "sky", 
+            "person", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1501683979", 
+        "days_since_posting": 9.501, 
+        "follow_ratio": 0.8630490956072352, 
+        "followed_by": 668, 
+        "follows": 774, 
+        "likes": 192, 
+        "meanLikes": 104.7, 
+        "postID": "1572561654468807006_257254369", 
+        "tags": [
+            "person", 
+            "standing", 
+            "indoor", 
+            "window", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1500860203", 
+        "days_since_posting": 19.035, 
+        "follow_ratio": 0.8630490956072352, 
+        "followed_by": 668, 
+        "follows": 774, 
+        "likes": 159, 
+        "meanLikes": 104.7, 
+        "postID": "1565651322924134448_257254369", 
+        "tags": [
+            "tree", 
+            "outdoor", 
+            "plant", 
+            "ground", 
+            "oak", 
+            "plant_tree"
+        ]
+    }, 
+    {
+        "created_time": "1499005813", 
+        "days_since_posting": 40.498, 
+        "follow_ratio": 0.8630490956072352, 
+        "followed_by": 668, 
+        "follows": 774, 
+        "likes": 149, 
+        "meanLikes": 104.7, 
+        "postID": "1550095569819534305_257254369", 
+        "tags": [
+            "people_group"
+        ]
+    }
+]

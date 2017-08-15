@@ -1,0 +1,166 @@
+[
+    {
+        "created_time": "1492342006", 
+        "days_since_posting": 117.629, 
+        "follow_ratio": 0.8, 
+        "followed_by": 188, 
+        "follows": 235, 
+        "likes": 43, 
+        "meanLikes": 44.7, 
+        "postID": "1494195510671322073_25091973", 
+        "tags": [
+            "sky", 
+            "outdoor", 
+            "sky_cloud"
+        ]
+    }, 
+    {
+        "created_time": "1491877601", 
+        "days_since_posting": 123.005, 
+        "follow_ratio": 0.8, 
+        "followed_by": 188, 
+        "follows": 235, 
+        "likes": 39, 
+        "meanLikes": 44.7, 
+        "postID": "1490299796161663998_25091973", 
+        "tags": [
+            "person", 
+            "boy", 
+            "young", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1486920430", 
+        "days_since_posting": 180.421, 
+        "follow_ratio": 0.8, 
+        "followed_by": 188, 
+        "follows": 235, 
+        "likes": 50, 
+        "meanLikes": 44.7, 
+        "postID": "1448716033380563327_25091973", 
+        "tags": [
+            "person", 
+            "wall", 
+            "indoor", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1483896464", 
+        "days_since_posting": 215.421, 
+        "follow_ratio": 0.8, 
+        "followed_by": 188, 
+        "follows": 235, 
+        "likes": 58, 
+        "meanLikes": 44.7, 
+        "postID": "1423349163362227341_25091973", 
+        "tags": [
+            "person", 
+            "posing", 
+            "outdoor", 
+            "group", 
+            "people", 
+            "people_crowd", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1483841504", 
+        "days_since_posting": 216.057, 
+        "follow_ratio": 0.8, 
+        "followed_by": 188, 
+        "follows": 235, 
+        "likes": 51, 
+        "meanLikes": 44.7, 
+        "postID": "1422888130088695412_25091973", 
+        "tags": [
+            "sky", 
+            "outdoor", 
+            "outdoor_sportsfield"
+        ]
+    }, 
+    {
+        "created_time": "1483307901", 
+        "days_since_posting": 222.233, 
+        "follow_ratio": 0.8, 
+        "followed_by": 188, 
+        "follows": 235, 
+        "likes": 49, 
+        "meanLikes": 44.7, 
+        "postID": "1418411938836938046_25091973", 
+        "tags": [
+            "person", 
+            "others_", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1482940450", 
+        "days_since_posting": 226.486, 
+        "follow_ratio": 0.8, 
+        "followed_by": 188, 
+        "follows": 235, 
+        "likes": 21, 
+        "meanLikes": 44.7, 
+        "postID": "1415329535574785701_25091973", 
+        "tags": [
+            "person", 
+            "people_show"
+        ]
+    }, 
+    {
+        "created_time": "1482362034", 
+        "days_since_posting": 233.18, 
+        "follow_ratio": 0.8, 
+        "followed_by": 188, 
+        "follows": 235, 
+        "likes": 65, 
+        "meanLikes": 44.7, 
+        "postID": "1410477436227571286_25091973", 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "clothing", 
+            "woman", 
+            "standing", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1481809423", 
+        "days_since_posting": 239.576, 
+        "follow_ratio": 0.8, 
+        "followed_by": 188, 
+        "follows": 235, 
+        "likes": 55, 
+        "meanLikes": 44.7, 
+        "postID": "1405841795950937600_25091973", 
+        "tags": [
+            "sky", 
+            "outdoor", 
+            "sunset", 
+            "abstract_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1481229725", 
+        "days_since_posting": 246.286, 
+        "follow_ratio": 0.8, 
+        "followed_by": 188, 
+        "follows": 235, 
+        "likes": 57, 
+        "meanLikes": 44.7, 
+        "postID": "1400978937937263327_25091973", 
+        "tags": [
+            "queen", 
+            "text", 
+            "others_", 
+            "outdoor_", 
+            "text_sign"
+        ]
+    }
+]

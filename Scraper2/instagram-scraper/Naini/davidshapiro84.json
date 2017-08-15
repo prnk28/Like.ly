@@ -1,0 +1,174 @@
+[
+    {
+        "created_time": "1501200741", 
+        "days_since_posting": 15.14, 
+        "follow_ratio": 0.5129762562120376, 
+        "followed_by": 929, 
+        "follows": 1811, 
+        "likes": 220, 
+        "meanLikes": 225.1875, 
+        "postID": "1568507965080648672_246383346", 
+        "tags": [
+            "person", 
+            "man", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1500214433", 
+        "days_since_posting": 26.556, 
+        "follow_ratio": 0.5129762562120376, 
+        "followed_by": 929, 
+        "follows": 1811, 
+        "likes": 261, 
+        "meanLikes": 225.1875, 
+        "postID": "1560234213054332625_246383346", 
+        "tags": [
+            "person", 
+            "clothing", 
+            "posing", 
+            "standing", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1498271085", 
+        "days_since_posting": 49.048, 
+        "follow_ratio": 0.5129762562120376, 
+        "followed_by": 929, 
+        "follows": 1811, 
+        "likes": 255, 
+        "meanLikes": 225.1875, 
+        "postID": "1543932222401382626_246383346", 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "grass", 
+            "player", 
+            "athletic game", 
+            "sport", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1497837410", 
+        "days_since_posting": 54.067, 
+        "follow_ratio": 0.5129762562120376, 
+        "followed_by": 929, 
+        "follows": 1811, 
+        "likes": 210, 
+        "meanLikes": 225.1875, 
+        "postID": "1540294295796344142_246383346", 
+        "tags": [
+            "person", 
+            "wall", 
+            "man", 
+            "indoor", 
+            "posing", 
+            "standing", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1497296826", 
+        "days_since_posting": 60.324, 
+        "follow_ratio": 0.5129762562120376, 
+        "followed_by": 929, 
+        "follows": 1811, 
+        "likes": 257, 
+        "meanLikes": 225.1875, 
+        "postID": "1535759551691758632_246383346", 
+        "tags": [
+            "person", 
+            "clothing", 
+            "standing", 
+            "red", 
+            "wearing", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1496922656", 
+        "days_since_posting": 64.655, 
+        "follow_ratio": 0.5129762562120376, 
+        "followed_by": 929, 
+        "follows": 1811, 
+        "likes": 227, 
+        "meanLikes": 225.1875, 
+        "postID": "1532620780607700122_246383346", 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "ground", 
+            "standing", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1496360233", 
+        "days_since_posting": 71.165, 
+        "follow_ratio": 0.5129762562120376, 
+        "followed_by": 929, 
+        "follows": 1811, 
+        "likes": 218, 
+        "meanLikes": 225.1875, 
+        "postID": "1527902841761441354_246383346", 
+        "tags": [
+            "posing", 
+            "same", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1496080624", 
+        "days_since_posting": 74.401, 
+        "follow_ratio": 0.5129762562120376, 
+        "followed_by": 929, 
+        "follows": 1811, 
+        "likes": 212, 
+        "meanLikes": 225.1875, 
+        "postID": "1525557308724164328_246383346", 
+        "tags": [
+            "person", 
+            "standing", 
+            "posing", 
+            "outdoor", 
+            "people_show"
+        ]
+    }, 
+    {
+        "created_time": "1494773343", 
+        "days_since_posting": 89.531, 
+        "follow_ratio": 0.5129762562120376, 
+        "followed_by": 929, 
+        "follows": 1811, 
+        "likes": 191, 
+        "meanLikes": 225.1875, 
+        "postID": "1514591041037089167_246383346", 
+        "tags": [
+            "person", 
+            "indoor", 
+            "others_", 
+            "people_portrait"
+        ]
+    }, 
+    {
+        "created_time": "1494553781", 
+        "days_since_posting": 92.073, 
+        "follow_ratio": 0.5129762562120376, 
+        "followed_by": 929, 
+        "follows": 1811, 
+        "likes": 267, 
+        "meanLikes": 225.1875, 
+        "postID": "1512749216278205016_246383346", 
+        "tags": [
+            "person", 
+            "clothing", 
+            "posing", 
+            "standing", 
+            "people_", 
+            "people_group"
+        ]
+    }
+]

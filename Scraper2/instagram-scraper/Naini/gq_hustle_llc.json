@@ -1,0 +1,167 @@
+[
+    {
+        "created_time": "1495806734", 
+        "days_since_posting": 77.512, 
+        "follow_ratio": 1.06298044504383, 
+        "followed_by": 7882, 
+        "follows": 7415, 
+        "likes": 118, 
+        "meanLikes": 53.25, 
+        "postID": "1523259748710009842_1694039090", 
+        "tags": [
+            "text", 
+            "book", 
+            "text_mag"
+        ]
+    }, 
+    {
+        "created_time": "1495566939", 
+        "days_since_posting": 80.287, 
+        "follow_ratio": 1.06298044504383, 
+        "followed_by": 7882, 
+        "follows": 7415, 
+        "likes": 41, 
+        "meanLikes": 53.25, 
+        "postID": "1521248201674532175_1694039090", 
+        "tags": [
+            "indoor", 
+            "others_", 
+            "people_show"
+        ]
+    }, 
+    {
+        "created_time": "1495203339", 
+        "days_since_posting": 84.496, 
+        "follow_ratio": 1.06298044504383, 
+        "followed_by": 7882, 
+        "follows": 7415, 
+        "likes": 50, 
+        "meanLikes": 53.25, 
+        "postID": "1518198104594272590_1694039090", 
+        "tags": [
+            "text", 
+            "text_mag", 
+            "text_sign"
+        ]
+    }, 
+    {
+        "created_time": "1493324961", 
+        "days_since_posting": 106.236, 
+        "follow_ratio": 1.06298044504383, 
+        "followed_by": 7882, 
+        "follows": 7415, 
+        "likes": 125, 
+        "meanLikes": 53.25, 
+        "postID": "1502441130912961902_1694039090", 
+        "tags": [
+            "person", 
+            "indoor", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1493199302", 
+        "days_since_posting": 107.69, 
+        "follow_ratio": 1.06298044504383, 
+        "followed_by": 7882, 
+        "follows": 7415, 
+        "likes": 92, 
+        "meanLikes": 53.25, 
+        "postID": "1501387023397872505_1694039090", 
+        "tags": [
+            "person", 
+            "wall", 
+            "indoor", 
+            "posing", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1493199244", 
+        "days_since_posting": 107.691, 
+        "follow_ratio": 1.06298044504383, 
+        "followed_by": 7882, 
+        "follows": 7415, 
+        "likes": 61, 
+        "meanLikes": 53.25, 
+        "postID": "1501386541430226513_1694039090", 
+        "tags": [
+            "person", 
+            "indoor", 
+            "people", 
+            "group", 
+            "crowd", 
+            "posing", 
+            "people_crowd", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1493199195", 
+        "days_since_posting": 107.692, 
+        "follow_ratio": 1.06298044504383, 
+        "followed_by": 7882, 
+        "follows": 7415, 
+        "likes": 44, 
+        "meanLikes": 53.25, 
+        "postID": "1501386125917357481_1694039090", 
+        "tags": [
+            "person", 
+            "indoor", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1493199132", 
+        "days_since_posting": 107.692, 
+        "follow_ratio": 1.06298044504383, 
+        "followed_by": 7882, 
+        "follows": 7415, 
+        "likes": 56, 
+        "meanLikes": 53.25, 
+        "postID": "1501385604028620718_1694039090", 
+        "tags": [
+            "person", 
+            "posing", 
+            "standing", 
+            "indoor", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1493135769", 
+        "days_since_posting": 108.426, 
+        "follow_ratio": 1.06298044504383, 
+        "followed_by": 7882, 
+        "follows": 7415, 
+        "likes": 38, 
+        "meanLikes": 53.25, 
+        "postID": "1500854072557778021_1694039090", 
+        "tags": [
+            "person", 
+            "posing", 
+            "standing", 
+            "man", 
+            "indoor", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1493135680", 
+        "days_since_posting": 108.427, 
+        "follow_ratio": 1.06298044504383, 
+        "followed_by": 7882, 
+        "follows": 7415, 
+        "likes": 30, 
+        "meanLikes": 53.25, 
+        "postID": "1500853328630890730_1694039090", 
+        "tags": [
+            "person", 
+            "man", 
+            "ceiling", 
+            "people_group"
+        ]
+    }
+]

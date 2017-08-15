@@ -1,0 +1,162 @@
+[
+    {
+        "created_time": "1502487134", 
+        "days_since_posting": 0.329, 
+        "follow_ratio": 0.57470703125, 
+        "followed_by": 1177, 
+        "follows": 2048, 
+        "likes": 151, 
+        "meanLikes": 181.88059701492537, 
+        "postID": "1579299007431982831_54982665", 
+        "tags": [
+            "person", 
+            "wall", 
+            "woman", 
+            "indoor", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1502475739", 
+        "days_since_posting": 0.461, 
+        "follow_ratio": 0.57470703125, 
+        "followed_by": 1177, 
+        "follows": 2048, 
+        "likes": 240, 
+        "meanLikes": 181.88059701492537, 
+        "postID": "1579203422825796004_54982665", 
+        "tags": [
+            "person", 
+            "table", 
+            "food", 
+            "wall", 
+            "indoor", 
+            "plate", 
+            "people_young"
+        ]
+    }, 
+    {
+        "created_time": "1502319746", 
+        "days_since_posting": 2.266, 
+        "follow_ratio": 0.57470703125, 
+        "followed_by": 1177, 
+        "follows": 2048, 
+        "likes": 309, 
+        "meanLikes": 181.88059701492537, 
+        "postID": "1577894858614373037_54982665", 
+        "tags": [
+            "outdoor", 
+            "tree", 
+            "ground", 
+            "woman", 
+            "others_", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1502150790", 
+        "days_since_posting": 4.222, 
+        "follow_ratio": 0.57470703125, 
+        "followed_by": 1177, 
+        "follows": 2048, 
+        "likes": 202, 
+        "meanLikes": 181.88059701492537, 
+        "postID": "1576477549454433890_54982665", 
+        "tags": [
+            "person", 
+            "woman", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1502068111", 
+        "days_since_posting": 5.179, 
+        "follow_ratio": 0.57470703125, 
+        "followed_by": 1177, 
+        "follows": 2048, 
+        "likes": 167, 
+        "meanLikes": 181.88059701492537, 
+        "postID": "1575783986643140365_54982665", 
+        "tags": [
+            "building", 
+            "outdoor", 
+            "street", 
+            "outdoor_street"
+        ]
+    }, 
+    {
+        "created_time": "1502043321", 
+        "days_since_posting": 5.466, 
+        "follow_ratio": 0.57470703125, 
+        "followed_by": 1177, 
+        "follows": 2048, 
+        "likes": 82, 
+        "meanLikes": 181.88059701492537, 
+        "postID": "1575576031180285506_54982665", 
+        "tags": [
+            "people_show"
+        ]
+    }, 
+    {
+        "created_time": "1501900073", 
+        "days_since_posting": 7.124, 
+        "follow_ratio": 0.57470703125, 
+        "followed_by": 1177, 
+        "follows": 2048, 
+        "likes": 90, 
+        "meanLikes": 181.88059701492537, 
+        "postID": "1574374382243818913_54982665", 
+        "tags": [
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1501888176", 
+        "days_since_posting": 7.261, 
+        "follow_ratio": 0.57470703125, 
+        "followed_by": 1177, 
+        "follows": 2048, 
+        "likes": 228, 
+        "meanLikes": 181.88059701492537, 
+        "postID": "1574274583805009760_54982665", 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "posing", 
+            "people_group", 
+            "people_young"
+        ]
+    }, 
+    {
+        "created_time": "1501701701", 
+        "days_since_posting": 9.42, 
+        "follow_ratio": 0.57470703125, 
+        "followed_by": 1177, 
+        "follows": 2048, 
+        "likes": 71, 
+        "meanLikes": 181.88059701492537, 
+        "postID": "1572710320225225358_54982665", 
+        "tags": [
+            "person", 
+            "woman", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1501628307", 
+        "days_since_posting": 10.269, 
+        "follow_ratio": 0.57470703125, 
+        "followed_by": 1177, 
+        "follows": 2048, 
+        "likes": 226, 
+        "meanLikes": 181.88059701492537, 
+        "postID": "1572094646897378699_54982665", 
+        "tags": [
+            "person", 
+            "indoor", 
+            "others_", 
+            "people_"
+        ]
+    }
+]

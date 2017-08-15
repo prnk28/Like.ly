@@ -1,0 +1,150 @@
+[
+    {
+        "created_time": "1356487340", 
+        "days_since_posting": 1690.179, 
+        "follow_ratio": 0.2175368139223561, 
+        "followed_by": 325, 
+        "follows": 1494, 
+        "likes": 53, 
+        "meanLikes": 33.666666666666664, 
+        "postID": "354563971578009043_22330964", 
+        "tags": [
+            "dog", 
+            "black", 
+            "others_", 
+            "text_sign"
+        ]
+    }, 
+    {
+        "created_time": "1356269931", 
+        "days_since_posting": 1692.695, 
+        "follow_ratio": 0.2175368139223561, 
+        "followed_by": 325, 
+        "follows": 1494, 
+        "likes": 23, 
+        "meanLikes": 33.666666666666664, 
+        "postID": "352740210704848735_22330964", 
+        "tags": [
+            "abstract_", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1356036929", 
+        "days_since_posting": 1695.392, 
+        "follow_ratio": 0.2175368139223561, 
+        "followed_by": 325, 
+        "follows": 1494, 
+        "likes": 25, 
+        "meanLikes": 33.666666666666664, 
+        "postID": "350785643423405618_22330964", 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1355872151", 
+        "days_since_posting": 1697.299, 
+        "follow_ratio": 0.2175368139223561, 
+        "followed_by": 325, 
+        "follows": 1494, 
+        "likes": 27, 
+        "meanLikes": 33.666666666666664, 
+        "postID": "349403387614139925_22330964", 
+        "tags": [
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1355280847", 
+        "days_since_posting": 1704.143, 
+        "follow_ratio": 0.2175368139223561, 
+        "followed_by": 325, 
+        "follows": 1494, 
+        "likes": 30, 
+        "meanLikes": 33.666666666666664, 
+        "postID": "344443174846927983_22330964", 
+        "tags": [
+            "others_", 
+            "text_", 
+            "text_menu"
+        ]
+    }, 
+    {
+        "created_time": "1355181289", 
+        "days_since_posting": 1705.296, 
+        "follow_ratio": 0.2175368139223561, 
+        "followed_by": 325, 
+        "follows": 1494, 
+        "likes": 22, 
+        "meanLikes": 33.666666666666664, 
+        "postID": "343608021585171863_22330964", 
+        "tags": [
+            "abstract_rect", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1355176328", 
+        "days_since_posting": 1705.353, 
+        "follow_ratio": 0.2175368139223561, 
+        "followed_by": 325, 
+        "follows": 1494, 
+        "likes": 24, 
+        "meanLikes": 33.666666666666664, 
+        "postID": "343566402353829643_22330964", 
+        "tags": [
+            "abstract_", 
+            "abstract_rect", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1355174021", 
+        "days_since_posting": 1705.38, 
+        "follow_ratio": 0.2175368139223561, 
+        "followed_by": 325, 
+        "follows": 1494, 
+        "likes": 19, 
+        "meanLikes": 33.666666666666664, 
+        "postID": "343547053584881203_22330964", 
+        "tags": [
+            "abstract_", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1355107676", 
+        "days_since_posting": 1706.148, 
+        "follow_ratio": 0.2175368139223561, 
+        "followed_by": 325, 
+        "follows": 1494, 
+        "likes": 18, 
+        "meanLikes": 33.666666666666664, 
+        "postID": "342990511630391232_22330964", 
+        "tags": [
+            "others_", 
+            "outdoor_", 
+            "text_sign"
+        ]
+    }, 
+    {
+        "created_time": "1355100861", 
+        "days_since_posting": 1706.227, 
+        "follow_ratio": 0.2175368139223561, 
+        "followed_by": 325, 
+        "follows": 1494, 
+        "likes": 20, 
+        "meanLikes": 33.666666666666664, 
+        "postID": "342933339928204301_22330964", 
+        "tags": [
+            "others_", 
+            "outdoor_"
+        ]
+    }
+]

@@ -1,0 +1,177 @@
+[
+    {
+        "created_time": "1498931184", 
+        "days_since_posting": 41.404, 
+        "follow_ratio": 1.2972972972972974, 
+        "followed_by": 864, 
+        "follows": 666, 
+        "likes": 190, 
+        "meanLikes": 113.29523809523809, 
+        "postID": "1549469539640943268_145881594", 
+        "tags": [
+            "person", 
+            "ceiling", 
+            "floor", 
+            "indoor", 
+            "standing", 
+            "indoor_"
+        ]
+    }, 
+    {
+        "created_time": "1498583997", 
+        "days_since_posting": 45.422, 
+        "follow_ratio": 1.2972972972972974, 
+        "followed_by": 864, 
+        "follows": 666, 
+        "likes": 215, 
+        "meanLikes": 113.29523809523809, 
+        "postID": "1546557126226708890_145881594", 
+        "tags": [
+            "person", 
+            "floor", 
+            "indoor", 
+            "window", 
+            "woman", 
+            "others_", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1498500899", 
+        "days_since_posting": 46.384, 
+        "follow_ratio": 1.2972972972972974, 
+        "followed_by": 864, 
+        "follows": 666, 
+        "likes": 207, 
+        "meanLikes": 113.29523809523809, 
+        "postID": "1545860045954481954_145881594", 
+        "tags": [
+            "person", 
+            "brick", 
+            "outdoor", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1498406285", 
+        "days_since_posting": 47.479, 
+        "follow_ratio": 1.2972972972972974, 
+        "followed_by": 864, 
+        "follows": 666, 
+        "likes": 130, 
+        "meanLikes": 113.29523809523809, 
+        "postID": "1545066364771062607_145881594", 
+        "tags": [
+            "person", 
+            "woman", 
+            "window", 
+            "text_mag"
+        ]
+    }, 
+    {
+        "created_time": "1498309102", 
+        "days_since_posting": 48.604, 
+        "follow_ratio": 1.2972972972972974, 
+        "followed_by": 864, 
+        "follows": 666, 
+        "likes": 128, 
+        "meanLikes": 113.29523809523809, 
+        "postID": "1544251136072360939_145881594", 
+        "tags": [
+            "person", 
+            "woman", 
+            "outdoor", 
+            "others_", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1497961928", 
+        "days_since_posting": 52.622, 
+        "follow_ratio": 1.2972972972972974, 
+        "followed_by": 864, 
+        "follows": 666, 
+        "likes": 142, 
+        "meanLikes": 113.29523809523809, 
+        "postID": "1541338830040586860_145881594", 
+        "tags": [
+            "building", 
+            "outdoor", 
+            "brick", 
+            "abstract", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1497650917", 
+        "days_since_posting": 56.222, 
+        "follow_ratio": 1.2972972972972974, 
+        "followed_by": 864, 
+        "follows": 666, 
+        "likes": 170, 
+        "meanLikes": 113.29523809523809, 
+        "postID": "1538729882137600553_145881594", 
+        "tags": [
+            "person", 
+            "wall", 
+            "woman", 
+            "indoor", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1496947924", 
+        "days_since_posting": 64.358, 
+        "follow_ratio": 1.2972972972972974, 
+        "followed_by": 864, 
+        "follows": 666, 
+        "likes": 212, 
+        "meanLikes": 113.29523809523809, 
+        "postID": "1532832743939316957_145881594", 
+        "tags": [
+            "ground", 
+            "person", 
+            "woman", 
+            "outdoor", 
+            "clothing", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1496629211", 
+        "days_since_posting": 68.047, 
+        "follow_ratio": 1.2972972972972974, 
+        "followed_by": 864, 
+        "follows": 666, 
+        "likes": 161, 
+        "meanLikes": 113.29523809523809, 
+        "postID": "1530159192304201259_145881594", 
+        "tags": [
+            "person", 
+            "woman", 
+            "wall", 
+            "indoor", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1496030732", 
+        "days_since_posting": 74.974, 
+        "follow_ratio": 1.2972972972972974, 
+        "followed_by": 864, 
+        "follows": 666, 
+        "likes": 133, 
+        "meanLikes": 113.29523809523809, 
+        "postID": "1525138784890672581_145881594", 
+        "tags": [
+            "person", 
+            "sky", 
+            "outdoor", 
+            "ground", 
+            "standing", 
+            "people_", 
+            "people_group"
+        ]
+    }
+]

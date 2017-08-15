@@ -1,0 +1,158 @@
+[
+    {
+        "created_time": "1340289495", 
+        "days_since_posting": 1877.614, 
+        "follow_ratio": 0.3745583038869258, 
+        "followed_by": 212, 
+        "follows": 566, 
+        "likes": 49, 
+        "meanLikes": 35.5, 
+        "postID": "218686600705046547_181892653", 
+        "tags": [
+            "person", 
+            "woman", 
+            "people_", 
+            "people_portrait"
+        ]
+    }, 
+    {
+        "created_time": "1339979054", 
+        "days_since_posting": 1881.207, 
+        "follow_ratio": 0.3745583038869258, 
+        "followed_by": 212, 
+        "follows": 566, 
+        "likes": 22, 
+        "meanLikes": 35.5, 
+        "postID": "216082425508886636_181892653", 
+        "tags": [
+            "person", 
+            "grass", 
+            "outdoor", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1339978882", 
+        "days_since_posting": 1881.209, 
+        "follow_ratio": 0.3745583038869258, 
+        "followed_by": 212, 
+        "follows": 566, 
+        "likes": 15, 
+        "meanLikes": 35.5, 
+        "postID": "216080990008342616_181892653", 
+        "tags": [
+            "woman", 
+            "person", 
+            "people_tattoo"
+        ]
+    }, 
+    {
+        "created_time": "1339696932", 
+        "days_since_posting": 1884.472, 
+        "follow_ratio": 0.3745583038869258, 
+        "followed_by": 212, 
+        "follows": 566, 
+        "likes": 54, 
+        "meanLikes": 35.5, 
+        "postID": "213715818727962841_181892653", 
+        "tags": [
+            "person", 
+            "abstract_nonphoto", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1339687769", 
+        "days_since_posting": 1884.578, 
+        "follow_ratio": 0.3745583038869258, 
+        "followed_by": 212, 
+        "follows": 566, 
+        "likes": 25, 
+        "meanLikes": 35.5, 
+        "postID": "213638950439975532_181892653", 
+        "tags": [
+            "person", 
+            "people_portrait", 
+            "people_young"
+        ]
+    }, 
+    {
+        "created_time": "1339685008", 
+        "days_since_posting": 1884.61, 
+        "follow_ratio": 0.3745583038869258, 
+        "followed_by": 212, 
+        "follows": 566, 
+        "likes": 34, 
+        "meanLikes": 35.5, 
+        "postID": "213615791976315369_181892653", 
+        "tags": [
+            "person", 
+            "woman", 
+            "others_", 
+            "people_", 
+            "people_portrait"
+        ]
+    }, 
+    {
+        "created_time": "1339634855", 
+        "days_since_posting": 1885.191, 
+        "follow_ratio": 0.3745583038869258, 
+        "followed_by": 212, 
+        "follows": 566, 
+        "likes": 32, 
+        "meanLikes": 35.5, 
+        "postID": "213195082003216691_181892653", 
+        "tags": [
+            "person", 
+            "woman", 
+            "people_portrait"
+        ]
+    }, 
+    {
+        "created_time": "1339634715", 
+        "days_since_posting": 1885.192, 
+        "follow_ratio": 0.3745583038869258, 
+        "followed_by": 212, 
+        "follows": 566, 
+        "likes": 17, 
+        "meanLikes": 35.5, 
+        "postID": "213193883698952486_181892653", 
+        "tags": [
+            "person", 
+            "people_portrait"
+        ]
+    }, 
+    {
+        "created_time": "1339634428", 
+        "days_since_posting": 1885.196, 
+        "follow_ratio": 0.3745583038869258, 
+        "followed_by": 212, 
+        "follows": 566, 
+        "likes": 27, 
+        "meanLikes": 35.5, 
+        "postID": "213191501502052630_181892653", 
+        "tags": [
+            "clothing", 
+            "indoor", 
+            "person", 
+            "woman", 
+            "people_portrait"
+        ]
+    }, 
+    {
+        "created_time": "1339634191", 
+        "days_since_posting": 1885.199, 
+        "follow_ratio": 0.3745583038869258, 
+        "followed_by": 212, 
+        "follows": 566, 
+        "likes": 24, 
+        "meanLikes": 35.5, 
+        "postID": "213189511422245122_181892653", 
+        "tags": [
+            "person", 
+            "indoor", 
+            "girl", 
+            "people_"
+        ]
+    }
+]

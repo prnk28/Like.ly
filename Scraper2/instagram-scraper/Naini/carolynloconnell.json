@@ -1,0 +1,113 @@
+[
+    {
+        "created_time": "1501639053", 
+        "days_since_posting": 10.031, 
+        "follow_ratio": 0.5654205607476636, 
+        "followed_by": 121, 
+        "follows": 214, 
+        "likes": 24, 
+        "meanLikes": 27.0, 
+        "postID": "1572184788520192447_17563931", 
+        "tags": [
+            "sky", 
+            "outdoor", 
+            "water", 
+            "sunset", 
+            "sky_sun"
+        ]
+    }, 
+    {
+        "created_time": "1501440168", 
+        "days_since_posting": 12.333, 
+        "follow_ratio": 0.5654205607476636, 
+        "followed_by": 121, 
+        "follows": 214, 
+        "likes": 27, 
+        "meanLikes": 27.0, 
+        "postID": "1570516423883884482_17563931", 
+        "tags": [
+            "water", 
+            "sky", 
+            "outdoor", 
+            "boat", 
+            "ship", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1498060758", 
+        "days_since_posting": 51.446, 
+        "follow_ratio": 0.5654205607476636, 
+        "followed_by": 121, 
+        "follows": 214, 
+        "likes": 21, 
+        "meanLikes": 27.0, 
+        "postID": "1542167872150144450_17563931", 
+        "tags": [
+            "grass", 
+            "outdoor", 
+            "sky", 
+            "horse", 
+            "field", 
+            "standing", 
+            "outdoor_grass"
+        ]
+    }, 
+    {
+        "created_time": "1490381311", 
+        "days_since_posting": 140.329, 
+        "follow_ratio": 0.5654205607476636, 
+        "followed_by": 121, 
+        "follows": 214, 
+        "likes": 24, 
+        "meanLikes": 27.0, 
+        "postID": "1477748000939282094_17563931", 
+        "tags": [
+            "sky", 
+            "outdoor", 
+            "beach", 
+            "water", 
+            "nature", 
+            "shore", 
+            "outdoor_oceanbeach"
+        ]
+    }, 
+    {
+        "created_time": "1490123176", 
+        "days_since_posting": 143.317, 
+        "follow_ratio": 0.5654205607476636, 
+        "followed_by": 121, 
+        "follows": 214, 
+        "likes": 32, 
+        "meanLikes": 27.0, 
+        "postID": "1475582611404838148_17563931", 
+        "tags": [
+            "water", 
+            "sky", 
+            "outdoor", 
+            "boat", 
+            "ocean", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1488995826", 
+        "days_since_posting": 156.406, 
+        "follow_ratio": 0.5654205607476636, 
+        "followed_by": 121, 
+        "follows": 214, 
+        "likes": 25, 
+        "meanLikes": 27.0, 
+        "postID": "1466125712213009031_17563931", 
+        "tags": [
+            "ground", 
+            "outdoor", 
+            "horse", 
+            "animal", 
+            "mammal", 
+            "others_", 
+            "outdoor_"
+        ]
+    }
+]

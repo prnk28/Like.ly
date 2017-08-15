@@ -1,0 +1,162 @@
+[
+    {
+        "created_time": "1501614769", 
+        "days_since_posting": 10.386, 
+        "follow_ratio": 0.30693595535477014, 
+        "followed_by": 1155, 
+        "follows": 3763, 
+        "likes": 123, 
+        "meanLikes": 134.71428571428572, 
+        "postID": "1571981080755220589_274639512", 
+        "tags": [
+            "person", 
+            "others_", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1501009392", 
+        "days_since_posting": 17.393, 
+        "follow_ratio": 0.30693595535477014, 
+        "followed_by": 1155, 
+        "follows": 3763, 
+        "likes": 144, 
+        "meanLikes": 134.71428571428572, 
+        "postID": "1566902806794649631_274639512", 
+        "tags": [
+            "person", 
+            "wall", 
+            "indoor", 
+            "others_", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1498592781", 
+        "days_since_posting": 45.363, 
+        "follow_ratio": 0.30693595535477014, 
+        "followed_by": 1155, 
+        "follows": 3763, 
+        "likes": 160, 
+        "meanLikes": 134.71428571428572, 
+        "postID": "1546630808864789024_274639512", 
+        "tags": [
+            "clothing", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1497799409", 
+        "days_since_posting": 54.546, 
+        "follow_ratio": 0.30693595535477014, 
+        "followed_by": 1155, 
+        "follows": 3763, 
+        "likes": 123, 
+        "meanLikes": 134.71428571428572, 
+        "postID": "1539975523290952308_274639512", 
+        "tags": [
+            "sky", 
+            "outdoor", 
+            "water", 
+            "person", 
+            "standing", 
+            "man", 
+            "beach", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1497308156", 
+        "days_since_posting": 60.232, 
+        "follow_ratio": 0.30693595535477014, 
+        "followed_by": 1155, 
+        "follows": 3763, 
+        "likes": 119, 
+        "meanLikes": 134.71428571428572, 
+        "postID": "1535854591383203031_274639512", 
+        "tags": [
+            "person", 
+            "wall", 
+            "group", 
+            "people", 
+            "outdoor_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1494777144", 
+        "days_since_posting": 89.526, 
+        "follow_ratio": 0.30693595535477014, 
+        "followed_by": 1155, 
+        "follows": 3763, 
+        "likes": 176, 
+        "meanLikes": 134.71428571428572, 
+        "postID": "1514622920768311810_274639512", 
+        "tags": [
+            "window", 
+            "abstract_", 
+            "building_stair"
+        ]
+    }, 
+    {
+        "created_time": "1494772322", 
+        "days_since_posting": 89.582, 
+        "follow_ratio": 0.30693595535477014, 
+        "followed_by": 1155, 
+        "follows": 3763, 
+        "likes": 98, 
+        "meanLikes": 134.71428571428572, 
+        "postID": "1514582472292972971_274639512", 
+        "tags": [
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1492653286", 
+        "days_since_posting": 114.107, 
+        "follow_ratio": 0.30693595535477014, 
+        "followed_by": 1155, 
+        "follows": 3763, 
+        "likes": 155, 
+        "meanLikes": 134.71428571428572, 
+        "postID": "1496806714028044739_274639512", 
+        "tags": [
+            "person", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1492374439", 
+        "days_since_posting": 117.335, 
+        "follow_ratio": 0.30693595535477014, 
+        "followed_by": 1155, 
+        "follows": 3763, 
+        "likes": 135, 
+        "meanLikes": 134.71428571428572, 
+        "postID": "1494467572120103173_274639512", 
+        "tags": [
+            "beach", 
+            "outdoor", 
+            "sky", 
+            "ground", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1491058337", 
+        "days_since_posting": 132.568, 
+        "follow_ratio": 0.30693595535477014, 
+        "followed_by": 1155, 
+        "follows": 3763, 
+        "likes": 89, 
+        "meanLikes": 134.71428571428572, 
+        "postID": "1483427306886028333_274639512", 
+        "tags": [
+            "people_"
+        ]
+    }
+]

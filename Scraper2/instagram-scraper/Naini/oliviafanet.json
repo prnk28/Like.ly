@@ -1,0 +1,182 @@
+[
+    {
+        "created_time": "1502488815", 
+        "days_since_posting": 0.199, 
+        "follow_ratio": 2.0950441276306857, 
+        "followed_by": 3086, 
+        "follows": 1473, 
+        "likes": 628, 
+        "meanLikes": 743.7884615384615, 
+        "postID": "1579313108906942519_17526578", 
+        "tags": [
+            "outdoor", 
+            "ground", 
+            "person", 
+            "woman", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1501897110", 
+        "days_since_posting": 7.048, 
+        "follow_ratio": 2.0950441276306857, 
+        "followed_by": 3086, 
+        "follows": 1473, 
+        "likes": 869, 
+        "meanLikes": 743.7884615384615, 
+        "postID": "1574349530747868545_17526578", 
+        "tags": [
+            "person", 
+            "wall", 
+            "woman", 
+            "posing", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1501453919", 
+        "days_since_posting": 12.177, 
+        "follow_ratio": 2.0950441276306857, 
+        "followed_by": 3086, 
+        "follows": 1473, 
+        "likes": 664, 
+        "meanLikes": 743.7884615384615, 
+        "postID": "1570631769039167399_17526578", 
+        "tags": [
+            "plate", 
+            "food", 
+            "food_"
+        ]
+    }, 
+    {
+        "created_time": "1501289330", 
+        "days_since_posting": 14.082, 
+        "follow_ratio": 2.0950441276306857, 
+        "followed_by": 3086, 
+        "follows": 1473, 
+        "likes": 784, 
+        "meanLikes": 743.7884615384615, 
+        "postID": "1569251101277360762_17526578", 
+        "tags": [
+            "water", 
+            "outdoor", 
+            "person", 
+            "sky", 
+            "beach", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1501190647", 
+        "days_since_posting": 15.224, 
+        "follow_ratio": 2.0950441276306857, 
+        "followed_by": 3086, 
+        "follows": 1473, 
+        "likes": 854, 
+        "meanLikes": 743.7884615384615, 
+        "postID": "1568423289683379305_17526578", 
+        "tags": [
+            "outdoor", 
+            "person", 
+            "woman", 
+            "sky", 
+            "water", 
+            "clothing", 
+            "beach", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1501119273", 
+        "days_since_posting": 16.05, 
+        "follow_ratio": 2.0950441276306857, 
+        "followed_by": 3086, 
+        "follows": 1473, 
+        "likes": 742, 
+        "meanLikes": 743.7884615384615, 
+        "postID": "1567824558390863510_17526578", 
+        "tags": [
+            "person", 
+            "posing", 
+            "clothing", 
+            "wall", 
+            "woman", 
+            "standing", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1500920865", 
+        "days_since_posting": 18.347, 
+        "follow_ratio": 2.0950441276306857, 
+        "followed_by": 3086, 
+        "follows": 1473, 
+        "likes": 871, 
+        "meanLikes": 743.7884615384615, 
+        "postID": "1566160192268560366_17526578", 
+        "tags": [
+            "water", 
+            "outdoor", 
+            "person", 
+            "swimsuit", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1500678236", 
+        "days_since_posting": 21.155, 
+        "follow_ratio": 2.0950441276306857, 
+        "followed_by": 3086, 
+        "follows": 1473, 
+        "likes": 802, 
+        "meanLikes": 743.7884615384615, 
+        "postID": "1564124870257080369_17526578", 
+        "tags": [
+            "person", 
+            "posing", 
+            "standing", 
+            "man", 
+            "people", 
+            "group", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1499384615", 
+        "days_since_posting": 36.127, 
+        "follow_ratio": 2.0950441276306857, 
+        "followed_by": 3086, 
+        "follows": 1473, 
+        "likes": 859, 
+        "meanLikes": 743.7884615384615, 
+        "postID": "1553273189654993686_17526578", 
+        "tags": [
+            "outdoor", 
+            "sky", 
+            "person", 
+            "building", 
+            "others_", 
+            "outdoor_", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1499103937", 
+        "days_since_posting": 39.376, 
+        "follow_ratio": 2.0950441276306857, 
+        "followed_by": 3086, 
+        "follows": 1473, 
+        "likes": 759, 
+        "meanLikes": 743.7884615384615, 
+        "postID": "1550918691804573176_17526578", 
+        "tags": [
+            "grass", 
+            "outdoor", 
+            "sky", 
+            "building_pillar", 
+            "others_", 
+            "outdoor_"
+        ]
+    }
+]

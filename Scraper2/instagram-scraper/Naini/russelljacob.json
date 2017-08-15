@@ -1,0 +1,173 @@
+[
+    {
+        "created_time": "1501637175", 
+        "days_since_posting": 10.132, 
+        "follow_ratio": 1.027656477438137, 
+        "followed_by": 706, 
+        "follows": 687, 
+        "likes": 147, 
+        "meanLikes": 157.75, 
+        "postID": "1572169031476979058_211906870", 
+        "tags": [
+            "person", 
+            "indoor", 
+            "people_group", 
+            "people_many"
+        ]
+    }, 
+    {
+        "created_time": "1497482055", 
+        "days_since_posting": 58.224, 
+        "follow_ratio": 1.027656477438137, 
+        "followed_by": 706, 
+        "follows": 687, 
+        "likes": 181, 
+        "meanLikes": 157.75, 
+        "postID": "1537313362588474282_211906870", 
+        "tags": [
+            "person", 
+            "indoor", 
+            "standing", 
+            "posing", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1493001707", 
+        "days_since_posting": 110.08, 
+        "follow_ratio": 1.027656477438137, 
+        "followed_by": 706, 
+        "follows": 687, 
+        "likes": 151, 
+        "meanLikes": 157.75, 
+        "postID": "1499729476878888398_211906870", 
+        "tags": [
+            "person", 
+            "posing", 
+            "people", 
+            "wall", 
+            "group", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1492378077", 
+        "days_since_posting": 117.298, 
+        "follow_ratio": 1.027656477438137, 
+        "followed_by": 706, 
+        "follows": 687, 
+        "likes": 152, 
+        "meanLikes": 157.75, 
+        "postID": "1494498090010062657_211906870", 
+        "tags": [
+            "person", 
+            "indoor", 
+            "others_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1490313149", 
+        "days_since_posting": 141.198, 
+        "follow_ratio": 1.027656477438137, 
+        "followed_by": 706, 
+        "follows": 687, 
+        "likes": 91, 
+        "meanLikes": 157.75, 
+        "postID": "1477176218126047454_211906870", 
+        "tags": [
+            "dog", 
+            "indoor", 
+            "animal", 
+            "laying", 
+            "mammal", 
+            "animal_dog"
+        ]
+    }, 
+    {
+        "created_time": "1483555606", 
+        "days_since_posting": 219.452, 
+        "follow_ratio": 1.027656477438137, 
+        "followed_by": 706, 
+        "follows": 687, 
+        "likes": 182, 
+        "meanLikes": 157.75, 
+        "postID": "1420489845324007527_211906870", 
+        "tags": [
+            "person", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1482365809", 
+        "days_since_posting": 233.222, 
+        "follow_ratio": 1.027656477438137, 
+        "followed_by": 706, 
+        "follows": 687, 
+        "likes": 164, 
+        "meanLikes": 157.75, 
+        "postID": "1410509103499038033_211906870", 
+        "tags": [
+            "person", 
+            "woman", 
+            "smiling", 
+            "posing", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1474993055", 
+        "days_since_posting": 318.514, 
+        "follow_ratio": 1.027656477438137, 
+        "followed_by": 706, 
+        "follows": 687, 
+        "likes": 136, 
+        "meanLikes": 157.75, 
+        "postID": "1348661953861730953_211906870", 
+        "tags": [
+            "water", 
+            "person", 
+            "outdoor", 
+            "sky", 
+            "ground", 
+            "man", 
+            "standing", 
+            "beach", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1451674736", 
+        "days_since_posting": 588.443, 
+        "follow_ratio": 1.027656477438137, 
+        "followed_by": 706, 
+        "follows": 687, 
+        "likes": 69, 
+        "meanLikes": 157.75, 
+        "postID": "1153053715957891002_211906870", 
+        "tags": [
+            "person", 
+            "sport", 
+            "others_", 
+            "people_many"
+        ]
+    }, 
+    {
+        "created_time": "1449974555", 
+        "days_since_posting": 608.121, 
+        "follow_ratio": 1.027656477438137, 
+        "followed_by": 706, 
+        "follows": 687, 
+        "likes": 72, 
+        "meanLikes": 157.75, 
+        "postID": "1138791564363775451_211906870", 
+        "tags": [
+            "person", 
+            "indoor", 
+            "people_group"
+        ]
+    }
+]

@@ -1,0 +1,176 @@
+[
+    {
+        "created_time": "1502289757", 
+        "days_since_posting": 2.535, 
+        "follow_ratio": 1.5953125, 
+        "followed_by": 1021, 
+        "follows": 640, 
+        "likes": 86, 
+        "meanLikes": 121.375, 
+        "postID": "1577643290315356366_38754950", 
+        "tags": [
+            "grass", 
+            "red", 
+            "flower", 
+            "plant_"
+        ]
+    }, 
+    {
+        "created_time": "1502043182", 
+        "days_since_posting": 5.389, 
+        "follow_ratio": 1.5953125, 
+        "followed_by": 1021, 
+        "follows": 640, 
+        "likes": 159, 
+        "meanLikes": 121.375, 
+        "postID": "1575574866252786301_38754950", 
+        "tags": [
+            "person", 
+            "posing", 
+            "people", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1501944812", 
+        "days_since_posting": 6.527, 
+        "follow_ratio": 1.5953125, 
+        "followed_by": 1021, 
+        "follows": 640, 
+        "likes": 172, 
+        "meanLikes": 121.375, 
+        "postID": "1574749685569322658_38754950", 
+        "tags": [
+            "wall", 
+            "indoor", 
+            "person", 
+            "mirror", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1501732904", 
+        "days_since_posting": 8.98, 
+        "follow_ratio": 1.5953125, 
+        "followed_by": 1021, 
+        "follows": 640, 
+        "likes": 67, 
+        "meanLikes": 121.375, 
+        "postID": "1572972070848326357_38754950", 
+        "tags": [
+            "floor", 
+            "bottle", 
+            "indoor", 
+            "drink_"
+        ]
+    }, 
+    {
+        "created_time": "1501728644", 
+        "days_since_posting": 9.029, 
+        "follow_ratio": 1.5953125, 
+        "followed_by": 1021, 
+        "follows": 640, 
+        "likes": 152, 
+        "meanLikes": 121.375, 
+        "postID": "1572936336208711607_38754950", 
+        "tags": [
+            "person", 
+            "wall", 
+            "indoor", 
+            "woman", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1501682325", 
+        "days_since_posting": 9.565, 
+        "follow_ratio": 1.5953125, 
+        "followed_by": 1021, 
+        "follows": 640, 
+        "likes": 59, 
+        "meanLikes": 121.375, 
+        "postID": "1572547777438100127_38754950", 
+        "tags": [
+            "others_", 
+            "text_sign"
+        ]
+    }, 
+    {
+        "created_time": "1501602822", 
+        "days_since_posting": 10.485, 
+        "follow_ratio": 1.5953125, 
+        "followed_by": 1021, 
+        "follows": 640, 
+        "likes": 168, 
+        "meanLikes": 121.375, 
+        "postID": "1571880858649211810_38754950", 
+        "tags": [
+            "sky", 
+            "outdoor", 
+            "nature", 
+            "rock", 
+            "person", 
+            "mountain", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1501171461", 
+        "days_since_posting": 15.478, 
+        "follow_ratio": 1.5953125, 
+        "followed_by": 1021, 
+        "follows": 640, 
+        "likes": 108, 
+        "meanLikes": 121.375, 
+        "postID": "1568262346697410982_38754950", 
+        "tags": [
+            "grass", 
+            "tree", 
+            "outdoor", 
+            "field", 
+            "nature", 
+            "plant_tree"
+        ]
+    }, 
+    {
+        "created_time": "1501026382", 
+        "days_since_posting": 17.157, 
+        "follow_ratio": 1.5953125, 
+        "followed_by": 1021, 
+        "follows": 640, 
+        "likes": 115, 
+        "meanLikes": 121.375, 
+        "postID": "1567045335099167824_38754950", 
+        "tags": [
+            "beach", 
+            "sky", 
+            "outdoor", 
+            "shore", 
+            "ground", 
+            "nature", 
+            "person", 
+            "woman", 
+            "outdoor_oceanbeach", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1500942371", 
+        "days_since_posting": 18.13, 
+        "follow_ratio": 1.5953125, 
+        "followed_by": 1021, 
+        "follows": 640, 
+        "likes": 169, 
+        "meanLikes": 121.375, 
+        "postID": "1566340599324856063_38754950", 
+        "tags": [
+            "outdoor", 
+            "ground", 
+            "road", 
+            "woman", 
+            "person", 
+            "others_"
+        ]
+    }
+]

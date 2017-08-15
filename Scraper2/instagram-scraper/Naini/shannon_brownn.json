@@ -1,0 +1,181 @@
+[
+    {
+        "created_time": "1502242519", 
+        "days_since_posting": 3.067, 
+        "follow_ratio": 0.963371801304566, 
+        "followed_by": 1920, 
+        "follows": 1993, 
+        "likes": 458, 
+        "meanLikes": 386.97014925373134, 
+        "postID": "1577247025636703811_177005663", 
+        "tags": [
+            "water", 
+            "sky", 
+            "outdoor", 
+            "woman", 
+            "beach", 
+            "person", 
+            "outdoor_", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1501968219", 
+        "days_since_posting": 6.242, 
+        "follow_ratio": 0.963371801304566, 
+        "followed_by": 1920, 
+        "follows": 1993, 
+        "likes": 510, 
+        "meanLikes": 386.97014925373134, 
+        "postID": "1574946035998910291_177005663", 
+        "tags": [
+            "ground", 
+            "person", 
+            "outdoor", 
+            "woman", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1501812401", 
+        "days_since_posting": 8.045, 
+        "follow_ratio": 0.963371801304566, 
+        "followed_by": 1920, 
+        "follows": 1993, 
+        "likes": 409, 
+        "meanLikes": 386.97014925373134, 
+        "postID": "1573638935666461642_177005663", 
+        "tags": [
+            "sky", 
+            "water", 
+            "outdoor", 
+            "woman", 
+            "person", 
+            "pool", 
+            "people_swimming"
+        ]
+    }, 
+    {
+        "created_time": "1500947002", 
+        "days_since_posting": 18.061, 
+        "follow_ratio": 0.963371801304566, 
+        "followed_by": 1920, 
+        "follows": 1993, 
+        "likes": 561, 
+        "meanLikes": 386.97014925373134, 
+        "postID": "1566379440787587974_177005663", 
+        "tags": [
+            "water", 
+            "sky", 
+            "outdoor", 
+            "person", 
+            "outdoor_", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1499988849", 
+        "days_since_posting": 29.151, 
+        "follow_ratio": 0.963371801304566, 
+        "followed_by": 1920, 
+        "follows": 1993, 
+        "likes": 409, 
+        "meanLikes": 386.97014925373134, 
+        "postID": "1558341875983691390_177005663", 
+        "tags": [
+            "sky", 
+            "person", 
+            "outdoor", 
+            "water", 
+            "woman", 
+            "sitting", 
+            "beach", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1498873019", 
+        "days_since_posting": 42.066, 
+        "follow_ratio": 0.963371801304566, 
+        "followed_by": 1920, 
+        "follows": 1993, 
+        "likes": 541, 
+        "meanLikes": 386.97014925373134, 
+        "postID": "1548981611962260464_177005663", 
+        "tags": [
+            "outdoor", 
+            "person", 
+            "beach", 
+            "ground", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1498262786", 
+        "days_since_posting": 49.129, 
+        "follow_ratio": 0.963371801304566, 
+        "followed_by": 1920, 
+        "follows": 1993, 
+        "likes": 401, 
+        "meanLikes": 386.97014925373134, 
+        "postID": "1543862606746092317_177005663", 
+        "tags": [
+            "person", 
+            "wall", 
+            "indoor", 
+            "girl", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1497829591", 
+        "days_since_posting": 54.143, 
+        "follow_ratio": 0.963371801304566, 
+        "followed_by": 1920, 
+        "follows": 1993, 
+        "likes": 316, 
+        "meanLikes": 386.97014925373134, 
+        "postID": "1540228707101056672_177005663", 
+        "tags": [
+            "person", 
+            "posing", 
+            "standing", 
+            "indoor", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1497578870", 
+        "days_since_posting": 57.045, 
+        "follow_ratio": 0.963371801304566, 
+        "followed_by": 1920, 
+        "follows": 1993, 
+        "likes": 355, 
+        "meanLikes": 386.97014925373134, 
+        "postID": "1538125501638211985_177005663", 
+        "tags": [
+            "person", 
+            "woman", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1496970249", 
+        "days_since_posting": 64.089, 
+        "follow_ratio": 0.963371801304566, 
+        "followed_by": 1920, 
+        "follows": 1993, 
+        "likes": 313, 
+        "meanLikes": 386.97014925373134, 
+        "postID": "1533020026516612366_177005663", 
+        "tags": [
+            "person", 
+            "sitting", 
+            "posing", 
+            "people", 
+            "group", 
+            "people_group"
+        ]
+    }
+]

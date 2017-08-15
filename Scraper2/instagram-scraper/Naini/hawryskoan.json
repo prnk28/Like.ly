@@ -1,0 +1,151 @@
+[
+    {
+        "created_time": "1500771924", 
+        "days_since_posting": 20.088, 
+        "follow_ratio": 0.6845238095238095, 
+        "followed_by": 230, 
+        "follows": 336, 
+        "likes": 42, 
+        "meanLikes": 42.75, 
+        "postID": "1564910780653376276_204696450", 
+        "tags": [
+            "person", 
+            "wall", 
+            "indoor", 
+            "group", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1498853033", 
+        "days_since_posting": 42.298, 
+        "follow_ratio": 0.6845238095238095, 
+        "followed_by": 230, 
+        "follows": 336, 
+        "likes": 39, 
+        "meanLikes": 42.75, 
+        "postID": "1548813961460613191_204696450", 
+        "tags": [
+            "outdoor", 
+            "person", 
+            "woman", 
+            "sunglasses", 
+            "people_portrait"
+        ]
+    }, 
+    {
+        "created_time": "1494727938", 
+        "days_since_posting": 90.042, 
+        "follow_ratio": 0.6845238095238095, 
+        "followed_by": 230, 
+        "follows": 336, 
+        "likes": 58, 
+        "meanLikes": 42.75, 
+        "postID": "1514210151249702438_204696450", 
+        "tags": [
+            "person", 
+            "tree", 
+            "outdoor", 
+            "posing", 
+            "standing", 
+            "people", 
+            "group", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1494627285", 
+        "days_since_posting": 91.207, 
+        "follow_ratio": 0.6845238095238095, 
+        "followed_by": 230, 
+        "follows": 336, 
+        "likes": 32, 
+        "meanLikes": 42.75, 
+        "postID": "1513365812168498502_204696450", 
+        "tags": [
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1494513652", 
+        "days_since_posting": 92.522, 
+        "follow_ratio": 0.6845238095238095, 
+        "followed_by": 230, 
+        "follows": 336, 
+        "likes": 76, 
+        "meanLikes": 42.75, 
+        "postID": "1512412593745332701_204696450", 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "sky", 
+            "woman", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1494325174", 
+        "days_since_posting": 94.704, 
+        "follow_ratio": 0.6845238095238095, 
+        "followed_by": 230, 
+        "follows": 336, 
+        "likes": 52, 
+        "meanLikes": 42.75, 
+        "postID": "1510831525518989630_204696450", 
+        "tags": [
+            "abstract_texture"
+        ]
+    }, 
+    {
+        "created_time": "1494196781", 
+        "days_since_posting": 96.19, 
+        "follow_ratio": 0.6845238095238095, 
+        "followed_by": 230, 
+        "follows": 336, 
+        "likes": 61, 
+        "meanLikes": 42.75, 
+        "postID": "1509754484011017686_204696450", 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "woman", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1480013459", 
+        "days_since_posting": 260.39, 
+        "follow_ratio": 0.6845238095238095, 
+        "followed_by": 230, 
+        "follows": 336, 
+        "likes": 48, 
+        "meanLikes": 42.75, 
+        "postID": "1390776157033389643_204696450", 
+        "tags": [
+            "others_", 
+            "text_sign"
+        ]
+    }, 
+    {
+        "created_time": "1474220546", 
+        "days_since_posting": 327.396, 
+        "follow_ratio": 0.6845238095238095, 
+        "followed_by": 230, 
+        "follows": 336, 
+        "likes": 38, 
+        "meanLikes": 42.75, 
+        "postID": "1342181684783509570_204696450", 
+        "tags": [
+            "indoor", 
+            "person", 
+            "living", 
+            "game", 
+            "playing", 
+            "television", 
+            "room", 
+            "others_"
+        ]
+    }
+]

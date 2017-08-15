@@ -1,0 +1,152 @@
+[
+    {
+        "created_time": "1373848196", 
+        "days_since_posting": 1489.125, 
+        "follow_ratio": 0.43564356435643564, 
+        "followed_by": 88, 
+        "follows": 202, 
+        "likes": 87, 
+        "meanLikes": 26.7, 
+        "postID": "500197379879086380_397209489", 
+        "tags": [
+            "outdoor", 
+            "person", 
+            "others_", 
+            "outdoor_", 
+            "trans_bus"
+        ]
+    }, 
+    {
+        "created_time": "1372821779", 
+        "days_since_posting": 1501.005, 
+        "follow_ratio": 0.43564356435643564, 
+        "followed_by": 88, 
+        "follows": 202, 
+        "likes": 20, 
+        "meanLikes": 26.7, 
+        "postID": "491587171221121339_397209489", 
+        "tags": [
+            "abstract_texture"
+        ]
+    }, 
+    {
+        "created_time": "1372821751", 
+        "days_since_posting": 1501.005, 
+        "follow_ratio": 0.43564356435643564, 
+        "followed_by": 88, 
+        "follows": 202, 
+        "likes": 11, 
+        "meanLikes": 26.7, 
+        "postID": "491586938579855671_397209489", 
+        "tags": [
+            "abstract_net", 
+            "abstract_texture"
+        ]
+    }, 
+    {
+        "created_time": "1372300876", 
+        "days_since_posting": 1507.034, 
+        "follow_ratio": 0.43564356435643564, 
+        "followed_by": 88, 
+        "follows": 202, 
+        "likes": 21, 
+        "meanLikes": 26.7, 
+        "postID": "487217524845718414_397209489", 
+        "tags": [
+            "person", 
+            "indoor", 
+            "others_", 
+            "text_sign"
+        ]
+    }, 
+    {
+        "created_time": "1372300837", 
+        "days_since_posting": 1507.035, 
+        "follow_ratio": 0.43564356435643564, 
+        "followed_by": 88, 
+        "follows": 202, 
+        "likes": 21, 
+        "meanLikes": 26.7, 
+        "postID": "487217199896210314_397209489", 
+        "tags": [
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1372266660", 
+        "days_since_posting": 1507.43, 
+        "follow_ratio": 0.43564356435643564, 
+        "followed_by": 88, 
+        "follows": 202, 
+        "likes": 16, 
+        "meanLikes": 26.7, 
+        "postID": "486930494815349046_397209489", 
+        "tags": [
+            "abstract_rect", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1372112999", 
+        "days_since_posting": 1509.209, 
+        "follow_ratio": 0.43564356435643564, 
+        "followed_by": 88, 
+        "follows": 202, 
+        "likes": 21, 
+        "meanLikes": 26.7, 
+        "postID": "485641495261882816_397209489", 
+        "tags": [
+            "grass", 
+            "sky", 
+            "outdoor", 
+            "outdoor_sportsfield"
+        ]
+    }, 
+    {
+        "created_time": "1372109547", 
+        "days_since_posting": 1509.249, 
+        "follow_ratio": 0.43564356435643564, 
+        "followed_by": 88, 
+        "follows": 202, 
+        "likes": 15, 
+        "meanLikes": 26.7, 
+        "postID": "485612537896119014_397209489", 
+        "tags": [
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1372098432", 
+        "days_since_posting": 1509.377, 
+        "follow_ratio": 0.43564356435643564, 
+        "followed_by": 88, 
+        "follows": 202, 
+        "likes": 23, 
+        "meanLikes": 26.7, 
+        "postID": "485519301076724205_397209489", 
+        "tags": [
+            "athletic game", 
+            "baseball", 
+            "sport", 
+            "others_", 
+            "text_sign"
+        ]
+    }, 
+    {
+        "created_time": "1372011168", 
+        "days_since_posting": 1510.387, 
+        "follow_ratio": 0.43564356435643564, 
+        "followed_by": 88, 
+        "follows": 202, 
+        "likes": 32, 
+        "meanLikes": 26.7, 
+        "postID": "484787277521103179_397209489", 
+        "tags": [
+            "person", 
+            "indoor", 
+            "food", 
+            "people_portrait"
+        ]
+    }
+]

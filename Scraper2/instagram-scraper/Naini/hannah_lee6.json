@@ -1,0 +1,119 @@
+[
+    {
+        "created_time": "1385399230", 
+        "days_since_posting": 1355.549, 
+        "follow_ratio": 0.4369607570275536, 
+        "followed_by": 1570, 
+        "follows": 3593, 
+        "likes": 98, 
+        "meanLikes": 98.0, 
+        "postID": "597094482883510333_188561919", 
+        "tags": [
+            "person", 
+            "people_", 
+            "people_group", 
+            "people_many"
+        ]
+    }, 
+    {
+        "created_time": "1376109550", 
+        "days_since_posting": 1463.027, 
+        "follow_ratio": 0.4369607570275536, 
+        "followed_by": 1570, 
+        "follows": 3593, 
+        "likes": 68, 
+        "meanLikes": 98.0, 
+        "postID": "519166997643002342_188561919", 
+        "tags": [
+            "indoor", 
+            "woman", 
+            "person", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1362945296", 
+        "days_since_posting": 1615.391, 
+        "follow_ratio": 0.4369607570275536, 
+        "followed_by": 1570, 
+        "follows": 3593, 
+        "likes": 83, 
+        "meanLikes": 98.0, 
+        "postID": "408737231283290882_188561919", 
+        "tags": [
+            "woman", 
+            "person", 
+            "indoor", 
+            "others_", 
+            "people_portrait"
+        ]
+    }, 
+    {
+        "created_time": "1353628796", 
+        "days_since_posting": 1723.262, 
+        "follow_ratio": 0.4369607570275536, 
+        "followed_by": 1570, 
+        "follows": 3593, 
+        "likes": 107, 
+        "meanLikes": 98.0, 
+        "postID": "330584761806225661_188561919", 
+        "tags": [
+            "person", 
+            "indoor", 
+            "people_baby"
+        ]
+    }, 
+    {
+        "created_time": "1342104531", 
+        "days_since_posting": 1856.604, 
+        "follow_ratio": 0.4369607570275536, 
+        "followed_by": 1570, 
+        "follows": 3593, 
+        "likes": 163, 
+        "meanLikes": 98.0, 
+        "postID": "233912221902438769_188561919", 
+        "tags": [
+            "sky", 
+            "outdoor", 
+            "person", 
+            "sport", 
+            "water sport", 
+            "abstract_", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1341264131", 
+        "days_since_posting": 1866.33, 
+        "follow_ratio": 0.4369607570275536, 
+        "followed_by": 1570, 
+        "follows": 3593, 
+        "likes": 229, 
+        "meanLikes": 98.0, 
+        "postID": "226862434430615841_188561919", 
+        "tags": [
+            "indoor", 
+            "people_", 
+            "people_show"
+        ]
+    }, 
+    {
+        "created_time": "1341121748", 
+        "days_since_posting": 1867.978, 
+        "follow_ratio": 0.4369607570275536, 
+        "followed_by": 1570, 
+        "follows": 3593, 
+        "likes": 162, 
+        "meanLikes": 98.0, 
+        "postID": "225668043082957640_188561919", 
+        "tags": [
+            "person", 
+            "woman", 
+            "indoor", 
+            "others_", 
+            "people_", 
+            "people_portrait"
+        ]
+    }
+]

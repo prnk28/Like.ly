@@ -1,0 +1,114 @@
+[
+    {
+        "created_time": "1418532712", 
+        "days_since_posting": 972.063, 
+        "follow_ratio": 0.6589724266793299, 
+        "followed_by": 63834, 
+        "follows": 96869, 
+        "likes": 4110, 
+        "meanLikes": 4110.0, 
+        "postID": "875038272557529123_144712669", 
+        "tags": [
+            "screenshot", 
+            "abstract", 
+            "others_", 
+            "text_mag"
+        ]
+    }, 
+    {
+        "created_time": "1418531967", 
+        "days_since_posting": 972.072, 
+        "follow_ratio": 0.6589724266793299, 
+        "followed_by": 63834, 
+        "follows": 96869, 
+        "likes": 2874, 
+        "meanLikes": 4110.0, 
+        "postID": "875032021786278816_144712669", 
+        "tags": [
+            "screenshot", 
+            "abstract", 
+            "others_", 
+            "text_menu"
+        ]
+    }, 
+    {
+        "created_time": "1416706479", 
+        "days_since_posting": 993.2, 
+        "follow_ratio": 0.6589724266793299, 
+        "followed_by": 63834, 
+        "follows": 96869, 
+        "likes": 2867, 
+        "meanLikes": 4110.0, 
+        "postID": "859718718965004671_144712669", 
+        "tags": [
+            "screenshot", 
+            "abstract", 
+            "others_", 
+            "text_menu"
+        ]
+    }, 
+    {
+        "created_time": "1388175059", 
+        "days_since_posting": 1323.425, 
+        "follow_ratio": 0.6589724266793299, 
+        "followed_by": 63834, 
+        "follows": 96869, 
+        "likes": 3197, 
+        "meanLikes": 4110.0, 
+        "postID": "620379824148035908_144712669", 
+        "tags": [
+            "screenshot", 
+            "abstract", 
+            "others_", 
+            "text_menu"
+        ]
+    }, 
+    {
+        "created_time": "1387895664", 
+        "days_since_posting": 1326.659, 
+        "follow_ratio": 0.6589724266793299, 
+        "followed_by": 63834, 
+        "follows": 96869, 
+        "likes": 2233, 
+        "meanLikes": 4110.0, 
+        "postID": "618036085450717957_144712669", 
+        "tags": [
+            "screenshot", 
+            "abstract", 
+            "others_", 
+            "text_menu"
+        ]
+    }, 
+    {
+        "created_time": "1387686212", 
+        "days_since_posting": 1329.083, 
+        "follow_ratio": 0.6589724266793299, 
+        "followed_by": 63834, 
+        "follows": 96869, 
+        "likes": 2162, 
+        "meanLikes": 4110.0, 
+        "postID": "616279071867386362_144712669", 
+        "tags": [
+            "screenshot", 
+            "abstract", 
+            "others_", 
+            "text_menu"
+        ]
+    }, 
+    {
+        "created_time": "1387686141", 
+        "days_since_posting": 1329.084, 
+        "follow_ratio": 0.6589724266793299, 
+        "followed_by": 63834, 
+        "follows": 96869, 
+        "likes": 1814, 
+        "meanLikes": 4110.0, 
+        "postID": "616278483280706032_144712669", 
+        "tags": [
+            "screenshot", 
+            "abstract", 
+            "others_", 
+            "text_sign"
+        ]
+    }
+]

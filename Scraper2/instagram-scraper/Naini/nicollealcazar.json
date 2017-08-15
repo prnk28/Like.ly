@@ -1,0 +1,156 @@
+[
+    {
+        "created_time": "1502056994", 
+        "days_since_posting": 5.293, 
+        "follow_ratio": 1.0129564193168434, 
+        "followed_by": 860, 
+        "follows": 849, 
+        "likes": 170, 
+        "meanLikes": 113.44927536231884, 
+        "postID": "1575690732282617136_216407522", 
+        "tags": [
+            "person", 
+            "woman", 
+            "posing", 
+            "smiling", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1500517923", 
+        "days_since_posting": 23.106, 
+        "follow_ratio": 1.0129564193168434, 
+        "followed_by": 860, 
+        "follows": 849, 
+        "likes": 112, 
+        "meanLikes": 113.44927536231884, 
+        "postID": "1562780067192799083_216407522", 
+        "tags": [
+            "woman", 
+            "person", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1500233302", 
+        "days_since_posting": 26.401, 
+        "follow_ratio": 1.0129564193168434, 
+        "followed_by": 860, 
+        "follows": 849, 
+        "likes": 130, 
+        "meanLikes": 113.44927536231884, 
+        "postID": "1560392493774141409_216407522", 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "others_", 
+            "outdoor_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1499909072", 
+        "days_since_posting": 30.153, 
+        "follow_ratio": 1.0129564193168434, 
+        "followed_by": 860, 
+        "follows": 849, 
+        "likes": 118, 
+        "meanLikes": 113.44927536231884, 
+        "postID": "1557672656383558952_216407522", 
+        "tags": [
+            "person", 
+            "scene", 
+            "stage", 
+            "posing", 
+            "indoor", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1499571516", 
+        "days_since_posting": 34.06, 
+        "follow_ratio": 1.0129564193168434, 
+        "followed_by": 860, 
+        "follows": 849, 
+        "likes": 138, 
+        "meanLikes": 113.44927536231884, 
+        "postID": "1554841028862983933_216407522", 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "posing", 
+            "others_", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1499294128", 
+        "days_since_posting": 37.271, 
+        "follow_ratio": 1.0129564193168434, 
+        "followed_by": 860, 
+        "follows": 849, 
+        "likes": 117, 
+        "meanLikes": 113.44927536231884, 
+        "postID": "1552514129524640053_216407522", 
+        "tags": [
+            "person", 
+            "posing", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1498769319", 
+        "days_since_posting": 43.345, 
+        "follow_ratio": 1.0129564193168434, 
+        "followed_by": 860, 
+        "follows": 849, 
+        "likes": 122, 
+        "meanLikes": 113.44927536231884, 
+        "postID": "1548111712573773816_216407522", 
+        "tags": [
+            "person", 
+            "woman", 
+            "posing", 
+            "smiling", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1498435036", 
+        "days_since_posting": 47.214, 
+        "follow_ratio": 1.0129564193168434, 
+        "followed_by": 860, 
+        "follows": 849, 
+        "likes": 131, 
+        "meanLikes": 113.44927536231884, 
+        "postID": "1545307545237010054_216407522", 
+        "tags": [
+            "posing", 
+            "person", 
+            "woman", 
+            "indoor", 
+            "standing", 
+            "others_", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1497806044", 
+        "days_since_posting": 54.494, 
+        "follow_ratio": 1.0129564193168434, 
+        "followed_by": 860, 
+        "follows": 849, 
+        "likes": 124, 
+        "meanLikes": 113.44927536231884, 
+        "postID": "1540031182619902153_216407522", 
+        "tags": [
+            "person", 
+            "man", 
+            "glasses", 
+            "wearing", 
+            "others_", 
+            "people_"
+        ]
+    }
+]

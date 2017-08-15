@@ -1,0 +1,156 @@
+[
+    {
+        "created_time": "1500780998", 
+        "days_since_posting": 19.943, 
+        "follow_ratio": 1.1446907817969663, 
+        "followed_by": 981, 
+        "follows": 857, 
+        "likes": 201, 
+        "meanLikes": 200.22033898305085, 
+        "postID": "1564986905929757351_31523133", 
+        "tags": [
+            "wall", 
+            "person", 
+            "bathroom", 
+            "indoor", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1498219432", 
+        "days_since_posting": 49.59, 
+        "follow_ratio": 1.1446907817969663, 
+        "followed_by": 981, 
+        "follows": 857, 
+        "likes": 215, 
+        "meanLikes": 200.22033898305085, 
+        "postID": "1543498927101702561_31523133", 
+        "tags": [
+            "person", 
+            "posing", 
+            "people", 
+            "outdoor", 
+            "standing", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1494081152", 
+        "days_since_posting": 97.487, 
+        "follow_ratio": 1.1446907817969663, 
+        "followed_by": 981, 
+        "follows": 857, 
+        "likes": 218, 
+        "meanLikes": 200.22033898305085, 
+        "postID": "1508784520736015467_31523133", 
+        "tags": [
+            "person", 
+            "posing", 
+            "indoor", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1493574390", 
+        "days_since_posting": 103.353, 
+        "follow_ratio": 1.1446907817969663, 
+        "followed_by": 981, 
+        "follows": 857, 
+        "likes": 283, 
+        "meanLikes": 200.22033898305085, 
+        "postID": "1504533491660129524_31523133", 
+        "tags": [
+            "wall", 
+            "person", 
+            "posing", 
+            "woman", 
+            "clothing", 
+            "indoor", 
+            "standing", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1493239312", 
+        "days_since_posting": 107.231, 
+        "follow_ratio": 1.1446907817969663, 
+        "followed_by": 981, 
+        "follows": 857, 
+        "likes": 260, 
+        "meanLikes": 200.22033898305085, 
+        "postID": "1501722656730766866_31523133", 
+        "tags": [
+            "outdoor", 
+            "person", 
+            "woman", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1493048502", 
+        "days_since_posting": 109.439, 
+        "follow_ratio": 1.1446907817969663, 
+        "followed_by": 981, 
+        "follows": 857, 
+        "likes": 189, 
+        "meanLikes": 200.22033898305085, 
+        "postID": "1500122027772042959_31523133", 
+        "tags": [
+            "person", 
+            "posing", 
+            "group", 
+            "standing", 
+            "people", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1492109538", 
+        "days_since_posting": 120.307, 
+        "follow_ratio": 1.1446907817969663, 
+        "followed_by": 981, 
+        "follows": 857, 
+        "likes": 263, 
+        "meanLikes": 200.22033898305085, 
+        "postID": "1492245425306217804_31523133", 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1491750446", 
+        "days_since_posting": 124.463, 
+        "follow_ratio": 1.1446907817969663, 
+        "followed_by": 981, 
+        "follows": 857, 
+        "likes": 177, 
+        "meanLikes": 200.22033898305085, 
+        "postID": "1489233144280681701_31523133", 
+        "tags": [
+            "wall", 
+            "indoor", 
+            "person", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1491673619", 
+        "days_since_posting": 125.352, 
+        "follow_ratio": 1.1446907817969663, 
+        "followed_by": 981, 
+        "follows": 857, 
+        "likes": 159, 
+        "meanLikes": 200.22033898305085, 
+        "postID": "1488588667929096461_31523133", 
+        "tags": [
+            "indoor", 
+            "mammal", 
+            "dog", 
+            "people_young"
+        ]
+    }
+]

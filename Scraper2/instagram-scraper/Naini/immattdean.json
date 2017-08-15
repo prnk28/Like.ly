@@ -1,0 +1,186 @@
+[
+    {
+        "created_time": "1501467093", 
+        "days_since_posting": 12.025, 
+        "follow_ratio": 1.175, 
+        "followed_by": 658, 
+        "follows": 560, 
+        "likes": 148, 
+        "meanLikes": 93.30909090909091, 
+        "postID": "1570742286877624280_10977860", 
+        "tags": [
+            "others_", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1501030961", 
+        "days_since_posting": 17.073, 
+        "follow_ratio": 1.175, 
+        "followed_by": 658, 
+        "follows": 560, 
+        "likes": 87, 
+        "meanLikes": 93.30909090909091, 
+        "postID": "1567083743599337793_10977860", 
+        "tags": [
+            "sky", 
+            "car", 
+            "outdoor", 
+            "road", 
+            "others_", 
+            "outdoor_", 
+            "trans_car"
+        ]
+    }, 
+    {
+        "created_time": "1500754975", 
+        "days_since_posting": 20.267, 
+        "follow_ratio": 1.175, 
+        "followed_by": 658, 
+        "follows": 560, 
+        "likes": 99, 
+        "meanLikes": 93.30909090909091, 
+        "postID": "1564768609291880653_10977860", 
+        "tags": [
+            "sky", 
+            "grass", 
+            "outdoor", 
+            "water", 
+            "nature", 
+            "outdoor_field"
+        ]
+    }, 
+    {
+        "created_time": "1498563146", 
+        "days_since_posting": 45.635, 
+        "follow_ratio": 1.175, 
+        "followed_by": 658, 
+        "follows": 560, 
+        "likes": 130, 
+        "meanLikes": 93.30909090909091, 
+        "postID": "1546382214697431081_10977860", 
+        "tags": [
+            "tree", 
+            "outdoor", 
+            "grass", 
+            "sky", 
+            "field", 
+            "grazing", 
+            "green", 
+            "outdoor_field", 
+            "plant_"
+        ]
+    }, 
+    {
+        "created_time": "1498418323", 
+        "days_since_posting": 47.312, 
+        "follow_ratio": 1.175, 
+        "followed_by": 658, 
+        "follows": 560, 
+        "likes": 125, 
+        "meanLikes": 93.30909090909091, 
+        "postID": "1545167346078129191_10977860", 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "tree", 
+            "umbrella", 
+            "holding", 
+            "others_", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1495744281", 
+        "days_since_posting": 78.261, 
+        "follow_ratio": 1.175, 
+        "followed_by": 658, 
+        "follows": 560, 
+        "likes": 151, 
+        "meanLikes": 93.30909090909091, 
+        "postID": "1522735857147348637_10977860", 
+        "tags": [
+            "boat", 
+            "sky", 
+            "water", 
+            "outdoor", 
+            "docked", 
+            "abstract_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1494794976", 
+        "days_since_posting": 89.249, 
+        "follow_ratio": 1.175, 
+        "followed_by": 658, 
+        "follows": 560, 
+        "likes": 100, 
+        "meanLikes": 93.30909090909091, 
+        "postID": "1514772510561098119_10977860", 
+        "tags": [
+            "building", 
+            "outdoor", 
+            "sky", 
+            "outdoor_", 
+            "outdoor_street"
+        ]
+    }, 
+    {
+        "created_time": "1494350557", 
+        "days_since_posting": 94.392, 
+        "follow_ratio": 1.175, 
+        "followed_by": 658, 
+        "follows": 560, 
+        "likes": 107, 
+        "meanLikes": 93.30909090909091, 
+        "postID": "1511044454604591634_10977860", 
+        "tags": [
+            "sky", 
+            "outdoor", 
+            "scene", 
+            "harbor", 
+            "outdoor_", 
+            "outdoor_oceanbeach"
+        ]
+    }, 
+    {
+        "created_time": "1493224849", 
+        "days_since_posting": 107.421, 
+        "follow_ratio": 1.175, 
+        "followed_by": 658, 
+        "follows": 560, 
+        "likes": 146, 
+        "meanLikes": 93.30909090909091, 
+        "postID": "1501601326285961823_10977860", 
+        "tags": [
+            "water", 
+            "outdoor", 
+            "sky", 
+            "beach", 
+            "man", 
+            "nature", 
+            "abstract_", 
+            "outdoor_", 
+            "outdoor_oceanbeach"
+        ]
+    }, 
+    {
+        "created_time": "1493064825", 
+        "days_since_posting": 109.274, 
+        "follow_ratio": 1.175, 
+        "followed_by": 658, 
+        "follows": 560, 
+        "likes": 107, 
+        "meanLikes": 93.30909090909091, 
+        "postID": "1500258953727468879_10977860", 
+        "tags": [
+            "person", 
+            "indoor", 
+            "wall", 
+            "eating", 
+            "others_", 
+            "outdoor_"
+        ]
+    }
+]

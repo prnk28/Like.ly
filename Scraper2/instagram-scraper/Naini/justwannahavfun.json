@@ -1,0 +1,159 @@
+[
+    {
+        "created_time": "1500948663", 
+        "days_since_posting": 18.012, 
+        "follow_ratio": 0.9411764705882353, 
+        "followed_by": 400, 
+        "follows": 425, 
+        "likes": 131, 
+        "meanLikes": 116.44, 
+        "postID": "1566393380211901760_1387063116", 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "tree", 
+            "woman", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1495219719", 
+        "days_since_posting": 84.319, 
+        "follow_ratio": 0.9411764705882353, 
+        "followed_by": 400, 
+        "follows": 425, 
+        "likes": 158, 
+        "meanLikes": 116.44, 
+        "postID": "1518335512468601888_1387063116", 
+        "tags": [
+            "outdoor", 
+            "sky", 
+            "beach", 
+            "person", 
+            "ground", 
+            "people", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1493591565", 
+        "days_since_posting": 103.164, 
+        "follow_ratio": 0.9411764705882353, 
+        "followed_by": 400, 
+        "follows": 425, 
+        "likes": 127, 
+        "meanLikes": 116.44, 
+        "postID": "1504677564265737392_1387063116", 
+        "tags": [
+            "person", 
+            "tree", 
+            "standing", 
+            "posing", 
+            "outdoor", 
+            "holding", 
+            "people", 
+            "group", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1492320618", 
+        "days_since_posting": 117.874, 
+        "follow_ratio": 0.9411764705882353, 
+        "followed_by": 400, 
+        "follows": 425, 
+        "likes": 113, 
+        "meanLikes": 116.44, 
+        "postID": "1494016090811748035_1387063116", 
+        "tags": [
+            "dog", 
+            "indoor", 
+            "different", 
+            "people_crowd", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1491887404", 
+        "days_since_posting": 122.888, 
+        "follow_ratio": 0.9411764705882353, 
+        "followed_by": 400, 
+        "follows": 425, 
+        "likes": 139, 
+        "meanLikes": 116.44, 
+        "postID": "1490382032387020692_1387063116", 
+        "tags": [
+            "person", 
+            "woman", 
+            "window", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1491243982", 
+        "days_since_posting": 130.335, 
+        "follow_ratio": 0.9411764705882353, 
+        "followed_by": 400, 
+        "follows": 425, 
+        "likes": 129, 
+        "meanLikes": 116.44, 
+        "postID": "1484984615177085967_1387063116", 
+        "tags": [
+            "person", 
+            "floor", 
+            "posing", 
+            "woman", 
+            "standing", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1486364658", 
+        "days_since_posting": 186.85, 
+        "follow_ratio": 0.9411764705882353, 
+        "followed_by": 400, 
+        "follows": 425, 
+        "likes": 131, 
+        "meanLikes": 116.44, 
+        "postID": "1444053873458172304_1387063116", 
+        "tags": [
+            "person", 
+            "posing", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1485118497", 
+        "days_since_posting": 201.274, 
+        "follow_ratio": 0.9411764705882353, 
+        "followed_by": 400, 
+        "follows": 425, 
+        "likes": 161, 
+        "meanLikes": 116.44, 
+        "postID": "1433600318012460391_1387063116", 
+        "tags": [
+            "person", 
+            "sign", 
+            "posing", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1482178390", 
+        "days_since_posting": 235.303, 
+        "follow_ratio": 0.9411764705882353, 
+        "followed_by": 400, 
+        "follows": 425, 
+        "likes": 176, 
+        "meanLikes": 116.44, 
+        "postID": "1408936918187632062_1387063116", 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "clothing", 
+            "people_"
+        ]
+    }
+]

@@ -1,0 +1,133 @@
+[
+    {
+        "created_time": "1499800772", 
+        "days_since_posting": 31.409, 
+        "follow_ratio": 0.8611599297012302, 
+        "followed_by": 490, 
+        "follows": 569, 
+        "likes": 95, 
+        "meanLikes": 95.0, 
+        "postID": "1556764173685744699_20433198", 
+        "tags": [
+            "person", 
+            "wall", 
+            "indoor", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1497742820", 
+        "days_since_posting": 55.228, 
+        "follow_ratio": 0.8611599297012302, 
+        "followed_by": 490, 
+        "follows": 569, 
+        "likes": 94, 
+        "meanLikes": 95.0, 
+        "postID": "1539500819212546815_20433198", 
+        "tags": [
+            "person", 
+            "wall", 
+            "woman", 
+            "standing", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1497480233", 
+        "days_since_posting": 58.267, 
+        "follow_ratio": 0.8611599297012302, 
+        "followed_by": 490, 
+        "follows": 569, 
+        "likes": 90, 
+        "meanLikes": 95.0, 
+        "postID": "1537298080751564555_20433198", 
+        "tags": [
+            "person", 
+            "wall", 
+            "phone", 
+            "indoor", 
+            "cellphone", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1497117082", 
+        "days_since_posting": 62.47, 
+        "follow_ratio": 0.8611599297012302, 
+        "followed_by": 490, 
+        "follows": 569, 
+        "likes": 104, 
+        "meanLikes": 95.0, 
+        "postID": "1534251751330750972_20433198", 
+        "tags": [
+            "person", 
+            "woman", 
+            "others_", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1497116807", 
+        "days_since_posting": 62.473, 
+        "follow_ratio": 0.8611599297012302, 
+        "followed_by": 490, 
+        "follows": 569, 
+        "likes": 82, 
+        "meanLikes": 95.0, 
+        "postID": "1534249441837885292_20433198", 
+        "tags": [
+            "person", 
+            "woman", 
+            "wall", 
+            "indoor", 
+            "others_", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1496616019", 
+        "days_since_posting": 68.269, 
+        "follow_ratio": 0.8611599297012302, 
+        "followed_by": 490, 
+        "follows": 569, 
+        "likes": 99, 
+        "meanLikes": 95.0, 
+        "postID": "1530048524930277423_20433198", 
+        "tags": [
+            "person", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1496615631", 
+        "days_since_posting": 68.274, 
+        "follow_ratio": 0.8611599297012302, 
+        "followed_by": 490, 
+        "follows": 569, 
+        "likes": 91, 
+        "meanLikes": 95.0, 
+        "postID": "1530045268128858068_20433198", 
+        "tags": [
+            "person", 
+            "woman", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1496517444", 
+        "days_since_posting": 69.41, 
+        "follow_ratio": 0.8611599297012302, 
+        "followed_by": 490, 
+        "follows": 569, 
+        "likes": 143, 
+        "meanLikes": 95.0, 
+        "postID": "1529221618685217472_20433198", 
+        "tags": [
+            "person", 
+            "window", 
+            "woman", 
+            "people_"
+        ]
+    }
+]

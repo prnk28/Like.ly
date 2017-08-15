@@ -1,0 +1,170 @@
+[
+    {
+        "created_time": "1426634406", 
+        "days_since_posting": 878.145, 
+        "follow_ratio": 1.0731707317073171, 
+        "followed_by": 880, 
+        "follows": 820, 
+        "likes": 201, 
+        "meanLikes": 220.0, 
+        "postID": "943000205427403917_24776978", 
+        "tags": [
+            "person", 
+            "man", 
+            "abstract_", 
+            "abstract_shape", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1426387943", 
+        "days_since_posting": 880.998, 
+        "follow_ratio": 1.0731707317073171, 
+        "followed_by": 880, 
+        "follows": 820, 
+        "likes": 221, 
+        "meanLikes": 220.0, 
+        "postID": "940932723044707563_24776978", 
+        "tags": [
+            "abstract_", 
+            "others_", 
+            "plant_leaves"
+        ]
+    }, 
+    {
+        "created_time": "1426209679", 
+        "days_since_posting": 883.061, 
+        "follow_ratio": 1.0731707317073171, 
+        "followed_by": 880, 
+        "follows": 820, 
+        "likes": 259, 
+        "meanLikes": 220.0, 
+        "postID": "939437339264872274_24776978", 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "woman", 
+            "outdoor_", 
+            "people_group", 
+            "people_many"
+        ]
+    }, 
+    {
+        "created_time": "1426039578", 
+        "days_since_posting": 885.03, 
+        "follow_ratio": 1.0731707317073171, 
+        "followed_by": 880, 
+        "follows": 820, 
+        "likes": 253, 
+        "meanLikes": 220.0, 
+        "postID": "938010431113325990_24776978", 
+        "tags": [
+            "person", 
+            "sky", 
+            "outdoor", 
+            "ground", 
+            "standing", 
+            "group", 
+            "people", 
+            "posing", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1425862516", 
+        "days_since_posting": 887.079, 
+        "follow_ratio": 1.0731707317073171, 
+        "followed_by": 880, 
+        "follows": 820, 
+        "likes": 227, 
+        "meanLikes": 220.0, 
+        "postID": "936525125130317022_24776978", 
+        "tags": [
+            "person", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1425789850", 
+        "days_since_posting": 887.962, 
+        "follow_ratio": 1.0731707317073171, 
+        "followed_by": 880, 
+        "follows": 820, 
+        "likes": 218, 
+        "meanLikes": 220.0, 
+        "postID": "935915557333429715_24776978", 
+        "tags": [
+            "person", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1425683714", 
+        "days_since_posting": 889.19, 
+        "follow_ratio": 1.0731707317073171, 
+        "followed_by": 880, 
+        "follows": 820, 
+        "likes": 128, 
+        "meanLikes": 220.0, 
+        "postID": "935025225603411759_24776978", 
+        "tags": [
+            "building", 
+            "people", 
+            "indoor", 
+            "standing", 
+            "cage", 
+            "abstract_", 
+            "abstract_net"
+        ]
+    }, 
+    {
+        "created_time": "1425592396", 
+        "days_since_posting": 890.247, 
+        "follow_ratio": 1.0731707317073171, 
+        "followed_by": 880, 
+        "follows": 820, 
+        "likes": 213, 
+        "meanLikes": 220.0, 
+        "postID": "934259192223427996_24776978", 
+        "tags": [
+            "outdoor", 
+            "sky", 
+            "skating", 
+            "road", 
+            "building", 
+            "riding", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1425512523", 
+        "days_since_posting": 891.172, 
+        "follow_ratio": 1.0731707317073171, 
+        "followed_by": 880, 
+        "follows": 820, 
+        "likes": 244, 
+        "meanLikes": 220.0, 
+        "postID": "933589168550767673_24776978", 
+        "tags": [
+            "person", 
+            "posing", 
+            "standing", 
+            "others_", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1425332652", 
+        "days_since_posting": 893.254, 
+        "follow_ratio": 1.0731707317073171, 
+        "followed_by": 880, 
+        "follows": 820, 
+        "likes": 240, 
+        "meanLikes": 220.0, 
+        "postID": "932080299496370022_24776978", 
+        "tags": [
+            "others_"
+        ]
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "created_time": "1501725333", 
+        "days_since_posting": 9.104, 
+        "follow_ratio": 2.06875, 
+        "followed_by": 1986, 
+        "follows": 960, 
+        "likes": 186, 
+        "meanLikes": 234.77777777777777, 
+        "postID": "1572908561587255210_309703473", 
+        "tags": [
+            "tree", 
+            "outdoor", 
+            "person", 
+            "outdoor_", 
+            "people_many"
+        ]
+    }, 
+    {
+        "created_time": "1498005385", 
+        "days_since_posting": 52.159, 
+        "follow_ratio": 2.06875, 
+        "followed_by": 1986, 
+        "follows": 960, 
+        "likes": 204, 
+        "meanLikes": 234.77777777777777, 
+        "postID": "1541703377016579572_309703473", 
+        "tags": [
+            "abstract_", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1496600603", 
+        "days_since_posting": 68.418, 
+        "follow_ratio": 2.06875, 
+        "followed_by": 1986, 
+        "follows": 960, 
+        "likes": 213, 
+        "meanLikes": 234.77777777777777, 
+        "postID": "1529919204991861292_309703473", 
+        "tags": [
+            "grass", 
+            "person", 
+            "outdoor", 
+            "sky", 
+            "man", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1495926596", 
+        "days_since_posting": 76.219, 
+        "follow_ratio": 2.06875, 
+        "followed_by": 1986, 
+        "follows": 960, 
+        "likes": 237, 
+        "meanLikes": 234.77777777777777, 
+        "postID": "1524265230980840055_309703473", 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1495246730", 
+        "days_since_posting": 84.087, 
+        "follow_ratio": 2.06875, 
+        "followed_by": 1986, 
+        "follows": 960, 
+        "likes": 259, 
+        "meanLikes": 234.77777777777777, 
+        "postID": "1518562101630893422_309703473", 
+        "tags": [
+            "grass", 
+            "person", 
+            "outdoor", 
+            "suit", 
+            "sky", 
+            "clothing", 
+            "man", 
+            "standing", 
+            "necktie", 
+            "field", 
+            "wearing", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1494718366", 
+        "days_since_posting": 90.203, 
+        "follow_ratio": 2.06875, 
+        "followed_by": 1986, 
+        "follows": 960, 
+        "likes": 314, 
+        "meanLikes": 234.77777777777777, 
+        "postID": "1514129856736439573_309703473", 
+        "tags": [
+            "grass", 
+            "person", 
+            "outdoor", 
+            "suit", 
+            "clothing", 
+            "standing", 
+            "field", 
+            "man", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1493250758", 
+        "days_since_posting": 107.189, 
+        "follow_ratio": 2.06875, 
+        "followed_by": 1986, 
+        "follows": 960, 
+        "likes": 361, 
+        "meanLikes": 234.77777777777777, 
+        "postID": "1501818666806962960_309703473", 
+        "tags": [
+            "outdoor", 
+            "road", 
+            "sky", 
+            "person", 
+            "outdoor_", 
+            "text_sign"
+        ]
+    }, 
+    {
+        "created_time": "1492368337", 
+        "days_since_posting": 117.402, 
+        "follow_ratio": 2.06875, 
+        "followed_by": 1986, 
+        "follows": 960, 
+        "likes": 138, 
+        "meanLikes": 234.77777777777777, 
+        "postID": "1494416391058830759_309703473", 
+        "tags": [
+            "grass", 
+            "person", 
+            "outdoor", 
+            "baseball", 
+            "player", 
+            "football", 
+            "helmet", 
+            "people_many"
+        ]
+    }, 
+    {
+        "created_time": "1491591098", 
+        "days_since_posting": 126.398, 
+        "follow_ratio": 2.06875, 
+        "followed_by": 1986, 
+        "follows": 960, 
+        "likes": 201, 
+        "meanLikes": 234.77777777777777, 
+        "postID": "1487896431591083627_309703473", 
+        "tags": [
+            "grass", 
+            "outdoor", 
+            "person", 
+            "player", 
+            "outdoor_grass"
+        ]
+    }, 
+    {
+        "created_time": "1490377307", 
+        "days_since_posting": 140.447, 
+        "follow_ratio": 2.06875, 
+        "followed_by": 1986, 
+        "follows": 960, 
+        "likes": 247, 
+        "meanLikes": 234.77777777777777, 
+        "postID": "1477714418196116210_309703473", 
+        "tags": [
+            "person", 
+            "man", 
+            "people_"
+        ]
+    }
+]

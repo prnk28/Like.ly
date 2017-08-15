@@ -1,0 +1,159 @@
+[
+    {
+        "created_time": "1370859796", 
+        "days_since_posting": 1523.787, 
+        "follow_ratio": 0.3474576271186441, 
+        "followed_by": 246, 
+        "follows": 708, 
+        "likes": 25, 
+        "meanLikes": 42.645833333333336, 
+        "postID": "475128868894786436_193215111", 
+        "tags": [
+            "others_", 
+            "text_menu"
+        ]
+    }, 
+    {
+        "created_time": "1370829803", 
+        "days_since_posting": 1524.134, 
+        "follow_ratio": 0.3474576271186441, 
+        "followed_by": 246, 
+        "follows": 708, 
+        "likes": 30, 
+        "meanLikes": 42.645833333333336, 
+        "postID": "474877265407230526_193215111", 
+        "tags": [
+            "businesscard", 
+            "abstract_rect", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1370828651", 
+        "days_since_posting": 1524.147, 
+        "follow_ratio": 0.3474576271186441, 
+        "followed_by": 246, 
+        "follows": 708, 
+        "likes": 37, 
+        "meanLikes": 42.645833333333336, 
+        "postID": "474867602838110487_193215111", 
+        "tags": [
+            "water", 
+            "sky", 
+            "outdoor", 
+            "man", 
+            "abstract_rect", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1367534092", 
+        "days_since_posting": 1562.279, 
+        "follow_ratio": 0.3474576271186441, 
+        "followed_by": 246, 
+        "follows": 708, 
+        "likes": 9, 
+        "meanLikes": 42.645833333333336, 
+        "postID": "447230837881160380_193215111", 
+        "tags": [
+            "others_", 
+            "outdoor_", 
+            "text_sign"
+        ]
+    }, 
+    {
+        "created_time": "1364852140", 
+        "days_since_posting": 1593.32, 
+        "follow_ratio": 0.3474576271186441, 
+        "followed_by": 246, 
+        "follows": 708, 
+        "likes": 27, 
+        "meanLikes": 42.645833333333336, 
+        "postID": "424732994012562170_193215111", 
+        "tags": [
+            "person", 
+            "text", 
+            "book", 
+            "man", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1363444854", 
+        "days_since_posting": 1609.608, 
+        "follow_ratio": 0.3474576271186441, 
+        "followed_by": 246, 
+        "follows": 708, 
+        "likes": 17, 
+        "meanLikes": 42.645833333333336, 
+        "postID": "412927822391263788_193215111", 
+        "tags": [
+            "person", 
+            "woman", 
+            "outdoor", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1360889162", 
+        "days_since_posting": 1639.229, 
+        "follow_ratio": 0.3474576271186441, 
+        "followed_by": 246, 
+        "follows": 708, 
+        "likes": 43, 
+        "meanLikes": 42.645833333333336, 
+        "postID": "391489128228831471_193215111", 
+        "tags": [
+            "others_", 
+            "outdoor_", 
+            "text_sign"
+        ]
+    }, 
+    {
+        "created_time": "1359394136", 
+        "days_since_posting": 1656.533, 
+        "follow_ratio": 0.3474576271186441, 
+        "followed_by": 246, 
+        "follows": 708, 
+        "likes": 42, 
+        "meanLikes": 42.645833333333336, 
+        "postID": "378947943379615754_193215111", 
+        "tags": [
+            "person", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1359390076", 
+        "days_since_posting": 1656.58, 
+        "follow_ratio": 0.3474576271186441, 
+        "followed_by": 246, 
+        "follows": 708, 
+        "likes": 42, 
+        "meanLikes": 42.645833333333336, 
+        "postID": "378913881160008330_193215111", 
+        "tags": [
+            "floor", 
+            "indoor", 
+            "dog", 
+            "person", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1357954491", 
+        "days_since_posting": 1673.195, 
+        "follow_ratio": 0.3474576271186441, 
+        "followed_by": 246, 
+        "follows": 708, 
+        "likes": 50, 
+        "meanLikes": 42.645833333333336, 
+        "postID": "366871322476790116_193215111", 
+        "tags": [
+            "text_mag"
+        ]
+    }
+]

@@ -1,0 +1,156 @@
+[
+    {
+        "created_time": "1501787166", 
+        "days_since_posting": 8.392, 
+        "follow_ratio": 1.0342465753424657, 
+        "followed_by": 604, 
+        "follows": 584, 
+        "likes": 45, 
+        "meanLikes": 31.035714285714285, 
+        "postID": "1573427251490847959_26635895", 
+        "tags": [
+            "cat", 
+            "black", 
+            "indoor", 
+            "animal_cat"
+        ]
+    }, 
+    {
+        "created_time": "1501478321", 
+        "days_since_posting": 11.966, 
+        "follow_ratio": 1.0342465753424657, 
+        "followed_by": 604, 
+        "follows": 584, 
+        "likes": 41, 
+        "meanLikes": 31.035714285714285, 
+        "postID": "1570836472918262984_26635895", 
+        "tags": [
+            "person", 
+            "wall", 
+            "standing", 
+            "woman", 
+            "posing", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1501438681", 
+        "days_since_posting": 12.425, 
+        "follow_ratio": 1.0342465753424657, 
+        "followed_by": 604, 
+        "follows": 584, 
+        "likes": 47, 
+        "meanLikes": 31.035714285714285, 
+        "postID": "1570503947708531876_26635895", 
+        "tags": [
+            "person", 
+            "woman", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1501214712", 
+        "days_since_posting": 15.017, 
+        "follow_ratio": 1.0342465753424657, 
+        "followed_by": 604, 
+        "follows": 584, 
+        "likes": 36, 
+        "meanLikes": 31.035714285714285, 
+        "postID": "1568625157776662654_26635895", 
+        "tags": [
+            "window", 
+            "mammal", 
+            "animal", 
+            "lagomorph", 
+            "white", 
+            "laying", 
+            "animal_dog"
+        ]
+    }, 
+    {
+        "created_time": "1500946270", 
+        "days_since_posting": 18.124, 
+        "follow_ratio": 1.0342465753424657, 
+        "followed_by": 604, 
+        "follows": 584, 
+        "likes": 25, 
+        "meanLikes": 31.035714285714285, 
+        "postID": "1566373301189062790_26635895", 
+        "tags": [
+            "person", 
+            "cat", 
+            "woman", 
+            "black", 
+            "people_portrait", 
+            "people_young"
+        ]
+    }, 
+    {
+        "created_time": "1500776539", 
+        "days_since_posting": 20.089, 
+        "follow_ratio": 1.0342465753424657, 
+        "followed_by": 604, 
+        "follows": 584, 
+        "likes": 26, 
+        "meanLikes": 31.035714285714285, 
+        "postID": "1564949499566963136_26635895", 
+        "tags": [
+            "bed", 
+            "indoor", 
+            "person", 
+            "black", 
+            "laying", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1500757871", 
+        "days_since_posting": 20.305, 
+        "follow_ratio": 1.0342465753424657, 
+        "followed_by": 604, 
+        "follows": 584, 
+        "likes": 51, 
+        "meanLikes": 31.035714285714285, 
+        "postID": "1564792897123907652_26635895", 
+        "tags": [
+            "wall", 
+            "person", 
+            "indoor", 
+            "standing", 
+            "others_", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1500493532", 
+        "days_since_posting": 23.364, 
+        "follow_ratio": 1.0342465753424657, 
+        "followed_by": 604, 
+        "follows": 584, 
+        "likes": 19, 
+        "meanLikes": 31.035714285714285, 
+        "postID": "1562575464304652451_26635895", 
+        "tags": [
+            "person", 
+            "black", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1500395011", 
+        "days_since_posting": 24.505, 
+        "follow_ratio": 1.0342465753424657, 
+        "followed_by": 604, 
+        "follows": 584, 
+        "likes": 23, 
+        "meanLikes": 31.035714285714285, 
+        "postID": "1561749010129948662_26635895", 
+        "tags": [
+            "person", 
+            "building", 
+            "outdoor", 
+            "others_", 
+            "people_"
+        ]
+    }
+]

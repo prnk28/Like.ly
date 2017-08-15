@@ -1,0 +1,151 @@
+[
+    {
+        "created_time": "1502154825", 
+        "days_since_posting": 4.16, 
+        "follow_ratio": 2.3557358053302435, 
+        "followed_by": 2033, 
+        "follows": 863, 
+        "likes": 260, 
+        "meanLikes": 309.4166666666667, 
+        "postID": "1576511399172368458_176271272", 
+        "tags": [
+            "person", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1501965275", 
+        "days_since_posting": 6.354, 
+        "follow_ratio": 2.3557358053302435, 
+        "followed_by": 2033, 
+        "follows": 863, 
+        "likes": 279, 
+        "meanLikes": 309.4166666666667, 
+        "postID": "1574921341151611162_176271272", 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "water sport", 
+            "people_swimming"
+        ]
+    }, 
+    {
+        "created_time": "1501280012", 
+        "days_since_posting": 14.285, 
+        "follow_ratio": 2.3557358053302435, 
+        "followed_by": 2033, 
+        "follows": 863, 
+        "likes": 345, 
+        "meanLikes": 309.4166666666667, 
+        "postID": "1569172938736132573_176271272", 
+        "tags": [
+            "person", 
+            "table", 
+            "outdoor", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1498165097", 
+        "days_since_posting": 50.337, 
+        "follow_ratio": 2.3557358053302435, 
+        "followed_by": 2033, 
+        "follows": 863, 
+        "likes": 309, 
+        "meanLikes": 309.4166666666667, 
+        "postID": "1543043138191692669_176271272", 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "water", 
+            "sky", 
+            "woman", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1497307570", 
+        "days_since_posting": 60.262, 
+        "follow_ratio": 2.3557358053302435, 
+        "followed_by": 2033, 
+        "follows": 863, 
+        "likes": 278, 
+        "meanLikes": 309.4166666666667, 
+        "postID": "1535849677873087720_176271272", 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "posing", 
+            "standing", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1497223671", 
+        "days_since_posting": 61.233, 
+        "follow_ratio": 2.3557358053302435, 
+        "followed_by": 2033, 
+        "follows": 863, 
+        "likes": 262, 
+        "meanLikes": 309.4166666666667, 
+        "postID": "1535145881119424497_176271272", 
+        "tags": [
+            "person", 
+            "woman", 
+            "posing", 
+            "standing", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1496633403", 
+        "days_since_posting": 68.065, 
+        "follow_ratio": 2.3557358053302435, 
+        "followed_by": 2033, 
+        "follows": 863, 
+        "likes": 309, 
+        "meanLikes": 309.4166666666667, 
+        "postID": "1530194351416690455_176271272", 
+        "tags": [
+            "person", 
+            "ground", 
+            "outdoor", 
+            "woman", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1495411464", 
+        "days_since_posting": 82.208, 
+        "follow_ratio": 2.3557358053302435, 
+        "followed_by": 2033, 
+        "follows": 863, 
+        "likes": 295, 
+        "meanLikes": 309.4166666666667, 
+        "postID": "1519943983449557167_176271272", 
+        "tags": [
+            "person", 
+            "grass", 
+            "outdoor", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1494896480", 
+        "days_since_posting": 88.169, 
+        "follow_ratio": 2.3557358053302435, 
+        "followed_by": 2033, 
+        "follows": 863, 
+        "likes": 360, 
+        "meanLikes": 309.4166666666667, 
+        "postID": "1515623989976223856_176271272", 
+        "tags": [
+            "person", 
+            "woman", 
+            "clothing", 
+            "people_"
+        ]
+    }
+]

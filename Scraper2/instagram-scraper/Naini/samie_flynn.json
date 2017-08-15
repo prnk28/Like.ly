@@ -1,0 +1,167 @@
+[
+    {
+        "created_time": "1502299933", 
+        "days_since_posting": 2.415, 
+        "follow_ratio": 1.5163240628778718, 
+        "followed_by": 1254, 
+        "follows": 827, 
+        "likes": 299, 
+        "meanLikes": 297.2, 
+        "postID": "1577728654920985665_414078137", 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "group", 
+            "posing", 
+            "standing", 
+            "people", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1502151896", 
+        "days_since_posting": 4.128, 
+        "follow_ratio": 1.5163240628778718, 
+        "followed_by": 1254, 
+        "follows": 827, 
+        "likes": 262, 
+        "meanLikes": 297.2, 
+        "postID": "1576486826766880057_414078137", 
+        "tags": [
+            "person", 
+            "indoor", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1501118388", 
+        "days_since_posting": 16.09, 
+        "follow_ratio": 1.5163240628778718, 
+        "followed_by": 1254, 
+        "follows": 827, 
+        "likes": 258, 
+        "meanLikes": 297.2, 
+        "postID": "1567817138331506381_414078137", 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "tree", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1500828672", 
+        "days_since_posting": 19.444, 
+        "follow_ratio": 1.5163240628778718, 
+        "followed_by": 1254, 
+        "follows": 827, 
+        "likes": 362, 
+        "meanLikes": 297.2, 
+        "postID": "1565386822966874084_414078137", 
+        "tags": [
+            "woman", 
+            "person", 
+            "others_", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1499207290", 
+        "days_since_posting": 38.21, 
+        "follow_ratio": 1.5163240628778718, 
+        "followed_by": 1254, 
+        "follows": 827, 
+        "likes": 314, 
+        "meanLikes": 297.2, 
+        "postID": "1551785679917460168_414078137", 
+        "tags": [
+            "fence", 
+            "outdoor", 
+            "ground", 
+            "person", 
+            "dog", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1498329294", 
+        "days_since_posting": 48.372, 
+        "follow_ratio": 1.5163240628778718, 
+        "followed_by": 1254, 
+        "follows": 827, 
+        "likes": 311, 
+        "meanLikes": 297.2, 
+        "postID": "1544420515916374587_414078137", 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "girl", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1498254762", 
+        "days_since_posting": 49.234, 
+        "follow_ratio": 1.5163240628778718, 
+        "followed_by": 1254, 
+        "follows": 827, 
+        "likes": 345, 
+        "meanLikes": 297.2, 
+        "postID": "1543795295538970894_414078137", 
+        "tags": [
+            "outdoor", 
+            "person", 
+            "tree", 
+            "people_portrait"
+        ]
+    }, 
+    {
+        "created_time": "1497294396", 
+        "days_since_posting": 60.35, 
+        "follow_ratio": 1.5163240628778718, 
+        "followed_by": 1254, 
+        "follows": 827, 
+        "likes": 317, 
+        "meanLikes": 297.2, 
+        "postID": "1535739161863398300_414078137", 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1496715495", 
+        "days_since_posting": 67.05, 
+        "follow_ratio": 1.5163240628778718, 
+        "followed_by": 1254, 
+        "follows": 827, 
+        "likes": 406, 
+        "meanLikes": 297.2, 
+        "postID": "1530882994494158683_414078137", 
+        "tags": [
+            "person", 
+            "woman", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1496708723", 
+        "days_since_posting": 67.128, 
+        "follow_ratio": 1.5163240628778718, 
+        "followed_by": 1254, 
+        "follows": 827, 
+        "likes": 290, 
+        "meanLikes": 297.2, 
+        "postID": "1530826182621241909_414078137", 
+        "tags": [
+            "grass", 
+            "outdoor", 
+            "person", 
+            "sky", 
+            "people_"
+        ]
+    }
+]

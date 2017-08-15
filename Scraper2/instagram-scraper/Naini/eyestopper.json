@@ -1,0 +1,164 @@
+[
+    {
+        "created_time": "1492512584", 
+        "days_since_posting": 115.77, 
+        "follow_ratio": 0.35054976276124256, 
+        "followed_by": 378789, 
+        "follows": 1080557, 
+        "likes": 1863, 
+        "meanLikes": 8111.6, 
+        "postID": "1495626417001891730_55385008", 
+        "tags": [
+            "person", 
+            "building", 
+            "outdoor", 
+            "standing", 
+            "people_", 
+            "people_show"
+        ]
+    }, 
+    {
+        "created_time": "1486591358", 
+        "days_since_posting": 184.344, 
+        "follow_ratio": 0.35054976276124256, 
+        "followed_by": 378789, 
+        "follows": 1080557, 
+        "likes": 714, 
+        "meanLikes": 8111.6, 
+        "postID": "1445955576419959095_55385008", 
+        "tags": [
+            "person", 
+            "man", 
+            "indoor", 
+            "people_show"
+        ]
+    }, 
+    {
+        "created_time": "1464204720", 
+        "days_since_posting": 443.407, 
+        "follow_ratio": 0.35054976276124256, 
+        "followed_by": 378789, 
+        "follows": 1080557, 
+        "likes": 2133, 
+        "meanLikes": 8111.6, 
+        "postID": "1258162845716064245_55385008", 
+        "tags": [
+            "person", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1464131865", 
+        "days_since_posting": 444.25, 
+        "follow_ratio": 0.35054976276124256, 
+        "followed_by": 378789, 
+        "follows": 1080557, 
+        "likes": 966, 
+        "meanLikes": 8111.6, 
+        "postID": "1257551690014401707_55385008", 
+        "tags": [
+            "sky", 
+            "outdoor", 
+            "others_", 
+            "outdoor_", 
+            "trans_car"
+        ]
+    }, 
+    {
+        "created_time": "1458007440", 
+        "days_since_posting": 515.135, 
+        "follow_ratio": 0.35054976276124256, 
+        "followed_by": 378789, 
+        "follows": 1080557, 
+        "likes": 1769, 
+        "meanLikes": 8111.6, 
+        "postID": "1206176292836222423_55385008", 
+        "tags": [
+            "abstract_shape", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1451082092", 
+        "days_since_posting": 595.331, 
+        "follow_ratio": 0.35054976276124256, 
+        "followed_by": 378789, 
+        "follows": 1080557, 
+        "likes": 2863, 
+        "meanLikes": 8111.6, 
+        "postID": "1148082262756041938_55385008", 
+        "tags": [
+            "outdoor", 
+            "building", 
+            "road", 
+            "city", 
+            "outdoor_street"
+        ]
+    }, 
+    {
+        "created_time": "1450344149", 
+        "days_since_posting": 603.872, 
+        "follow_ratio": 0.35054976276124256, 
+        "followed_by": 378789, 
+        "follows": 1080557, 
+        "likes": 1674, 
+        "meanLikes": 8111.6, 
+        "postID": "1141891949133834099_55385008", 
+        "tags": [
+            "person", 
+            "indoor", 
+            "man", 
+            "others_", 
+            "people_show"
+        ]
+    }, 
+    {
+        "created_time": "1450203242", 
+        "days_since_posting": 605.503, 
+        "follow_ratio": 0.35054976276124256, 
+        "followed_by": 378789, 
+        "follows": 1080557, 
+        "likes": 1698, 
+        "meanLikes": 8111.6, 
+        "postID": "1140709932811691121_55385008", 
+        "tags": [
+            "person", 
+            "mask", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1441981477", 
+        "days_since_posting": 700.621, 
+        "follow_ratio": 0.35054976276124256, 
+        "followed_by": 378789, 
+        "follows": 1080557, 
+        "likes": 4084, 
+        "meanLikes": 8111.6, 
+        "postID": "1071740770920178688_55385008", 
+        "tags": [
+            "car", 
+            "person", 
+            "outdoor", 
+            "abstract_", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1441653159", 
+        "days_since_posting": 704.421, 
+        "follow_ratio": 0.35054976276124256, 
+        "followed_by": 378789, 
+        "follows": 1080557, 
+        "likes": 3772, 
+        "meanLikes": 8111.6, 
+        "postID": "1068986636991211365_55385008", 
+        "tags": [
+            "others_", 
+            "outdoor_", 
+            "text_sign"
+        ]
+    }
+]

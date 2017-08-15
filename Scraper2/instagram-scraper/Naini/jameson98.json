@@ -1,0 +1,161 @@
+[
+    {
+        "created_time": "1502161202", 
+        "days_since_posting": 4.065, 
+        "follow_ratio": 0.542031523642732, 
+        "followed_by": 619, 
+        "follows": 1142, 
+        "likes": 57, 
+        "meanLikes": 25.8, 
+        "postID": "1576564894291198281_245057364", 
+        "tags": [
+            "person", 
+            "wall", 
+            "clothing", 
+            "man", 
+            "wearing", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1498691933", 
+        "days_since_posting": 44.219, 
+        "follow_ratio": 0.542031523642732, 
+        "followed_by": 619, 
+        "follows": 1142, 
+        "likes": 25, 
+        "meanLikes": 25.8, 
+        "postID": "1547462552568919894_245057364", 
+        "tags": [
+            "bag", 
+            "red", 
+            "others_", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1495465192", 
+        "days_since_posting": 81.565, 
+        "follow_ratio": 0.542031523642732, 
+        "followed_by": 619, 
+        "follows": 1142, 
+        "likes": 13, 
+        "meanLikes": 25.8, 
+        "postID": "1520394685910541501_245057364", 
+        "tags": [
+            "screenshot", 
+            "abstract", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1495392572", 
+        "days_since_posting": 82.406, 
+        "follow_ratio": 0.542031523642732, 
+        "followed_by": 619, 
+        "follows": 1142, 
+        "likes": 16, 
+        "meanLikes": 25.8, 
+        "postID": "1519785510004242598_245057364", 
+        "tags": [
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1495325177", 
+        "days_since_posting": 83.186, 
+        "follow_ratio": 0.542031523642732, 
+        "followed_by": 619, 
+        "follows": 1142, 
+        "likes": 18, 
+        "meanLikes": 25.8, 
+        "postID": "1519220161462598818_245057364", 
+        "tags": [
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1495303263", 
+        "days_since_posting": 83.44, 
+        "follow_ratio": 0.542031523642732, 
+        "followed_by": 619, 
+        "follows": 1142, 
+        "likes": 24, 
+        "meanLikes": 25.8, 
+        "postID": "1519036329597655898_245057364", 
+        "tags": [
+            "drink_", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1495151975", 
+        "days_since_posting": 85.191, 
+        "follow_ratio": 0.542031523642732, 
+        "followed_by": 619, 
+        "follows": 1142, 
+        "likes": 21, 
+        "meanLikes": 25.8, 
+        "postID": "1517767234860605012_245057364", 
+        "tags": [
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1491767936", 
+        "days_since_posting": 124.358, 
+        "follow_ratio": 0.542031523642732, 
+        "followed_by": 619, 
+        "follows": 1142, 
+        "likes": 129, 
+        "meanLikes": 25.8, 
+        "postID": "1489379861328063818_245057364", 
+        "tags": [
+            "sky", 
+            "person", 
+            "man", 
+            "hat", 
+            "outdoor", 
+            "others_", 
+            "outdoor_", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1466110420", 
+        "days_since_posting": 421.32, 
+        "follow_ratio": 0.542031523642732, 
+        "followed_by": 619, 
+        "follows": 1142, 
+        "likes": 60, 
+        "meanLikes": 25.8, 
+        "postID": "1274149013761095557_245057364", 
+        "tags": [
+            "person", 
+            "man", 
+            "standing", 
+            "posing", 
+            "indoor", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1457658262", 
+        "days_since_posting": 519.187, 
+        "follow_ratio": 0.542031523642732, 
+        "followed_by": 619, 
+        "follows": 1142, 
+        "likes": 160, 
+        "meanLikes": 25.8, 
+        "postID": "1203247174400668768_245057364", 
+        "tags": [
+            "person", 
+            "ground", 
+            "outdoor", 
+            "man", 
+            "clothing", 
+            "people_"
+        ]
+    }
+]

@@ -1,0 +1,155 @@
+[
+    {
+        "created_time": "1371498191", 
+        "days_since_posting": 1516.372, 
+        "follow_ratio": 0.7027027027027027, 
+        "followed_by": 364, 
+        "follows": 518, 
+        "likes": 53, 
+        "meanLikes": 37.349557522123895, 
+        "postID": "480484116667999053_194923495", 
+        "tags": [
+            "text", 
+            "abstract_", 
+            "others_", 
+            "outdoor_", 
+            "text_"
+        ]
+    }, 
+    {
+        "created_time": "1371428586", 
+        "days_since_posting": 1517.178, 
+        "follow_ratio": 0.7027027027027027, 
+        "followed_by": 364, 
+        "follows": 518, 
+        "likes": 35, 
+        "meanLikes": 37.349557522123895, 
+        "postID": "479900223791341618_194923495", 
+        "tags": [
+            "indoor", 
+            "others_", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1371136143", 
+        "days_since_posting": 1520.562, 
+        "follow_ratio": 0.7027027027027027, 
+        "followed_by": 364, 
+        "follows": 518, 
+        "likes": 26, 
+        "meanLikes": 37.349557522123895, 
+        "postID": "477447033716121699_194923495", 
+        "tags": [
+            "abstract_", 
+            "others_", 
+            "outdoor_", 
+            "text_"
+        ]
+    }, 
+    {
+        "created_time": "1370980367", 
+        "days_since_posting": 1522.365, 
+        "follow_ratio": 0.7027027027027027, 
+        "followed_by": 364, 
+        "follows": 518, 
+        "likes": 13, 
+        "meanLikes": 37.349557522123895, 
+        "postID": "476140287441674594_194923495", 
+        "tags": [
+            "text", 
+            "abstract_", 
+            "others_", 
+            "text_"
+        ]
+    }, 
+    {
+        "created_time": "1370912103", 
+        "days_since_posting": 1523.156, 
+        "follow_ratio": 0.7027027027027027, 
+        "followed_by": 364, 
+        "follows": 518, 
+        "likes": 16, 
+        "meanLikes": 37.349557522123895, 
+        "postID": "475567651212927543_194923495", 
+        "tags": [
+            "screenshot", 
+            "abstract", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1370911042", 
+        "days_since_posting": 1523.168, 
+        "follow_ratio": 0.7027027027027027, 
+        "followed_by": 364, 
+        "follows": 518, 
+        "likes": 12, 
+        "meanLikes": 37.349557522123895, 
+        "postID": "475558753668079995_194923495", 
+        "tags": [
+            "screenshot", 
+            "abstract", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1370903629", 
+        "days_since_posting": 1523.254, 
+        "follow_ratio": 0.7027027027027027, 
+        "followed_by": 364, 
+        "follows": 518, 
+        "likes": 52, 
+        "meanLikes": 37.349557522123895, 
+        "postID": "475496569353183323_194923495", 
+        "tags": [
+            "text", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1370892466", 
+        "days_since_posting": 1523.383, 
+        "follow_ratio": 0.7027027027027027, 
+        "followed_by": 364, 
+        "follows": 518, 
+        "likes": 21, 
+        "meanLikes": 37.349557522123895, 
+        "postID": "475402923345880052_194923495", 
+        "tags": [
+            "abstract_", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1370875610", 
+        "days_since_posting": 1523.578, 
+        "follow_ratio": 0.7027027027027027, 
+        "followed_by": 364, 
+        "follows": 518, 
+        "likes": 43, 
+        "meanLikes": 37.349557522123895, 
+        "postID": "475261528668807362_194923495", 
+        "tags": [
+            "others_", 
+            "outdoor_", 
+            "text_sign"
+        ]
+    }, 
+    {
+        "created_time": "1370813352", 
+        "days_since_posting": 1524.299, 
+        "follow_ratio": 0.7027027027027027, 
+        "followed_by": 364, 
+        "follows": 518, 
+        "likes": 63, 
+        "meanLikes": 37.349557522123895, 
+        "postID": "474739264168829856_194923495", 
+        "tags": [
+            "text", 
+            "abstract_nonphoto"
+        ]
+    }
+]

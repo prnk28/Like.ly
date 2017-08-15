@@ -1,0 +1,141 @@
+[
+    {
+        "created_time": "1376501468", 
+        "days_since_posting": 1458.459, 
+        "follow_ratio": 0.34533762057877815, 
+        "followed_by": 537, 
+        "follows": 1555, 
+        "likes": 65, 
+        "meanLikes": 43.75, 
+        "postID": "522454640405449621_216461985", 
+        "tags": [
+            "sky", 
+            "outdoor", 
+            "nature", 
+            "sky_cloud"
+        ]
+    }, 
+    {
+        "created_time": "1376248586", 
+        "days_since_posting": 1461.386, 
+        "follow_ratio": 0.34533762057877815, 
+        "followed_by": 537, 
+        "follows": 1555, 
+        "likes": 35, 
+        "meanLikes": 43.75, 
+        "postID": "520333317680072888_216461985", 
+        "tags": [
+            "outdoor", 
+            "grass", 
+            "outdoor_", 
+            "plant_"
+        ]
+    }, 
+    {
+        "created_time": "1376157008", 
+        "days_since_posting": 1462.446, 
+        "follow_ratio": 0.34533762057877815, 
+        "followed_by": 537, 
+        "follows": 1555, 
+        "likes": 48, 
+        "meanLikes": 43.75, 
+        "postID": "519565102213433579_216461985", 
+        "tags": [
+            "outdoor", 
+            "sky", 
+            "water", 
+            "sun", 
+            "sunset", 
+            "nature", 
+            "ocean", 
+            "sky_sun"
+        ]
+    }, 
+    {
+        "created_time": "1376052707", 
+        "days_since_posting": 1463.653, 
+        "follow_ratio": 0.34533762057877815, 
+        "followed_by": 537, 
+        "follows": 1555, 
+        "likes": 37, 
+        "meanLikes": 43.75, 
+        "postID": "518690162421467562_216461985", 
+        "tags": [
+            "outdoor", 
+            "water", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1376010102", 
+        "days_since_posting": 1464.146, 
+        "follow_ratio": 0.34533762057877815, 
+        "followed_by": 537, 
+        "follows": 1555, 
+        "likes": 28, 
+        "meanLikes": 43.75, 
+        "postID": "518332768730418127_216461985", 
+        "tags": [
+            "tree", 
+            "outdoor", 
+            "sky", 
+            "fire", 
+            "nature", 
+            "dark_fire"
+        ]
+    }, 
+    {
+        "created_time": "1376001313", 
+        "days_since_posting": 1464.248, 
+        "follow_ratio": 0.34533762057877815, 
+        "followed_by": 537, 
+        "follows": 1555, 
+        "likes": 35, 
+        "meanLikes": 43.75, 
+        "postID": "518259038259972215_216461985", 
+        "tags": [
+            "outdoor", 
+            "nature", 
+            "water", 
+            "rock", 
+            "rainbow", 
+            "mountain", 
+            "outdoor_", 
+            "sky_cloud"
+        ]
+    }, 
+    {
+        "created_time": "1375972037", 
+        "days_since_posting": 1464.587, 
+        "follow_ratio": 0.34533762057877815, 
+        "followed_by": 537, 
+        "follows": 1555, 
+        "likes": 25, 
+        "meanLikes": 43.75, 
+        "postID": "518013454580124042_216461985", 
+        "tags": [
+            "plant", 
+            "flower", 
+            "plant_flower"
+        ]
+    }, 
+    {
+        "created_time": "1375962864", 
+        "days_since_posting": 1464.693, 
+        "follow_ratio": 0.34533762057877815, 
+        "followed_by": 537, 
+        "follows": 1555, 
+        "likes": 47, 
+        "meanLikes": 43.75, 
+        "postID": "517936504780032952_216461985", 
+        "tags": [
+            "water", 
+            "sky", 
+            "outdoor", 
+            "ocean", 
+            "outdoor_", 
+            "outdoor_oceanbeach", 
+            "sky_cloud"
+        ]
+    }
+]

@@ -1,0 +1,136 @@
+[
+    {
+        "created_time": "1501501477", 
+        "days_since_posting": 11.62, 
+        "follow_ratio": 0.5356083086053413, 
+        "followed_by": 361, 
+        "follows": 674, 
+        "likes": 18, 
+        "meanLikes": 32.14705882352941, 
+        "postID": "1571030722167296351_330248261", 
+        "tags": [
+            "sky", 
+            "outdoor", 
+            "water", 
+            "beach", 
+            "nature", 
+            "shore", 
+            "walking", 
+            "outdoor_", 
+            "outdoor_oceanbeach"
+        ]
+    }, 
+    {
+        "created_time": "1501498362", 
+        "days_since_posting": 11.656, 
+        "follow_ratio": 0.5356083086053413, 
+        "followed_by": 361, 
+        "follows": 674, 
+        "likes": 24, 
+        "meanLikes": 32.14705882352941, 
+        "postID": "1571004585420581260_330248261", 
+        "tags": [
+            "sky", 
+            "outdoor", 
+            "sky_cloud"
+        ]
+    }, 
+    {
+        "created_time": "1501441277", 
+        "days_since_posting": 12.317, 
+        "follow_ratio": 0.5356083086053413, 
+        "followed_by": 361, 
+        "follows": 674, 
+        "likes": 23, 
+        "meanLikes": 32.14705882352941, 
+        "postID": "1570525721758144677_330248261", 
+        "tags": [
+            "person", 
+            "food", 
+            "woman", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1501016134", 
+        "days_since_posting": 17.237, 
+        "follow_ratio": 0.5356083086053413, 
+        "followed_by": 361, 
+        "follows": 674, 
+        "likes": 46, 
+        "meanLikes": 32.14705882352941, 
+        "postID": "1566959362084275983_330248261", 
+        "tags": [
+            "food", 
+            "indoor", 
+            "bowl", 
+            "food_"
+        ]
+    }, 
+    {
+        "created_time": "1500517885", 
+        "days_since_posting": 23.004, 
+        "follow_ratio": 0.5356083086053413, 
+        "followed_by": 361, 
+        "follows": 674, 
+        "likes": 34, 
+        "meanLikes": 32.14705882352941, 
+        "postID": "1562779748449597153_330248261", 
+        "tags": [
+            "cup", 
+            "table", 
+            "coffee", 
+            "food", 
+            "drink", 
+            "glass", 
+            "drink_"
+        ]
+    }, 
+    {
+        "created_time": "1498441740", 
+        "days_since_posting": 47.034, 
+        "follow_ratio": 0.5356083086053413, 
+        "followed_by": 361, 
+        "follows": 674, 
+        "likes": 32, 
+        "meanLikes": 32.14705882352941, 
+        "postID": "1545363784393146855_330248261", 
+        "tags": [
+            "others_", 
+            "object_screen"
+        ]
+    }, 
+    {
+        "created_time": "1497788667", 
+        "days_since_posting": 54.592, 
+        "follow_ratio": 0.5356083086053413, 
+        "followed_by": 361, 
+        "follows": 674, 
+        "likes": 42, 
+        "meanLikes": 32.14705882352941, 
+        "postID": "1539885408601607412_330248261", 
+        "tags": [
+            "outdoor", 
+            "plant", 
+            "flower", 
+            "morning glory", 
+            "plant_"
+        ]
+    }, 
+    {
+        "created_time": "1497537832", 
+        "days_since_posting": 57.496, 
+        "follow_ratio": 0.5356083086053413, 
+        "followed_by": 361, 
+        "follows": 674, 
+        "likes": 39, 
+        "meanLikes": 32.14705882352941, 
+        "postID": "1537781251099033767_330248261", 
+        "tags": [
+            "table", 
+            "indoor", 
+            "plate", 
+            "indoor_room"
+        ]
+    }
+]

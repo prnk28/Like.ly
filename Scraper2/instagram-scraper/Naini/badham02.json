@@ -1,0 +1,158 @@
+[
+    {
+        "created_time": "1471624194", 
+        "days_since_posting": 357.456, 
+        "follow_ratio": 0.9774011299435028, 
+        "followed_by": 346, 
+        "follows": 354, 
+        "likes": 123, 
+        "meanLikes": 99.5, 
+        "postID": "1320401903008148325_181741297", 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "posing", 
+            "standing", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1437441318", 
+        "days_since_posting": 753.091, 
+        "follow_ratio": 0.9774011299435028, 
+        "followed_by": 346, 
+        "follows": 354, 
+        "likes": 76, 
+        "meanLikes": 99.5, 
+        "postID": "1033655155193826085_181741297", 
+        "tags": [
+            "person", 
+            "posing", 
+            "smiling", 
+            "people_group", 
+            "people_young"
+        ]
+    }, 
+    {
+        "created_time": "1404054805", 
+        "days_since_posting": 1139.509, 
+        "follow_ratio": 0.9774011299435028, 
+        "followed_by": 346, 
+        "follows": 354, 
+        "likes": 91, 
+        "meanLikes": 99.5, 
+        "postID": "753588784755657298_181741297", 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "tree", 
+            "grass", 
+            "sky", 
+            "posing", 
+            "group", 
+            "people", 
+            "young", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1392334408", 
+        "days_since_posting": 1275.203, 
+        "follow_ratio": 0.9774011299435028, 
+        "followed_by": 346, 
+        "follows": 354, 
+        "likes": 93, 
+        "meanLikes": 99.5, 
+        "postID": "655270968156244185_181741297", 
+        "tags": [
+            "indoor", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1390454161", 
+        "days_since_posting": 1296.965, 
+        "follow_ratio": 0.9774011299435028, 
+        "followed_by": 346, 
+        "follows": 354, 
+        "likes": 52, 
+        "meanLikes": 99.5, 
+        "postID": "639498318800767258_181741297", 
+        "tags": [
+            "posing", 
+            "group", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1388021760", 
+        "days_since_posting": 1325.118, 
+        "follow_ratio": 0.9774011299435028, 
+        "followed_by": 346, 
+        "follows": 354, 
+        "likes": 62, 
+        "meanLikes": 99.5, 
+        "postID": "619093858895285036_181741297", 
+        "tags": [
+            "person", 
+            "posing", 
+            "wall", 
+            "group", 
+            "indoor", 
+            "people", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1382973505", 
+        "days_since_posting": 1383.506, 
+        "follow_ratio": 0.9774011299435028, 
+        "followed_by": 346, 
+        "follows": 354, 
+        "likes": 94, 
+        "meanLikes": 99.5, 
+        "postID": "576746027606100459_181741297", 
+        "tags": [
+            "grass", 
+            "person", 
+            "outdoor", 
+            "athletic game", 
+            "outdoor_sportsfield"
+        ]
+    }, 
+    {
+        "created_time": "1381446757", 
+        "days_since_posting": 1401.176, 
+        "follow_ratio": 0.9774011299435028, 
+        "followed_by": 346, 
+        "follows": 354, 
+        "likes": 51, 
+        "meanLikes": 99.5, 
+        "postID": "563938735089273843_181741297", 
+        "tags": [
+            "person", 
+            "wall", 
+            "necktie", 
+            "clothing", 
+            "indoor", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1381183202", 
+        "days_since_posting": 1404.227, 
+        "follow_ratio": 0.9774011299435028, 
+        "followed_by": 346, 
+        "follows": 354, 
+        "likes": 98, 
+        "meanLikes": 99.5, 
+        "postID": "561727874048215203_181741297", 
+        "tags": [
+            "person", 
+            "floor", 
+            "people_", 
+            "people_group"
+        ]
+    }
+]

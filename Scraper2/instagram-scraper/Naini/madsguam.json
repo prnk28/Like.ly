@@ -1,0 +1,122 @@
+[
+    {
+        "created_time": "1502063138", 
+        "days_since_posting": 5.14, 
+        "follow_ratio": 1.1988304093567252, 
+        "followed_by": 1025, 
+        "follows": 855, 
+        "likes": 158, 
+        "meanLikes": 196.26666666666668, 
+        "postID": "1575742273307420033_521085995", 
+        "tags": [
+            "person", 
+            "people_young"
+        ]
+    }, 
+    {
+        "created_time": "1501463908", 
+        "days_since_posting": 12.075, 
+        "follow_ratio": 1.1988304093567252, 
+        "followed_by": 1025, 
+        "follows": 855, 
+        "likes": 338, 
+        "meanLikes": 196.26666666666668, 
+        "postID": "1570715569354637938_521085995", 
+        "tags": [
+            "outdoor", 
+            "person", 
+            "tree", 
+            "sitting", 
+            "ground", 
+            "rock", 
+            "woman", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1501463862", 
+        "days_since_posting": 12.076, 
+        "follow_ratio": 1.1988304093567252, 
+        "followed_by": 1025, 
+        "follows": 855, 
+        "likes": 179, 
+        "meanLikes": 196.26666666666668, 
+        "postID": "1570715181549156519_521085995", 
+        "tags": [
+            "outdoor", 
+            "tree", 
+            "rock", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1501292843", 
+        "days_since_posting": 14.055, 
+        "follow_ratio": 1.1988304093567252, 
+        "followed_by": 1025, 
+        "follows": 855, 
+        "likes": 169, 
+        "meanLikes": 196.26666666666668, 
+        "postID": "1569280573393806117_521085995", 
+        "tags": [
+            "person", 
+            "woman", 
+            "indoor", 
+            "others_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1501103623", 
+        "days_since_posting": 16.245, 
+        "follow_ratio": 1.1988304093567252, 
+        "followed_by": 1025, 
+        "follows": 855, 
+        "likes": 162, 
+        "meanLikes": 196.26666666666668, 
+        "postID": "1567693281020633360_521085995", 
+        "tags": [
+            "bicycle", 
+            "outdoor", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1499824255", 
+        "days_since_posting": 31.053, 
+        "follow_ratio": 1.1988304093567252, 
+        "followed_by": 1025, 
+        "follows": 855, 
+        "likes": 159, 
+        "meanLikes": 196.26666666666668, 
+        "postID": "1556961157704543568_521085995", 
+        "tags": [
+            "mountain", 
+            "valley", 
+            "nature", 
+            "outdoor", 
+            "sky", 
+            "canyon", 
+            "rock", 
+            "outdoor_mountain"
+        ]
+    }, 
+    {
+        "created_time": "1499558096", 
+        "days_since_posting": 34.133, 
+        "follow_ratio": 1.1988304093567252, 
+        "followed_by": 1025, 
+        "follows": 855, 
+        "likes": 210, 
+        "meanLikes": 196.26666666666668, 
+        "postID": "1554728453181083824_521085995", 
+        "tags": [
+            "sky", 
+            "outdoor", 
+            "mountain", 
+            "nature", 
+            "others_", 
+            "outdoor_"
+        ]
+    }
+]

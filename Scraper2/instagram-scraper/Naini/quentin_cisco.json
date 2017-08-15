@@ -1,0 +1,167 @@
+[
+    {
+        "created_time": "1501643213", 
+        "days_since_posting": 9.989, 
+        "follow_ratio": 0.3578088578088578, 
+        "followed_by": 614, 
+        "follows": 1716, 
+        "likes": 65, 
+        "meanLikes": 53.729729729729726, 
+        "postID": "1572219688040803564_1508782475", 
+        "tags": [
+            "dog", 
+            "sitting", 
+            "indoor", 
+            "animal", 
+            "mammal", 
+            "black", 
+            "animal_dog"
+        ]
+    }, 
+    {
+        "created_time": "1500247582", 
+        "days_since_posting": 26.142, 
+        "follow_ratio": 0.3578088578088578, 
+        "followed_by": 614, 
+        "follows": 1716, 
+        "likes": 64, 
+        "meanLikes": 53.729729729729726, 
+        "postID": "1560512281778817558_1508782475", 
+        "tags": [
+            "dog", 
+            "sky", 
+            "outdoor", 
+            "sitting", 
+            "brown", 
+            "animal_dog"
+        ]
+    }, 
+    {
+        "created_time": "1500155825", 
+        "days_since_posting": 27.204, 
+        "follow_ratio": 0.3578088578088578, 
+        "followed_by": 614, 
+        "follows": 1716, 
+        "likes": 68, 
+        "meanLikes": 53.729729729729726, 
+        "postID": "1559742567100171372_1508782475", 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "sky", 
+            "mountain", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1499701752", 
+        "days_since_posting": 32.46, 
+        "follow_ratio": 0.3578088578088578, 
+        "followed_by": 614, 
+        "follows": 1716, 
+        "likes": 52, 
+        "meanLikes": 53.729729729729726, 
+        "postID": "1555933526506675881_1508782475", 
+        "tags": [
+            "tree", 
+            "outdoor", 
+            "ground", 
+            "grass", 
+            "plant", 
+            "plant_tree"
+        ]
+    }, 
+    {
+        "created_time": "1499615017", 
+        "days_since_posting": 33.464, 
+        "follow_ratio": 0.3578088578088578, 
+        "followed_by": 614, 
+        "follows": 1716, 
+        "likes": 65, 
+        "meanLikes": 53.729729729729726, 
+        "postID": "1555205947000809039_1508782475", 
+        "tags": [
+            "dog", 
+            "outdoor", 
+            "ground", 
+            "black", 
+            "bicycle", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1498789654", 
+        "days_since_posting": 43.016, 
+        "follow_ratio": 0.3578088578088578, 
+        "followed_by": 614, 
+        "follows": 1716, 
+        "likes": 23, 
+        "meanLikes": 53.729729729729726, 
+        "postID": "1548282294740946915_1508782475", 
+        "tags": [
+            "grass", 
+            "dog", 
+            "outdoor", 
+            "animal", 
+            "mammal", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1498534352", 
+        "days_since_posting": 45.971, 
+        "follow_ratio": 0.3578088578088578, 
+        "followed_by": 614, 
+        "follows": 1716, 
+        "likes": 80, 
+        "meanLikes": 53.729729729729726, 
+        "postID": "1546140666014182669_1508782475", 
+        "tags": [
+            "outdoor", 
+            "sky", 
+            "water", 
+            "scene", 
+            "sunset", 
+            "outdoor_", 
+            "outdoor_oceanbeach"
+        ]
+    }, 
+    {
+        "created_time": "1498416881", 
+        "days_since_posting": 47.331, 
+        "follow_ratio": 0.3578088578088578, 
+        "followed_by": 614, 
+        "follows": 1716, 
+        "likes": 37, 
+        "meanLikes": 53.729729729729726, 
+        "postID": "1545155252440561146_1508782475", 
+        "tags": [
+            "dog", 
+            "tree", 
+            "outdoor", 
+            "abstract_", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1497391846", 
+        "days_since_posting": 59.195, 
+        "follow_ratio": 0.3578088578088578, 
+        "followed_by": 614, 
+        "follows": 1716, 
+        "likes": 61, 
+        "meanLikes": 53.729729729729726, 
+        "postID": "1536556635975029211_1508782475", 
+        "tags": [
+            "dog", 
+            "floor", 
+            "ground", 
+            "black", 
+            "animal", 
+            "animal_dog"
+        ]
+    }
+]

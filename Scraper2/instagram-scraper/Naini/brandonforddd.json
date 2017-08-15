@@ -1,0 +1,160 @@
+[
+    {
+        "created_time": "1501812124", 
+        "days_since_posting": 8.11, 
+        "follow_ratio": 1.2199367088607596, 
+        "followed_by": 771, 
+        "follows": 632, 
+        "likes": 136, 
+        "meanLikes": 138.375, 
+        "postID": "1573636613522866986_231051771", 
+        "tags": [
+            "tree", 
+            "outdoor", 
+            "person", 
+            "ground", 
+            "outdoor_", 
+            "people_many"
+        ]
+    }, 
+    {
+        "created_time": "1500823081", 
+        "days_since_posting": 19.557, 
+        "follow_ratio": 1.2199367088607596, 
+        "followed_by": 771, 
+        "follows": 632, 
+        "likes": 167, 
+        "meanLikes": 138.375, 
+        "postID": "1565339921472273120_231051771", 
+        "tags": [
+            "outdoor", 
+            "tree", 
+            "water", 
+            "river", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1500586392", 
+        "days_since_posting": 22.297, 
+        "follow_ratio": 1.2199367088607596, 
+        "followed_by": 771, 
+        "follows": 632, 
+        "likes": 190, 
+        "meanLikes": 138.375, 
+        "postID": "1563354431097238661_231051771", 
+        "tags": [
+            "outdoor", 
+            "person", 
+            "rock", 
+            "outdoor_", 
+            "people_crowd"
+        ]
+    }, 
+    {
+        "created_time": "1500244699", 
+        "days_since_posting": 26.251, 
+        "follow_ratio": 1.2199367088607596, 
+        "followed_by": 771, 
+        "follows": 632, 
+        "likes": 83, 
+        "meanLikes": 138.375, 
+        "postID": "1560488098076705293_231051771", 
+        "tags": [
+            "dog", 
+            "animal", 
+            "indoor", 
+            "laying", 
+            "mammal", 
+            "bed", 
+            "animal_dog"
+        ]
+    }, 
+    {
+        "created_time": "1498962215", 
+        "days_since_posting": 41.095, 
+        "follow_ratio": 1.2199367088607596, 
+        "followed_by": 771, 
+        "follows": 632, 
+        "likes": 156, 
+        "meanLikes": 138.375, 
+        "postID": "1549729848691660069_231051771", 
+        "tags": [
+            "tree", 
+            "outdoor", 
+            "person", 
+            "standing", 
+            "posing", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1498508002", 
+        "days_since_posting": 46.352, 
+        "follow_ratio": 1.2199367088607596, 
+        "followed_by": 771, 
+        "follows": 632, 
+        "likes": 109, 
+        "meanLikes": 138.375, 
+        "postID": "1545919626957174070_231051771", 
+        "tags": [
+            "outdoor", 
+            "grass", 
+            "others_", 
+            "outdoor_", 
+            "trans_car"
+        ]
+    }, 
+    {
+        "created_time": "1497239656", 
+        "days_since_posting": 61.032, 
+        "follow_ratio": 1.2199367088607596, 
+        "followed_by": 771, 
+        "follows": 632, 
+        "likes": 159, 
+        "meanLikes": 138.375, 
+        "postID": "1535279975972141371_231051771", 
+        "tags": [
+            "tree", 
+            "person", 
+            "outdoor", 
+            "man", 
+            "standing", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1494797358", 
+        "days_since_posting": 89.299, 
+        "follow_ratio": 1.2199367088607596, 
+        "followed_by": 771, 
+        "follows": 632, 
+        "likes": 108, 
+        "meanLikes": 138.375, 
+        "postID": "1514792495481110526_231051771", 
+        "tags": [
+            "person", 
+            "wall", 
+            "posing", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1494026844", 
+        "days_since_posting": 98.217, 
+        "follow_ratio": 1.2199367088607596, 
+        "followed_by": 771, 
+        "follows": 632, 
+        "likes": 97, 
+        "meanLikes": 138.375, 
+        "postID": "1508328952724646663_231051771", 
+        "tags": [
+            "tree", 
+            "outdoor", 
+            "car", 
+            "grass", 
+            "trans_car"
+        ]
+    }
+]

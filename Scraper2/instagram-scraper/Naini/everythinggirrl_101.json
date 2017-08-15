@@ -1,0 +1,148 @@
+[
+    {
+        "created_time": "1370924707", 
+        "days_since_posting": 1523.03, 
+        "follow_ratio": 0.3946864111498258, 
+        "followed_by": 4531, 
+        "follows": 11480, 
+        "likes": 248, 
+        "meanLikes": 146.66666666666666, 
+        "postID": "475673378239754562_32691483", 
+        "tags": [
+            "person", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1345668240", 
+        "days_since_posting": 1815.35, 
+        "follow_ratio": 0.3946864111498258, 
+        "followed_by": 4531, 
+        "follows": 11480, 
+        "likes": 116, 
+        "meanLikes": 146.66666666666666, 
+        "postID": "263806783218725135_32691483", 
+        "tags": [
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1345436341", 
+        "days_since_posting": 1818.034, 
+        "follow_ratio": 0.3946864111498258, 
+        "followed_by": 4531, 
+        "follows": 11480, 
+        "likes": 76, 
+        "meanLikes": 146.66666666666666, 
+        "postID": "261861469855363217_32691483", 
+        "tags": [
+            "indoor", 
+            "abstract_texture"
+        ]
+    }, 
+    {
+        "created_time": "1344542085", 
+        "days_since_posting": 1828.384, 
+        "follow_ratio": 0.3946864111498258, 
+        "followed_by": 4531, 
+        "follows": 11480, 
+        "likes": 80, 
+        "meanLikes": 146.66666666666666, 
+        "postID": "254359906349953214_32691483", 
+        "tags": [
+            "wall", 
+            "bottle", 
+            "indoor", 
+            "drink_", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1344536526", 
+        "days_since_posting": 1828.448, 
+        "follow_ratio": 0.3946864111498258, 
+        "followed_by": 4531, 
+        "follows": 11480, 
+        "likes": 61, 
+        "meanLikes": 146.66666666666666, 
+        "postID": "254313278431769162_32691483", 
+        "tags": [
+            "toiletry", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1340571765", 
+        "days_since_posting": 1874.337, 
+        "follow_ratio": 0.3946864111498258, 
+        "followed_by": 4531, 
+        "follows": 11480, 
+        "likes": 90, 
+        "meanLikes": 146.66666666666666, 
+        "postID": "221054447631413250_32691483", 
+        "tags": [
+            "brush", 
+            "tool", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1338320980", 
+        "days_since_posting": 1900.388, 
+        "follow_ratio": 0.3946864111498258, 
+        "followed_by": 4531, 
+        "follows": 11480, 
+        "likes": 56, 
+        "meanLikes": 146.66666666666666, 
+        "postID": "202173478266679965_32691483", 
+        "tags": [
+            "drink_can", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1336612454", 
+        "days_since_posting": 1920.162, 
+        "follow_ratio": 0.3946864111498258, 
+        "followed_by": 4531, 
+        "follows": 11480, 
+        "likes": 209, 
+        "meanLikes": 146.66666666666666, 
+        "postID": "187841341237441069_32691483", 
+        "tags": [
+            "toiletry", 
+            "others_", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1336442653", 
+        "days_since_posting": 1922.128, 
+        "follow_ratio": 0.3946864111498258, 
+        "followed_by": 4531, 
+        "follows": 11480, 
+        "likes": 118, 
+        "meanLikes": 146.66666666666666, 
+        "postID": "186416943636885775_32691483", 
+        "tags": [
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1335837622", 
+        "days_since_posting": 1929.13, 
+        "follow_ratio": 0.3946864111498258, 
+        "followed_by": 4531, 
+        "follows": 11480, 
+        "likes": 100, 
+        "meanLikes": 146.66666666666666, 
+        "postID": "181341577301930242_32691483", 
+        "tags": [
+            "others_", 
+            "text_"
+        ]
+    }
+]

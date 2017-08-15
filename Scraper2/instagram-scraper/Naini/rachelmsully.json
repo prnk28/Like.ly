@@ -1,0 +1,141 @@
+[
+    {
+        "created_time": "1502233982", 
+        "days_since_posting": 3.141, 
+        "follow_ratio": 0.4200626959247649, 
+        "followed_by": 402, 
+        "follows": 957, 
+        "likes": 8, 
+        "meanLikes": 34.829268292682926, 
+        "postID": "1577175415772797260_1335593097", 
+        "tags": [
+            "person", 
+            "text_mag"
+        ]
+    }, 
+    {
+        "created_time": "1502171264", 
+        "days_since_posting": 3.866, 
+        "follow_ratio": 0.4200626959247649, 
+        "followed_by": 402, 
+        "follows": 957, 
+        "likes": 54, 
+        "meanLikes": 34.829268292682926, 
+        "postID": "1576649302151669950_1335593097", 
+        "tags": [
+            "grass", 
+            "outdoor", 
+            "sky", 
+            "tree", 
+            "outdoor_grass"
+        ]
+    }, 
+    {
+        "created_time": "1501805497", 
+        "days_since_posting": 8.1, 
+        "follow_ratio": 0.4200626959247649, 
+        "followed_by": 402, 
+        "follows": 957, 
+        "likes": 34, 
+        "meanLikes": 34.829268292682926, 
+        "postID": "1573581021429673566_1335593097", 
+        "tags": [
+            "plant", 
+            "plant_flower"
+        ]
+    }, 
+    {
+        "created_time": "1501721332", 
+        "days_since_posting": 9.074, 
+        "follow_ratio": 0.4200626959247649, 
+        "followed_by": 402, 
+        "follows": 957, 
+        "likes": 20, 
+        "meanLikes": 34.829268292682926, 
+        "postID": "1572874993012674429_1335593097", 
+        "tags": [
+            "person", 
+            "woman", 
+            "posing", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1501705737", 
+        "days_since_posting": 9.255, 
+        "follow_ratio": 0.4200626959247649, 
+        "followed_by": 402, 
+        "follows": 957, 
+        "likes": 27, 
+        "meanLikes": 34.829268292682926, 
+        "postID": "1572744176160731691_1335593097", 
+        "tags": [
+            "giraffe", 
+            "tree", 
+            "outdoor", 
+            "ground", 
+            "mammal", 
+            "animal", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1501694632", 
+        "days_since_posting": 9.383, 
+        "follow_ratio": 0.4200626959247649, 
+        "followed_by": 402, 
+        "follows": 957, 
+        "likes": 13, 
+        "meanLikes": 34.829268292682926, 
+        "postID": "1572651018093426172_1335593097", 
+        "tags": [
+            "abstract_", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1501604059", 
+        "days_since_posting": 10.431, 
+        "follow_ratio": 0.4200626959247649, 
+        "followed_by": 402, 
+        "follows": 957, 
+        "likes": 5, 
+        "meanLikes": 34.829268292682926, 
+        "postID": "1571891235149300373_1335593097", 
+        "tags": [
+            "text_mag"
+        ]
+    }, 
+    {
+        "created_time": "1501206272", 
+        "days_since_posting": 15.036, 
+        "follow_ratio": 0.4200626959247649, 
+        "followed_by": 402, 
+        "follows": 957, 
+        "likes": 5, 
+        "meanLikes": 34.829268292682926, 
+        "postID": "1568554357524264833_1335593097", 
+        "tags": [
+            "text", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1501023311", 
+        "days_since_posting": 17.153, 
+        "follow_ratio": 0.4200626959247649, 
+        "followed_by": 402, 
+        "follows": 957, 
+        "likes": 42, 
+        "meanLikes": 34.829268292682926, 
+        "postID": "1567019574976051929_1335593097", 
+        "tags": [
+            "tree", 
+            "sky", 
+            "outdoor", 
+            "nature", 
+            "outdoor_"
+        ]
+    }
+]

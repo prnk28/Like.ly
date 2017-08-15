@@ -1,0 +1,132 @@
+[
+    {
+        "created_time": "1490309133", 
+        "days_since_posting": 141.189, 
+        "follow_ratio": 1.003968253968254, 
+        "followed_by": 253, 
+        "follows": 252, 
+        "likes": 45, 
+        "meanLikes": 42.24242424242424, 
+        "postID": "1477142527605180668_286120343", 
+        "tags": [
+            "dog", 
+            "floor", 
+            "indoor", 
+            "sitting", 
+            "brown", 
+            "animal", 
+            "black", 
+            "animal_dog"
+        ]
+    }, 
+    {
+        "created_time": "1487095411", 
+        "days_since_posting": 178.426, 
+        "follow_ratio": 1.003968253968254, 
+        "followed_by": 253, 
+        "follows": 252, 
+        "likes": 43, 
+        "meanLikes": 42.24242424242424, 
+        "postID": "1450183878744248617_286120343", 
+        "tags": [
+            "tree", 
+            "grass", 
+            "outdoor", 
+            "dog", 
+            "black", 
+            "mammal", 
+            "plant_tree"
+        ]
+    }, 
+    {
+        "created_time": "1486178727", 
+        "days_since_posting": 189.036, 
+        "follow_ratio": 1.003968253968254, 
+        "followed_by": 253, 
+        "follows": 252, 
+        "likes": 31, 
+        "meanLikes": 42.24242424242424, 
+        "postID": "1442494172535646541_286120343", 
+        "tags": [
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1485806305", 
+        "days_since_posting": 193.347, 
+        "follow_ratio": 1.003968253968254, 
+        "followed_by": 253, 
+        "follows": 252, 
+        "likes": 33, 
+        "meanLikes": 42.24242424242424, 
+        "postID": "1439370069142276359_286120343", 
+        "tags": [
+            "indoor", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1483582263", 
+        "days_since_posting": 219.088, 
+        "follow_ratio": 1.003968253968254, 
+        "followed_by": 253, 
+        "follows": 252, 
+        "likes": 51, 
+        "meanLikes": 42.24242424242424, 
+        "postID": "1420713459029169934_286120343", 
+        "tags": [
+            "sofa", 
+            "indoor", 
+            "seat", 
+            "abstract_", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1483043408", 
+        "days_since_posting": 225.325, 
+        "follow_ratio": 1.003968253968254, 
+        "followed_by": 253, 
+        "follows": 252, 
+        "likes": 37, 
+        "meanLikes": 42.24242424242424, 
+        "postID": "1416193214080055941_286120343", 
+        "tags": [
+            "indoor", 
+            "others_", 
+            "text_mag"
+        ]
+    }, 
+    {
+        "created_time": "1481497684", 
+        "days_since_posting": 243.215, 
+        "follow_ratio": 1.003968253968254, 
+        "followed_by": 253, 
+        "follows": 252, 
+        "likes": 63, 
+        "meanLikes": 42.24242424242424, 
+        "postID": "1403226742852470454_286120343", 
+        "tags": [
+            "person", 
+            "indoor", 
+            "standing", 
+            "others_", 
+            "people_show"
+        ]
+    }, 
+    {
+        "created_time": "1473266143", 
+        "days_since_posting": 338.446, 
+        "follow_ratio": 1.003968253968254, 
+        "followed_by": 253, 
+        "follows": 252, 
+        "likes": 39, 
+        "meanLikes": 42.24242424242424, 
+        "postID": "1334175572444356792_286120343", 
+        "tags": [
+            "person", 
+            "outdoor_", 
+            "people_many"
+        ]
+    }
+]
