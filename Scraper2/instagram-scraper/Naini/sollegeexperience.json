@@ -1,0 +1,146 @@
+[
+    {
+        "created_time": "1430112294", 
+        "days_since_posting": 837.889, 
+        "follow_ratio": 0.2051851851851852, 
+        "followed_by": 277, 
+        "follows": 1350, 
+        "likes": 175, 
+        "meanLikes": 58.0, 
+        "postID": "972174844040986613_1682732190", 
+        "tags": [
+            "text_mag"
+        ]
+    }, 
+    {
+        "created_time": "1430015380", 
+        "days_since_posting": 839.011, 
+        "follow_ratio": 0.2051851851851852, 
+        "followed_by": 277, 
+        "follows": 1350, 
+        "likes": 45, 
+        "meanLikes": 58.0, 
+        "postID": "971361870871150197_1682732190", 
+        "tags": [
+            "food", 
+            "plate", 
+            "text_menu"
+        ]
+    }, 
+    {
+        "created_time": "1429925187", 
+        "days_since_posting": 840.055, 
+        "follow_ratio": 0.2051851851851852, 
+        "followed_by": 277, 
+        "follows": 1350, 
+        "likes": 41, 
+        "meanLikes": 58.0, 
+        "postID": "970605278609424334_1682732190", 
+        "tags": [
+            "text_", 
+            "text_sign"
+        ]
+    }, 
+    {
+        "created_time": "1429914883", 
+        "days_since_posting": 840.174, 
+        "follow_ratio": 0.2051851851851852, 
+        "followed_by": 277, 
+        "follows": 1350, 
+        "likes": 31, 
+        "meanLikes": 58.0, 
+        "postID": "970518845706091719_1682732190", 
+        "tags": [
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1429830335", 
+        "days_since_posting": 841.152, 
+        "follow_ratio": 0.2051851851851852, 
+        "followed_by": 277, 
+        "follows": 1350, 
+        "likes": 36, 
+        "meanLikes": 58.0, 
+        "postID": "969809603210657162_1682732190", 
+        "tags": [
+            "text", 
+            "book", 
+            "text_mag"
+        ]
+    }, 
+    {
+        "created_time": "1429717151", 
+        "days_since_posting": 842.462, 
+        "follow_ratio": 0.2051851851851852, 
+        "followed_by": 277, 
+        "follows": 1350, 
+        "likes": 20, 
+        "meanLikes": 58.0, 
+        "postID": "968860146893733250_1682732190", 
+        "tags": [
+            "text", 
+            "book", 
+            "text_", 
+            "text_menu"
+        ]
+    }, 
+    {
+        "created_time": "1429715425", 
+        "days_since_posting": 842.482, 
+        "follow_ratio": 0.2051851851851852, 
+        "followed_by": 277, 
+        "follows": 1350, 
+        "likes": 29, 
+        "meanLikes": 58.0, 
+        "postID": "968845669792104442_1682732190", 
+        "tags": [
+            "text", 
+            "text_mag"
+        ]
+    }, 
+    {
+        "created_time": "1429644877", 
+        "days_since_posting": 843.299, 
+        "follow_ratio": 0.2051851851851852, 
+        "followed_by": 277, 
+        "follows": 1350, 
+        "likes": 24, 
+        "meanLikes": 58.0, 
+        "postID": "968253867573787893_1682732190", 
+        "tags": [
+            "abstract_rect", 
+            "others_", 
+            "text_sign"
+        ]
+    }, 
+    {
+        "created_time": "1429586656", 
+        "days_since_posting": 843.973, 
+        "follow_ratio": 0.2051851851851852, 
+        "followed_by": 277, 
+        "follows": 1350, 
+        "likes": 16, 
+        "meanLikes": 58.0, 
+        "postID": "967765479468973790_1682732190", 
+        "tags": [
+            "outdoor_", 
+            "text_sign"
+        ]
+    }, 
+    {
+        "created_time": "1429480368", 
+        "days_since_posting": 845.203, 
+        "follow_ratio": 0.2051851851851852, 
+        "followed_by": 277, 
+        "follows": 1350, 
+        "likes": 28, 
+        "meanLikes": 58.0, 
+        "postID": "966873864726527509_1682732190", 
+        "tags": [
+            "others_", 
+            "text_", 
+            "text_sign"
+        ]
+    }
+]

@@ -1,0 +1,147 @@
+[
+    {
+        "created_time": "1492133562", 
+        "days_since_posting": 120.073, 
+        "follow_ratio": 1.1345202769535114, 
+        "followed_by": 1147, 
+        "follows": 1011, 
+        "likes": 120, 
+        "meanLikes": 116.46341463414635, 
+        "postID": "1492446952561244706_12968017", 
+        "tags": [
+            "cat", 
+            "indoor", 
+            "laying", 
+            "others_", 
+            "people_baby"
+        ]
+    }, 
+    {
+        "created_time": "1491362591", 
+        "days_since_posting": 128.997, 
+        "follow_ratio": 1.1345202769535114, 
+        "followed_by": 1147, 
+        "follows": 1011, 
+        "likes": 218, 
+        "meanLikes": 116.46341463414635, 
+        "postID": "1485979580354743270_12968017", 
+        "tags": [
+            "sky", 
+            "outdoor", 
+            "water", 
+            "abstract_", 
+            "others_", 
+            "outdoor_", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1490849029", 
+        "days_since_posting": 134.941, 
+        "follow_ratio": 1.1345202769535114, 
+        "followed_by": 1147, 
+        "follows": 1011, 
+        "likes": 97, 
+        "meanLikes": 116.46341463414635, 
+        "postID": "1481671509297969369_12968017", 
+        "tags": [
+            "building", 
+            "abstract_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1489211629", 
+        "days_since_posting": 153.934, 
+        "follow_ratio": 1.1345202769535114, 
+        "followed_by": 1147, 
+        "follows": 1011, 
+        "likes": 144, 
+        "meanLikes": 116.46341463414635, 
+        "postID": "1467936003750004255_12968017", 
+        "tags": [
+            "building", 
+            "outdoor", 
+            "person", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1488994711", 
+        "days_since_posting": 156.444, 
+        "follow_ratio": 1.1345202769535114, 
+        "followed_by": 1147, 
+        "follows": 1011, 
+        "likes": 115, 
+        "meanLikes": 116.46341463414635, 
+        "postID": "1466116358118074980_12968017", 
+        "tags": [
+            "outdoor", 
+            "sky", 
+            "sunset", 
+            "clouds", 
+            "sky_cloud"
+        ]
+    }, 
+    {
+        "created_time": "1488956615", 
+        "days_since_posting": 156.885, 
+        "follow_ratio": 1.1345202769535114, 
+        "followed_by": 1147, 
+        "follows": 1011, 
+        "likes": 61, 
+        "meanLikes": 116.46341463414635, 
+        "postID": "1465796789315033049_12968017", 
+        "tags": [
+            "others_", 
+            "text_", 
+            "text_menu"
+        ]
+    }, 
+    {
+        "created_time": "1488579307", 
+        "days_since_posting": 161.252, 
+        "follow_ratio": 1.1345202769535114, 
+        "followed_by": 1147, 
+        "follows": 1011, 
+        "likes": 122, 
+        "meanLikes": 116.46341463414635, 
+        "postID": "1462631695902999945_12968017", 
+        "tags": [
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1488578038", 
+        "days_since_posting": 161.267, 
+        "follow_ratio": 1.1345202769535114, 
+        "followed_by": 1147, 
+        "follows": 1011, 
+        "likes": 117, 
+        "meanLikes": 116.46341463414635, 
+        "postID": "1462621055389861193_12968017", 
+        "tags": [
+            "person", 
+            "sitting", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1488295832", 
+        "days_since_posting": 164.533, 
+        "follow_ratio": 1.1345202769535114, 
+        "followed_by": 1147, 
+        "follows": 1011, 
+        "likes": 107, 
+        "meanLikes": 116.46341463414635, 
+        "postID": "1460253741608733376_12968017", 
+        "tags": [
+            "person", 
+            "indoor", 
+            "others_", 
+            "people_"
+        ]
+    }
+]

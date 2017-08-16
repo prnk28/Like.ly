@@ -1,0 +1,161 @@
+[
+    {
+        "created_time": "1372799440", 
+        "days_since_posting": 1501.314, 
+        "follow_ratio": 0.8231292517006803, 
+        "followed_by": 242, 
+        "follows": 294, 
+        "likes": 35, 
+        "meanLikes": 40.55696202531646, 
+        "postID": "491399779868200725_213634082", 
+        "tags": [
+            "person", 
+            "indoor", 
+            "man", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1372623834", 
+        "days_since_posting": 1503.346, 
+        "follow_ratio": 0.8231292517006803, 
+        "followed_by": 242, 
+        "follows": 294, 
+        "likes": 46, 
+        "meanLikes": 40.55696202531646, 
+        "postID": "489926688067538690_213634082", 
+        "tags": [
+            "person", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1372617891", 
+        "days_since_posting": 1503.415, 
+        "follow_ratio": 0.8231292517006803, 
+        "followed_by": 242, 
+        "follows": 294, 
+        "likes": 53, 
+        "meanLikes": 40.55696202531646, 
+        "postID": "489876835996257679_213634082", 
+        "tags": [
+            "cup", 
+            "table", 
+            "coffee", 
+            "food", 
+            "drink", 
+            "glass", 
+            "food_"
+        ]
+    }, 
+    {
+        "created_time": "1372551191", 
+        "days_since_posting": 1504.187, 
+        "follow_ratio": 0.8231292517006803, 
+        "followed_by": 242, 
+        "follows": 294, 
+        "likes": 34, 
+        "meanLikes": 40.55696202531646, 
+        "postID": "489317314240433555_213634082", 
+        "tags": [
+            "person", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1372505515", 
+        "days_since_posting": 1504.716, 
+        "follow_ratio": 0.8231292517006803, 
+        "followed_by": 242, 
+        "follows": 294, 
+        "likes": 50, 
+        "meanLikes": 40.55696202531646, 
+        "postID": "488934159897578678_213634082", 
+        "tags": [
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1372504365", 
+        "days_since_posting": 1504.729, 
+        "follow_ratio": 0.8231292517006803, 
+        "followed_by": 242, 
+        "follows": 294, 
+        "likes": 35, 
+        "meanLikes": 40.55696202531646, 
+        "postID": "488924515473017919_213634082", 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "people_", 
+            "people_portrait"
+        ]
+    }, 
+    {
+        "created_time": "1372496876", 
+        "days_since_posting": 1504.816, 
+        "follow_ratio": 0.8231292517006803, 
+        "followed_by": 242, 
+        "follows": 294, 
+        "likes": 30, 
+        "meanLikes": 40.55696202531646, 
+        "postID": "488861689505107234_213634082", 
+        "tags": [
+            "person", 
+            "man", 
+            "indoor", 
+            "abstract_", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1372466005", 
+        "days_since_posting": 1505.173, 
+        "follow_ratio": 0.8231292517006803, 
+        "followed_by": 242, 
+        "follows": 294, 
+        "likes": 44, 
+        "meanLikes": 40.55696202531646, 
+        "postID": "488602725416685364_213634082", 
+        "tags": [
+            "sky", 
+            "outdoor", 
+            "grass", 
+            "outdoor_", 
+            "sky_cloud"
+        ]
+    }, 
+    {
+        "created_time": "1372445136", 
+        "days_since_posting": 1505.415, 
+        "follow_ratio": 0.8231292517006803, 
+        "followed_by": 242, 
+        "follows": 294, 
+        "likes": 40, 
+        "meanLikes": 40.55696202531646, 
+        "postID": "488427661425626943_213634082", 
+        "tags": [
+            "outdoor", 
+            "sky", 
+            "outdoor_", 
+            "sky_cloud"
+        ]
+    }, 
+    {
+        "created_time": "1372362647", 
+        "days_since_posting": 1506.369, 
+        "follow_ratio": 0.8231292517006803, 
+        "followed_by": 242, 
+        "follows": 294, 
+        "likes": 17, 
+        "meanLikes": 40.55696202531646, 
+        "postID": "487735698430873405_213634082", 
+        "tags": [
+            "screenshot", 
+            "abstract", 
+            "others_", 
+            "text_sign"
+        ]
+    }
+]

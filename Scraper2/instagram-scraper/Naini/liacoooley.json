@@ -1,0 +1,186 @@
+[
+    {
+        "created_time": "1502458186", 
+        "days_since_posting": 0.529, 
+        "follow_ratio": 1.101511879049676, 
+        "followed_by": 1020, 
+        "follows": 926, 
+        "likes": 267, 
+        "meanLikes": 331.484375, 
+        "postID": "1579056175441543495_29068653", 
+        "tags": [
+            "outdoor", 
+            "chair", 
+            "abstract_", 
+            "indoor_marketstore", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1502401886", 
+        "days_since_posting": 1.181, 
+        "follow_ratio": 1.101511879049676, 
+        "followed_by": 1020, 
+        "follows": 926, 
+        "likes": 289, 
+        "meanLikes": 331.484375, 
+        "postID": "1578583895636828124_29068653", 
+        "tags": [
+            "water", 
+            "outdoor", 
+            "sky", 
+            "mountain", 
+            "nature", 
+            "ocean", 
+            "outdoor_oceanbeach"
+        ]
+    }, 
+    {
+        "created_time": "1502265978", 
+        "days_since_posting": 2.754, 
+        "follow_ratio": 1.101511879049676, 
+        "followed_by": 1020, 
+        "follows": 926, 
+        "likes": 320, 
+        "meanLikes": 331.484375, 
+        "postID": "1577443814326687812_29068653", 
+        "tags": [
+            "sky", 
+            "outdoor", 
+            "building", 
+            "outdoor_", 
+            "outdoor_street"
+        ]
+    }, 
+    {
+        "created_time": "1502196519", 
+        "days_since_posting": 3.558, 
+        "follow_ratio": 1.101511879049676, 
+        "followed_by": 1020, 
+        "follows": 926, 
+        "likes": 360, 
+        "meanLikes": 331.484375, 
+        "postID": "1576861153669476894_29068653", 
+        "tags": [
+            "mountain", 
+            "outdoor", 
+            "sky", 
+            "water", 
+            "nature", 
+            "outdoor_", 
+            "outdoor_mountain"
+        ]
+    }, 
+    {
+        "created_time": "1502143833", 
+        "days_since_posting": 4.167, 
+        "follow_ratio": 1.101511879049676, 
+        "followed_by": 1020, 
+        "follows": 926, 
+        "likes": 347, 
+        "meanLikes": 331.484375, 
+        "postID": "1576419193842547534_29068653", 
+        "tags": [
+            "mountain", 
+            "outdoor", 
+            "sky", 
+            "nature", 
+            "person", 
+            "snow", 
+            "woman", 
+            "cellphone", 
+            "outdoor_mountain"
+        ]
+    }, 
+    {
+        "created_time": "1501803794", 
+        "days_since_posting": 8.103, 
+        "follow_ratio": 1.101511879049676, 
+        "followed_by": 1020, 
+        "follows": 926, 
+        "likes": 376, 
+        "meanLikes": 331.484375, 
+        "postID": "1573566735453547006_29068653", 
+        "tags": [
+            "indoor", 
+            "floor", 
+            "indoor_venue", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1501458958", 
+        "days_since_posting": 12.094, 
+        "follow_ratio": 1.101511879049676, 
+        "followed_by": 1020, 
+        "follows": 926, 
+        "likes": 402, 
+        "meanLikes": 331.484375, 
+        "postID": "1570674045057651538_29068653", 
+        "tags": [
+            "person", 
+            "wall", 
+            "indoor", 
+            "clothing", 
+            "woman", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1500669521", 
+        "days_since_posting": 21.231, 
+        "follow_ratio": 1.101511879049676, 
+        "followed_by": 1020, 
+        "follows": 926, 
+        "likes": 376, 
+        "meanLikes": 331.484375, 
+        "postID": "1564051765795839732_29068653", 
+        "tags": [
+            "person", 
+            "sky", 
+            "outdoor", 
+            "mountain", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1500224210", 
+        "days_since_posting": 26.385, 
+        "follow_ratio": 1.101511879049676, 
+        "followed_by": 1020, 
+        "follows": 926, 
+        "likes": 368, 
+        "meanLikes": 331.484375, 
+        "postID": "1560316229021094703_29068653", 
+        "tags": [
+            "outdoor", 
+            "sky", 
+            "person", 
+            "woman", 
+            "people_group", 
+            "people_young"
+        ]
+    }, 
+    {
+        "created_time": "1499531504", 
+        "days_since_posting": 34.403, 
+        "follow_ratio": 1.101511879049676, 
+        "followed_by": 1020, 
+        "follows": 926, 
+        "likes": 270, 
+        "meanLikes": 331.484375, 
+        "postID": "1554505388820548173_29068653", 
+        "tags": [
+            "sky", 
+            "outdoor", 
+            "ground", 
+            "tree", 
+            "road", 
+            "street", 
+            "outdoor_", 
+            "outdoor_road", 
+            "outdoor_street"
+        ]
+    }
+]

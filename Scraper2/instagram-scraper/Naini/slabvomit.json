@@ -1,0 +1,152 @@
+[
+    {
+        "created_time": "1502071662", 
+        "days_since_posting": 5.029, 
+        "follow_ratio": 1.5127118644067796, 
+        "followed_by": 357, 
+        "follows": 236, 
+        "likes": 30, 
+        "meanLikes": 26.14876033057851, 
+        "postID": "1575813778925425255_198591554", 
+        "tags": [
+            "person", 
+            "hand", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1501624692", 
+        "days_since_posting": 10.203, 
+        "follow_ratio": 1.5127118644067796, 
+        "followed_by": 357, 
+        "follows": 236, 
+        "likes": 37, 
+        "meanLikes": 26.14876033057851, 
+        "postID": "1572064320869939113_198591554", 
+        "tags": [
+            "person", 
+            "indoor", 
+            "hand", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1500239065", 
+        "days_since_posting": 26.24, 
+        "follow_ratio": 1.5127118644067796, 
+        "followed_by": 357, 
+        "follows": 236, 
+        "likes": 45, 
+        "meanLikes": 26.14876033057851, 
+        "postID": "1560440839518604484_198591554", 
+        "tags": [
+            "person", 
+            "indoor", 
+            "people", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1499991687", 
+        "days_since_posting": 29.103, 
+        "follow_ratio": 1.5127118644067796, 
+        "followed_by": 357, 
+        "follows": 236, 
+        "likes": 34, 
+        "meanLikes": 26.14876033057851, 
+        "postID": "1558365679143869955_198591554", 
+        "tags": [
+            "person", 
+            "others_", 
+            "people_portrait"
+        ]
+    }, 
+    {
+        "created_time": "1499738519", 
+        "days_since_posting": 32.033, 
+        "follow_ratio": 1.5127118644067796, 
+        "followed_by": 357, 
+        "follows": 236, 
+        "likes": 36, 
+        "meanLikes": 26.14876033057851, 
+        "postID": "1556241953124198371_198591554", 
+        "tags": [
+            "abstract_nonphoto", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1499484952", 
+        "days_since_posting": 34.968, 
+        "follow_ratio": 1.5127118644067796, 
+        "followed_by": 357, 
+        "follows": 236, 
+        "likes": 25, 
+        "meanLikes": 26.14876033057851, 
+        "postID": "1554114876551769778_198591554", 
+        "tags": [
+            "indoor", 
+            "accessory", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1498678191", 
+        "days_since_posting": 44.306, 
+        "follow_ratio": 1.5127118644067796, 
+        "followed_by": 357, 
+        "follows": 236, 
+        "likes": 13, 
+        "meanLikes": 26.14876033057851, 
+        "postID": "1547347279579923897_198591554", 
+        "tags": [
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1498333446", 
+        "days_since_posting": 48.296, 
+        "follow_ratio": 1.5127118644067796, 
+        "followed_by": 357, 
+        "follows": 236, 
+        "likes": 20, 
+        "meanLikes": 26.14876033057851, 
+        "postID": "1544455346784088683_198591554", 
+        "tags": [
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1498255262", 
+        "days_since_posting": 49.201, 
+        "follow_ratio": 1.5127118644067796, 
+        "followed_by": 357, 
+        "follows": 236, 
+        "likes": 44, 
+        "meanLikes": 26.14876033057851, 
+        "postID": "1543799489733963206_198591554", 
+        "tags": [
+            "person", 
+            "indoor", 
+            "hand", 
+            "animal", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1497559925", 
+        "days_since_posting": 57.249, 
+        "follow_ratio": 1.5127118644067796, 
+        "followed_by": 357, 
+        "follows": 236, 
+        "likes": 26, 
+        "meanLikes": 26.14876033057851, 
+        "postID": "1537966579416251143_198591554", 
+        "tags": [
+            "person", 
+            "indoor", 
+            "others_"
+        ]
+    }
+]

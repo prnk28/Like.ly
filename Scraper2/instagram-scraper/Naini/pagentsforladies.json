@@ -1,0 +1,159 @@
+[
+    {
+        "created_time": "1340826625", 
+        "days_since_posting": 1871.396, 
+        "follow_ratio": 0.5078740157480315, 
+        "followed_by": 129, 
+        "follows": 254, 
+        "likes": 23, 
+        "meanLikes": 27.0, 
+        "postID": "223192344743128323_184475010", 
+        "tags": [
+            "others_", 
+            "text_", 
+            "text_sign"
+        ]
+    }, 
+    {
+        "created_time": "1340755657", 
+        "days_since_posting": 1872.217, 
+        "follow_ratio": 0.5078740157480315, 
+        "followed_by": 129, 
+        "follows": 254, 
+        "likes": 6, 
+        "meanLikes": 27.0, 
+        "postID": "222597049416167157_184475010", 
+        "tags": [
+            "text", 
+            "others_", 
+            "text_"
+        ]
+    }, 
+    {
+        "created_time": "1340408234", 
+        "days_since_posting": 1876.239, 
+        "follow_ratio": 0.5078740157480315, 
+        "followed_by": 129, 
+        "follows": 254, 
+        "likes": 14, 
+        "meanLikes": 27.0, 
+        "postID": "219682654646185787_184475010", 
+        "tags": [
+            "others_", 
+            "outdoor_", 
+            "text_sign"
+        ]
+    }, 
+    {
+        "created_time": "1340383819", 
+        "days_since_posting": 1876.521, 
+        "follow_ratio": 0.5078740157480315, 
+        "followed_by": 129, 
+        "follows": 254, 
+        "likes": 10, 
+        "meanLikes": 27.0, 
+        "postID": "219477844575661144_184475010", 
+        "tags": [
+            "blackboard", 
+            "others_", 
+            "text_", 
+            "text_menu"
+        ]
+    }, 
+    {
+        "created_time": "1340379895", 
+        "days_since_posting": 1876.567, 
+        "follow_ratio": 0.5078740157480315, 
+        "followed_by": 129, 
+        "follows": 254, 
+        "likes": 24, 
+        "meanLikes": 27.0, 
+        "postID": "219444925429722952_184475010", 
+        "tags": [
+            "person", 
+            "wall", 
+            "woman", 
+            "indoor", 
+            "posing", 
+            "smiling", 
+            "people_portrait"
+        ]
+    }, 
+    {
+        "created_time": "1340379847", 
+        "days_since_posting": 1876.567, 
+        "follow_ratio": 0.5078740157480315, 
+        "followed_by": 129, 
+        "follows": 254, 
+        "likes": 77, 
+        "meanLikes": 27.0, 
+        "postID": "219444493164752705_184475010", 
+        "tags": [
+            "person", 
+            "wall", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1340379750", 
+        "days_since_posting": 1876.568, 
+        "follow_ratio": 0.5078740157480315, 
+        "followed_by": 129, 
+        "follows": 254, 
+        "likes": 35, 
+        "meanLikes": 27.0, 
+        "postID": "219443717528891196_184475010", 
+        "tags": [
+            "person", 
+            "indoor", 
+            "window", 
+            "people_portrait"
+        ]
+    }, 
+    {
+        "created_time": "1340377389", 
+        "days_since_posting": 1876.596, 
+        "follow_ratio": 0.5078740157480315, 
+        "followed_by": 129, 
+        "follows": 254, 
+        "likes": 22, 
+        "meanLikes": 27.0, 
+        "postID": "219423903896841887_184475010", 
+        "tags": [
+            "person", 
+            "wall", 
+            "indoor", 
+            "others_", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1340377080", 
+        "days_since_posting": 1876.599, 
+        "follow_ratio": 0.5078740157480315, 
+        "followed_by": 129, 
+        "follows": 254, 
+        "likes": 54, 
+        "meanLikes": 27.0, 
+        "postID": "219421290207915664_184475010", 
+        "tags": [
+            "person", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1340376638", 
+        "days_since_posting": 1876.604, 
+        "follow_ratio": 0.5078740157480315, 
+        "followed_by": 129, 
+        "follows": 254, 
+        "likes": 26, 
+        "meanLikes": 27.0, 
+        "postID": "219417604052233849_184475010", 
+        "tags": [
+            "person", 
+            "woman", 
+            "people_young"
+        ]
+    }
+]

@@ -1,0 +1,151 @@
+[
+    {
+        "created_time": "1376420999", 
+        "days_since_posting": 1459.417, 
+        "follow_ratio": 1.59009009009009, 
+        "followed_by": 353, 
+        "follows": 222, 
+        "likes": 43, 
+        "meanLikes": 56.166666666666664, 
+        "postID": "521779619890193098_199516527", 
+        "tags": [
+            "abstract_", 
+            "others_", 
+            "text_"
+        ]
+    }, 
+    {
+        "created_time": "1376420971", 
+        "days_since_posting": 1459.417, 
+        "follow_ratio": 1.59009009009009, 
+        "followed_by": 353, 
+        "follows": 222, 
+        "likes": 24, 
+        "meanLikes": 56.166666666666664, 
+        "postID": "521779385428599491_199516527", 
+        "tags": [
+            "text", 
+            "text_"
+        ]
+    }, 
+    {
+        "created_time": "1376200841", 
+        "days_since_posting": 1461.965, 
+        "follow_ratio": 1.59009009009009, 
+        "followed_by": 353, 
+        "follows": 222, 
+        "likes": 30, 
+        "meanLikes": 56.166666666666664, 
+        "postID": "519932801778705283_199516527", 
+        "tags": [
+            "abstract_", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1360714459", 
+        "days_since_posting": 1641.247, 
+        "follow_ratio": 1.59009009009009, 
+        "followed_by": 353, 
+        "follows": 222, 
+        "likes": 80, 
+        "meanLikes": 56.166666666666664, 
+        "postID": "390023612189892703_199516527", 
+        "tags": [
+            "abstract_", 
+            "others_", 
+            "text_", 
+            "text_menu"
+        ]
+    }, 
+    {
+        "created_time": "1360714103", 
+        "days_since_posting": 1641.252, 
+        "follow_ratio": 1.59009009009009, 
+        "followed_by": 353, 
+        "follows": 222, 
+        "likes": 63, 
+        "meanLikes": 56.166666666666664, 
+        "postID": "390020627909042224_199516527", 
+        "tags": [
+            "text_"
+        ]
+    }, 
+    {
+        "created_time": "1360439992", 
+        "days_since_posting": 1644.424, 
+        "follow_ratio": 1.59009009009009, 
+        "followed_by": 353, 
+        "follows": 222, 
+        "likes": 22, 
+        "meanLikes": 56.166666666666664, 
+        "postID": "387721219238519531_199516527", 
+        "tags": [
+            "abstract_", 
+            "others_", 
+            "text_", 
+            "text_menu"
+        ]
+    }, 
+    {
+        "created_time": "1360439600", 
+        "days_since_posting": 1644.429, 
+        "follow_ratio": 1.59009009009009, 
+        "followed_by": 353, 
+        "follows": 222, 
+        "likes": 47, 
+        "meanLikes": 56.166666666666664, 
+        "postID": "387717925535474329_199516527", 
+        "tags": [
+            "abstract_", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1360439561", 
+        "days_since_posting": 1644.429, 
+        "follow_ratio": 1.59009009009009, 
+        "followed_by": 353, 
+        "follows": 222, 
+        "likes": 51, 
+        "meanLikes": 56.166666666666664, 
+        "postID": "387717603807191700_199516527", 
+        "tags": [
+            "indoor", 
+            "text", 
+            "others_", 
+            "text_", 
+            "text_menu"
+        ]
+    }, 
+    {
+        "created_time": "1360439297", 
+        "days_since_posting": 1644.432, 
+        "follow_ratio": 1.59009009009009, 
+        "followed_by": 353, 
+        "follows": 222, 
+        "likes": 55, 
+        "meanLikes": 56.166666666666664, 
+        "postID": "387715383820804694_199516527", 
+        "tags": [
+            "indoor", 
+            "others_", 
+            "text_"
+        ]
+    }, 
+    {
+        "created_time": "1358548857", 
+        "days_since_posting": 1666.312, 
+        "follow_ratio": 1.59009009009009, 
+        "followed_by": 353, 
+        "follows": 222, 
+        "likes": 58, 
+        "meanLikes": 56.166666666666664, 
+        "postID": "371857230625497488_199516527", 
+        "tags": [
+            "abstract_", 
+            "others_"
+        ]
+    }
+]

@@ -1,0 +1,158 @@
+[
+    {
+        "created_time": "1494187099", 
+        "days_since_posting": 96.283, 
+        "follow_ratio": 1.083596214511041, 
+        "followed_by": 687, 
+        "follows": 634, 
+        "likes": 136, 
+        "meanLikes": 132.8125, 
+        "postID": "1509673271254141709_215481176", 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "tree", 
+            "people_group", 
+            "people_young"
+        ]
+    }, 
+    {
+        "created_time": "1494115648", 
+        "days_since_posting": 97.11, 
+        "follow_ratio": 1.083596214511041, 
+        "followed_by": 687, 
+        "follows": 634, 
+        "likes": 120, 
+        "meanLikes": 132.8125, 
+        "postID": "1509073897822212029_215481176", 
+        "tags": [
+            "person", 
+            "indoor", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1493690858", 
+        "days_since_posting": 102.027, 
+        "follow_ratio": 1.083596214511041, 
+        "followed_by": 687, 
+        "follows": 634, 
+        "likes": 177, 
+        "meanLikes": 132.8125, 
+        "postID": "1505510497171140617_215481176", 
+        "tags": [
+            "outdoor", 
+            "tree", 
+            "person", 
+            "woman", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1493397485", 
+        "days_since_posting": 105.422, 
+        "follow_ratio": 1.083596214511041, 
+        "followed_by": 687, 
+        "follows": 634, 
+        "likes": 172, 
+        "meanLikes": 132.8125, 
+        "postID": "1503049509138151967_215481176", 
+        "tags": [
+            "sky", 
+            "person", 
+            "outdoor", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1493086276", 
+        "days_since_posting": 109.024, 
+        "follow_ratio": 1.083596214511041, 
+        "followed_by": 687, 
+        "follows": 634, 
+        "likes": 67, 
+        "meanLikes": 132.8125, 
+        "postID": "1500438895987362127_215481176", 
+        "tags": [
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1492990211", 
+        "days_since_posting": 110.136, 
+        "follow_ratio": 1.083596214511041, 
+        "followed_by": 687, 
+        "follows": 634, 
+        "likes": 125, 
+        "meanLikes": 132.8125, 
+        "postID": "1499633040517986657_215481176", 
+        "tags": [
+            "person", 
+            "woman", 
+            "outdoor", 
+            "posing", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1492482822", 
+        "days_since_posting": 116.009, 
+        "follow_ratio": 1.083596214511041, 
+        "followed_by": 687, 
+        "follows": 634, 
+        "likes": 166, 
+        "meanLikes": 132.8125, 
+        "postID": "1495376752732755361_215481176", 
+        "tags": [
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1492400430", 
+        "days_since_posting": 116.962, 
+        "follow_ratio": 1.083596214511041, 
+        "followed_by": 687, 
+        "follows": 634, 
+        "likes": 125, 
+        "meanLikes": 132.8125, 
+        "postID": "1494685603911019090_215481176", 
+        "tags": [
+            "food", 
+            "plate", 
+            "food_"
+        ]
+    }, 
+    {
+        "created_time": "1492137690", 
+        "days_since_posting": 120.003, 
+        "follow_ratio": 1.083596214511041, 
+        "followed_by": 687, 
+        "follows": 634, 
+        "likes": 109, 
+        "meanLikes": 132.8125, 
+        "postID": "1492481579543666998_215481176", 
+        "tags": [
+            "tree", 
+            "outdoor", 
+            "sky", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1491673040", 
+        "days_since_posting": 125.381, 
+        "follow_ratio": 1.083596214511041, 
+        "followed_by": 687, 
+        "follows": 634, 
+        "likes": 162, 
+        "meanLikes": 132.8125, 
+        "postID": "1488583816544132068_215481176", 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "people_group"
+        ]
+    }
+]

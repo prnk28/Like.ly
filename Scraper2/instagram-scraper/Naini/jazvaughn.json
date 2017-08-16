@@ -1,0 +1,158 @@
+[
+    {
+        "created_time": "1502488675", 
+        "days_since_posting": 0.312, 
+        "follow_ratio": 1.3361976369495165, 
+        "followed_by": 1244, 
+        "follows": 931, 
+        "likes": 161, 
+        "meanLikes": 242.77777777777777, 
+        "postID": "1579311936716420419_177356692", 
+        "tags": [
+            "outdoor_", 
+            "people_crowd"
+        ]
+    }, 
+    {
+        "created_time": "1502412869", 
+        "days_since_posting": 1.189, 
+        "follow_ratio": 1.3361976369495165, 
+        "followed_by": 1244, 
+        "follows": 931, 
+        "likes": 297, 
+        "meanLikes": 242.77777777777777, 
+        "postID": "1578676031165111749_177356692", 
+        "tags": [
+            "person", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1502311384", 
+        "days_since_posting": 2.364, 
+        "follow_ratio": 1.3361976369495165, 
+        "followed_by": 1244, 
+        "follows": 931, 
+        "likes": 270, 
+        "meanLikes": 242.77777777777777, 
+        "postID": "1577824713097809183_177356692", 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "woman", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1501884408", 
+        "days_since_posting": 7.306, 
+        "follow_ratio": 1.3361976369495165, 
+        "followed_by": 1244, 
+        "follows": 931, 
+        "likes": 286, 
+        "meanLikes": 242.77777777777777, 
+        "postID": "1574242976820101058_177356692", 
+        "tags": [
+            "wall", 
+            "woman", 
+            "person", 
+            "indoor", 
+            "others_", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1501719327", 
+        "days_since_posting": 9.216, 
+        "follow_ratio": 1.3361976369495165, 
+        "followed_by": 1244, 
+        "follows": 931, 
+        "likes": 307, 
+        "meanLikes": 242.77777777777777, 
+        "postID": "1572858179078120521_177356692", 
+        "tags": [
+            "outdoor", 
+            "bench", 
+            "tree", 
+            "sky", 
+            "sitting", 
+            "person", 
+            "grass", 
+            "woman", 
+            "park", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1501623491", 
+        "days_since_posting": 10.326, 
+        "follow_ratio": 1.3361976369495165, 
+        "followed_by": 1244, 
+        "follows": 931, 
+        "likes": 293, 
+        "meanLikes": 242.77777777777777, 
+        "postID": "1572054249423317026_177356692", 
+        "tags": [
+            "outdoor", 
+            "fence", 
+            "tree", 
+            "sky", 
+            "bench", 
+            "grass", 
+            "person", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1501623455", 
+        "days_since_posting": 10.326, 
+        "follow_ratio": 1.3361976369495165, 
+        "followed_by": 1244, 
+        "follows": 931, 
+        "likes": 326, 
+        "meanLikes": 242.77777777777777, 
+        "postID": "1572053939741181323_177356692", 
+        "tags": [
+            "outdoor", 
+            "fence", 
+            "sky", 
+            "tree", 
+            "grass", 
+            "bench", 
+            "person", 
+            "sitting", 
+            "woman", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1501098390", 
+        "days_since_posting": 16.403, 
+        "follow_ratio": 1.3361976369495165, 
+        "followed_by": 1244, 
+        "follows": 931, 
+        "likes": 234, 
+        "meanLikes": 242.77777777777777, 
+        "postID": "1567649377068394362_177356692", 
+        "tags": [
+            "person", 
+            "food_"
+        ]
+    }, 
+    {
+        "created_time": "1500677941", 
+        "days_since_posting": 21.269, 
+        "follow_ratio": 1.3361976369495165, 
+        "followed_by": 1244, 
+        "follows": 931, 
+        "likes": 332, 
+        "meanLikes": 242.77777777777777, 
+        "postID": "1564122400944466995_177356692", 
+        "tags": [
+            "person", 
+            "woman", 
+            "outdoor", 
+            "people_group"
+        ]
+    }
+]

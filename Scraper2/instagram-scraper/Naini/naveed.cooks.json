@@ -1,0 +1,51 @@
+[
+    {
+        "created_time": "1491422142", 
+        "days_since_posting": 128.262, 
+        "follow_ratio": 0.6838842975206612, 
+        "followed_by": 331, 
+        "follows": 484, 
+        "likes": 81, 
+        "meanLikes": 111.0, 
+        "postID": "1486479125224857886_4793958810", 
+        "tags": [
+            "plate", 
+            "table", 
+            "food", 
+            "food_"
+        ]
+    }, 
+    {
+        "created_time": "1490575732", 
+        "days_since_posting": 138.058, 
+        "follow_ratio": 0.6838842975206612, 
+        "followed_by": 331, 
+        "follows": 484, 
+        "likes": 80, 
+        "meanLikes": 111.0, 
+        "postID": "1479378924668204701_4793958810", 
+        "tags": [
+            "plate", 
+            "food", 
+            "table", 
+            "indoor", 
+            "food_"
+        ]
+    }, 
+    {
+        "created_time": "1489264531", 
+        "days_since_posting": 153.276, 
+        "follow_ratio": 0.6838842975206612, 
+        "followed_by": 331, 
+        "follows": 484, 
+        "likes": 107, 
+        "meanLikes": 111.0, 
+        "postID": "1468379775969808309_4793958810", 
+        "tags": [
+            "plate", 
+            "table", 
+            "food", 
+            "food_"
+        ]
+    }
+]

@@ -1,0 +1,113 @@
+[
+    {
+        "created_time": "1497225608", 
+        "days_since_posting": 61.098, 
+        "follow_ratio": 0.9173553719008265, 
+        "followed_by": 111, 
+        "follows": 121, 
+        "likes": 60, 
+        "meanLikes": 48.0, 
+        "postID": "1535162130297504588_4173652733", 
+        "tags": [
+            "cat", 
+            "white", 
+            "animal_cat"
+        ]
+    }, 
+    {
+        "created_time": "1496968911", 
+        "days_since_posting": 64.069, 
+        "follow_ratio": 0.9173553719008265, 
+        "followed_by": 111, 
+        "follows": 121, 
+        "likes": 57, 
+        "meanLikes": 48.0, 
+        "postID": "1533008799688948497_4173652733", 
+        "tags": [
+            "person", 
+            "different", 
+            "people_crowd", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1495401633", 
+        "days_since_posting": 82.209, 
+        "follow_ratio": 0.9173553719008265, 
+        "followed_by": 111, 
+        "follows": 121, 
+        "likes": 27, 
+        "meanLikes": 48.0, 
+        "postID": "1519861517258955316_4173652733", 
+        "tags": [
+            "people_baby"
+        ]
+    }, 
+    {
+        "created_time": "1491451736", 
+        "days_since_posting": 127.925, 
+        "follow_ratio": 0.9173553719008265, 
+        "followed_by": 111, 
+        "follows": 121, 
+        "likes": 48, 
+        "meanLikes": 48.0, 
+        "postID": "1486727383535945976_4173652733", 
+        "tags": [
+            "indoor", 
+            "mammal", 
+            "animal", 
+            "white", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1489362275", 
+        "days_since_posting": 152.109, 
+        "follow_ratio": 0.9173553719008265, 
+        "followed_by": 111, 
+        "follows": 121, 
+        "likes": 38, 
+        "meanLikes": 48.0, 
+        "postID": "1469199708529454495_4173652733", 
+        "tags": [
+            "animal", 
+            "mammal", 
+            "animal_dog"
+        ]
+    }, 
+    {
+        "created_time": "1488558077", 
+        "days_since_posting": 161.458, 
+        "follow_ratio": 0.9173553719008265, 
+        "followed_by": 111, 
+        "follows": 121, 
+        "likes": 51, 
+        "meanLikes": 48.0, 
+        "postID": "1462453610704063654_4173652733", 
+        "tags": [
+            "cat", 
+            "animal", 
+            "mammal", 
+            "indoor", 
+            "domestic cat", 
+            "white", 
+            "animal_dog"
+        ]
+    }, 
+    {
+        "created_time": "1485795016", 
+        "days_since_posting": 193.438, 
+        "follow_ratio": 0.9173553719008265, 
+        "followed_by": 111, 
+        "follows": 121, 
+        "likes": 30, 
+        "meanLikes": 48.0, 
+        "postID": "1439275375347383106_4173652733", 
+        "tags": [
+            "indoor", 
+            "abstract_", 
+            "others_", 
+            "outdoor_"
+        ]
+    }
+]

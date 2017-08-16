@@ -1,0 +1,125 @@
+[
+    {
+        "created_time": "1502403655", 
+        "days_since_posting": 1.171, 
+        "follow_ratio": 2.061111111111111, 
+        "followed_by": 371, 
+        "follows": 180, 
+        "likes": 36, 
+        "meanLikes": 35.148148148148145, 
+        "postID": "1578598733020806826_2258023672", 
+        "tags": [
+            "text_sign"
+        ]
+    }, 
+    {
+        "created_time": "1502403304", 
+        "days_since_posting": 1.175, 
+        "follow_ratio": 2.061111111111111, 
+        "followed_by": 371, 
+        "follows": 180, 
+        "likes": 22, 
+        "meanLikes": 35.148148148148145, 
+        "postID": "1578595792486414352_2258023672", 
+        "tags": [
+            "picture frame", 
+            "abstract_rect"
+        ]
+    }, 
+    {
+        "created_time": "1502153325", 
+        "days_since_posting": 4.068, 
+        "follow_ratio": 2.061111111111111, 
+        "followed_by": 371, 
+        "follows": 180, 
+        "likes": 68, 
+        "meanLikes": 35.148148148148145, 
+        "postID": "1576498812562035589_2258023672", 
+        "tags": [
+            "person", 
+            "woman", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1502066990", 
+        "days_since_posting": 5.067, 
+        "follow_ratio": 2.061111111111111, 
+        "followed_by": 371, 
+        "follows": 180, 
+        "likes": 49, 
+        "meanLikes": 35.148148148148145, 
+        "postID": "1575774583264729962_2258023672", 
+        "tags": [
+            "water", 
+            "person", 
+            "boat", 
+            "outdoor", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1502051967", 
+        "days_since_posting": 5.241, 
+        "follow_ratio": 2.061111111111111, 
+        "followed_by": 371, 
+        "follows": 180, 
+        "likes": 26, 
+        "meanLikes": 35.148148148148145, 
+        "postID": "1575648565552067441_2258023672", 
+        "tags": [
+            "plant", 
+            "plant_leaves"
+        ]
+    }, 
+    {
+        "created_time": "1502049837", 
+        "days_since_posting": 5.266, 
+        "follow_ratio": 2.061111111111111, 
+        "followed_by": 371, 
+        "follows": 180, 
+        "likes": 25, 
+        "meanLikes": 35.148148148148145, 
+        "postID": "1575630694822378663_2258023672", 
+        "tags": [
+            "dog", 
+            "sitting", 
+            "animal", 
+            "black", 
+            "looking", 
+            "brown", 
+            "animal_dog"
+        ]
+    }, 
+    {
+        "created_time": "1501931612", 
+        "days_since_posting": 6.634, 
+        "follow_ratio": 2.061111111111111, 
+        "followed_by": 371, 
+        "follows": 180, 
+        "likes": 35, 
+        "meanLikes": 35.148148148148145, 
+        "postID": "1574638954728609797_2258023672", 
+        "tags": [
+            "text_sign"
+        ]
+    }, 
+    {
+        "created_time": "1501836123", 
+        "days_since_posting": 7.739, 
+        "follow_ratio": 2.061111111111111, 
+        "followed_by": 371, 
+        "follows": 180, 
+        "likes": 26, 
+        "meanLikes": 35.148148148148145, 
+        "postID": "1573837929344080282_2258023672", 
+        "tags": [
+            "dog", 
+            "black", 
+            "indoor", 
+            "looking", 
+            "brown", 
+            "animal_dog"
+        ]
+    }
+]

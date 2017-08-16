@@ -1,0 +1,162 @@
+[
+    {
+        "created_time": "1358200667", 
+        "days_since_posting": 1670.319, 
+        "follow_ratio": 0.4044665012406948, 
+        "followed_by": 163, 
+        "follows": 403, 
+        "likes": 47, 
+        "meanLikes": 31.571428571428573, 
+        "postID": "368936395836291290_241040573", 
+        "tags": [
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1357998076", 
+        "days_since_posting": 1672.663, 
+        "follow_ratio": 0.4044665012406948, 
+        "followed_by": 163, 
+        "follows": 403, 
+        "likes": 45, 
+        "meanLikes": 31.571428571428573, 
+        "postID": "367236938002397873_241040573", 
+        "tags": [
+            "text", 
+            "book", 
+            "indoor", 
+            "text_mag"
+        ]
+    }, 
+    {
+        "created_time": "1357964580", 
+        "days_since_posting": 1673.051, 
+        "follow_ratio": 0.4044665012406948, 
+        "followed_by": 163, 
+        "follows": 403, 
+        "likes": 33, 
+        "meanLikes": 31.571428571428573, 
+        "postID": "366955958263937185_241040573", 
+        "tags": [
+            "grass", 
+            "person", 
+            "outdoor", 
+            "field", 
+            "playing", 
+            "football", 
+            "game", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1357963873", 
+        "days_since_posting": 1673.059, 
+        "follow_ratio": 0.4044665012406948, 
+        "followed_by": 163, 
+        "follows": 403, 
+        "likes": 24, 
+        "meanLikes": 31.571428571428573, 
+        "postID": "366950028843481175_241040573", 
+        "tags": [
+            "others_", 
+            "outdoor_", 
+            "text_sign"
+        ]
+    }, 
+    {
+        "created_time": "1357963825", 
+        "days_since_posting": 1673.06, 
+        "follow_ratio": 0.4044665012406948, 
+        "followed_by": 163, 
+        "follows": 403, 
+        "likes": 20, 
+        "meanLikes": 31.571428571428573, 
+        "postID": "366949627129821263_241040573", 
+        "tags": [
+            "person", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1357963637", 
+        "days_since_posting": 1673.062, 
+        "follow_ratio": 0.4044665012406948, 
+        "followed_by": 163, 
+        "follows": 403, 
+        "likes": 27, 
+        "meanLikes": 31.571428571428573, 
+        "postID": "366948048125360177_241040573", 
+        "tags": [
+            "person", 
+            "posing", 
+            "grass", 
+            "outdoor", 
+            "group", 
+            "young", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1357876882", 
+        "days_since_posting": 1674.066, 
+        "follow_ratio": 0.4044665012406948, 
+        "followed_by": 163, 
+        "follows": 403, 
+        "likes": 25, 
+        "meanLikes": 31.571428571428573, 
+        "postID": "366220291535862503_241040573", 
+        "tags": [
+            "person", 
+            "man", 
+            "suit", 
+            "others_", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1357866552", 
+        "days_since_posting": 1674.186, 
+        "follow_ratio": 0.4044665012406948, 
+        "followed_by": 163, 
+        "follows": 403, 
+        "likes": 42, 
+        "meanLikes": 31.571428571428573, 
+        "postID": "366133638389627187_241040573", 
+        "tags": [
+            "person", 
+            "posing", 
+            "group", 
+            "people", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1357787560", 
+        "days_since_posting": 1675.1, 
+        "follow_ratio": 0.4044665012406948, 
+        "followed_by": 163, 
+        "follows": 403, 
+        "likes": 18, 
+        "meanLikes": 31.571428571428573, 
+        "postID": "365471005399382065_241040573", 
+        "tags": [
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1357765774", 
+        "days_since_posting": 1675.352, 
+        "follow_ratio": 0.4044665012406948, 
+        "followed_by": 163, 
+        "follows": 403, 
+        "likes": 54, 
+        "meanLikes": 31.571428571428573, 
+        "postID": "365288246554982715_241040573", 
+        "tags": [
+            "others_", 
+            "text_sign"
+        ]
+    }
+]

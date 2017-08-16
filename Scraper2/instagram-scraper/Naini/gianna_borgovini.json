@@ -1,0 +1,172 @@
+[
+    {
+        "created_time": "1501762149", 
+        "days_since_posting": 8.646, 
+        "follow_ratio": 1.6614814814814816, 
+        "followed_by": 2243, 
+        "follows": 1350, 
+        "likes": 554, 
+        "meanLikes": 374.6511627906977, 
+        "postID": "1573217395363202865_177547652", 
+        "tags": [
+            "green", 
+            "person", 
+            "plant", 
+            "woman", 
+            "tree", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1501746272", 
+        "days_since_posting": 8.83, 
+        "follow_ratio": 1.6614814814814816, 
+        "followed_by": 2243, 
+        "follows": 1350, 
+        "likes": 402, 
+        "meanLikes": 374.6511627906977, 
+        "postID": "1573084210801290261_177547652", 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "people_", 
+            "people_portrait"
+        ]
+    }, 
+    {
+        "created_time": "1501661672", 
+        "days_since_posting": 9.809, 
+        "follow_ratio": 1.6614814814814816, 
+        "followed_by": 2243, 
+        "follows": 1350, 
+        "likes": 473, 
+        "meanLikes": 374.6511627906977, 
+        "postID": "1572374531670315038_177547652", 
+        "tags": [
+            "water", 
+            "beach", 
+            "sky", 
+            "outdoor", 
+            "shore", 
+            "nature", 
+            "outdoor_oceanbeach", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1501478541", 
+        "days_since_posting": 11.928, 
+        "follow_ratio": 1.6614814814814816, 
+        "followed_by": 2243, 
+        "follows": 1350, 
+        "likes": 330, 
+        "meanLikes": 374.6511627906977, 
+        "postID": "1570838313187042212_177547652", 
+        "tags": [
+            "curtain", 
+            "abstract_texture"
+        ]
+    }, 
+    {
+        "created_time": "1501445436", 
+        "days_since_posting": 12.312, 
+        "follow_ratio": 1.6614814814814816, 
+        "followed_by": 2243, 
+        "follows": 1350, 
+        "likes": 460, 
+        "meanLikes": 374.6511627906977, 
+        "postID": "1570560611037015093_177547652", 
+        "tags": [
+            "person", 
+            "clothing", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1501343951", 
+        "days_since_posting": 13.486, 
+        "follow_ratio": 1.6614814814814816, 
+        "followed_by": 2243, 
+        "follows": 1350, 
+        "likes": 329, 
+        "meanLikes": 374.6511627906977, 
+        "postID": "1569709293464706488_177547652", 
+        "tags": [
+            "people_crowd", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1501231506", 
+        "days_since_posting": 14.788, 
+        "follow_ratio": 1.6614814814814816, 
+        "followed_by": 2243, 
+        "follows": 1350, 
+        "likes": 397, 
+        "meanLikes": 374.6511627906977, 
+        "postID": "1568766033560615271_177547652", 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "way", 
+            "sidewalk", 
+            "street", 
+            "scene", 
+            "outdoor_street"
+        ]
+    }, 
+    {
+        "created_time": "1500696242", 
+        "days_since_posting": 20.983, 
+        "follow_ratio": 1.6614814814814816, 
+        "followed_by": 2243, 
+        "follows": 1350, 
+        "likes": 389, 
+        "meanLikes": 374.6511627906977, 
+        "postID": "1564275916716493781_177547652", 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "woman", 
+            "sitting", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1500497057", 
+        "days_since_posting": 23.288, 
+        "follow_ratio": 1.6614814814814816, 
+        "followed_by": 2243, 
+        "follows": 1350, 
+        "likes": 446, 
+        "meanLikes": 374.6511627906977, 
+        "postID": "1562605028468228678_177547652", 
+        "tags": [
+            "person", 
+            "ground", 
+            "outdoor", 
+            "woman", 
+            "brick", 
+            "standing", 
+            "posing", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1499900458", 
+        "days_since_posting": 30.193, 
+        "follow_ratio": 1.6614814814814816, 
+        "followed_by": 2243, 
+        "follows": 1350, 
+        "likes": 401, 
+        "meanLikes": 374.6511627906977, 
+        "postID": "1557600399850307214_177547652", 
+        "tags": [
+            "tree", 
+            "person", 
+            "outdoor", 
+            "people_", 
+            "people_group"
+        ]
+    }
+]

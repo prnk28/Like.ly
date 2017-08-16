@@ -1,0 +1,157 @@
+[
+    {
+        "created_time": "1502515177", 
+        "days_since_posting": 0.005, 
+        "follow_ratio": 2.2902066486972146, 
+        "followed_by": 2549, 
+        "follows": 1113, 
+        "likes": 6, 
+        "meanLikes": 161.8, 
+        "postID": "1579534248979771608_143973478", 
+        "tags": [
+            "floor", 
+            "indoor", 
+            "indoor_doorwindows", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1502515063", 
+        "days_since_posting": 0.007, 
+        "follow_ratio": 2.2902066486972146, 
+        "followed_by": 2549, 
+        "follows": 1113, 
+        "likes": 5, 
+        "meanLikes": 161.8, 
+        "postID": "1579533296831016274_143973478", 
+        "tags": [
+            "person", 
+            "mask", 
+            "others_", 
+            "people_show"
+        ]
+    }, 
+    {
+        "created_time": "1502513896", 
+        "days_since_posting": 0.02, 
+        "follow_ratio": 2.2902066486972146, 
+        "followed_by": 2549, 
+        "follows": 1113, 
+        "likes": 33, 
+        "meanLikes": 161.8, 
+        "postID": "1579523503332467026_143973478", 
+        "tags": [
+            "wall", 
+            "indoor", 
+            "person", 
+            "floor", 
+            "others_", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1502503249", 
+        "days_since_posting": 0.144, 
+        "follow_ratio": 2.2902066486972146, 
+        "followed_by": 2549, 
+        "follows": 1113, 
+        "likes": 8, 
+        "meanLikes": 161.8, 
+        "postID": "1579434190452203652_143973478", 
+        "tags": [
+            "text", 
+            "book", 
+            "text_"
+        ]
+    }, 
+    {
+        "created_time": "1502503228", 
+        "days_since_posting": 0.144, 
+        "follow_ratio": 2.2902066486972146, 
+        "followed_by": 2549, 
+        "follows": 1113, 
+        "likes": 10, 
+        "meanLikes": 161.8, 
+        "postID": "1579434016816434882_143973478", 
+        "tags": [
+            "text", 
+            "book", 
+            "text_"
+        ]
+    }, 
+    {
+        "created_time": "1502480181", 
+        "days_since_posting": 0.411, 
+        "follow_ratio": 2.2902066486972146, 
+        "followed_by": 2549, 
+        "follows": 1113, 
+        "likes": 21, 
+        "meanLikes": 161.8, 
+        "postID": "1579240686287335821_143973478", 
+        "tags": [
+            "text", 
+            "book", 
+            "text_"
+        ]
+    }, 
+    {
+        "created_time": "1502474903", 
+        "days_since_posting": 0.472, 
+        "follow_ratio": 2.2902066486972146, 
+        "followed_by": 2549, 
+        "follows": 1113, 
+        "likes": 81, 
+        "meanLikes": 161.8, 
+        "postID": "1579196407598943308_143973478", 
+        "tags": [
+            "person", 
+            "group", 
+            "posing", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1502415374", 
+        "days_since_posting": 1.161, 
+        "follow_ratio": 2.2902066486972146, 
+        "followed_by": 2549, 
+        "follows": 1113, 
+        "likes": 193, 
+        "meanLikes": 161.8, 
+        "postID": "1578697043151648332_143973478", 
+        "tags": [
+            "person", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1502308672", 
+        "days_since_posting": 2.396, 
+        "follow_ratio": 2.2902066486972146, 
+        "followed_by": 2549, 
+        "follows": 1113, 
+        "likes": 333, 
+        "meanLikes": 161.8, 
+        "postID": "1577801959451344840_143973478", 
+        "tags": [
+            "person", 
+            "sky", 
+            "outdoor", 
+            "people_young"
+        ]
+    }, 
+    {
+        "created_time": "1502235230", 
+        "days_since_posting": 3.246, 
+        "follow_ratio": 2.2902066486972146, 
+        "followed_by": 2549, 
+        "follows": 1113, 
+        "likes": 134, 
+        "meanLikes": 161.8, 
+        "postID": "1577185887362619195_143973478", 
+        "tags": [
+            "text", 
+            "text_mag"
+        ]
+    }
+]

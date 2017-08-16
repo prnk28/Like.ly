@@ -1,0 +1,149 @@
+[
+    {
+        "created_time": "1364846057", 
+        "days_since_posting": 1593.385, 
+        "follow_ratio": 0.3231707317073171, 
+        "followed_by": 265, 
+        "follows": 820, 
+        "likes": 43, 
+        "meanLikes": 40.166666666666664, 
+        "postID": "424681966789889860_201360418", 
+        "tags": [
+            "abstract_nonphoto", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1360538695", 
+        "days_since_posting": 1643.281, 
+        "follow_ratio": 0.3231707317073171, 
+        "followed_by": 265, 
+        "follows": 820, 
+        "likes": 23, 
+        "meanLikes": 40.166666666666664, 
+        "postID": "388549197890490181_201360418", 
+        "tags": [
+            "text", 
+            "book", 
+            "outdoor", 
+            "sign", 
+            "text_", 
+            "text_sign"
+        ]
+    }, 
+    {
+        "created_time": "1352775773", 
+        "days_since_posting": 1733.129, 
+        "follow_ratio": 0.3231707317073171, 
+        "followed_by": 265, 
+        "follows": 820, 
+        "likes": 33, 
+        "meanLikes": 40.166666666666664, 
+        "postID": "323429089833029132_201360418", 
+        "tags": [
+            "text_", 
+            "text_sign"
+        ]
+    }, 
+    {
+        "created_time": "1351826296", 
+        "days_since_posting": 1744.077, 
+        "follow_ratio": 0.3231707317073171, 
+        "followed_by": 265, 
+        "follows": 820, 
+        "likes": 33, 
+        "meanLikes": 40.166666666666664, 
+        "postID": "315464296564165865_201360418", 
+        "tags": [
+            "others_", 
+            "text_", 
+            "text_menu", 
+            "text_sign"
+        ]
+    }, 
+    {
+        "created_time": "1350594922", 
+        "days_since_posting": 1758.329, 
+        "follow_ratio": 0.3231707317073171, 
+        "followed_by": 265, 
+        "follows": 820, 
+        "likes": 49, 
+        "meanLikes": 40.166666666666664, 
+        "postID": "305134785175915863_201360418", 
+        "tags": [
+            "abstract_", 
+            "others_", 
+            "text_sign"
+        ]
+    }, 
+    {
+        "created_time": "1350522668", 
+        "days_since_posting": 1759.165, 
+        "follow_ratio": 0.3231707317073171, 
+        "followed_by": 265, 
+        "follows": 820, 
+        "likes": 43, 
+        "meanLikes": 40.166666666666664, 
+        "postID": "304528675221966270_201360418", 
+        "tags": [
+            "person", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1350438147", 
+        "days_since_posting": 1760.144, 
+        "follow_ratio": 0.3231707317073171, 
+        "followed_by": 265, 
+        "follows": 820, 
+        "likes": 43, 
+        "meanLikes": 40.166666666666664, 
+        "postID": "303819661634866417_201360418", 
+        "tags": [
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1350179250", 
+        "days_since_posting": 1763.14, 
+        "follow_ratio": 0.3231707317073171, 
+        "followed_by": 265, 
+        "follows": 820, 
+        "likes": 50, 
+        "meanLikes": 40.166666666666664, 
+        "postID": "301647878362140200_201360418", 
+        "tags": [
+            "text_sign"
+        ]
+    }, 
+    {
+        "created_time": "1350144179", 
+        "days_since_posting": 1763.546, 
+        "follow_ratio": 0.3231707317073171, 
+        "followed_by": 265, 
+        "follows": 820, 
+        "likes": 40, 
+        "meanLikes": 40.166666666666664, 
+        "postID": "301353678328466530_201360418", 
+        "tags": [
+            "text_mag"
+        ]
+    }, 
+    {
+        "created_time": "1350081589", 
+        "days_since_posting": 1764.271, 
+        "follow_ratio": 0.3231707317073171, 
+        "followed_by": 265, 
+        "follows": 820, 
+        "likes": 39, 
+        "meanLikes": 40.166666666666664, 
+        "postID": "300828633332092740_201360418", 
+        "tags": [
+            "person", 
+            "text", 
+            "others_", 
+            "outdoor_"
+        ]
+    }
+]

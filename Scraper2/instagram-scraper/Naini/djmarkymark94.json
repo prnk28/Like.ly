@@ -1,0 +1,149 @@
+[
+    {
+        "created_time": "1486959273", 
+        "days_since_posting": 179.962, 
+        "follow_ratio": 1.0060851926977687, 
+        "followed_by": 496, 
+        "follows": 493, 
+        "likes": 83, 
+        "meanLikes": 87.61538461538461, 
+        "postID": "1449041872046670033_40753284", 
+        "tags": [
+            "fence", 
+            "abstract_", 
+            "others_", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1483314724", 
+        "days_since_posting": 222.144, 
+        "follow_ratio": 1.0060851926977687, 
+        "followed_by": 496, 
+        "follows": 493, 
+        "likes": 171, 
+        "meanLikes": 87.61538461538461, 
+        "postID": "1418469178125450843_40753284", 
+        "tags": [
+            "person", 
+            "abstract_", 
+            "outdoor_", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1475017039", 
+        "days_since_posting": 318.141, 
+        "follow_ratio": 1.0060851926977687, 
+        "followed_by": 496, 
+        "follows": 493, 
+        "likes": 139, 
+        "meanLikes": 87.61538461538461, 
+        "postID": "1348863151738923398_40753284", 
+        "tags": [
+            "person", 
+            "posing", 
+            "outdoor", 
+            "standing", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1472576616", 
+        "days_since_posting": 346.386, 
+        "follow_ratio": 1.0060851926977687, 
+        "followed_by": 496, 
+        "follows": 493, 
+        "likes": 66, 
+        "meanLikes": 87.61538461538461, 
+        "postID": "1328391399401465708_40753284", 
+        "tags": [
+            "text", 
+            "text_", 
+            "text_menu"
+        ]
+    }, 
+    {
+        "created_time": "1467138912", 
+        "days_since_posting": 409.323, 
+        "follow_ratio": 1.0060851926977687, 
+        "followed_by": 496, 
+        "follows": 493, 
+        "likes": 86, 
+        "meanLikes": 87.61538461538461, 
+        "postID": "1282776633039839985_40753284", 
+        "tags": [
+            "abstract_", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1465328443", 
+        "days_since_posting": 430.277, 
+        "follow_ratio": 1.0060851926977687, 
+        "followed_by": 496, 
+        "follows": 493, 
+        "likes": 70, 
+        "meanLikes": 87.61538461538461, 
+        "postID": "1267589318716905076_40753284", 
+        "tags": [
+            "building", 
+            "outdoor", 
+            "building_", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1460425781", 
+        "days_since_posting": 487.021, 
+        "follow_ratio": 1.0060851926977687, 
+        "followed_by": 496, 
+        "follows": 493, 
+        "likes": 110, 
+        "meanLikes": 87.61538461538461, 
+        "postID": "1226462806207059776_40753284", 
+        "tags": [
+            "person", 
+            "woman", 
+            "outdoor", 
+            "standing", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1454960814", 
+        "days_since_posting": 550.315, 
+        "follow_ratio": 1.0060851926977687, 
+        "followed_by": 496, 
+        "follows": 493, 
+        "likes": 75, 
+        "meanLikes": 87.61538461538461, 
+        "postID": "1180619338213971046_40753284", 
+        "tags": [
+            "person", 
+            "standing", 
+            "posing", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1419227489", 
+        "days_since_posting": 963.895, 
+        "follow_ratio": 1.0060851926977687, 
+        "followed_by": 496, 
+        "follows": 493, 
+        "likes": 61, 
+        "meanLikes": 87.61538461538461, 
+        "postID": "880866485976913374_40753284", 
+        "tags": [
+            "person", 
+            "wall", 
+            "floor", 
+            "indoor", 
+            "standing", 
+            "people_", 
+            "people_group"
+        ]
+    }
+]

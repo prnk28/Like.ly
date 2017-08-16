@@ -1,0 +1,187 @@
+[
+    {
+        "created_time": "1502376099", 
+        "days_since_posting": 1.601, 
+        "follow_ratio": 1.293078055964654, 
+        "followed_by": 878, 
+        "follows": 679, 
+        "likes": 254, 
+        "meanLikes": 266.3103448275862, 
+        "postID": "1578367577100789438_19262099", 
+        "tags": [
+            "person", 
+            "sofa", 
+            "sitting", 
+            "woman", 
+            "indoor", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1502205064", 
+        "days_since_posting": 3.58, 
+        "follow_ratio": 1.293078055964654, 
+        "followed_by": 878, 
+        "follows": 679, 
+        "likes": 275, 
+        "meanLikes": 266.3103448275862, 
+        "postID": "1576932837059540294_19262099", 
+        "tags": [
+            "person", 
+            "posing", 
+            "group", 
+            "standing", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1501450389", 
+        "days_since_posting": 12.315, 
+        "follow_ratio": 1.293078055964654, 
+        "followed_by": 878, 
+        "follows": 679, 
+        "likes": 240, 
+        "meanLikes": 266.3103448275862, 
+        "postID": "1570602161917939663_19262099", 
+        "tags": [
+            "water", 
+            "outdoor", 
+            "surfing", 
+            "sport", 
+            "water sport", 
+            "riding", 
+            "ocean", 
+            "outdoor_", 
+            "people_swimming"
+        ]
+    }, 
+    {
+        "created_time": "1501369534", 
+        "days_since_posting": 13.251, 
+        "follow_ratio": 1.293078055964654, 
+        "followed_by": 878, 
+        "follows": 679, 
+        "likes": 279, 
+        "meanLikes": 266.3103448275862, 
+        "postID": "1569923898627361468_19262099", 
+        "tags": [
+            "water", 
+            "person", 
+            "outdoor", 
+            "sky", 
+            "beach", 
+            "woman", 
+            "ocean", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1500829750", 
+        "days_since_posting": 19.498, 
+        "follow_ratio": 1.293078055964654, 
+        "followed_by": 878, 
+        "follows": 679, 
+        "likes": 297, 
+        "meanLikes": 266.3103448275862, 
+        "postID": "1565395867514719534_19262099", 
+        "tags": [
+            "person", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1500292349", 
+        "days_since_posting": 25.718, 
+        "follow_ratio": 1.293078055964654, 
+        "followed_by": 878, 
+        "follows": 679, 
+        "likes": 281, 
+        "meanLikes": 266.3103448275862, 
+        "postID": "1560887820281103144_19262099", 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "sky", 
+            "ground", 
+            "posing", 
+            "people", 
+            "woman", 
+            "beach", 
+            "group", 
+            "standing", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1499697754", 
+        "days_since_posting": 32.6, 
+        "follow_ratio": 1.293078055964654, 
+        "followed_by": 878, 
+        "follows": 679, 
+        "likes": 290, 
+        "meanLikes": 266.3103448275862, 
+        "postID": "1555899989011983357_19262099", 
+        "tags": [
+            "building", 
+            "outdoor", 
+            "abstract_", 
+            "abstract_net", 
+            "building_brickwall"
+        ]
+    }, 
+    {
+        "created_time": "1499639927", 
+        "days_since_posting": 33.269, 
+        "follow_ratio": 1.293078055964654, 
+        "followed_by": 878, 
+        "follows": 679, 
+        "likes": 245, 
+        "meanLikes": 266.3103448275862, 
+        "postID": "1555414903913144065_19262099", 
+        "tags": [
+            "outdoor", 
+            "sky", 
+            "grass", 
+            "person", 
+            "outdoor_", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1499542036", 
+        "days_since_posting": 34.402, 
+        "follow_ratio": 1.293078055964654, 
+        "followed_by": 878, 
+        "follows": 679, 
+        "likes": 252, 
+        "meanLikes": 266.3103448275862, 
+        "postID": "1554593735735788881_19262099", 
+        "tags": [
+            "fence", 
+            "person", 
+            "outdoor", 
+            "animal", 
+            "mammal", 
+            "petting", 
+            "outdoor_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1499127561", 
+        "days_since_posting": 39.2, 
+        "follow_ratio": 1.293078055964654, 
+        "followed_by": 878, 
+        "follows": 679, 
+        "likes": 263, 
+        "meanLikes": 266.3103448275862, 
+        "postID": "1551116867191704881_19262099", 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "ground", 
+            "people_", 
+            "people_group"
+        ]
+    }
+]

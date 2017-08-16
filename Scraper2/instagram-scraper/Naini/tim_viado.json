@@ -1,0 +1,182 @@
+[
+    {
+        "created_time": "1500256210", 
+        "days_since_posting": 26.063, 
+        "follow_ratio": 1.1991786447638604, 
+        "followed_by": 584, 
+        "follows": 487, 
+        "likes": 198, 
+        "meanLikes": 148.5, 
+        "postID": "1560584659727952200_15050839", 
+        "tags": [
+            "outdoor", 
+            "tree", 
+            "dog", 
+            "person", 
+            "ground", 
+            "animal", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1500223673", 
+        "days_since_posting": 26.439, 
+        "follow_ratio": 1.1991786447638604, 
+        "followed_by": 584, 
+        "follows": 487, 
+        "likes": 135, 
+        "meanLikes": 148.5, 
+        "postID": "1560311718784218090_15050839", 
+        "tags": [
+            "outdoor", 
+            "water", 
+            "sky", 
+            "tree", 
+            "boat", 
+            "others_", 
+            "outdoor_", 
+            "outdoor_road"
+        ]
+    }, 
+    {
+        "created_time": "1498321666", 
+        "days_since_posting": 48.453, 
+        "follow_ratio": 1.1991786447638604, 
+        "followed_by": 584, 
+        "follows": 487, 
+        "likes": 141, 
+        "meanLikes": 148.5, 
+        "postID": "1544356529837236277_15050839", 
+        "tags": [
+            "tree", 
+            "outdoor", 
+            "plant", 
+            "plant_", 
+            "plant_tree"
+        ]
+    }, 
+    {
+        "created_time": "1497986338", 
+        "days_since_posting": 52.334, 
+        "follow_ratio": 1.1991786447638604, 
+        "followed_by": 584, 
+        "follows": 487, 
+        "likes": 135, 
+        "meanLikes": 148.5, 
+        "postID": "1541543595684935726_15050839", 
+        "tags": [
+            "person", 
+            "indoor", 
+            "standing", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1497242219", 
+        "days_since_posting": 60.947, 
+        "follow_ratio": 1.1991786447638604, 
+        "followed_by": 584, 
+        "follows": 487, 
+        "likes": 160, 
+        "meanLikes": 148.5, 
+        "postID": "1535301472223443521_15050839", 
+        "tags": [
+            "outdoor", 
+            "person", 
+            "tree", 
+            "people_crowd", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1496593531", 
+        "days_since_posting": 68.455, 
+        "follow_ratio": 1.1991786447638604, 
+        "followed_by": 584, 
+        "follows": 487, 
+        "likes": 117, 
+        "meanLikes": 148.5, 
+        "postID": "1529859885938939130_15050839", 
+        "tags": [
+            "plate", 
+            "food", 
+            "food_"
+        ]
+    }, 
+    {
+        "created_time": "1496451341", 
+        "days_since_posting": 70.101, 
+        "follow_ratio": 1.1991786447638604, 
+        "followed_by": 584, 
+        "follows": 487, 
+        "likes": 142, 
+        "meanLikes": 148.5, 
+        "postID": "1528667109037606475_15050839", 
+        "tags": [
+            "tree", 
+            "outdoor", 
+            "ground", 
+            "track", 
+            "outdoor_railway"
+        ]
+    }, 
+    {
+        "created_time": "1495151265", 
+        "days_since_posting": 85.148, 
+        "follow_ratio": 1.1991786447638604, 
+        "followed_by": 584, 
+        "follows": 487, 
+        "likes": 146, 
+        "meanLikes": 148.5, 
+        "postID": "1517761276028248510_15050839", 
+        "tags": [
+            "outdoor", 
+            "tree", 
+            "sky", 
+            "building_", 
+            "building_church"
+        ]
+    }, 
+    {
+        "created_time": "1493598635", 
+        "days_since_posting": 103.118, 
+        "follow_ratio": 1.1991786447638604, 
+        "followed_by": 584, 
+        "follows": 487, 
+        "likes": 157, 
+        "meanLikes": 148.5, 
+        "postID": "1504736876102274925_15050839", 
+        "tags": [
+            "mirror", 
+            "car mirror", 
+            "object", 
+            "sky", 
+            "car", 
+            "outdoor", 
+            "reflection", 
+            "hanging", 
+            "head", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1491182750", 
+        "days_since_posting": 131.08, 
+        "follow_ratio": 1.1991786447638604, 
+        "followed_by": 584, 
+        "follows": 487, 
+        "likes": 211, 
+        "meanLikes": 148.5, 
+        "postID": "1484470958185032210_15050839", 
+        "tags": [
+            "outdoor", 
+            "person", 
+            "sky", 
+            "water", 
+            "man", 
+            "standing", 
+            "people_"
+        ]
+    }
+]

@@ -1,0 +1,160 @@
+[
+    {
+        "created_time": "1495768480", 
+        "days_since_posting": 77.963, 
+        "follow_ratio": 0.7425057647963106, 
+        "followed_by": 966, 
+        "follows": 1301, 
+        "likes": 20, 
+        "meanLikes": 38.0, 
+        "postID": "1522938857468589692_305006654", 
+        "tags": [
+            "abstract_shape", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1490548065", 
+        "days_since_posting": 138.384, 
+        "follow_ratio": 0.7425057647963106, 
+        "followed_by": 966, 
+        "follows": 1301, 
+        "likes": 33, 
+        "meanLikes": 38.0, 
+        "postID": "1479146841362520558_305006654", 
+        "tags": [
+            "person", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1485884229", 
+        "days_since_posting": 192.405, 
+        "follow_ratio": 0.7425057647963106, 
+        "followed_by": 966, 
+        "follows": 1301, 
+        "likes": 38, 
+        "meanLikes": 38.0, 
+        "postID": "1440023749029940939_305006654", 
+        "tags": [
+            "mammal", 
+            "animal", 
+            "looking", 
+            "dark_"
+        ]
+    }, 
+    {
+        "created_time": "1485120187", 
+        "days_since_posting": 201.248, 
+        "follow_ratio": 0.7425057647963106, 
+        "followed_by": 966, 
+        "follows": 1301, 
+        "likes": 64, 
+        "meanLikes": 38.0, 
+        "postID": "1433614496186669421_305006654", 
+        "tags": [
+            "person", 
+            "others_", 
+            "outdoor_", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1484697912", 
+        "days_since_posting": 206.136, 
+        "follow_ratio": 0.7425057647963106, 
+        "followed_by": 966, 
+        "follows": 1301, 
+        "likes": 35, 
+        "meanLikes": 38.0, 
+        "postID": "1430072197305543070_305006654", 
+        "tags": [
+            "person", 
+            "posing", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1483405655", 
+        "days_since_posting": 221.093, 
+        "follow_ratio": 0.7425057647963106, 
+        "followed_by": 966, 
+        "follows": 1301, 
+        "likes": 80, 
+        "meanLikes": 38.0, 
+        "postID": "1419231963806217423_305006654", 
+        "tags": [
+            "person", 
+            "military uniform", 
+            "wall", 
+            "man", 
+            "others_", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1479167893", 
+        "days_since_posting": 270.141, 
+        "follow_ratio": 0.7425057647963106, 
+        "followed_by": 966, 
+        "follows": 1301, 
+        "likes": 64, 
+        "meanLikes": 38.0, 
+        "postID": "1383683035925205397_305006654", 
+        "tags": [
+            "abstract_", 
+            "others_", 
+            "outdoor_", 
+            "text_"
+        ]
+    }, 
+    {
+        "created_time": "1475200734", 
+        "days_since_posting": 316.015, 
+        "follow_ratio": 0.7425057647963106, 
+        "followed_by": 966, 
+        "follows": 1301, 
+        "likes": 68, 
+        "meanLikes": 38.0, 
+        "postID": "1350404095056197836_305006654", 
+        "tags": [
+            "person", 
+            "wall", 
+            "man", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1468194132", 
+        "days_since_posting": 397.11, 
+        "follow_ratio": 0.7425057647963106, 
+        "followed_by": 966, 
+        "follows": 1301, 
+        "likes": 19, 
+        "meanLikes": 38.0, 
+        "postID": "1291628459981849768_305006654", 
+        "tags": [
+            "person", 
+            "others_", 
+            "people_show"
+        ]
+    }, 
+    {
+        "created_time": "1465966247", 
+        "days_since_posting": 422.896, 
+        "follow_ratio": 0.7425057647963106, 
+        "followed_by": 966, 
+        "follows": 1301, 
+        "likes": 34, 
+        "meanLikes": 38.0, 
+        "postID": "1272939603776101805_305006654", 
+        "tags": [
+            "person", 
+            "wall", 
+            "indoor", 
+            "others_", 
+            "people_"
+        ]
+    }
+]

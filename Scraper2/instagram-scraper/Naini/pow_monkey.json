@@ -1,0 +1,172 @@
+[
+    {
+        "created_time": "1469936269", 
+        "days_since_posting": 377.031, 
+        "follow_ratio": 1.1344283553058137, 
+        "followed_by": 5249, 
+        "follows": 4627, 
+        "likes": 384, 
+        "meanLikes": 290.1, 
+        "postID": "1306242560691472767_295294642", 
+        "tags": [
+            "water", 
+            "outdoor", 
+            "water sport", 
+            "mountain", 
+            "surfing", 
+            "riding", 
+            "sport", 
+            "ocean", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1468903354", 
+        "days_since_posting": 388.986, 
+        "follow_ratio": 1.1344283553058137, 
+        "followed_by": 5249, 
+        "follows": 4627, 
+        "likes": 226, 
+        "meanLikes": 290.1, 
+        "postID": "1297577838672747902_295294642", 
+        "tags": [
+            "boat", 
+            "outdoor", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1468106887", 
+        "days_since_posting": 398.204, 
+        "follow_ratio": 1.1344283553058137, 
+        "followed_by": 5249, 
+        "follows": 4627, 
+        "likes": 260, 
+        "meanLikes": 290.1, 
+        "postID": "1290896594811656808_295294642", 
+        "tags": [
+            "water", 
+            "outdoor", 
+            "sport", 
+            "water sport", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1467306750", 
+        "days_since_posting": 407.465, 
+        "follow_ratio": 1.1344283553058137, 
+        "followed_by": 5249, 
+        "follows": 4627, 
+        "likes": 325, 
+        "meanLikes": 290.1, 
+        "postID": "1284184553602271180_295294642", 
+        "tags": [
+            "person", 
+            "indoor", 
+            "abstract_", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1466100845", 
+        "days_since_posting": 421.422, 
+        "follow_ratio": 1.1344283553058137, 
+        "followed_by": 5249, 
+        "follows": 4627, 
+        "likes": 263, 
+        "meanLikes": 290.1, 
+        "postID": "1274068690367188831_295294642", 
+        "tags": [
+            "outdoor", 
+            "person", 
+            "man", 
+            "people_portrait"
+        ]
+    }, 
+    {
+        "created_time": "1465783203", 
+        "days_since_posting": 425.099, 
+        "follow_ratio": 1.1344283553058137, 
+        "followed_by": 5249, 
+        "follows": 4627, 
+        "likes": 215, 
+        "meanLikes": 290.1, 
+        "postID": "1271404116077743702_295294642", 
+        "tags": [
+            "abstract_", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1465425273", 
+        "days_since_posting": 429.242, 
+        "follow_ratio": 1.1344283553058137, 
+        "followed_by": 5249, 
+        "follows": 4627, 
+        "likes": 447, 
+        "meanLikes": 290.1, 
+        "postID": "1268401581993791077_295294642", 
+        "tags": [
+            "person", 
+            "indoor", 
+            "wall", 
+            "window", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1465067186", 
+        "days_since_posting": 433.386, 
+        "follow_ratio": 1.1344283553058137, 
+        "followed_by": 5249, 
+        "follows": 4627, 
+        "likes": 229, 
+        "meanLikes": 290.1, 
+        "postID": "1265397737080786103_295294642", 
+        "tags": [
+            "outdoor", 
+            "snow", 
+            "person", 
+            "skiing", 
+            "abstract_nonphoto", 
+            "abstract_shape", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1463014140", 
+        "days_since_posting": 457.148, 
+        "follow_ratio": 1.1344283553058137, 
+        "followed_by": 5249, 
+        "follows": 4627, 
+        "likes": 326, 
+        "meanLikes": 290.1, 
+        "postID": "1248175536975940725_295294642", 
+        "tags": [
+            "car", 
+            "truck", 
+            "others_", 
+            "outdoor_", 
+            "trans_car"
+        ]
+    }, 
+    {
+        "created_time": "1462066310", 
+        "days_since_posting": 468.119, 
+        "follow_ratio": 1.1344283553058137, 
+        "followed_by": 5249, 
+        "follows": 4627, 
+        "likes": 226, 
+        "meanLikes": 290.1, 
+        "postID": "1240224563376721670_295294642", 
+        "tags": [
+            "person", 
+            "others_", 
+            "people_"
+        ]
+    }
+]

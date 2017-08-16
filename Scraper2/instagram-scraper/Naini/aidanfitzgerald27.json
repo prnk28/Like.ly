@@ -1,0 +1,162 @@
+[
+    {
+        "created_time": "1502230728", 
+        "days_since_posting": 3.3, 
+        "follow_ratio": 1.043847241867044, 
+        "followed_by": 1476, 
+        "follows": 1414, 
+        "likes": 327, 
+        "meanLikes": 340.57142857142856, 
+        "postID": "1577148115415240601_53798660", 
+        "tags": [
+            "person", 
+            "holding", 
+            "indoor", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1501973558", 
+        "days_since_posting": 6.277, 
+        "follow_ratio": 1.043847241867044, 
+        "followed_by": 1476, 
+        "follows": 1414, 
+        "likes": 277, 
+        "meanLikes": 340.57142857142856, 
+        "postID": "1574990823194567459_53798660", 
+        "tags": [
+            "person", 
+            "people_crowd", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1501360076", 
+        "days_since_posting": 13.377, 
+        "follow_ratio": 1.043847241867044, 
+        "followed_by": 1476, 
+        "follows": 1414, 
+        "likes": 333, 
+        "meanLikes": 340.57142857142856, 
+        "postID": "1569844556957035927_53798660", 
+        "tags": [
+            "person", 
+            "wall", 
+            "indoor", 
+            "man", 
+            "people", 
+            "posing", 
+            "group", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1500143244", 
+        "days_since_posting": 27.461, 
+        "follow_ratio": 1.043847241867044, 
+        "followed_by": 1476, 
+        "follows": 1414, 
+        "likes": 355, 
+        "meanLikes": 340.57142857142856, 
+        "postID": "1559637032823855311_53798660", 
+        "tags": [
+            "person", 
+            "indoor", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1499903754", 
+        "days_since_posting": 30.233, 
+        "follow_ratio": 1.043847241867044, 
+        "followed_by": 1476, 
+        "follows": 1414, 
+        "likes": 384, 
+        "meanLikes": 340.57142857142856, 
+        "postID": "1557628047451117310_53798660", 
+        "tags": [
+            "person", 
+            "standing", 
+            "indoor", 
+            "group", 
+            "posing", 
+            "people", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1498228364", 
+        "days_since_posting": 49.624, 
+        "follow_ratio": 1.043847241867044, 
+        "followed_by": 1476, 
+        "follows": 1414, 
+        "likes": 394, 
+        "meanLikes": 340.57142857142856, 
+        "postID": "1543573856931879107_53798660", 
+        "tags": [
+            "person", 
+            "sky", 
+            "grass", 
+            "outdoor", 
+            "standing", 
+            "group", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1497303704", 
+        "days_since_posting": 60.326, 
+        "follow_ratio": 1.043847241867044, 
+        "followed_by": 1476, 
+        "follows": 1414, 
+        "likes": 433, 
+        "meanLikes": 340.57142857142856, 
+        "postID": "1535817248973962433_53798660", 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "clothing", 
+            "academic costume", 
+            "standing", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1496798025", 
+        "days_since_posting": 66.179, 
+        "follow_ratio": 1.043847241867044, 
+        "followed_by": 1476, 
+        "follows": 1414, 
+        "likes": 386, 
+        "meanLikes": 340.57142857142856, 
+        "postID": "1531575300599680122_53798660", 
+        "tags": [
+            "sky", 
+            "grass", 
+            "outdoor", 
+            "person", 
+            "outdoor_sportsfield"
+        ]
+    }, 
+    {
+        "created_time": "1496703639", 
+        "days_since_posting": 67.271, 
+        "follow_ratio": 1.043847241867044, 
+        "followed_by": 1476, 
+        "follows": 1414, 
+        "likes": 349, 
+        "meanLikes": 340.57142857142856, 
+        "postID": "1530783538897570924_53798660", 
+        "tags": [
+            "grass", 
+            "person", 
+            "outdoor", 
+            "field", 
+            "athletic game", 
+            "player", 
+            "group", 
+            "people_group"
+        ]
+    }
+]

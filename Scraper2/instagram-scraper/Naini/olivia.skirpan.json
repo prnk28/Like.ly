@@ -1,0 +1,103 @@
+[
+    {
+        "created_time": "1493749263", 
+        "days_since_posting": 101.432, 
+        "follow_ratio": 0.979757085020243, 
+        "followed_by": 484, 
+        "follows": 494, 
+        "likes": 117, 
+        "meanLikes": 59.0, 
+        "postID": "1506000434618237388_208725346", 
+        "tags": [
+            "person", 
+            "clothing", 
+            "posing", 
+            "people_tattoo"
+        ]
+    }, 
+    {
+        "created_time": "1470091136", 
+        "days_since_posting": 375.253, 
+        "follow_ratio": 0.979757085020243, 
+        "followed_by": 484, 
+        "follows": 494, 
+        "likes": 54, 
+        "meanLikes": 59.0, 
+        "postID": "1307541677174870988_208725346", 
+        "tags": [
+            "grass", 
+            "outdoor", 
+            "sky", 
+            "field", 
+            "plant_"
+        ]
+    }, 
+    {
+        "created_time": "1385251765", 
+        "days_since_posting": 1357.232, 
+        "follow_ratio": 0.979757085020243, 
+        "followed_by": 484, 
+        "follows": 494, 
+        "likes": 112, 
+        "meanLikes": 59.0, 
+        "postID": "595857454294986183_208725346", 
+        "tags": [
+            "dog", 
+            "indoor", 
+            "abstract_nonphoto", 
+            "people_portrait"
+        ]
+    }, 
+    {
+        "created_time": "1383528517", 
+        "days_since_posting": 1377.177, 
+        "follow_ratio": 0.979757085020243, 
+        "followed_by": 484, 
+        "follows": 494, 
+        "likes": 115, 
+        "meanLikes": 59.0, 
+        "postID": "581401804827618966_208725346", 
+        "tags": [
+            "person", 
+            "clothing", 
+            "indoor", 
+            "headdress", 
+            "others_", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1379814892", 
+        "days_since_posting": 1420.117, 
+        "follow_ratio": 0.979757085020243, 
+        "followed_by": 484, 
+        "follows": 494, 
+        "likes": 100, 
+        "meanLikes": 59.0, 
+        "postID": "550249654428987030_208725346", 
+        "tags": [
+            "person", 
+            "indoor", 
+            "standing", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1378662135", 
+        "days_since_posting": 1433.459, 
+        "follow_ratio": 0.979757085020243, 
+        "followed_by": 484, 
+        "follows": 494, 
+        "likes": 91, 
+        "meanLikes": 59.0, 
+        "postID": "540579630630136835_208725346", 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "tree", 
+            "standing", 
+            "people_", 
+            "people_group"
+        ]
+    }
+]

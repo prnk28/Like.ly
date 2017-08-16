@@ -1,0 +1,170 @@
+[
+    {
+        "created_time": "1499447617", 
+        "days_since_posting": 35.477, 
+        "follow_ratio": 1.2178669097538741, 
+        "followed_by": 1336, 
+        "follows": 1097, 
+        "likes": 315, 
+        "meanLikes": 306.1764705882353, 
+        "postID": "1553801691455277710_12751346", 
+        "tags": [
+            "person", 
+            "posing", 
+            "people_group", 
+            "people_young"
+        ]
+    }, 
+    {
+        "created_time": "1498148855", 
+        "days_since_posting": 50.509, 
+        "follow_ratio": 1.2178669097538741, 
+        "followed_by": 1336, 
+        "follows": 1097, 
+        "likes": 471, 
+        "meanLikes": 306.1764705882353, 
+        "postID": "1542906885287846273_12751346", 
+        "tags": [
+            "others_", 
+            "people_show", 
+            "text_sign"
+        ]
+    }, 
+    {
+        "created_time": "1495576594", 
+        "days_since_posting": 80.28, 
+        "follow_ratio": 1.2178669097538741, 
+        "followed_by": 1336, 
+        "follows": 1097, 
+        "likes": 332, 
+        "meanLikes": 306.1764705882353, 
+        "postID": "1521329199063048685_12751346", 
+        "tags": [
+            "outdoor", 
+            "building", 
+            "person", 
+            "brick", 
+            "stone", 
+            "outdoor_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1494803861", 
+        "days_since_posting": 89.224, 
+        "follow_ratio": 1.2178669097538741, 
+        "followed_by": 1336, 
+        "follows": 1097, 
+        "likes": 468, 
+        "meanLikes": 306.1764705882353, 
+        "postID": "1514847044451694379_12751346", 
+        "tags": [
+            "water", 
+            "person", 
+            "outdoor", 
+            "outdoor_", 
+            "people_many"
+        ]
+    }, 
+    {
+        "created_time": "1494689340", 
+        "days_since_posting": 90.549, 
+        "follow_ratio": 1.2178669097538741, 
+        "followed_by": 1336, 
+        "follows": 1097, 
+        "likes": 221, 
+        "meanLikes": 306.1764705882353, 
+        "postID": "1513886368916766571_12751346", 
+        "tags": [
+            "person", 
+            "music", 
+            "others_", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1490019210", 
+        "days_since_posting": 144.602, 
+        "follow_ratio": 1.2178669097538741, 
+        "followed_by": 1336, 
+        "follows": 1097, 
+        "likes": 253, 
+        "meanLikes": 306.1764705882353, 
+        "postID": "1474710485135090557_12751346", 
+        "tags": [
+            "fence", 
+            "person", 
+            "outdoor", 
+            "others_", 
+            "outdoor_", 
+            "text_sign"
+        ]
+    }, 
+    {
+        "created_time": "1488937746", 
+        "days_since_posting": 157.16, 
+        "follow_ratio": 1.2178669097538741, 
+        "followed_by": 1336, 
+        "follows": 1097, 
+        "likes": 344, 
+        "meanLikes": 306.1764705882353, 
+        "postID": "1465638506004866533_12751346", 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "smiling", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1486324250", 
+        "days_since_posting": 187.409, 
+        "follow_ratio": 1.2178669097538741, 
+        "followed_by": 1336, 
+        "follows": 1097, 
+        "likes": 250, 
+        "meanLikes": 306.1764705882353, 
+        "postID": "1443714906628851018_12751346", 
+        "tags": [
+            "person", 
+            "woman", 
+            "people_portrait"
+        ]
+    }, 
+    {
+        "created_time": "1485716217", 
+        "days_since_posting": 194.447, 
+        "follow_ratio": 1.2178669097538741, 
+        "followed_by": 1336, 
+        "follows": 1097, 
+        "likes": 318, 
+        "meanLikes": 306.1764705882353, 
+        "postID": "1438614357113342715_12751346", 
+        "tags": [
+            "person", 
+            "posing", 
+            "group", 
+            "standing", 
+            "young", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1485181974", 
+        "days_since_posting": 200.63, 
+        "follow_ratio": 1.2178669097538741, 
+        "followed_by": 1336, 
+        "follows": 1097, 
+        "likes": 303, 
+        "meanLikes": 306.1764705882353, 
+        "postID": "1434132802705914884_12751346", 
+        "tags": [
+            "person", 
+            "indoor", 
+            "posing", 
+            "floor", 
+            "standing", 
+            "people_group"
+        ]
+    }
+]

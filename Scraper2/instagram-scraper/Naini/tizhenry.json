@@ -1,0 +1,173 @@
+[
+    {
+        "created_time": "1502325068", 
+        "days_since_posting": 2.2, 
+        "follow_ratio": 1.9602076124567474, 
+        "followed_by": 1133, 
+        "follows": 578, 
+        "likes": 325, 
+        "meanLikes": 359.25, 
+        "postID": "1577939496207883465_2171281", 
+        "tags": [
+            "person", 
+            "wall", 
+            "woman", 
+            "indoor", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1502070244", 
+        "days_since_posting": 5.15, 
+        "follow_ratio": 1.9602076124567474, 
+        "followed_by": 1133, 
+        "follows": 578, 
+        "likes": 366, 
+        "meanLikes": 359.25, 
+        "postID": "1575801879576157356_2171281", 
+        "tags": [
+            "woman", 
+            "person", 
+            "clothing", 
+            "posing", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1501808615", 
+        "days_since_posting": 8.178, 
+        "follow_ratio": 1.9602076124567474, 
+        "followed_by": 1133, 
+        "follows": 578, 
+        "likes": 377, 
+        "meanLikes": 359.25, 
+        "postID": "1573607179230272640_2171281", 
+        "tags": [
+            "person", 
+            "woman", 
+            "young", 
+            "abstract_nonphoto", 
+            "abstract_texture"
+        ]
+    }, 
+    {
+        "created_time": "1499305024", 
+        "days_since_posting": 37.155, 
+        "follow_ratio": 1.9602076124567474, 
+        "followed_by": 1133, 
+        "follows": 578, 
+        "likes": 369, 
+        "meanLikes": 359.25, 
+        "postID": "1552605531276255628_2171281", 
+        "tags": [
+            "person", 
+            "sitting", 
+            "woman", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1498440315", 
+        "days_since_posting": 47.163, 
+        "follow_ratio": 1.9602076124567474, 
+        "followed_by": 1133, 
+        "follows": 578, 
+        "likes": 280, 
+        "meanLikes": 359.25, 
+        "postID": "1545351826843742856_2171281", 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "posing", 
+            "standing", 
+            "girl", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1497752071", 
+        "days_since_posting": 55.129, 
+        "follow_ratio": 1.9602076124567474, 
+        "followed_by": 1133, 
+        "follows": 578, 
+        "likes": 327, 
+        "meanLikes": 359.25, 
+        "postID": "1539578421401893423_2171281", 
+        "tags": [
+            "outdoor", 
+            "sky", 
+            "person", 
+            "water", 
+            "ground", 
+            "beach", 
+            "posing", 
+            "standing", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1496964993", 
+        "days_since_posting": 64.238, 
+        "follow_ratio": 1.9602076124567474, 
+        "followed_by": 1133, 
+        "follows": 578, 
+        "likes": 302, 
+        "meanLikes": 359.25, 
+        "postID": "1532975935027258013_2171281", 
+        "tags": [
+            "person", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1495416296", 
+        "days_since_posting": 82.163, 
+        "follow_ratio": 1.9602076124567474, 
+        "followed_by": 1133, 
+        "follows": 578, 
+        "likes": 383, 
+        "meanLikes": 359.25, 
+        "postID": "1519984521985384237_2171281", 
+        "tags": [
+            "person", 
+            "clothing", 
+            "floor", 
+            "window", 
+            "standing", 
+            "suit", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1495159629", 
+        "days_since_posting": 85.134, 
+        "follow_ratio": 1.9602076124567474, 
+        "followed_by": 1133, 
+        "follows": 578, 
+        "likes": 358, 
+        "meanLikes": 359.25, 
+        "postID": "1517831440795356511_2171281", 
+        "tags": [
+            "person", 
+            "people_show"
+        ]
+    }, 
+    {
+        "created_time": "1494898379", 
+        "days_since_posting": 88.158, 
+        "follow_ratio": 1.9602076124567474, 
+        "followed_by": 1133, 
+        "follows": 578, 
+        "likes": 332, 
+        "meanLikes": 359.25, 
+        "postID": "1515639915848030311_2171281", 
+        "tags": [
+            "person", 
+            "wall", 
+            "clothing", 
+            "posing", 
+            "people_"
+        ]
+    }
+]

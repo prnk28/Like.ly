@@ -1,0 +1,161 @@
+[
+    {
+        "created_time": "1501523346", 
+        "days_since_posting": 11.35, 
+        "follow_ratio": 0.8389830508474576, 
+        "followed_by": 396, 
+        "follows": 472, 
+        "likes": 91, 
+        "meanLikes": 84.81818181818181, 
+        "postID": "1571214166394739520_4787997554", 
+        "tags": [
+            "table", 
+            "food", 
+            "food_"
+        ]
+    }, 
+    {
+        "created_time": "1501083374", 
+        "days_since_posting": 16.442, 
+        "follow_ratio": 0.8389830508474576, 
+        "followed_by": 396, 
+        "follows": 472, 
+        "likes": 98, 
+        "meanLikes": 84.81818181818181, 
+        "postID": "1567523418864357207_4787997554", 
+        "tags": [
+            "person", 
+            "indoor", 
+            "people_crowd", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1500836235", 
+        "days_since_posting": 19.303, 
+        "follow_ratio": 0.8389830508474576, 
+        "followed_by": 396, 
+        "follows": 472, 
+        "likes": 95, 
+        "meanLikes": 84.81818181818181, 
+        "postID": "1565450267217169616_4787997554", 
+        "tags": [
+            "food", 
+            "plate", 
+            "table", 
+            "food_"
+        ]
+    }, 
+    {
+        "created_time": "1500766198", 
+        "days_since_posting": 20.113, 
+        "follow_ratio": 0.8389830508474576, 
+        "followed_by": 396, 
+        "follows": 472, 
+        "likes": 98, 
+        "meanLikes": 84.81818181818181, 
+        "postID": "1564862750386427823_4787997554", 
+        "tags": [
+            "food", 
+            "plate", 
+            "table", 
+            "food_"
+        ]
+    }, 
+    {
+        "created_time": "1499962514", 
+        "days_since_posting": 29.415, 
+        "follow_ratio": 0.8389830508474576, 
+        "followed_by": 396, 
+        "follows": 472, 
+        "likes": 81, 
+        "meanLikes": 84.81818181818181, 
+        "postID": "1558120963768712666_4787997554", 
+        "tags": [
+            "table", 
+            "plate", 
+            "indoor", 
+            "food", 
+            "dinner", 
+            "food_"
+        ]
+    }, 
+    {
+        "created_time": "1499640425", 
+        "days_since_posting": 33.143, 
+        "follow_ratio": 0.8389830508474576, 
+        "followed_by": 396, 
+        "follows": 472, 
+        "likes": 81, 
+        "meanLikes": 84.81818181818181, 
+        "postID": "1555419080700642650_4787997554", 
+        "tags": [
+            "food", 
+            "plate", 
+            "food_"
+        ]
+    }, 
+    {
+        "created_time": "1499569197", 
+        "days_since_posting": 33.968, 
+        "follow_ratio": 0.8389830508474576, 
+        "followed_by": 396, 
+        "follows": 472, 
+        "likes": 97, 
+        "meanLikes": 84.81818181818181, 
+        "postID": "1554821578884596953_4787997554", 
+        "tags": [
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1499120524", 
+        "days_since_posting": 39.161, 
+        "follow_ratio": 0.8389830508474576, 
+        "followed_by": 396, 
+        "follows": 472, 
+        "likes": 81, 
+        "meanLikes": 84.81818181818181, 
+        "postID": "1551057838703711178_4787997554", 
+        "tags": [
+            "table", 
+            "food", 
+            "wooden", 
+            "indoor", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1498959329", 
+        "days_since_posting": 41.026, 
+        "follow_ratio": 0.8389830508474576, 
+        "followed_by": 396, 
+        "follows": 472, 
+        "likes": 63, 
+        "meanLikes": 84.81818181818181, 
+        "postID": "1549705632196910443_4787997554", 
+        "tags": [
+            "food", 
+            "plate", 
+            "food_"
+        ]
+    }, 
+    {
+        "created_time": "1498826878", 
+        "days_since_posting": 42.559, 
+        "follow_ratio": 0.8389830508474576, 
+        "followed_by": 396, 
+        "follows": 472, 
+        "likes": 76, 
+        "meanLikes": 84.81818181818181, 
+        "postID": "1548594558156536391_4787997554", 
+        "tags": [
+            "food", 
+            "table", 
+            "plate", 
+            "food_", 
+            "others_"
+        ]
+    }
+]

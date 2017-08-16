@@ -1,0 +1,144 @@
+[
+    {
+        "created_time": "1357969701", 
+        "days_since_posting": 1672.988, 
+        "follow_ratio": 0.2016551724137931, 
+        "followed_by": 731, 
+        "follows": 3625, 
+        "likes": 272, 
+        "meanLikes": 178.67857142857142, 
+        "postID": "366998910212512994_260727822", 
+        "tags": [
+            "text", 
+            "posing", 
+            "people_group", 
+            "text_mag"
+        ]
+    }, 
+    {
+        "created_time": "1357969688", 
+        "days_since_posting": 1672.988, 
+        "follow_ratio": 0.2016551724137931, 
+        "followed_by": 731, 
+        "follows": 3625, 
+        "likes": 151, 
+        "meanLikes": 178.67857142857142, 
+        "postID": "366998804625104095_260727822", 
+        "tags": [
+            "person", 
+            "posing", 
+            "text", 
+            "group", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1357969667", 
+        "days_since_posting": 1672.989, 
+        "follow_ratio": 0.2016551724137931, 
+        "followed_by": 731, 
+        "follows": 3625, 
+        "likes": 157, 
+        "meanLikes": 178.67857142857142, 
+        "postID": "366998629051538652_260727822", 
+        "tags": [
+            "others_", 
+            "text_sign"
+        ]
+    }, 
+    {
+        "created_time": "1357492119", 
+        "days_since_posting": 1678.516, 
+        "follow_ratio": 0.2016551724137931, 
+        "followed_by": 731, 
+        "follows": 3625, 
+        "likes": 254, 
+        "meanLikes": 178.67857142857142, 
+        "postID": "362992667034656501_260727822", 
+        "tags": [
+            "posing", 
+            "group", 
+            "person", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1357492057", 
+        "days_since_posting": 1678.517, 
+        "follow_ratio": 0.2016551724137931, 
+        "followed_by": 731, 
+        "follows": 3625, 
+        "likes": 204, 
+        "meanLikes": 178.67857142857142, 
+        "postID": "362992142142676715_260727822", 
+        "tags": [
+            "person", 
+            "man", 
+            "others_", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1357491842", 
+        "days_since_posting": 1678.519, 
+        "follow_ratio": 0.2016551724137931, 
+        "followed_by": 731, 
+        "follows": 3625, 
+        "likes": 146, 
+        "meanLikes": 178.67857142857142, 
+        "postID": "362990338759728857_260727822", 
+        "tags": [
+            "outdoor_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1357491807", 
+        "days_since_posting": 1678.52, 
+        "follow_ratio": 0.2016551724137931, 
+        "followed_by": 731, 
+        "follows": 3625, 
+        "likes": 194, 
+        "meanLikes": 178.67857142857142, 
+        "postID": "362990044227313367_260727822", 
+        "tags": [
+            "person", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1356721898", 
+        "days_since_posting": 1687.431, 
+        "follow_ratio": 0.2016551724137931, 
+        "followed_by": 731, 
+        "follows": 3625, 
+        "likes": 235, 
+        "meanLikes": 178.67857142857142, 
+        "postID": "356531583700442960_260727822", 
+        "tags": [
+            "man", 
+            "person", 
+            "monitor", 
+            "text", 
+            "screen", 
+            "others_", 
+            "outdoor_", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1356720785", 
+        "days_since_posting": 1687.443, 
+        "follow_ratio": 0.2016551724137931, 
+        "followed_by": 731, 
+        "follows": 3625, 
+        "likes": 224, 
+        "meanLikes": 178.67857142857142, 
+        "postID": "356522248849071793_260727822", 
+        "tags": [
+            "person", 
+            "others_", 
+            "outdoor_"
+        ]
+    }
+]

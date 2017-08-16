@@ -1,0 +1,124 @@
+[
+    {
+        "created_time": "1502399391", 
+        "days_since_posting": 1.257, 
+        "follow_ratio": 0.7874396135265701, 
+        "followed_by": 326, 
+        "follows": 414, 
+        "likes": 37, 
+        "meanLikes": 39.0, 
+        "postID": "1578562967199362983_338942303", 
+        "tags": [
+            "indoor", 
+            "wall", 
+            "abstract_", 
+            "indoor_room", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1502309526", 
+        "days_since_posting": 2.297, 
+        "follow_ratio": 0.7874396135265701, 
+        "followed_by": 326, 
+        "follows": 414, 
+        "likes": 53, 
+        "meanLikes": 39.0, 
+        "postID": "1577809122794008561_338942303", 
+        "tags": [
+            "indoor", 
+            "wall", 
+            "living", 
+            "floor", 
+            "kitchen", 
+            "indoor_"
+        ]
+    }, 
+    {
+        "created_time": "1500573238", 
+        "days_since_posting": 22.393, 
+        "follow_ratio": 0.7874396135265701, 
+        "followed_by": 326, 
+        "follows": 414, 
+        "likes": 28, 
+        "meanLikes": 39.0, 
+        "postID": "1563244084561418225_338942303", 
+        "tags": [
+            "cup", 
+            "beverage", 
+            "coffee", 
+            "food", 
+            "table", 
+            "indoor", 
+            "abstract_shape"
+        ]
+    }, 
+    {
+        "created_time": "1500222249", 
+        "days_since_posting": 26.455, 
+        "follow_ratio": 0.7874396135265701, 
+        "followed_by": 326, 
+        "follows": 414, 
+        "likes": 34, 
+        "meanLikes": 39.0, 
+        "postID": "1560299774522152609_338942303", 
+        "tags": [
+            "outdoor", 
+            "sky", 
+            "tree", 
+            "grass", 
+            "building_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1499792945", 
+        "days_since_posting": 31.424, 
+        "follow_ratio": 0.7874396135265701, 
+        "followed_by": 326, 
+        "follows": 414, 
+        "likes": 42, 
+        "meanLikes": 39.0, 
+        "postID": "1556698510789756057_338942303", 
+        "tags": [
+            "cat", 
+            "floor", 
+            "indoor", 
+            "animal_cat"
+        ]
+    }, 
+    {
+        "created_time": "1490109815", 
+        "days_since_posting": 143.498, 
+        "follow_ratio": 0.7874396135265701, 
+        "followed_by": 326, 
+        "follows": 414, 
+        "likes": 37, 
+        "meanLikes": 39.0, 
+        "postID": "1475470528151126728_338942303", 
+        "tags": [
+            "outdoor", 
+            "sky", 
+            "building_street", 
+            "outdoor_city"
+        ]
+    }, 
+    {
+        "created_time": "1490051278", 
+        "days_since_posting": 144.175, 
+        "follow_ratio": 0.7874396135265701, 
+        "followed_by": 326, 
+        "follows": 414, 
+        "likes": 32, 
+        "meanLikes": 39.0, 
+        "postID": "1474979484045340222_338942303", 
+        "tags": [
+            "ground", 
+            "building", 
+            "bench", 
+            "stone", 
+            "wall", 
+            "plant_branch"
+        ]
+    }
+]

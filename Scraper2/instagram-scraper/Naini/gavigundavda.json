@@ -1,0 +1,148 @@
+[
+    {
+        "created_time": "1501723076", 
+        "days_since_posting": 9.14, 
+        "follow_ratio": 1.6896551724137931, 
+        "followed_by": 1078, 
+        "follows": 638, 
+        "likes": 73, 
+        "meanLikes": 165.05, 
+        "postID": "1572889625679606209_175343408", 
+        "tags": [
+            "text", 
+            "abstract_nonphoto", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1501642258", 
+        "days_since_posting": 10.075, 
+        "follow_ratio": 1.6896551724137931, 
+        "followed_by": 1078, 
+        "follows": 638, 
+        "likes": 160, 
+        "meanLikes": 165.05, 
+        "postID": "1572211674336033729_175343408", 
+        "tags": [
+            "grass", 
+            "tree", 
+            "outdoor", 
+            "plant_tree"
+        ]
+    }, 
+    {
+        "created_time": "1501505929", 
+        "days_since_posting": 11.653, 
+        "follow_ratio": 1.6896551724137931, 
+        "followed_by": 1078, 
+        "follows": 638, 
+        "likes": 109, 
+        "meanLikes": 165.05, 
+        "postID": "1571068060239211714_175343408", 
+        "tags": [
+            "text", 
+            "whiteboard", 
+            "others_", 
+            "text_"
+        ]
+    }, 
+    {
+        "created_time": "1500083426", 
+        "days_since_posting": 28.117, 
+        "follow_ratio": 1.6896551724137931, 
+        "followed_by": 1078, 
+        "follows": 638, 
+        "likes": 185, 
+        "meanLikes": 165.05, 
+        "postID": "1559135244387846054_175343408", 
+        "tags": [
+            "person", 
+            "tree", 
+            "outdoor", 
+            "posing", 
+            "group", 
+            "people", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1498249949", 
+        "days_since_posting": 49.338, 
+        "follow_ratio": 1.6896551724137931, 
+        "followed_by": 1078, 
+        "follows": 638, 
+        "likes": 181, 
+        "meanLikes": 165.05, 
+        "postID": "1543754925488872398_175343408", 
+        "tags": [
+            "tree", 
+            "outdoor", 
+            "grass", 
+            "outdoor_", 
+            "plant_tree"
+        ]
+    }, 
+    {
+        "created_time": "1498008364", 
+        "days_since_posting": 52.134, 
+        "follow_ratio": 1.6896551724137931, 
+        "followed_by": 1078, 
+        "follows": 638, 
+        "likes": 140, 
+        "meanLikes": 165.05, 
+        "postID": "1541728366678535372_175343408", 
+        "tags": [
+            "abstract_", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1497988589", 
+        "days_since_posting": 52.363, 
+        "follow_ratio": 1.6896551724137931, 
+        "followed_by": 1078, 
+        "follows": 638, 
+        "likes": 201, 
+        "meanLikes": 165.05, 
+        "postID": "1541562478641884498_175343408", 
+        "tags": [
+            "tree", 
+            "outdoor", 
+            "water", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1497754489", 
+        "days_since_posting": 55.073, 
+        "follow_ratio": 1.6896551724137931, 
+        "followed_by": 1078, 
+        "follows": 638, 
+        "likes": 348, 
+        "meanLikes": 165.05, 
+        "postID": "1539598704779458082_175343408", 
+        "tags": [
+            "grass", 
+            "outdoor", 
+            "person", 
+            "ground", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1497554038", 
+        "days_since_posting": 57.393, 
+        "follow_ratio": 1.6896551724137931, 
+        "followed_by": 1078, 
+        "follows": 638, 
+        "likes": 180, 
+        "meanLikes": 165.05, 
+        "postID": "1537917196863710724_175343408", 
+        "tags": [
+            "abstract_", 
+            "others_", 
+            "outdoor_"
+        ]
+    }
+]

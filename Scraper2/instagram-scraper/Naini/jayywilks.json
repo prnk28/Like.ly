@@ -1,0 +1,184 @@
+[
+    {
+        "created_time": "1501804361", 
+        "days_since_posting": 8.099, 
+        "follow_ratio": 1.1982142857142857, 
+        "followed_by": 671, 
+        "follows": 560, 
+        "likes": 215, 
+        "meanLikes": 230.0, 
+        "postID": "1573571490081936349_4530580067", 
+        "tags": [
+            "grass", 
+            "outdoor", 
+            "sky", 
+            "person", 
+            "man", 
+            "field", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1501284553", 
+        "days_since_posting": 14.115, 
+        "follow_ratio": 1.1982142857142857, 
+        "followed_by": 671, 
+        "follows": 560, 
+        "likes": 219, 
+        "meanLikes": 230.0, 
+        "postID": "1569211028628560493_4530580067", 
+        "tags": [
+            "person", 
+            "building", 
+            "sitting", 
+            "outdoor", 
+            "man", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1500940906", 
+        "days_since_posting": 18.093, 
+        "follow_ratio": 1.1982142857142857, 
+        "followed_by": 671, 
+        "follows": 560, 
+        "likes": 255, 
+        "meanLikes": 230.0, 
+        "postID": "1566328306390042630_4530580067", 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "man", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1496105781", 
+        "days_since_posting": 74.055, 
+        "follow_ratio": 1.1982142857142857, 
+        "followed_by": 671, 
+        "follows": 560, 
+        "likes": 265, 
+        "meanLikes": 230.0, 
+        "postID": "1525768341548359508_4530580067", 
+        "tags": [
+            "water", 
+            "person", 
+            "outdoor", 
+            "people_swimming"
+        ]
+    }, 
+    {
+        "created_time": "1493942590", 
+        "days_since_posting": 99.092, 
+        "follow_ratio": 1.1982142857142857, 
+        "followed_by": 671, 
+        "follows": 560, 
+        "likes": 274, 
+        "meanLikes": 230.0, 
+        "postID": "1507622181302216448_4530580067", 
+        "tags": [
+            "bench", 
+            "sitting", 
+            "person", 
+            "wooden", 
+            "ground", 
+            "outdoor", 
+            "park", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1492734923", 
+        "days_since_posting": 113.069, 
+        "follow_ratio": 1.1982142857142857, 
+        "followed_by": 671, 
+        "follows": 560, 
+        "likes": 225, 
+        "meanLikes": 230.0, 
+        "postID": "1497491534231532218_4530580067", 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1492558383", 
+        "days_since_posting": 115.113, 
+        "follow_ratio": 1.1982142857142857, 
+        "followed_by": 671, 
+        "follows": 560, 
+        "likes": 206, 
+        "meanLikes": 230.0, 
+        "postID": "1496010609685577954_4530580067", 
+        "tags": [
+            "person", 
+            "sky", 
+            "outdoor", 
+            "grass", 
+            "woman", 
+            "sport", 
+            "people_many"
+        ]
+    }, 
+    {
+        "created_time": "1490919958", 
+        "days_since_posting": 134.076, 
+        "follow_ratio": 1.1982142857142857, 
+        "followed_by": 671, 
+        "follows": 560, 
+        "likes": 272, 
+        "meanLikes": 230.0, 
+        "postID": "1482266507240314472_4530580067", 
+        "tags": [
+            "outdoor", 
+            "person", 
+            "road", 
+            "skating", 
+            "ground", 
+            "board", 
+            "street", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1489446709", 
+        "days_since_posting": 151.128, 
+        "follow_ratio": 1.1982142857142857, 
+        "followed_by": 671, 
+        "follows": 560, 
+        "likes": 221, 
+        "meanLikes": 230.0, 
+        "postID": "1469907994606507018_4530580067", 
+        "tags": [
+            "outdoor", 
+            "grass", 
+            "sky", 
+            "person", 
+            "track and field", 
+            "sport", 
+            "court", 
+            "outdoor_sportsfield"
+        ]
+    }, 
+    {
+        "created_time": "1488764532", 
+        "days_since_posting": 159.065, 
+        "follow_ratio": 1.1982142857142857, 
+        "followed_by": 671, 
+        "follows": 560, 
+        "likes": 223, 
+        "meanLikes": 230.0, 
+        "postID": "1464185479124815485_4530580067", 
+        "tags": [
+            "person", 
+            "man", 
+            "standing", 
+            "others_", 
+            "people_"
+        ]
+    }
+]

@@ -1,0 +1,97 @@
+[
+    {
+        "created_time": "1502141675", 
+        "days_since_posting": 4.281, 
+        "follow_ratio": 1.1378476420798065, 
+        "followed_by": 941, 
+        "follows": 827, 
+        "likes": 189, 
+        "meanLikes": 230.3013698630137, 
+        "postID": "1576401090890825130_295224992", 
+        "tags": [
+            "text", 
+            "text_", 
+            "text_sign"
+        ]
+    }, 
+    {
+        "created_time": "1501951791", 
+        "days_since_posting": 6.478, 
+        "follow_ratio": 1.1378476420798065, 
+        "followed_by": 941, 
+        "follows": 827, 
+        "likes": 249, 
+        "meanLikes": 230.3013698630137, 
+        "postID": "1574808229791407392_295224992", 
+        "tags": [
+            "person", 
+            "grass", 
+            "outdoor", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1501862969", 
+        "days_since_posting": 7.507, 
+        "follow_ratio": 1.1378476420798065, 
+        "followed_by": 941, 
+        "follows": 827, 
+        "likes": 289, 
+        "meanLikes": 230.3013698630137, 
+        "postID": "1574063129167681463_295224992", 
+        "tags": [
+            "tree", 
+            "window", 
+            "person", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1501724635", 
+        "days_since_posting": 9.108, 
+        "follow_ratio": 1.1378476420798065, 
+        "followed_by": 941, 
+        "follows": 827, 
+        "likes": 244, 
+        "meanLikes": 230.3013698630137, 
+        "postID": "1572902702354440157_295224992", 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "standing", 
+            "posing", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1501002024", 
+        "days_since_posting": 17.471, 
+        "follow_ratio": 1.1378476420798065, 
+        "followed_by": 941, 
+        "follows": 827, 
+        "likes": 255, 
+        "meanLikes": 230.3013698630137, 
+        "postID": "1566840999564944111_295224992", 
+        "tags": [
+            "person", 
+            "standing", 
+            "posing", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1500166904", 
+        "days_since_posting": 27.137, 
+        "follow_ratio": 1.1378476420798065, 
+        "followed_by": 941, 
+        "follows": 827, 
+        "likes": 227, 
+        "meanLikes": 230.3013698630137, 
+        "postID": "1559835505570866884_295224992", 
+        "tags": [
+            "person", 
+            "people_"
+        ]
+    }
+]

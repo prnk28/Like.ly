@@ -1,0 +1,178 @@
+[
+    {
+        "created_time": "1502489834", 
+        "days_since_posting": 0.179, 
+        "follow_ratio": 0.9205548549810845, 
+        "followed_by": 730, 
+        "follows": 793, 
+        "likes": 165, 
+        "meanLikes": 231.4, 
+        "postID": "1579321657905847963_27080528", 
+        "tags": [
+            "outdoor", 
+            "person", 
+            "sky", 
+            "woman", 
+            "water", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1501876953", 
+        "days_since_posting": 7.273, 
+        "follow_ratio": 0.9205548549810845, 
+        "followed_by": 730, 
+        "follows": 793, 
+        "likes": 207, 
+        "meanLikes": 231.4, 
+        "postID": "1574180437961354054_27080528", 
+        "tags": [
+            "sky", 
+            "outdoor", 
+            "water", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1501348203", 
+        "days_since_posting": 13.392, 
+        "follow_ratio": 0.9205548549810845, 
+        "followed_by": 730, 
+        "follows": 793, 
+        "likes": 214, 
+        "meanLikes": 231.4, 
+        "postID": "1569744962991177976_27080528", 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "people", 
+            "group", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1500919270", 
+        "days_since_posting": 18.357, 
+        "follow_ratio": 0.9205548549810845, 
+        "followed_by": 730, 
+        "follows": 793, 
+        "likes": 241, 
+        "meanLikes": 231.4, 
+        "postID": "1566146814796600830_27080528", 
+        "tags": [
+            "tree", 
+            "outdoor", 
+            "sky", 
+            "water", 
+            "boat", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1500469672", 
+        "days_since_posting": 23.561, 
+        "follow_ratio": 0.9205548549810845, 
+        "followed_by": 730, 
+        "follows": 793, 
+        "likes": 243, 
+        "meanLikes": 231.4, 
+        "postID": "1562375307008113676_27080528", 
+        "tags": [
+            "sky", 
+            "water", 
+            "outdoor", 
+            "abstract_", 
+            "others_", 
+            "outdoor_", 
+            "text_sign"
+        ]
+    }, 
+    {
+        "created_time": "1500331875", 
+        "days_since_posting": 25.156, 
+        "follow_ratio": 0.9205548549810845, 
+        "followed_by": 730, 
+        "follows": 793, 
+        "likes": 269, 
+        "meanLikes": 231.4, 
+        "postID": "1561219388358367645_27080528", 
+        "tags": [
+            "outdoor", 
+            "water", 
+            "sky", 
+            "watercraft", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1500068585", 
+        "days_since_posting": 28.203, 
+        "follow_ratio": 0.9205548549810845, 
+        "followed_by": 730, 
+        "follows": 793, 
+        "likes": 235, 
+        "meanLikes": 231.4, 
+        "postID": "1559010750642467125_27080528", 
+        "tags": [
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1499809602", 
+        "days_since_posting": 31.2, 
+        "follow_ratio": 0.9205548549810845, 
+        "followed_by": 730, 
+        "follows": 793, 
+        "likes": 288, 
+        "meanLikes": 231.4, 
+        "postID": "1556838242627594820_27080528", 
+        "tags": [
+            "sky", 
+            "outdoor", 
+            "person", 
+            "water", 
+            "beach", 
+            "standing", 
+            "girl", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1499639385", 
+        "days_since_posting": 33.17, 
+        "follow_ratio": 0.9205548549810845, 
+        "followed_by": 730, 
+        "follows": 793, 
+        "likes": 228, 
+        "meanLikes": 231.4, 
+        "postID": "1555410357698015154_27080528", 
+        "tags": [
+            "outdoor", 
+            "sky", 
+            "plant", 
+            "flower", 
+            "outdoor_field"
+        ]
+    }, 
+    {
+        "created_time": "1499259885", 
+        "days_since_posting": 37.563, 
+        "follow_ratio": 0.9205548549810845, 
+        "followed_by": 730, 
+        "follows": 793, 
+        "likes": 227, 
+        "meanLikes": 231.4, 
+        "postID": "1552226877463967956_27080528", 
+        "tags": [
+            "grass", 
+            "outdoor", 
+            "mammal", 
+            "animal", 
+            "field", 
+            "mountain", 
+            "outdoor_", 
+            "outdoor_grass"
+        ]
+    }
+]

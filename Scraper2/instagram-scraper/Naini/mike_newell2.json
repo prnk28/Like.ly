@@ -1,0 +1,161 @@
+[
+    {
+        "created_time": "1500420968", 
+        "days_since_posting": 24.113, 
+        "follow_ratio": 0.8680981595092024, 
+        "followed_by": 283, 
+        "follows": 326, 
+        "likes": 82, 
+        "meanLikes": 76.0, 
+        "postID": "1561966754922403622_412232260", 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "standing", 
+            "posing", 
+            "people", 
+            "group", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1500254766", 
+        "days_since_posting": 26.037, 
+        "follow_ratio": 0.8680981595092024, 
+        "followed_by": 283, 
+        "follows": 326, 
+        "likes": 86, 
+        "meanLikes": 76.0, 
+        "postID": "1560572546386937357_412232260", 
+        "tags": [
+            "tree", 
+            "outdoor", 
+            "sky", 
+            "grass", 
+            "mountain", 
+            "nature", 
+            "outdoor_mountain"
+        ]
+    }, 
+    {
+        "created_time": "1499054021", 
+        "days_since_posting": 39.934, 
+        "follow_ratio": 0.8680981595092024, 
+        "followed_by": 283, 
+        "follows": 326, 
+        "likes": 112, 
+        "meanLikes": 76.0, 
+        "postID": "1550499966720323763_412232260", 
+        "tags": [
+            "sky", 
+            "ground", 
+            "outdoor", 
+            "others_", 
+            "outdoor_", 
+            "text_sign"
+        ]
+    }, 
+    {
+        "created_time": "1496534437", 
+        "days_since_posting": 69.096, 
+        "follow_ratio": 0.8680981595092024, 
+        "followed_by": 283, 
+        "follows": 326, 
+        "likes": 77, 
+        "meanLikes": 76.0, 
+        "postID": "1529364166861819780_412232260", 
+        "tags": [
+            "text", 
+            "book", 
+            "person", 
+            "text_mag"
+        ]
+    }, 
+    {
+        "created_time": "1496371595", 
+        "days_since_posting": 70.981, 
+        "follow_ratio": 0.8680981595092024, 
+        "followed_by": 283, 
+        "follows": 326, 
+        "likes": 94, 
+        "meanLikes": 76.0, 
+        "postID": "1527998152337033135_412232260", 
+        "tags": [
+            "beach", 
+            "outdoor", 
+            "water", 
+            "sky", 
+            "ground", 
+            "person", 
+            "nature", 
+            "shore", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1496286522", 
+        "days_since_posting": 71.966, 
+        "follow_ratio": 0.8680981595092024, 
+        "followed_by": 283, 
+        "follows": 326, 
+        "likes": 133, 
+        "meanLikes": 76.0, 
+        "postID": "1527284504346155869_412232260", 
+        "tags": [
+            "person", 
+            "man", 
+            "indoor", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1493603033", 
+        "days_since_posting": 103.025, 
+        "follow_ratio": 0.8680981595092024, 
+        "followed_by": 283, 
+        "follows": 326, 
+        "likes": 105, 
+        "meanLikes": 76.0, 
+        "postID": "1504773763689022308_412232260", 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "grass", 
+            "people", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1489965910", 
+        "days_since_posting": 145.121, 
+        "follow_ratio": 0.8680981595092024, 
+        "followed_by": 283, 
+        "follows": 326, 
+        "likes": 122, 
+        "meanLikes": 76.0, 
+        "postID": "1474263365726543860_412232260", 
+        "tags": [
+            "person", 
+            "wall", 
+            "indoor", 
+            "man", 
+            "standing", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1488477513", 
+        "days_since_posting": 162.39, 
+        "follow_ratio": 0.8680981595092024, 
+        "followed_by": 283, 
+        "follows": 326, 
+        "likes": 48, 
+        "meanLikes": 76.0, 
+        "postID": "1461777785889650933_412232260", 
+        "tags": [
+            "others_", 
+            "outdoor_", 
+            "text_sign"
+        ]
+    }
+]

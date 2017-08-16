@@ -1,0 +1,152 @@
+[
+    {
+        "created_time": "1495846123", 
+        "days_since_posting": 77.19, 
+        "follow_ratio": 1.4792560801144492, 
+        "followed_by": 1034, 
+        "follows": 699, 
+        "likes": 379, 
+        "meanLikes": 211.75, 
+        "postID": "1523590168530829796_179918602", 
+        "tags": [
+            "person", 
+            "text_mag"
+        ]
+    }, 
+    {
+        "created_time": "1494640274", 
+        "days_since_posting": 91.147, 
+        "follow_ratio": 1.4792560801144492, 
+        "followed_by": 1034, 
+        "follows": 699, 
+        "likes": 290, 
+        "meanLikes": 211.75, 
+        "postID": "1513474778383261667_179918602", 
+        "tags": [
+            "person", 
+            "standing", 
+            "posing", 
+            "man", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1481853725", 
+        "days_since_posting": 239.181, 
+        "follow_ratio": 1.4792560801144492, 
+        "followed_by": 1034, 
+        "follows": 699, 
+        "likes": 246, 
+        "meanLikes": 211.75, 
+        "postID": "1406213429991395828_179918602", 
+        "tags": [
+            "person", 
+            "floor", 
+            "man", 
+            "athletic game", 
+            "standing", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1470277734", 
+        "days_since_posting": 373.121, 
+        "follow_ratio": 1.4792560801144492, 
+        "followed_by": 1034, 
+        "follows": 699, 
+        "likes": 166, 
+        "meanLikes": 211.75, 
+        "postID": "1309106979868604718_179918602", 
+        "tags": [
+            "floor", 
+            "indoor", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1464747949", 
+        "days_since_posting": 437.123, 
+        "follow_ratio": 1.4792560801144492, 
+        "followed_by": 1034, 
+        "follows": 699, 
+        "likes": 168, 
+        "meanLikes": 211.75, 
+        "postID": "1262719777541475653_179918602", 
+        "tags": [
+            "indoor", 
+            "floor", 
+            "person", 
+            "ceiling", 
+            "sport", 
+            "indoor_court"
+        ]
+    }, 
+    {
+        "created_time": "1453341362", 
+        "days_since_posting": 569.185, 
+        "follow_ratio": 1.4792560801144492, 
+        "followed_by": 1034, 
+        "follows": 699, 
+        "likes": 141, 
+        "meanLikes": 211.75, 
+        "postID": "1167034391562047395_179918602", 
+        "tags": [
+            "building", 
+            "others_", 
+            "outdoor_", 
+            "text_sign"
+        ]
+    }, 
+    {
+        "created_time": "1452218380", 
+        "days_since_posting": 582.183, 
+        "follow_ratio": 1.4792560801144492, 
+        "followed_by": 1034, 
+        "follows": 699, 
+        "likes": 162, 
+        "meanLikes": 211.75, 
+        "postID": "1157614135378726831_179918602", 
+        "tags": [
+            "indoor", 
+            "sport", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1440558240", 
+        "days_since_posting": 717.097, 
+        "follow_ratio": 1.4792560801144492, 
+        "followed_by": 1034, 
+        "follows": 699, 
+        "likes": 159, 
+        "meanLikes": 211.75, 
+        "postID": "1059801794671562167_179918602", 
+        "tags": [
+            "person", 
+            "sport", 
+            "athletic game", 
+            "others_", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1433297063", 
+        "days_since_posting": 801.138, 
+        "follow_ratio": 1.4792560801144492, 
+        "followed_by": 1034, 
+        "follows": 699, 
+        "likes": 127, 
+        "meanLikes": 211.75, 
+        "postID": "998890627837480081_179918602", 
+        "tags": [
+            "person", 
+            "indoor", 
+            "group", 
+            "posing", 
+            "people", 
+            "people_group"
+        ]
+    }
+]

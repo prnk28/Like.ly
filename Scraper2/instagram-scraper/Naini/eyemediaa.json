@@ -1,0 +1,116 @@
+[
+    {
+        "created_time": "1502399440", 
+        "days_since_posting": 1.338, 
+        "follow_ratio": 0.24658640179810934, 
+        "followed_by": 895227, 
+        "follows": 3630480, 
+        "likes": 5585, 
+        "meanLikes": 6025.951289398281, 
+        "postID": "1578563376355179319_30770059", 
+        "tags": [
+            "outdoor", 
+            "outdoor_mountain"
+        ]
+    }, 
+    {
+        "created_time": "1502312346", 
+        "days_since_posting": 2.346, 
+        "follow_ratio": 0.24658640179810934, 
+        "followed_by": 895227, 
+        "follows": 3630480, 
+        "likes": 7299, 
+        "meanLikes": 6025.951289398281, 
+        "postID": "1577832783434719193_30770059", 
+        "tags": [
+            "water", 
+            "outdoor", 
+            "rock", 
+            "nature", 
+            "ocean", 
+            "outdoor_oceanbeach", 
+            "outdoor_stonerock"
+        ]
+    }, 
+    {
+        "created_time": "1502231506", 
+        "days_since_posting": 3.282, 
+        "follow_ratio": 0.24658640179810934, 
+        "followed_by": 895227, 
+        "follows": 3630480, 
+        "likes": 9596, 
+        "meanLikes": 6025.951289398281, 
+        "postID": "1577154644396134920_30770059", 
+        "tags": [
+            "nature", 
+            "sky_cloud"
+        ]
+    }, 
+    {
+        "created_time": "1502189083", 
+        "days_since_posting": 3.773, 
+        "follow_ratio": 0.24658640179810934, 
+        "followed_by": 895227, 
+        "follows": 3630480, 
+        "likes": 4340, 
+        "meanLikes": 6025.951289398281, 
+        "postID": "1576798778195057235_30770059", 
+        "tags": [
+            "outdoor", 
+            "tree", 
+            "mountain", 
+            "snow", 
+            "sky", 
+            "grass", 
+            "outdoor_mountain"
+        ]
+    }, 
+    {
+        "created_time": "1502063609", 
+        "days_since_posting": 5.225, 
+        "follow_ratio": 0.24658640179810934, 
+        "followed_by": 895227, 
+        "follows": 3630480, 
+        "likes": 4660, 
+        "meanLikes": 6025.951289398281, 
+        "postID": "1575746221582361257_30770059", 
+        "tags": [
+            "water", 
+            "outdoor", 
+            "person", 
+            "outdoor_", 
+            "people_swimming"
+        ]
+    }, 
+    {
+        "created_time": "1501969516", 
+        "days_since_posting": 6.314, 
+        "follow_ratio": 0.24658640179810934, 
+        "followed_by": 895227, 
+        "follows": 3630480, 
+        "likes": 3171, 
+        "meanLikes": 6025.951289398281, 
+        "postID": "1574956911367177984_30770059", 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "outdoor_", 
+            "people_swimming"
+        ]
+    }, 
+    {
+        "created_time": "1501847277", 
+        "days_since_posting": 7.729, 
+        "follow_ratio": 0.24658640179810934, 
+        "followed_by": 895227, 
+        "follows": 3630480, 
+        "likes": 4021, 
+        "meanLikes": 6025.951289398281, 
+        "postID": "1573931502638810624_30770059", 
+        "tags": [
+            "tree", 
+            "outdoor", 
+            "outdoor_"
+        ]
+    }
+]

@@ -1,0 +1,179 @@
+[
+    {
+        "created_time": "1502414345", 
+        "days_since_posting": 1.129, 
+        "follow_ratio": 0.993485342019544, 
+        "followed_by": 305, 
+        "follows": 307, 
+        "likes": 116, 
+        "meanLikes": 110.8, 
+        "postID": "1578688406157717326_305245107", 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "standing", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1502223203", 
+        "days_since_posting": 3.341, 
+        "follow_ratio": 0.993485342019544, 
+        "followed_by": 305, 
+        "follows": 307, 
+        "likes": 119, 
+        "meanLikes": 110.8, 
+        "postID": "1577084997641258646_305245107", 
+        "tags": [
+            "outdoor", 
+            "animal", 
+            "mammal", 
+            "outdoor_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1501978814", 
+        "days_since_posting": 6.17, 
+        "follow_ratio": 0.993485342019544, 
+        "followed_by": 305, 
+        "follows": 307, 
+        "likes": 95, 
+        "meanLikes": 110.8, 
+        "postID": "1575034914322137964_305245107", 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "standing", 
+            "people_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1501781062", 
+        "days_since_posting": 8.458, 
+        "follow_ratio": 0.993485342019544, 
+        "followed_by": 305, 
+        "follows": 307, 
+        "likes": 106, 
+        "meanLikes": 110.8, 
+        "postID": "1573376044088431523_305245107", 
+        "tags": [
+            "sky", 
+            "outdoor", 
+            "beach", 
+            "person", 
+            "water", 
+            "posing", 
+            "standing", 
+            "group", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1499720632", 
+        "days_since_posting": 32.306, 
+        "follow_ratio": 0.993485342019544, 
+        "followed_by": 305, 
+        "follows": 307, 
+        "likes": 118, 
+        "meanLikes": 110.8, 
+        "postID": "1556091910605531599_305245107", 
+        "tags": [
+            "sky", 
+            "water", 
+            "outdoor", 
+            "person", 
+            "beach", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1499034920", 
+        "days_since_posting": 40.242, 
+        "follow_ratio": 0.993485342019544, 
+        "followed_by": 305, 
+        "follows": 307, 
+        "likes": 124, 
+        "meanLikes": 110.8, 
+        "postID": "1550339737737252472_305245107", 
+        "tags": [
+            "sky", 
+            "person", 
+            "outdoor", 
+            "water", 
+            "standing", 
+            "beach", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1497378365", 
+        "days_since_posting": 59.416, 
+        "follow_ratio": 0.993485342019544, 
+        "followed_by": 305, 
+        "follows": 307, 
+        "likes": 106, 
+        "meanLikes": 110.8, 
+        "postID": "1536443551590861638_305245107", 
+        "tags": [
+            "person", 
+            "man", 
+            "posing", 
+            "outdoor", 
+            "wearing", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1497239446", 
+        "days_since_posting": 61.023, 
+        "follow_ratio": 0.993485342019544, 
+        "followed_by": 305, 
+        "follows": 307, 
+        "likes": 118, 
+        "meanLikes": 110.8, 
+        "postID": "1535278213205584271_305245107", 
+        "tags": [
+            "posing", 
+            "person", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1494687681", 
+        "days_since_posting": 90.558, 
+        "follow_ratio": 0.993485342019544, 
+        "followed_by": 305, 
+        "follows": 307, 
+        "likes": 128, 
+        "meanLikes": 110.8, 
+        "postID": "1513872452676007996_305245107", 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "posing", 
+            "standing", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1492871978", 
+        "days_since_posting": 111.573, 
+        "follow_ratio": 0.993485342019544, 
+        "followed_by": 305, 
+        "follows": 307, 
+        "likes": 107, 
+        "meanLikes": 110.8, 
+        "postID": "1498641236755368853_305245107", 
+        "tags": [
+            "person", 
+            "clothing", 
+            "standing", 
+            "man", 
+            "suit", 
+            "posing", 
+            "people_group"
+        ]
+    }
+]

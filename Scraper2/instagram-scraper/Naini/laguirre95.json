@@ -1,0 +1,168 @@
+[
+    {
+        "created_time": "1501546172", 
+        "days_since_posting": 11.128, 
+        "follow_ratio": 0.8613333333333333, 
+        "followed_by": 323, 
+        "follows": 375, 
+        "likes": 72, 
+        "meanLikes": 49.674418604651166, 
+        "postID": "1571405643619800737_6773219", 
+        "tags": [
+            "person", 
+            "posing", 
+            "ceiling", 
+            "indoor", 
+            "standing", 
+            "couple", 
+            "wedding", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1496348702", 
+        "days_since_posting": 71.284, 
+        "follow_ratio": 0.8613333333333333, 
+        "followed_by": 323, 
+        "follows": 375, 
+        "likes": 63, 
+        "meanLikes": 49.674418604651166, 
+        "postID": "1527806105323881951_6773219", 
+        "tags": [
+            "tree", 
+            "outdoor", 
+            "flower", 
+            "plant", 
+            "plant_tree"
+        ]
+    }, 
+    {
+        "created_time": "1495912051", 
+        "days_since_posting": 76.338, 
+        "follow_ratio": 0.8613333333333333, 
+        "followed_by": 323, 
+        "follows": 375, 
+        "likes": 35, 
+        "meanLikes": 49.674418604651166, 
+        "postID": "1524143211310750409_6773219", 
+        "tags": [
+            "person", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1494912494", 
+        "days_since_posting": 87.907, 
+        "follow_ratio": 0.8613333333333333, 
+        "followed_by": 323, 
+        "follows": 375, 
+        "likes": 92, 
+        "meanLikes": 49.674418604651166, 
+        "postID": "1515758325168550561_6773219", 
+        "tags": [
+            "person", 
+            "laying", 
+            "bed", 
+            "woman", 
+            "others_", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1493622229", 
+        "days_since_posting": 102.84, 
+        "follow_ratio": 0.8613333333333333, 
+        "followed_by": 323, 
+        "follows": 375, 
+        "likes": 56, 
+        "meanLikes": 49.674418604651166, 
+        "postID": "1504934794923021083_6773219", 
+        "tags": [
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1492976612", 
+        "days_since_posting": 110.313, 
+        "follow_ratio": 0.8613333333333333, 
+        "followed_by": 323, 
+        "follows": 375, 
+        "likes": 79, 
+        "meanLikes": 49.674418604651166, 
+        "postID": "1499518968552024628_6773219", 
+        "tags": [
+            "person", 
+            "wall", 
+            "indoor", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1491976700", 
+        "days_since_posting": 121.886, 
+        "follow_ratio": 0.8613333333333333, 
+        "followed_by": 323, 
+        "follows": 375, 
+        "likes": 65, 
+        "meanLikes": 49.674418604651166, 
+        "postID": "1491131101173931128_6773219", 
+        "tags": [
+            "sky", 
+            "outdoor", 
+            "nature", 
+            "mountain", 
+            "outdoor_", 
+            "outdoor_oceanbeach"
+        ]
+    }, 
+    {
+        "created_time": "1490216228", 
+        "days_since_posting": 142.262, 
+        "follow_ratio": 0.8613333333333333, 
+        "followed_by": 323, 
+        "follows": 375, 
+        "likes": 61, 
+        "meanLikes": 49.674418604651166, 
+        "postID": "1476363184867689333_6773219", 
+        "tags": [
+            "water", 
+            "woman", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1485461644", 
+        "days_since_posting": 197.333, 
+        "follow_ratio": 0.8613333333333333, 
+        "followed_by": 323, 
+        "follows": 375, 
+        "likes": 76, 
+        "meanLikes": 49.674418604651166, 
+        "postID": "1436478847893387408_6773219", 
+        "tags": [
+            "person", 
+            "people", 
+            "group", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1484681153", 
+        "days_since_posting": 206.367, 
+        "follow_ratio": 0.8613333333333333, 
+        "followed_by": 323, 
+        "follows": 375, 
+        "likes": 35, 
+        "meanLikes": 49.674418604651166, 
+        "postID": "1429931613512451835_6773219", 
+        "tags": [
+            "dog", 
+            "indoor", 
+            "looking", 
+            "black", 
+            "brown", 
+            "animal_dog"
+        ]
+    }
+]

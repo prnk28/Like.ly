@@ -1,0 +1,144 @@
+[
+    {
+        "created_time": "1500574961", 
+        "days_since_posting": 22.338, 
+        "follow_ratio": 0.5339470655926352, 
+        "followed_by": 464, 
+        "follows": 869, 
+        "likes": 84, 
+        "meanLikes": 37.5945945945946, 
+        "postID": "1563258539097908394_18141363", 
+        "tags": [
+            "outdoor", 
+            "building", 
+            "sky", 
+            "stone", 
+            "building_arch"
+        ]
+    }, 
+    {
+        "created_time": "1499361843", 
+        "days_since_posting": 36.379, 
+        "follow_ratio": 0.5339470655926352, 
+        "followed_by": 464, 
+        "follows": 869, 
+        "likes": 49, 
+        "meanLikes": 37.5945945945946, 
+        "postID": "1553082164902742396_18141363", 
+        "tags": [
+            "tree", 
+            "outdoor", 
+            "sky", 
+            "palm", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1498753198", 
+        "days_since_posting": 43.423, 
+        "follow_ratio": 0.5339470655926352, 
+        "followed_by": 464, 
+        "follows": 869, 
+        "likes": 75, 
+        "meanLikes": 37.5945945945946, 
+        "postID": "1547976481433769415_18141363", 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "sky", 
+            "striped", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1497623600", 
+        "days_since_posting": 56.497, 
+        "follow_ratio": 0.5339470655926352, 
+        "followed_by": 464, 
+        "follows": 869, 
+        "likes": 107, 
+        "meanLikes": 37.5945945945946, 
+        "postID": "1538500728677963224_18141363", 
+        "tags": [
+            "person", 
+            "woman", 
+            "people_", 
+            "people_portrait"
+        ]
+    }, 
+    {
+        "created_time": "1496704019", 
+        "days_since_posting": 67.141, 
+        "follow_ratio": 0.5339470655926352, 
+        "followed_by": 464, 
+        "follows": 869, 
+        "likes": 61, 
+        "meanLikes": 37.5945945945946, 
+        "postID": "1530786725696532887_18141363", 
+        "tags": [
+            "sky", 
+            "outdoor", 
+            "nature", 
+            "outdoor_", 
+            "outdoor_stonerock"
+        ]
+    }, 
+    {
+        "created_time": "1491493991", 
+        "days_since_posting": 127.442, 
+        "follow_ratio": 0.5339470655926352, 
+        "followed_by": 464, 
+        "follows": 869, 
+        "likes": 46, 
+        "meanLikes": 37.5945945945946, 
+        "postID": "1487081842590144497_18141363", 
+        "tags": [
+            "outdoor", 
+            "beach", 
+            "ground", 
+            "person", 
+            "playing", 
+            "young", 
+            "outdoor_", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1473096873", 
+        "days_since_posting": 340.372, 
+        "follow_ratio": 0.5339470655926352, 
+        "followed_by": 464, 
+        "follows": 869, 
+        "likes": 49, 
+        "meanLikes": 37.5945945945946, 
+        "postID": "1332755631946126165_18141363", 
+        "tags": [
+            "dog", 
+            "outdoor", 
+            "ground", 
+            "sitting", 
+            "animal", 
+            "brown", 
+            "mammal", 
+            "laying", 
+            "animal_dog"
+        ]
+    }, 
+    {
+        "created_time": "1470335966", 
+        "days_since_posting": 372.327, 
+        "follow_ratio": 0.5339470655926352, 
+        "followed_by": 464, 
+        "follows": 869, 
+        "likes": 40, 
+        "meanLikes": 37.5945945945946, 
+        "postID": "1309595467470611983_18141363", 
+        "tags": [
+            "sky", 
+            "outdoor", 
+            "tree", 
+            "sky_cloud"
+        ]
+    }
+]

@@ -1,0 +1,152 @@
+[
+    {
+        "created_time": "1349117494", 
+        "days_since_posting": 1775.407, 
+        "follow_ratio": 0.4716417910447761, 
+        "followed_by": 632, 
+        "follows": 1340, 
+        "likes": 70, 
+        "meanLikes": 66.77777777777777, 
+        "postID": "292741221409375047_209403599", 
+        "tags": [
+            "screenshot", 
+            "abstract", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1346615582", 
+        "days_since_posting": 1804.364, 
+        "follow_ratio": 0.4716417910447761, 
+        "followed_by": 632, 
+        "follows": 1340, 
+        "likes": 85, 
+        "meanLikes": 66.77777777777777, 
+        "postID": "271753659203208018_209403599", 
+        "tags": [
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1346614073", 
+        "days_since_posting": 1804.382, 
+        "follow_ratio": 0.4716417910447761, 
+        "followed_by": 632, 
+        "follows": 1340, 
+        "likes": 68, 
+        "meanLikes": 66.77777777777777, 
+        "postID": "271740998109381305_209403599", 
+        "tags": [
+            "abstract_rect", 
+            "others_", 
+            "text_", 
+            "text_sign"
+        ]
+    }, 
+    {
+        "created_time": "1346613918", 
+        "days_since_posting": 1804.384, 
+        "follow_ratio": 0.4716417910447761, 
+        "followed_by": 632, 
+        "follows": 1340, 
+        "likes": 67, 
+        "meanLikes": 66.77777777777777, 
+        "postID": "271739702925083307_209403599", 
+        "tags": [
+            "building", 
+            "outdoor", 
+            "building_street"
+        ]
+    }, 
+    {
+        "created_time": "1346613658", 
+        "days_since_posting": 1804.387, 
+        "follow_ratio": 0.4716417910447761, 
+        "followed_by": 632, 
+        "follows": 1340, 
+        "likes": 68, 
+        "meanLikes": 66.77777777777777, 
+        "postID": "271737518472839817_209403599", 
+        "tags": [
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1346613454", 
+        "days_since_posting": 1804.389, 
+        "follow_ratio": 0.4716417910447761, 
+        "followed_by": 632, 
+        "follows": 1340, 
+        "likes": 59, 
+        "meanLikes": 66.77777777777777, 
+        "postID": "271735809780499058_209403599", 
+        "tags": [
+            "abstract_", 
+            "others_", 
+            "outdoor_", 
+            "text_"
+        ]
+    }, 
+    {
+        "created_time": "1346612969", 
+        "days_since_posting": 1804.395, 
+        "follow_ratio": 0.4716417910447761, 
+        "followed_by": 632, 
+        "follows": 1340, 
+        "likes": 62, 
+        "meanLikes": 66.77777777777777, 
+        "postID": "271731741725049413_209403599", 
+        "tags": [
+            "food_", 
+            "text_menu"
+        ]
+    }, 
+    {
+        "created_time": "1346612389", 
+        "days_since_posting": 1804.401, 
+        "follow_ratio": 0.4716417910447761, 
+        "followed_by": 632, 
+        "follows": 1340, 
+        "likes": 63, 
+        "meanLikes": 66.77777777777777, 
+        "postID": "271726873044075011_209403599", 
+        "tags": [
+            "person", 
+            "woman", 
+            "indoor", 
+            "window", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1346572469", 
+        "days_since_posting": 1804.864, 
+        "follow_ratio": 0.4716417910447761, 
+        "followed_by": 632, 
+        "follows": 1340, 
+        "likes": 59, 
+        "meanLikes": 66.77777777777777, 
+        "postID": "271392002237022815_209403599", 
+        "tags": [
+            "building", 
+            "building_arch", 
+            "building_doorwindows", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1346572144", 
+        "days_since_posting": 1804.867, 
+        "follow_ratio": 0.4716417910447761, 
+        "followed_by": 632, 
+        "follows": 1340, 
+        "likes": 67, 
+        "meanLikes": 66.77777777777777, 
+        "postID": "271389273590612563_209403599", 
+        "tags": [
+            "indoor", 
+            "others_", 
+            "outdoor_"
+        ]
+    }
+]

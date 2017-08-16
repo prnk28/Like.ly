@@ -1,0 +1,170 @@
+[
+    {
+        "created_time": "1502385630", 
+        "days_since_posting": 1.506, 
+        "follow_ratio": 0.893687707641196, 
+        "followed_by": 1076, 
+        "follows": 1204, 
+        "likes": 225, 
+        "meanLikes": 258.4909090909091, 
+        "postID": "1578447530574912759_309795008", 
+        "tags": [
+            "person", 
+            "man", 
+            "outdoor", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1502274800", 
+        "days_since_posting": 2.789, 
+        "follow_ratio": 0.893687707641196, 
+        "followed_by": 1076, 
+        "follows": 1204, 
+        "likes": 220, 
+        "meanLikes": 258.4909090909091, 
+        "postID": "1577517819950730497_309795008", 
+        "tags": [
+            "tree", 
+            "outdoor", 
+            "forest", 
+            "wood", 
+            "plant", 
+            "plant_tree"
+        ]
+    }, 
+    {
+        "created_time": "1502018623", 
+        "days_since_posting": 5.754, 
+        "follow_ratio": 0.893687707641196, 
+        "followed_by": 1076, 
+        "follows": 1204, 
+        "likes": 235, 
+        "meanLikes": 258.4909090909091, 
+        "postID": "1575368856652848302_309795008", 
+        "tags": [
+            "outdoor", 
+            "water", 
+            "tree", 
+            "sky", 
+            "nature", 
+            "outdoor_", 
+            "outdoor_waterside"
+        ]
+    }, 
+    {
+        "created_time": "1501883868", 
+        "days_since_posting": 7.314, 
+        "follow_ratio": 0.893687707641196, 
+        "followed_by": 1076, 
+        "follows": 1204, 
+        "likes": 424, 
+        "meanLikes": 258.4909090909091, 
+        "postID": "1574238442576065618_309795008", 
+        "tags": [
+            "tree", 
+            "outdoor", 
+            "person", 
+            "standing", 
+            "abstract_", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1501791071", 
+        "days_since_posting": 8.388, 
+        "follow_ratio": 0.893687707641196, 
+        "followed_by": 1076, 
+        "follows": 1204, 
+        "likes": 436, 
+        "meanLikes": 258.4909090909091, 
+        "postID": "1573460007276748808_309795008", 
+        "tags": [
+            "sky", 
+            "car mirror", 
+            "person", 
+            "abstract_", 
+            "others_", 
+            "outdoor_"
+        ]
+    }, 
+    {
+        "created_time": "1501599119", 
+        "days_since_posting": 10.61, 
+        "follow_ratio": 0.893687707641196, 
+        "followed_by": 1076, 
+        "follows": 1204, 
+        "likes": 173, 
+        "meanLikes": 258.4909090909091, 
+        "postID": "1571849796371693210_309795008", 
+        "tags": [
+            "outdoor", 
+            "sky", 
+            "sunset", 
+            "sky_cloud"
+        ]
+    }, 
+    {
+        "created_time": "1501338355", 
+        "days_since_posting": 13.628, 
+        "follow_ratio": 0.893687707641196, 
+        "followed_by": 1076, 
+        "follows": 1204, 
+        "likes": 224, 
+        "meanLikes": 258.4909090909091, 
+        "postID": "1569662351509273925_309795008", 
+        "tags": [
+            "outdoor", 
+            "dark_"
+        ]
+    }, 
+    {
+        "created_time": "1500943351", 
+        "days_since_posting": 18.2, 
+        "follow_ratio": 0.893687707641196, 
+        "followed_by": 1076, 
+        "follows": 1204, 
+        "likes": 132, 
+        "meanLikes": 258.4909090909091, 
+        "postID": "1566348820990806754_309795008", 
+        "tags": [
+            "sky", 
+            "outdoor", 
+            "sunset", 
+            "clouds", 
+            "sky_cloud"
+        ]
+    }, 
+    {
+        "created_time": "1500684724", 
+        "days_since_posting": 21.193, 
+        "follow_ratio": 0.893687707641196, 
+        "followed_by": 1076, 
+        "follows": 1204, 
+        "likes": 226, 
+        "meanLikes": 258.4909090909091, 
+        "postID": "1564179295503594917_309795008", 
+        "tags": [
+            "building", 
+            "outdoor", 
+            "outdoor_", 
+            "outdoor_street"
+        ]
+    }, 
+    {
+        "created_time": "1500338642", 
+        "days_since_posting": 25.199, 
+        "follow_ratio": 0.893687707641196, 
+        "followed_by": 1076, 
+        "follows": 1204, 
+        "likes": 142, 
+        "meanLikes": 258.4909090909091, 
+        "postID": "1561276152499297567_309795008", 
+        "tags": [
+            "tree", 
+            "outdoor", 
+            "sky_cloud"
+        ]
+    }
+]

@@ -1,0 +1,153 @@
+[
+    {
+        "created_time": "1501725979", 
+        "days_since_posting": 9.01, 
+        "follow_ratio": 1.2008862629246677, 
+        "followed_by": 2439, 
+        "follows": 2031, 
+        "likes": 302, 
+        "meanLikes": 363.375, 
+        "postID": "1572913980803074837_1643381748", 
+        "tags": [
+            "others_", 
+            "text_"
+        ]
+    }, 
+    {
+        "created_time": "1501370592", 
+        "days_since_posting": 13.123, 
+        "follow_ratio": 1.2008862629246677, 
+        "followed_by": 2439, 
+        "follows": 2031, 
+        "likes": 273, 
+        "meanLikes": 363.375, 
+        "postID": "1569932773446326119_1643381748", 
+        "tags": [
+            "tree", 
+            "outdoor", 
+            "sky", 
+            "plant_tree"
+        ]
+    }, 
+    {
+        "created_time": "1500252329", 
+        "days_since_posting": 26.066, 
+        "follow_ratio": 1.2008862629246677, 
+        "followed_by": 2439, 
+        "follows": 2031, 
+        "likes": 510, 
+        "meanLikes": 363.375, 
+        "postID": "1560552105838708485_1643381748", 
+        "tags": [
+            "sky", 
+            "outdoor", 
+            "person", 
+            "woman", 
+            "outdoor_", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1499980154", 
+        "days_since_posting": 29.216, 
+        "follow_ratio": 1.2008862629246677, 
+        "followed_by": 2439, 
+        "follows": 2031, 
+        "likes": 404, 
+        "meanLikes": 363.375, 
+        "postID": "1558268939728027343_1643381748", 
+        "tags": [
+            "person", 
+            "indoor", 
+            "ceiling", 
+            "wall", 
+            "group", 
+            "posing", 
+            "people_group"
+        ]
+    }, 
+    {
+        "created_time": "1499644345", 
+        "days_since_posting": 33.103, 
+        "follow_ratio": 1.2008862629246677, 
+        "followed_by": 2439, 
+        "follows": 2031, 
+        "likes": 427, 
+        "meanLikes": 363.375, 
+        "postID": "1555451961963270214_1643381748", 
+        "tags": [
+            "person", 
+            "athletic game", 
+            "sport", 
+            "tennis", 
+            "racket", 
+            "outdoor", 
+            "woman", 
+            "people_", 
+            "people_show"
+        ]
+    }, 
+    {
+        "created_time": "1499353120", 
+        "days_since_posting": 36.474, 
+        "follow_ratio": 1.2008862629246677, 
+        "followed_by": 2439, 
+        "follows": 2031, 
+        "likes": 278, 
+        "meanLikes": 363.375, 
+        "postID": "1553008994094804104_1643381748", 
+        "tags": [
+            "person", 
+            "man", 
+            "people_young"
+        ]
+    }, 
+    {
+        "created_time": "1499208333", 
+        "days_since_posting": 38.149, 
+        "follow_ratio": 1.2008862629246677, 
+        "followed_by": 2439, 
+        "follows": 2031, 
+        "likes": 533, 
+        "meanLikes": 363.375, 
+        "postID": "1551794430007183503_1643381748", 
+        "tags": [
+            "outdoor", 
+            "person", 
+            "others_", 
+            "outdoor_", 
+            "people_"
+        ]
+    }, 
+    {
+        "created_time": "1498794232", 
+        "days_since_posting": 42.942, 
+        "follow_ratio": 1.2008862629246677, 
+        "followed_by": 2439, 
+        "follows": 2031, 
+        "likes": 322, 
+        "meanLikes": 363.375, 
+        "postID": "1548320698014028871_1643381748", 
+        "tags": [
+            "person", 
+            "others_"
+        ]
+    }, 
+    {
+        "created_time": "1498439714", 
+        "days_since_posting": 47.045, 
+        "follow_ratio": 1.2008862629246677, 
+        "followed_by": 2439, 
+        "follows": 2031, 
+        "likes": 438, 
+        "meanLikes": 363.375, 
+        "postID": "1545346790910517137_1643381748", 
+        "tags": [
+            "person", 
+            "outdoor", 
+            "others_", 
+            "outdoor_", 
+            "people_"
+        ]
+    }
+]
