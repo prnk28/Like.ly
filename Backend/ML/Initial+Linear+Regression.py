@@ -22,7 +22,7 @@ from sklearn.metrics import mean_squared_error
 np.set_printoptions(suppress=True)
 np.set_printoptions(precision=3)
 
-with open('newData.json') as json_data:
+with open('NEWDATA.json') as json_data:
     d = json.load(json_data)
 
 json_size = len(d)
@@ -59,29 +59,29 @@ for i in range(0, len(d)):
         temp_string += d[i]['tags'][j] + " "
     tags.append(temp_string)
 
-# data.append(follow_ratios)
-# data.append(followers)
+data.append(follow_ratios)
+data.append(followers)
 data.append(meanLikes)
-# data.append(created_time)
+data.append(created_time)
 data.append(likes)
 
-words = 0
-# vectorizer = CountVectorizer(analyzer = "word",   \
-#                              tokenizer = None,    \
-#                              preprocessor = None, \
-#                              stop_words = None,   \
-#                              max_features = words)
+words = 10
+vectorizer = CountVectorizer(analyzer = "word",   \
+                             tokenizer = None,    \
+                             preprocessor = None, \
+                             stop_words = None,   \
+                             max_features = words)
 
-# train_data_features = vectorizer.fit_transform(tags)
-# train_data_features = train_data_features.toarray()
+train_data_features = vectorizer.fit_transform(tags)
+train_data_features = train_data_features.toarray()
 data = np.transpose((np.array(data)))
 
 
-# data = np.concatenate((train_data_features, data), axis=1)
+data = np.concatenate((train_data_features, data), axis=1)
 # Now we have a vector of features
 
 X = data[:, :-1]
-y = data[:, words + 1]
+y = data[:, words + 4]
 
 
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.2, random_state = 0)
@@ -149,7 +149,6 @@ for i in range (0, len(y_pred)):
     temp_diff = float(abs(int(y_pred[i] - y_test[i])))
     temp_diff_poly = float(abs(int(y_pred_poly[i] - y_test[i])))
     temp_diff_svr = float(abs(int(y_pred_svr[i] - y_test[i])))
-    print (y_test[i], '--->', int(y_pred_poly[i]))
     if (y_test[i] != 0):
         temp_pct = (float(temp_diff) / float(y_test[i])) * 100
         pctError.append(temp_pct)
