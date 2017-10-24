@@ -1,19 +1,29 @@
-# Project-Aditi
+<div align="center">
+    <img src="logos/likely.png" alt="like.ly"/>
+  <br>
+</div>
+
 ## Description
-A TensorFlow implementation that takes in a plethora of variables in order to determine the amount of likes a picture would receive before a user posts it onto Instagram. This is a BRAX Project by Arun, Prad, and Varun.
+> We pick your best picture for the best time in the best photosharing app
 
-Additional features include:
-    Best picture out of a group of pictures.
-    Best time to post particular photo based on user data.
-    Additional statistics relevant to the user.
+A TensorFlow implementation that takes in a plethora of variables in order to determine the amount of likes a picture would receive before a user posts it onto Instagram. 
 
+## Who is this for?
+Anyone with an Instagram Account with a keen interest on tracking their optimal likes.
 
-Braxday --- we gotta make readme hype as shit and sound intricate as shit explaining code.
-
-## Libraries Used
-### Frontend
-### Backend
+## Technologies
 * [Eve](http://python-eve.org/) for our Rest API
 * [MongoDB](https://www.mongodb.com/) for our Database
+* [SciKit](http://scikit-learn.org/stable/) for Machine Learning
+* [TensorFlow](https://www.tensorflow.org/) for Machine Learning
+* [React Native](https://facebook.github.io/react-native/) for Front End
 
-### Machine Learning
+
+
+## Contributors and Maintainers
+A brax project organized and created by:
+
+- [Arun Kanamuru](https://github.com/arunkan)
+- [Prad Nukala](https://github.com/prnk28)
+- [Varun Patel](https://github.com/varunpatel111)
+
