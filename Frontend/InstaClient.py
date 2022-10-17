@@ -153,16 +153,16 @@ def on_user_media_feed():
         media_feed, next = api.user_media_feed()
         photos = []
         conn = http.client.HTTPConnection("104.199.211.96:65")
+        headers = {
+            'authorization': "Basic YWRtaW46YnJheGRheTEyMw==",
+            'content-type': "application/json",
+            'cache-control': "no-cache",
+            }
+
         for media in media_feed:
             picture = PreviousPost(media.id, media.get_standard_resolution_url(), media.user.id, media.like_count, media.location, media.created_time)
             payload = picture.toJSON()
             print(payload)
-            headers = {
-                'authorization': "Basic YWRtaW46YnJheGRheTEyMw==",
-                'content-type': "application/json",
-                'cache-control': "no-cache",
-                }
-
             # conn.request("POST", "http://104.199.211.96:65/PreviousPost", payload, headers)
 
             # res = conn.getfresponse()
@@ -172,13 +172,16 @@ def on_user_media_feed():
         counter = 1
         while next and counter < 3:
             media_feed, next = api.user_media_feed(with_next_url=next)
-            for media in media_feed:
-                photos.append('<img src="%s"/>' % media.get_standard_resolution_url())
+            photos.extend(
+                '<img src="%s"/>' % media.get_standard_resolution_url()
+                for media in media_feed
+            )
+
             counter += 1
         content += ''.join(photos)
     except Exception as e:
         print(e)
-    return "%s %s <br/>Remaining API Calls = %s/%s" % (get_nav(),content,api.x_ratelimit_remaining,api.x_ratelimit)
+    return f"{get_nav()} {content} <br/>Remaining API Calls = {api.x_ratelimit_remaining}/{api.x_ratelimit}"
 
 @route('/location_recent_media')
 def location_recent_media():
@@ -189,13 +192,15 @@ def location_recent_media():
     try:
         api = client.InstagramAPI(access_token=access_token, client_secret=CONFIG['client_secret'])
         recent_media, next = api.location_recent_media(location_id=514276)
-        photos = []
-        for media in recent_media:
-            photos.append('<img src="%s"/>' % media.get_standard_resolution_url())
+        photos = [
+            '<img src="%s"/>' % media.get_standard_resolution_url()
+            for media in recent_media
+        ]
+
         content += ''.join(photos)
     except Exception as e:
         print(e)
-    return "%s %s <br/>Remaining API Calls = %s/%s" % (get_nav(),content,api.x_ratelimit_remaining,api.x_ratelimit)
+    return f"{get_nav()} {content} <br/>Remaining API Calls = {api.x_ratelimit_remaining}/{api.x_ratelimit}"
 """
 @route('/media_search')
 def media_search():
@@ -240,13 +245,15 @@ def user_search():
     try:
         api = client.InstagramAPI(access_token=access_token, client_secret=CONFIG['client_secret'])
         user_search = api.user_search(q="Instagram")
-        users = []
-        for user in user_search:
-            users.append('<li><img src="%s">%s</li>' % (user.profile_picture,user.username))
+        users = [
+            '<li><img src="%s">%s</li>' % (user.profile_picture, user.username)
+            for user in user_search
+        ]
+
         content += ''.join(users)
     except Exception as e:
         print(e)
-    return "%s %s <br/>Remaining API Calls = %s/%s" % (get_nav(),content,api.x_ratelimit_remaining,api.x_ratelimit)
+    return f"{get_nav()} {content} <br/>Remaining API Calls = {api.x_ratelimit_remaining}/{api.x_ratelimit}"
 
 @route('/user_follows')
 def user_follows():
@@ -258,17 +265,23 @@ def user_follows():
         api = client.InstagramAPI(access_token=access_token, client_secret=CONFIG['client_secret'])
         # 25025320 is http://instagram.com/instagram
         user_followed_by, next = api.user_followed_by()
-        users = []
-        for user in user_followed_by:
-            users.append('<li><img src="%s">%s</li>' % (user.profile_picture,user.username))
+        users = [
+            '<li><img src="%s">%s</li>' % (user.profile_picture, user.username)
+            for user in user_followed_by
+        ]
+
         while next:
             user_followed_by, next = api.user_followed_by(with_next_url=next)
-            for user in user_followed_by:
-                users.append('<li><img src="%s">%s</li>' % (user.profile_picture,user.username))
+            users.extend(
+                '<li><img src="%s">%s</li>'
+                % (user.profile_picture, user.username)
+                for user in user_followed_by
+            )
+
         content += ''.join(users)
     except Exception as e:
         print(e)
-    return "%s %s <br/>Remaining API Calls = %s/%s" % (get_nav(),content,api.x_ratelimit_remaining,api.x_ratelimit)
+    return f"{get_nav()} {content} <br/>Remaining API Calls = {api.x_ratelimit_remaining}/{api.x_ratelimit}"
 
 @route('/location_search')
 def location_search():
@@ -279,19 +292,25 @@ def location_search():
     try:
         api = client.InstagramAPI(access_token=access_token, client_secret=CONFIG['client_secret'])
         location_search = api.location_search(lat="37.7808851",lng="-122.3948632",distance=1000)
-        locations = []
-        for location in location_search:
-            locations.append('<li>%s  <a href="https://www.google.com/maps/preview/@%s,%s,19z">Map</a>  </li>' % (location.name,location.point.latitude,location.point.longitude))
+        locations = [
+            '<li>%s  <a href="https://www.google.com/maps/preview/@%s,%s,19z">Map</a>  </li>'
+            % (
+                location.name,
+                location.point.latitude,
+                location.point.longitude,
+            )
+            for location in location_search
+        ]
+
         content += ''.join(locations)
     except Exception as e:
         print(e)
-    return "%s %s <br/>Remaining API Calls = %s/%s" % (get_nav(),content,api.x_ratelimit_remaining,api.x_ratelimit)
+    return f"{get_nav()} {content} <br/>Remaining API Calls = {api.x_ratelimit_remaining}/{api.x_ratelimit}"
 
 @route('/tag_search')
 def tag_search():
     access_token = request.session['access_token']
-    content = "<h2>Predicted Likes: 156</h2>"
-    return content
+    return "<h2>Predicted Likes: 156</h2>"
 
 @route('/realtime_callback')
 @post('/realtime_callback')
@@ -301,12 +320,11 @@ def on_realtime_callback():
     verify_token = request.GET.get("hub.verify_token")
     if challenge:
         return challenge
-    else:
-        x_hub_signature = request.header.get('X-Hub-Signature')
-        raw_response = request.body.read()
-        try:
-            reactor.process(CONFIG['client_secret'], raw_response, x_hub_signature)
-        except subscriptions.SubscriptionVerifyError:
-            print("Signature mismatch")
+    x_hub_signature = request.header.get('X-Hub-Signature')
+    raw_response = request.body.read()
+    try:
+        reactor.process(CONFIG['client_secret'], raw_response, x_hub_signature)
+    except subscriptions.SubscriptionVerifyError:
+        print("Signature mismatch")
 
 bottle.run(app=app, host='localhost', port=8515, reloader=True)

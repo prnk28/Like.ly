@@ -19,10 +19,7 @@ class ApiModel(object):
         #     return self.encode('utf8')
 
     def __str__(self):
-        if six.PY3:
-            return self.__unicode__()
-        else:
-            return unicode(self).encode('utf-8')
+        return self.__unicode__() if six.PY3 else unicode(self).encode('utf-8')
 
 
 class Image(ApiModel):
@@ -33,13 +30,13 @@ class Image(ApiModel):
         self.width = width
 
     def __unicode__(self):
-        return "Image: %s" % self.url
+        return f"Image: {self.url}"
 
 
 class Video(Image):
 
     def __unicode__(self):
-        return "Video: %s" % self.url
+        return f"Video: {self.url}"
 
 
 class Media(ApiModel):
@@ -67,7 +64,7 @@ class Media(ApiModel):
 
 
     def __unicode__(self):
-        return "Media: %s" % self.id
+        return f"Media: {self.id}"
 
     @classmethod
     def object_from_dictionary(cls, entry):
@@ -96,18 +93,23 @@ class Media(ApiModel):
         new_media.like_count = entry['likes']['count']
         new_media.likes = []
         if 'data' in entry['likes']:
-            for like in entry['likes']['data']:
-                new_media.likes.append(User.object_from_dictionary(like))
+            new_media.likes.extend(
+                User.object_from_dictionary(like)
+                for like in entry['likes']['data']
+            )
 
         new_media.comment_count = entry['comments']['count']
-        new_media.comments = []
-        for comment in entry['comments'].get('data', []):
-            new_media.comments.append(Comment.object_from_dictionary(comment))
+        new_media.comments = [
+            Comment.object_from_dictionary(comment)
+            for comment in entry['comments'].get('data', [])
+        ]
 
         new_media.users_in_photo = []
         if entry.get('users_in_photo'):
-            for user_in_photo in entry['users_in_photo']:
-                new_media.users_in_photo.append(UserInPhoto.object_from_dictionary(user_in_photo))
+            new_media.users_in_photo.extend(
+                UserInPhoto.object_from_dictionary(user_in_photo)
+                for user_in_photo in entry['users_in_photo']
+            )
 
         new_media.created_time = timestamp_to_datetime(entry['created_time'])
         new_media.created_time = new_media.created_time.strftime('%m/%d/%Y')
@@ -123,8 +125,9 @@ class Media(ApiModel):
 
         new_media.tags = []
         if entry['tags']:
-            for tag in entry['tags']:
-                new_media.tags.append(Tag.object_from_dictionary({'name': tag}))
+            new_media.tags.extend(
+                Tag.object_from_dictionary({'name': tag}) for tag in entry['tags']
+            )
 
         new_media.link = entry['link']
 
@@ -148,7 +151,7 @@ class Tag(ApiModel):
             setattr(self, key, value)
 
     def __unicode__(self):
-        return "Tag: %s" % self.name
+        return f"Tag: {self.name}"
 
 
 class Comment(ApiModel):
@@ -174,7 +177,7 @@ class Point(ApiModel):
         self.longitude = longitude
 
     def __unicode__(self):
-        return "Point: (%s, %s)" % (self.latitude, self.longitude)
+        return f"Point: ({self.latitude}, {self.longitude})"
 
 
 class Location(ApiModel):
@@ -189,13 +192,12 @@ class Location(ApiModel):
         if 'latitude' in entry:
             point = Point(entry.get('latitude'),
                           entry.get('longitude'))
-        location = Location(entry.get('id', 0),
-                       point=point,
-                       name=entry.get('name', ''))
-        return location
+        return Location(
+            entry.get('id', 0), point=point, name=entry.get('name', '')
+        )
 
     def __unicode__(self):
-        return "Location: %s (%s)" % (self.id, self.point)
+        return f"Location: {self.id} ({self.point})"
 
 
 class User(ApiModel):
@@ -206,7 +208,7 @@ class User(ApiModel):
             setattr(self, key, value)
 
     def __unicode__(self):
-        return "User: %s" % self.username
+        return f"User: {self.username}"
 
     def __eq__(self, other):
         return self.id == other.id
@@ -222,10 +224,10 @@ class Relationship(ApiModel):
         self.target_user_is_private = target_user_is_private
 
     def __unicode__(self):
-        follows = False if self.outgoing_status == 'none' else True
-        followed = False if self.incoming_status == 'none' else True
+        follows = self.outgoing_status != 'none'
+        followed = self.incoming_status != 'none'
 
-        return "Relationship: (Follows: %s, Followed by: %s)" % (follows, followed)
+        return f"Relationship: (Follows: {follows}, Followed by: {followed})"
 
 
 class Position(ApiModel):
@@ -234,7 +236,7 @@ class Position(ApiModel):
         self.y = y
 
     def __unicode__(self):
-        return "Position: (%s, %s)" % (self.x, self.y)
+        return f"Position: ({self.x}, {self.y})"
 
     @classmethod
     def object_from_dictionary(cls, entry):
@@ -248,14 +250,11 @@ class UserInPhoto(ApiModel):
         self.user = user
 
     def __unicode__(self):
-        return "UserInPhoto: (%s, %s)" % (self.user, self.position)
+        return f"UserInPhoto: ({self.user}, {self.position})"
 
     @classmethod
     def object_from_dictionary(cls, entry):
-        user = None
-        if 'user' in entry:
-            user = User.object_from_dictionary(entry['user'])
-
+        user = User.object_from_dictionary(entry['user']) if 'user' in entry else None
         if 'position' in entry:
             position = Position(entry['position']['x'], entry['position']['y'])
 

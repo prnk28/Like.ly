@@ -30,10 +30,6 @@ json_size = len(d)
 
 import datetime
 
-# Turning the json data into a usable numpy array
-
-data = []
-
 follow_ratios = []
 followers = []
 days_since_posting = []
@@ -42,7 +38,7 @@ likes = []
 created_time = []
 tags = []
 
-for i in range(0, len(d)):
+for i in range(len(d)):
     follow_ratios.append(d[i]['follow_ratio'])
     temp_followers = int(d[i]['follows']/d[i]['follow_ratio'])
     # followers = following / follow_ratio
@@ -54,17 +50,10 @@ for i in range(0, len(d)):
     postTimeFinal=(datetime.datetime.fromtimestamp(int(temp_time)))
     h = postTimeFinal.hour + postTimeFinal.minute / 60. + postTimeFinal.second / 3600.
     created_time.append(h)
-    temp_string = ""
-    for j in range(0, len(d[i]['tags'])):
-        temp_string += d[i]['tags'][j] + " "
+    temp_string = "".join(d[i]['tags'][j] + " " for j in range(len(d[i]['tags'])))
     tags.append(temp_string)
 
-data.append(follow_ratios)
-data.append(followers)
-data.append(meanLikes)
-data.append(created_time)
-data.append(likes)
-
+data = [follow_ratios, followers, meanLikes, created_time, likes]
 words = 10
 vectorizer = CountVectorizer(analyzer = "word",   \
                              tokenizer = None,    \
@@ -145,20 +134,20 @@ diff_svr = []
 
 zerocount = 0
 
-for i in range (0, len(y_pred)):
+for i in range(len(y_pred)):
     temp_diff = float(abs(int(y_pred[i] - y_test[i])))
     temp_diff_poly = float(abs(int(y_pred_poly[i] - y_test[i])))
     temp_diff_svr = float(abs(int(y_pred_svr[i] - y_test[i])))
     if (y_test[i] != 0):
-        temp_pct = (float(temp_diff) / float(y_test[i])) * 100
+        temp_pct = temp_diff / float(y_test[i]) * 100
         pctError.append(temp_pct)
 
-        temp_pct_poly = (float(temp_diff_poly) / float(y_test[i])) * 100
+        temp_pct_poly = temp_diff_poly / float(y_test[i]) * 100
         pctError_poly.append(temp_pct_poly)
 
-        temp_pct_svr = (float(temp_diff_svr)/ float(y_test[i])) * 100
+        temp_pct_svr = temp_diff_svr / float(y_test[i]) * 100
         pctError_svr.append(temp_pct_svr)
-        #print temp_pct
+            #print temp_pct
     diff.append(temp_diff)
     diff_poly.append(temp_diff_poly)
     diff_svr.append(temp_diff_svr)

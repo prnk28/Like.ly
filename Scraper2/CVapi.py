@@ -6,9 +6,6 @@
 import json
 import httplib, urllib, base64, json
 
-#with open('/media/akanumuru/Windows/Users/Arun/Google Drive/Project_Aditi/Project-Aditi/Scraper2/instagram-scraper/test/thisisprad/thisisprad.json') as json_data:
-    #d = json.load(json_data)
-
 # print len(d)
 # for i in range(0, len(d)):
 #     image_link = d[i]['image_link']
@@ -33,7 +30,13 @@ params = urllib.urlencode({
 
 try:
     conn = httplib.HTTPSConnection('eastus2.api.cognitive.microsoft.com')
-    conn.request("POST", "/vision/v1.0/analyze?%s" % params, '{"url":"https://scontent-iad3-1.cdninstagram.com/t51.2885-15/e15/11101983_1599222583697758_153856469_n.jpg"}', headers)
+    conn.request(
+        "POST",
+        f"/vision/v1.0/analyze?{params}",
+        '{"url":"https://scontent-iad3-1.cdninstagram.com/t51.2885-15/e15/11101983_1599222583697758_153856469_n.jpg"}',
+        headers,
+    )
+
     response = conn.getresponse()
     data = response.read()
     print(data)

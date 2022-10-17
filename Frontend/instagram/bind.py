@@ -23,7 +23,7 @@ class InstagramClientError(Exception):
 
     def __str__(self):
         if self.status_code:
-            return "(%s) %s" % (self.status_code, self.error_message)
+            return f"({self.status_code}) {self.error_message}"
         else:
             return self.error_message
 
@@ -36,10 +36,13 @@ class InstagramAPIError(Exception):
         self.error_message = error_message
 
     def __str__(self):
-        return "(%s) %s-%s" % (self.status_code, self.error_type, self.error_message)
+        return f"({self.status_code}) {self.error_type}-{self.error_message}"
 
 
 def bind_method(**config):
+
+
+
 
     class InstagramAPIMethod(object):
 
@@ -49,7 +52,7 @@ def bind_method(**config):
         signature = config.get("signature", False)
         requires_target_user = config.get('requires_target_user', False)
         paginates = config.get('paginates', False)
-        root_class = config.get('root_class', None)
+        root_class = config.get('root_class')
         response_type = config.get("response_type", "list")
         include_secret = config.get("include_secret", False)
         objectify_response = config.get("objectify_response", True)
@@ -84,10 +87,13 @@ def bind_method(**config):
                 if value is None:
                     continue
                 if key in self.parameters:
-                    raise InstagramClientError("Parameter %s already supplied" % key)
+                    raise InstagramClientError(f"Parameter {key} already supplied")
                 self.parameters[key] = encode_string(value)
-            if 'user_id' in self.accepts_parameters and not 'user_id' in self.parameters \
-               and not self.requires_target_user:
+            if (
+                'user_id' in self.accepts_parameters
+                and 'user_id' not in self.parameters
+                and not self.requires_target_user
+            ):
                 self.parameters['user_id'] = 'self'
 
         def _build_path(self):
@@ -97,13 +103,13 @@ def bind_method(**config):
                 try:
                     value = quote(self.parameters[name])
                 except KeyError:
-                    raise Exception('No parameter value found for path variable: %s' % name)
+                    raise Exception(f'No parameter value found for path variable: {name}')
                 del self.parameters[name]
 
                 self.path = self.path.replace(variable, value)
 
             if self.api.format and not self.exclude_format:
-                self.path = self.path + '.%s' % self.api.format
+                self.path = f'{self.path}.{self.api.format}'
 
         def _build_pagination_info(self, content_obj):
             """Extract pagination information in the desired format."""
@@ -112,8 +118,11 @@ def bind_method(**config):
                 return pagination.get('next_url')
             if self.pagination_format == 'dict':
                 return pagination
-            raise Exception('Invalid value for pagination_format: %s' % self.pagination_format)
-          
+            raise Exception(
+                f'Invalid value for pagination_format: {self.pagination_format}'
+            )
+
+
         def _do_api_request(self, url, method="GET", body=None, headers=None):
             headers = headers or {}
             if self.signature and self.api.client_ips != None and self.api.client_secret != None:
@@ -123,7 +132,7 @@ def bind_method(**config):
                 headers['X-Insta-Forwarded-For'] = '|'.join([ips, signature])
 
             response, content = OAuth2Request(self.api).make_request(url, method=method, body=body, headers=headers)
-            if response['status'] == '503' or response['status'] == '429':
+            if response['status'] in ['503', '429']:
                 raise InstagramAPIError(response['status'], "Rate limited", "Your client is making too many request per second")
             try:
                 content_obj = simplejson.loads(content)
@@ -131,7 +140,7 @@ def bind_method(**config):
                 raise InstagramClientError('Unable to parse response, not valid JSON.', status_code=response['status'])
             # Handle OAuthRateLimitExceeded from Instagram's Nginx which uses different format to documented api responses
             if 'meta' not in content_obj:
-                if content_obj.get('code') == 420 or content_obj.get('code') == 429:
+                if content_obj.get('code') in [420, 429]:
                     error_message = content_obj.get('error_message') or "Your client is making too many request per second"
                     raise InstagramAPIError(content_obj.get('code'), "Rate limited", error_message)
                 raise InstagramAPIError(content_obj.get('code'), content_obj.get('error_type'), content_obj.get('error_message'))
@@ -187,10 +196,8 @@ def bind_method(**config):
                 return self._paginator_with_url(url, method, body, headers)
             else:
                 content, next = self._do_api_request(url, method, body, headers)
-            if self.paginates:
-                return content, next
-            else:
-                return content
+            return (content, next) if self.paginates else content
+
 
     def _call(api, *args, **kwargs):
         method = InstagramAPIMethod(api, *args, **kwargs)
