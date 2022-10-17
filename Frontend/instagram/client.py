@@ -199,7 +199,7 @@ class InstagramAPI(oauth2.OAuth2API):
     approve_user_request = _make_relationship_shortcut('approve')
     ignore_user_request = _make_relationship_shortcut('ignore')
 
-    def _make_subscription_action(method, include=None, exclude=None):
+    def _make_subscription_action(self, include=None, exclude=None):
         accepts_parameters = ["object",
                               "aspect",
                               "object_id",  # Optional if subscribing to all users
@@ -210,10 +210,10 @@ class InstagramAPI(oauth2.OAuth2API):
             accepts_parameters.extend(include)
         if exclude:
             accepts_parameters = [x for x in accepts_parameters if x not in exclude]
-        signature = False if method == 'GET' else True
+        signature = self != 'GET'
         return bind_method(
             path="/subscriptions",
-            method=method,
+            self=self,
             accepts_parameters=accepts_parameters,
             include_secret=True,
             objectify_response=False,

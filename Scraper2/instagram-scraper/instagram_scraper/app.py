@@ -67,7 +67,7 @@ class InstagramScraper(object):
                             search_location=False, comments=False, verbose=0, include_location=False, filter=None)
 
         allowed_attr = list(default_attr.keys())
-        default_attr.update(kwargs)
+        default_attr |= kwargs
 
         for key in default_attr:
             if key in allowed_attr:
@@ -102,7 +102,7 @@ class InstagramScraper(object):
         if login_text.get('authenticated') and login.status_code == 200:
             self.logged_in = True
         else:
-            self.logger.error('Login failed for ' + self.login_user)
+            self.logger.error(f'Login failed for {self.login_user}')
 
             if 'checkpoint_url' in login_text:
                 self.logger.error('Please verify your account at ' + login_text.get('checkpoint_url'))
@@ -121,25 +121,20 @@ class InstagramScraper(object):
                 self.session.post(LOGOUT_URL, data=logout_data)
                 self.logged_in = False
             except requests.exceptions.RequestException:
-                self.logger.warning('Failed to log out ' + self.login_user)
+                self.logger.warning(f'Failed to log out {self.login_user}')
 
     def make_dst_dir(self, username):
         """Creates the destination directory."""
         if self.destination == './':
             dst = './'
         else:
-            if self.retain_username:
-                dst = self.destination + '/'
-            else:
-                dst = self.destination
-
+            dst = f'{self.destination}/' if self.retain_username else self.destination
         try:
             os.makedirs(dst)
         except OSError as err:
             if err.errno == errno.EEXIST and os.path.isdir(dst):
                 # Directory already exists
                 self.get_last_scraped_filemtime(dst)
-                pass
             else:
                 # Target dir exists as a file, or a different error
                 raise
@@ -152,7 +147,7 @@ class InstagramScraper(object):
         file_types = ('*.jpg', '*.mp4')
 
         for type in file_types:
-            list_of_files.extend(glob.glob(dst + '/' + type))
+            list_of_files.extend(glob.glob(f'{dst}/{type}'))
 
         if list_of_files:
             latest_file = max(list_of_files, key=os.path.getmtime)
@@ -182,7 +177,7 @@ class InstagramScraper(object):
             for item in tqdm.tqdm(media_generator(value), desc='Searching {0} for posts'.format(value), unit=" media",
                                   disable=self.quiet):
                 if ((item['is_video'] is False and 'image' in self.media_types) or \
-                    (item['is_video'] is True and 'video' in self.media_types)
+                        (item['is_video'] is True and 'video' in self.media_types)
                 ) and self.is_new_media(item):
                     future = executor.submit(self.download, item, dst)
                     future_to_item[future] = item
@@ -226,36 +221,30 @@ class InstagramScraper(object):
         if nodes:
             try:
                 while True:
-                    for node in nodes:
-                        yield node
-
+                    yield from nodes
                     if end_cursor:
                         nodes, end_cursor = self.__query(url, entity_name, query, end_cursor)
                     else:
                         return
             except ValueError:
-                self.logger.exception('Failed to query ' + query)
+                self.logger.exception(f'Failed to query {query}')
 
     def __query(self, url, entity_name, query, end_cursor):
         resp = self.session.get(url.format(query, end_cursor))
 
         if resp.status_code == 200:
-            payload = json.loads(resp.text)['data'][entity_name]
-
-            if payload:
-                nodes = []
-
-                if end_cursor == '':
-                    top_posts = payload['edge_' + entity_name + '_to_top_posts']
-                    nodes.extend(self._get_nodes(top_posts))
-
-                posts = payload['edge_' + entity_name + '_to_media']
-
-                nodes.extend(self._get_nodes(posts))
-                end_cursor = posts['page_info']['end_cursor']
-                return nodes, end_cursor
-            else:
+            if not (payload := json.loads(resp.text)['data'][entity_name]):
                 return iter([])
+            nodes = []
+
+            if end_cursor == '':
+                top_posts = payload[f'edge_{entity_name}_to_top_posts']
+                nodes.extend(self._get_nodes(top_posts))
+
+            posts = payload[f'edge_{entity_name}_to_media']
+
+            nodes.extend(self._get_nodes(posts))
+            return nodes, posts['page_info']['end_cursor']
         else:
             time.sleep(6)
             return self.__query(url, entity_name, query, end_cursor)
@@ -275,11 +264,9 @@ class InstagramScraper(object):
                 if self.include_location:
                     node['location'] = details.get('location')
 
-                self.extract_tags(node)
             else:
                 node['urls'] = [self.get_original_image(node['display_url'])]
-                self.extract_tags(node)
-
+            self.extract_tags(node)
             nodes.append(node)
 
         return nodes
@@ -290,12 +277,10 @@ class InstagramScraper(object):
         if resp.status_code == 200:
             return json.loads(resp.text)['graphql']['shortcode_media']
         else:
-            self.logger.warning('Failed to get media details for ' + shortcode)
+            self.logger.warning(f'Failed to get media details for {shortcode}')
 
     def __get_location(self, item):
-        code = item.get('shortcode', item.get('code'))
-
-        if code:
+        if code := item.get('shortcode', item.get('code')):
             details = self.__get_media_details(code)
             item['location'] = details.get('location')
 
@@ -368,7 +353,7 @@ class InstagramScraper(object):
             print("--------------------------- FILTERED OUT ------------------------- MeanLikes = ", meanLikes)
 
 
-        if(filtered):
+        if filtered:
             iter = 0
             for item in tqdm.tqdm(self.media_gen(username), desc='Searching {0} for posts'.format(username),
                                   unit=' media', disable=self.quiet):
@@ -382,12 +367,7 @@ class InstagramScraper(object):
 
                 if self.media_metadata or self.comments or self.include_location:
                     image_link = item['images']['standard_resolution']['url']
-                    if(item['location'] != None):
-                        location = item['location']['name']
-                    else:
-                        location = ""
-
-
+                    location = item['location']['name'] if (item['location'] != None) else ""
                     likes = item['likes']['count']
                     created_time = item['created_time']
                     postid = item['id']
@@ -410,22 +390,21 @@ class InstagramScraper(object):
                     # Try connection for CVAPI
                     try:
                         conn = httplib.HTTPSConnection('eastus2.api.cognitive.microsoft.com')
-                        conn.request("POST", "/vision/v1.0/analyze?%s" % params,
-                                     '{"url":"%s"}' % image_link,
-                                     headers)
+                        conn.request(
+                            "POST",
+                            f"/vision/v1.0/analyze?{params}",
+                            '{"url":"%s"}' % image_link,
+                            headers,
+                        )
+
                         response = conn.getresponse()
                         data = response.read()
 
                         # Utilizes JSON payload Class to Deserialize Json Object
                         p = Payload(data)
 
-                        tags = []
-                        for t in p.tags:
-                            if t["confidence"] > 0.8:
-                                tags.append(t["name"])
-                        for t in p.categories:
-                                tags.append(t["name"])
-
+                        tags = [t["name"] for t in p.tags if t["confidence"] > 0.8]
+                        tags.extend(t["name"] for t in p.categories)
                         conn.close()
 
 
@@ -484,23 +463,18 @@ class InstagramScraper(object):
 
         if count == 0:
             return 0
-        else:
-            filtered = math.floor(count*.20)
-            print("filtered: ")
-            print(filtered)
-            bound = 0
-            for item in tqdm.tqdm(self.media_gen(username), desc='Searching {0} for posts'.format(username), unit=' media', disable=self.quiet):
-                if self.media_metadata or self.comments or self.include_location:
-                    if(bound < filtered):
-                        likes = item['likes']['count']
-                        average = likes + average
+        filtered = math.floor(count*.20)
+        print("filtered: ")
+        print(filtered)
+        bound = 0
+        for item in tqdm.tqdm(self.media_gen(username), desc='Searching {0} for posts'.format(username), unit=' media', disable=self.quiet):
+            if self.media_metadata or self.comments or self.include_location:
+                if (bound < filtered):
+                    average = item['likes']['count'] + average
 
-                    bound = bound + 1
+                bound = bound + 1
 
-            if(filtered > 0):
-                return (average/(filtered))
-            else:
-                return 0
+        return (average/(filtered)) if (filtered > 0) else 0
 
     def fetch_user(self, username):
         """Fetches the user's metadata."""
@@ -543,37 +517,35 @@ class InstagramScraper(object):
                 else:
                     return
         except ValueError:
-            self.logger.exception('Failed to get media for ' + username)
+            self.logger.exception(f'Failed to get media for {username}')
 
     def fetch_media_json(self, username, max_id):
         """Fetches the user's media metadata."""
         url = MEDIA_URL.format(username)
 
         if max_id is not None:
-            url += '?&max_id=' + max_id
+            url += f'?&max_id={max_id}'
 
         resp = self.session.get(url)
 
-        if resp.status_code == 200:
-            media = json.loads(resp.text)
-
-            if not media['items']:
-                raise ValueError('User {0} is private'.format(username))
-
-            media['items'] = [self.augment_media_item(item) for item in media['items']]
-            return media
-        else:
+        if resp.status_code != 200:
             raise ValueError('User {0} does not exist'.format(username))
+        media = json.loads(resp.text)
+
+        if not media['items']:
+            raise ValueError('User {0} is private'.format(username))
+
+        media['items'] = [self.augment_media_item(item) for item in media['items']]
+        return media
 
     def in_media_types(self, item):
-        if item['type'] == 'carousel':
-            for carousel_item in item['carousel_media']:
-                if carousel_item['type'] in self.media_types:
-                    return True
-        else:
+        if item['type'] != 'carousel':
             return item['type'] in self.media_types
 
-        return False
+        return any(
+            carousel_item['type'] in self.media_types
+            for carousel_item in item['carousel_media']
+        )
 
     def augment_media_item(self, item):
         """Augments media item object with new properties."""
@@ -673,7 +645,7 @@ class InstagramScraper(object):
 
         sorted_places = sorted(result['places'], key=itemgetter('position'))
 
-        for item in sorted_places[0:5]:
+        for item in sorted_places[:5]:
             place = item['place']
             print('location-id: {0}, title: {1}, subtitle: {2}, city: {3}, lat: {4}, lng: {5}'.format(
                 place['location']['pk'],
@@ -716,11 +688,11 @@ class InstagramScraper(object):
 
         try:
             with open(usernames_file) as user_file:
-                for line in user_file.readlines():
+                for line in user_file:
                     # Find all usernames delimited by ,; or whitespace
                     users += re.findall(r'[^,;\s]+', line)
         except IOError as err:
-            raise ValueError('File not found ' + err)
+            raise ValueError(f'File not found {err}')
 
         return users
 

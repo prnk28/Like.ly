@@ -35,7 +35,7 @@ def InstAnalytics():
 			json.dump(iaDictionary, iaFile, indent=4)
 
 		# User's profile
-		browser.get('https://instagram.com/' + user)
+		browser.get(f'https://instagram.com/{user}')
 		time.sleep(0.5)
 
 		# Soup
@@ -51,12 +51,18 @@ def InstAnalytics():
 		following = int(re.sub('[^0-9]', '', followingT))
 
 		# Convert k to thousands and m to millions
-		if 'k' in postsT: 	  posts     = posts     * 1000
-		if 'k' in followersT: followers = followers * 1000
-		if 'k' in followingT: following = following * 1000
-		if 'm' in postsT: 	  posts     = posts     * 1000000
-		if 'm' in followersT: followers = followers * 1000000
-		if 'm' in followingT: following = following * 1000000
+		if 'k' in postsT:
+			posts *= 1000
+		if 'k' in followersT:
+			followers *= 1000
+		if 'k' in followingT:
+			following *= 1000
+		if 'm' in postsT:
+			posts *= 1000000
+		if 'm' in followersT:
+			followers *= 1000000
+		if 'm' in followingT:
+			following *= 1000000
 
 		if posts > 12:
 			# Click the 'Load more' button
@@ -64,7 +70,7 @@ def InstAnalytics():
 
 		if posts > 24:
 			# Load more by scrolling to the bottom of the page
-			for i in range (0, (posts-24)//12):
+			for _ in range((posts-24)//12):
 				browser.execute_script('window.scrollTo(0, document.body.scrollHeight)')
 				time.sleep(0.1)
 				browser.execute_script('window.scrollTo(0, 0)')
@@ -77,15 +83,15 @@ def InstAnalytics():
 
 		# User's photos statistics
 
-		links = []
-		for link in soup.html.body.span.section.main.article.findAll('a'):
-			if link.get('href')[:3] == '/p/': links.append(link.get('href'))
+		links = [
+			link.get('href')
+			for link in soup.html.body.span.section.main.article.findAll('a')
+			if link.get('href')[:3] == '/p/'
+		]
 
 		photosDic = []
 		pLikesT = 0
-		pCounter = 0
-
-		for link in links:
+		for pCounter, link in enumerate(links):
 			# Photo Id
 			pId = link.split("/")[2]
 			# Hover over a photo reveals Likes & Comments
@@ -108,9 +114,6 @@ def InstAnalytics():
 			photosDic.append(photoDic)
 			# Total likes
 			pLikesT += pLikes
-			# Simple counter
-			pCounter += 1
-
 		# Dictionary
 		userDic = {
 			'username': user,
